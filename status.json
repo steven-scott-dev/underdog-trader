@@ -1,0 +1,15 @@
+{
+ "updated": "2026-10-15T09:41:27.072178-04:00",
+ "mode": "paper",
+ "ok": true,
+ "duration_s": 1.2,
+ "daily": {
+  "date": "2026-10-15",
+  "bets": 0,
+  "realized": 0.0
+ },
+ "paper_positions": [],
+ "paper_history": [],
+ "live_positions": {},
+ "actions": []
+}
