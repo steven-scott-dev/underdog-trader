@@ -16,6 +16,7 @@ import os
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 # --- network bootstrap (sandbox egress; no-op on normal machines) ---
 for _var in ("NO_PROXY", "no_proxy"):
@@ -84,6 +85,93 @@ def log(msg):
     line = f"[{ts}] {msg}"
     print(line, flush=True)
     _log_lines.append(line)
+
+
+# ---------------------------------------------------------------- state
+# Persisted between runs (state.json in repo root): daily bet/P&L caps
+# plus paper-mode simulated positions so the dashboard has something
+# real to show. Counters reset on a new day (ET).
+
+ET = ZoneInfo("America/New_York")
+MAX_BETS_PER_DAY = 5
+MAX_DAILY_LOSS = 2.50
+
+
+def state_path():
+    return Path(os.environ.get("STATE_PATH", HERE / "state.json"))
+
+
+def today_et():
+    return datetime.now(ET).strftime("%Y-%m-%d")
+
+
+def now_et_str():
+    return datetime.now(ET).strftime("%Y-%m-%d %H:%M ET")
+
+
+def load_state():
+    blank = {"date": today_et(), "bets": 0, "realized": 0.0,
+             "paper_positions": [], "paper_history": [],
+             "live_history": []}
+    p = state_path()
+    if p.exists():
+        try:
+            st = json.loads(p.read_text())
+            if st.get("date") == today_et():
+                for k, v in blank.items():
+                    st.setdefault(k, v)
+                return st
+        except Exception as e:
+            log(f"  state load failed: {e}")
+    return blank
+
+
+def save_state(st):
+    try:
+        state_path().write_text(json.dumps(st, indent=1))
+    except Exception as e:
+        log(f"  state save failed: {e}")
+
+
+def paper_bid(q, side):
+    """Current exit price of the side we hold (paper)."""
+    if side == "long":
+        return q["long_bid"]
+    # short side ~= 1 - long ask (binary market)
+    return max(0.0, 1.0 - q["long_ask"])
+
+
+def manage_paper_positions(client, cfg, state, actions):
+    still_open = []
+    for pos in state["paper_positions"]:
+        try:
+            q = quotes(client, pos["market"])
+        except Exception as e:
+            log(f"  paper {pos['team']}: quote error ({e}), holding")
+            still_open.append(pos)
+            continue
+        bid = paper_bid(q, pos["side"])
+        closed_px, reason = None, None
+        if q.get("state") and q["state"] != "MARKET_STATE_OPEN":
+            closed_px, reason = q.get("current_px") or bid, "settled"
+        elif bid >= pos["tp"]:
+            closed_px, reason = pos["tp"], "take-profit"
+        elif bid <= pos["sl"]:
+            closed_px, reason = bid, "stop-loss"
+        if closed_px is None:
+            pos["last_bid"] = round(bid, 4)
+            still_open.append(pos)
+            continue
+        pnl = round((closed_px - pos["entry"]) * pos["qty"], 4)
+        state["realized"] = round(state["realized"] + pnl, 4)
+        state["paper_history"].append({**pos, "closed": now_et_str(),
+                                      "exit": round(closed_px, 4),
+                                      "pnl": pnl, "reason": reason})
+        actions.append({"type": "paper_close", "team": pos["team"],
+                        "reason": reason, "pnl": pnl})
+        log(f"  PAPER CLOSE {pos['team']} ({reason}) exit {closed_px:.4f} "
+            f"pnl {pnl:+.4f}")
+    state["paper_positions"] = still_open
 
 
 # ---------------------------------------------------------------- client
@@ -218,6 +306,8 @@ def quotes(client, market_slug):
         "long_ask": px(bbo, "longQuote") or px(bbo, "bestAsk"),
         "short_ask": px(bbo, "shortQuote"),
         "long_bid": px(bbo, "bestBid"),
+        "state": bbo.get("state"),
+        "current_px": float((bbo.get("currentPx") or {}).get("value") or 0),
     }
 
 
@@ -348,24 +438,32 @@ def run_pass():
         return {"ok": False, "error": f"Polymarket unreachable: {e}",
                 "log": _log_lines}
 
+    state = load_state()
     positions = {} if paper else get_positions(client)
     if positions is None:
         return {"ok": False, "error": "could not read positions; fail-closed",
-                "log": _log_lines}
+                "log": _log_lines,
+                "daily": {"date": state["date"], "bets": state["bets"],
+                          "realized": state["realized"]}}
 
-    # 1) manage existing positions (live only)
-    for slug, pos in positions.items():
-        if pos["qty"] <= 0 or pos["avg_px"] <= 0:
-            continue
-        side = resolve_side(client, slug, pos)
-        entry = pos["avg_px"]
-        # stop-loss on market value vs entry cost
-        if pos["cash_value"] and pos["cash_value"] < pos["qty"] * entry * cfg["stop_loss_mult"]:
-            actions.append({"type": "stop_loss", "market": slug})
-            if paper:
-                log(f"  PAPER stop-loss would close {slug}")
-            else:
-                log(f"  STOP-LOSS closing {slug}")
+    # 1) manage existing positions
+    if paper:
+        manage_paper_positions(client, cfg, state, actions)
+    else:
+        for slug, pos in positions.items():
+            if pos["qty"] <= 0 or pos["avg_px"] <= 0:
+                continue
+            side = resolve_side(client, slug, pos)
+            entry = pos["avg_px"]
+            # stop-loss on market value vs entry cost
+            if pos["cash_value"] and pos["cash_value"] < pos["qty"] * entry * cfg["stop_loss_mult"]:
+                pnl = round(pos["cash_value"] - pos["qty"] * entry, 4)
+                state["realized"] = round(state["realized"] + pnl, 4)
+                state["live_history"].append({"market": slug,
+                                              "closed": now_et_str(),
+                                              "pnl": pnl, "reason": "stop-loss"})
+                actions.append({"type": "stop_loss", "market": slug, "pnl": pnl})
+                log(f"  STOP-LOSS closing {slug} (pnl {pnl:+.4f})")
                 try:
                     client.orders.close_position({"marketSlug": slug})
                 except Exception as e:
@@ -374,16 +472,25 @@ def run_pass():
                         client.orders.cancel_all({"marketSlug": slug})
                     except Exception as e2:
                         log(f"  cancel failed: {e2}")
-            continue
-        # make sure a take-profit is resting
-        if side and not paper:
-            try:
-                ensure_take_profit(client, cfg, slug, side, entry, pos["qty"])
-            except Exception as e:
-                log(f"  TP ensure failed for {slug}: {e}")
+                continue
+            # make sure a take-profit is resting
+            if side:
+                try:
+                    ensure_take_profit(client, cfg, slug, side, entry, pos["qty"])
+                except Exception as e:
+                    log(f"  TP ensure failed for {slug}: {e}")
+
+    # daily guardrails
+    can_bet = True
+    if state["bets"] >= MAX_BETS_PER_DAY:
+        log(f"  daily bet cap reached ({MAX_BETS_PER_DAY}); no new entries today")
+        can_bet = False
+    if state["realized"] <= -MAX_DAILY_LOSS:
+        log(f"  daily loss cap hit ({state['realized']:+.2f}); no new entries today")
+        can_bet = False
 
     # 2) scan games for new entries
-    held_slugs = set(positions)
+    held_slugs = set(positions) | {p["market"] for p in state["paper_positions"]}
     for sport_key, rules in cfg["sports"].items():
         if not rules.get("enabled"):
             continue
@@ -394,6 +501,8 @@ def run_pass():
             trig = is_trigger(g, rules)
             log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} trigger={trig}")
             if not trig:
+                continue
+            if not can_bet:
                 continue
             try:
                 meta = find_market(client, g)
@@ -429,12 +538,25 @@ def run_pass():
             actions.append(action)
             if paper:
                 tp = min(round(ask * cfg["take_profit_mult"], 4), 0.99)
-                log(f"  PAPER: would BUY {qty} {desc} @ {ask:.4f} "
-                    f"(${(qty*ask):.2f}), TP @ {tp:.4f}")
+                sl = round(ask * cfg["stop_loss_mult"], 4)
+                state["paper_positions"].append({
+                    "market": meta["market_slug"], "game": gid, "side": dog,
+                    "team": desc, "entry": round(ask, 4), "qty": qty,
+                    "tp": tp, "sl": sl, "opened": now_et_str(),
+                    "last_bid": round(ask, 4)})
+                state["bets"] += 1
+                held_slugs.add(meta["market_slug"])
+                log(f"  PAPER BUY {qty} {desc} @ {ask:.4f} "
+                    f"(${(qty*ask):.2f}), TP @ {tp:.4f}, SL @ {sl:.4f}")
             else:
                 buy = place_buy(client, cfg, meta["market_slug"], dog, ask)
                 if buy:
                     held_slugs.add(meta["market_slug"])
+                    state["bets"] += 1
+                    state["live_history"].append({
+                        "market": meta["market_slug"], "opened": now_et_str(),
+                        "side": dog, "team": desc, "entry": buy["price"],
+                        "qty": buy["qty"]})
                     try:
                         ensure_take_profit(client, cfg, meta["market_slug"],
                                            dog, buy["price"], buy["qty"])
@@ -443,5 +565,12 @@ def run_pass():
 
     dt = round(time.time() - t0, 1)
     log(f"pass done in {dt}s, {len(actions)} action(s)")
+    save_state(state)
     return {"ok": True, "mode": "paper" if paper else "live",
-            "duration_s": dt, "actions": actions, "log": _log_lines}
+            "duration_s": dt, "actions": actions, "log": _log_lines,
+            "paper_positions": state["paper_positions"],
+            "paper_history": state["paper_history"][-10:],
+            "live_positions": positions,
+            "live_history": state["live_history"][-10:],
+            "daily": {"date": state["date"], "bets": state["bets"],
+                      "realized": round(state["realized"], 4)}}
