@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   trade:
@@ -28,3 +28,11 @@ jobs:
           POLYMARKET_SECRET_KEY: ${{ secrets.POLYMARKET_SECRET_KEY }}
           LIVE_MODE: ${{ secrets.LIVE_MODE }}
         run: python -m trader.run_once
+
+      - name: Update dashboard
+        run: |
+          git config user.name "underdog-trader"
+          git config user.email "underdog-trader@local"
+          git add state.json STATUS.md status.json
+          git diff --cached --quiet || git commit -m "dashboard update"
+          git push
