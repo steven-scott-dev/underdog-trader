@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","crons":[{"path":"/api/trade","schedule":"*/2 * * * *"}],"functions":{"api/trade.py":{"maxDuration":60}}}
