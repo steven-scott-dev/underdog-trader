@@ -1,21 +1,8 @@
 {
  "date": "2026-10-18",
  "bets": 2,
- "realized": -0.3136,
- "paper_positions": [
-  {
-   "market": "aec-nfl-buf-lv-2026-10-18",
-   "game": "nfl:BUF@LV",
-   "side": "short",
-   "team": "Raiders",
-   "entry": 0.0575,
-   "qty": 8.6957,
-   "tp": 0.1438,
-   "sl": 0.023,
-   "opened": "2026-10-18 19:15 ET",
-   "last_bid": 0.0575
-  }
- ],
+ "realized": -0.6614,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nfl-buf-lv-2026-10-18",
@@ -31,6 +18,22 @@
    "closed": "2026-10-18 19:15 ET",
    "exit": 0.055,
    "pnl": -0.3136,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-buf-lv-2026-10-18",
+   "game": "nfl:BUF@LV",
+   "side": "short",
+   "team": "Raiders",
+   "entry": 0.0575,
+   "qty": 8.6957,
+   "tp": 0.1438,
+   "sl": 0.023,
+   "opened": "2026-10-18 19:15 ET",
+   "last_bid": 0.0575,
+   "closed": "2026-10-18 19:20 ET",
+   "exit": 0.0175,
+   "pnl": -0.3478,
    "reason": "stop-loss"
   }
  ],
