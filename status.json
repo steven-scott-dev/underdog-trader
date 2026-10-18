@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-18T19:20:41.284759-04:00",
+ "updated": "2026-10-18T19:25:36.902368-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-18",
   "bets": 2,
@@ -44,12 +44,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Raiders",
-   "reason": "stop-loss",
-   "pnl": -0.3478
-  }
- ]
+ "actions": []
 }
