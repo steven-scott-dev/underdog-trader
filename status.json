@@ -1,14 +1,27 @@
 {
- "updated": "2026-10-18T22:30:38.317005-04:00",
+ "updated": "2026-10-18T22:35:37.516390-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-10-18",
-  "bets": 3,
+  "bets": 4,
   "realized": -0.9947
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-car-cgy-2026-10-18",
+   "game": "nhl:CAR@CGY",
+   "side": "long",
+   "team": "Hurricanes",
+   "entry": 0.09,
+   "qty": 5.5556,
+   "tp": 0.225,
+   "sl": 0.036,
+   "opened": "2026-10-18 22:35 ET",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nfl-buf-lv-2026-10-18",
@@ -60,5 +73,16 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:CAR@CGY",
+   "market": "aec-nhl-car-cgy-2026-10-18",
+   "side": "long",
+   "team": "Hurricanes",
+   "ask": 0.09,
+   "qty": 5.5556,
+   "stake": 0.5
+  }
+ ]
 }
