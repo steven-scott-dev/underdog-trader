@@ -1,18 +1,19 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-18 22:35 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-10-18 22:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 4 / 5
-- Realized P&L: -0.99
+- Realized P&L: -1.49
 
 ## Open paper positions
-- **Hurricanes** (long) — 5.5556 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.2250 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-10-18 22:40 ET: Hurricanes — stop-loss @ 0.0000 → -0.5000
 - 2026-10-18 20:25 ET: Blue Jackets — stop-loss @ 0.0200 → -0.3333
 - 2026-10-18 19:20 ET: Raiders — stop-loss @ 0.0175 → -0.3478
 - 2026-10-18 19:15 ET: Raiders — stop-loss @ 0.0550 → -0.3136
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CAR@CGY", "market": "aec-nhl-car-cgy-2026-10-18", "side": "long", "team": "Hurricanes", "ask": 0.09, "qty": 5.5556, "stake": 0.5}`
+- `{"type": "paper_close", "team": "Hurricanes", "reason": "stop-loss", "pnl": -0.5}`
