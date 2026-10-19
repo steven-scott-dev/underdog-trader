@@ -29,7 +29,10 @@ def build_status_md(res):
         a(f"> {res['error']}")
     a("")
     a("## Today")
-    a(f"- Bets placed: {daily.get('bets', 0)} / 5")
+    bb = daily.get('bounce_bets', 0)
+    a(f"- Bets placed: {daily.get('bets', 0)} "
+      f"(main {daily.get('bets', 0) - bb}/{daily.get('max_main', 5)}, "
+      f"bounce {bb}/{daily.get('max_bounce', 10)})")
     a(f"- Realized P&L: {daily.get('realized', 0):+.2f}")
     a("")
     if mode == "PAPER":
@@ -40,7 +43,7 @@ def build_status_md(res):
         for p in poss:
             bid = p.get("last_bid", p["entry"])
             unrl = (bid - p["entry"]) * p["qty"]
-            a(f"- **{p['team']}** ({p['side']}) — {p['qty']} @ {p['entry']:.4f}, "
+            a(f"- **{p['team']}** ({p['side']}/{p.get('mode', 'main')}) — {p['qty']} @ {p['entry']:.4f}, "
               f"now ~{bid:.4f}, unrealized {unrl:+.4f} "
               f"(TP {p['tp']:.4f} / SL {p['sl']:.4f})")
         a("")
@@ -49,7 +52,7 @@ def build_status_md(res):
         if not hist:
             a("- _none yet_")
         for h in reversed(hist[-8:]):
-            a(f"- {h.get('closed', '')}: {h['team']} — {h['reason']} "
+            a(f"- {h.get('closed', '')}: {h['team']} [{h.get('mode', 'main')}] — {h['reason']} "
               f"@ {h['exit']:.4f} → {h['pnl']:+.4f}")
     else:
         a("## Live positions")

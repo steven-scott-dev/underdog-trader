@@ -1,9 +1,12 @@
 """Underdog Auto-Trader core: multi-sport, stateless, serverless-friendly.
 
 Strategy: watch live games (NFL/NBA/MLB/NHL/soccer) via ESPN's free
-scoreboard API. When a game is CLOSE and LATE, buy STAKE_USD of the
-underdog side on Polymarket US (limit order at the ask), then rest a
-take-profit limit sell. Per-run stop-loss closes positions that crater.
+scoreboard API. Two entry modes:
+  main   - CLOSE and LATE: buy STAKE_USD of the underdog, rest a
+           take-profit limit sell. Per-run stop-loss closes cratered positions.
+  bounce - EARLY and EXTREME: buy a smaller stake when the underdog's price
+           collapses to an extreme low before the close-and-late window,
+           expecting a bounce; cash out on the spike via take-profit.
 
 Stateless design: each run reads open positions / open orders from
 Polymarket instead of a local state file, so it works as a Vercel cron
@@ -38,6 +41,18 @@ DEFAULT_CONFIG = {
     "stop_loss_mult": 0.40,
     "min_buy_price": 0.05,
     "max_buy_price": 0.40,
+    "reentry_cooldown_min": 30,   # don't re-enter a market this long after a stop-loss
+    "waterfall_drop_mult": 0.5,   # skip buy if ask < this × max ask seen recently
+    "waterfall_window_sec": 900,  # lookback window for the waterfall check
+    "bounce": {               # second mode: early + extreme, smaller stake
+        "enabled": True,
+        "stake_usd": 0.10,
+        "take_profit_mult": 2.0,
+        "stop_loss_mult": 0.40,
+        "min_buy_price": 0.02,
+        "max_buy_price": 0.10,
+        "max_bets_per_day": 20,
+    },
     "poll_seconds": 20,          # local runs only; Vercel uses cron
     "sports": {
         "nfl": {"enabled": True, "espn": "football/nfl",
@@ -110,7 +125,7 @@ def now_et_str():
 
 
 def load_state():
-    blank = {"date": today_et(), "bets": 0, "realized": 0.0,
+    blank = {"date": today_et(), "bets": 0, "bounce_bets": 0, "realized": 0.0,
              "paper_positions": [], "paper_history": [],
              "live_history": []}
     p = state_path()
@@ -167,6 +182,9 @@ def manage_paper_positions(client, cfg, state, actions):
         state["paper_history"].append({**pos, "closed": now_et_str(),
                                       "exit": round(closed_px, 4),
                                       "pnl": pnl, "reason": reason})
+        if reason == "stop-loss":
+            cds = state.setdefault("cooldowns", {})
+            cds[pos["market"]] = time.time() + cfg["reentry_cooldown_min"] * 60
         actions.append({"type": "paper_close", "team": pos["team"],
                         "reason": reason, "pnl": pnl})
         log(f"  PAPER CLOSE {pos['team']} ({reason}) exit {closed_px:.4f} "
@@ -253,6 +271,15 @@ def is_trigger(game, rules):
     if ck == "up":
         return game["clock"] is not None and game["clock"] >= rules["late_clock_min"]
     return True  # "none" (MLB): inning is enough
+
+
+def is_bounce_trigger(game, rules):
+    """Early + extreme: live game NOT in the close-and-late window."""
+    if not game["live"] or game["over"]:
+        return False
+    if is_trigger(game, rules):
+        return False  # close-and-late belongs to the main mode
+    return True
 
 
 # ---------------------------------------------------------------- Polymarket: public
@@ -464,6 +491,8 @@ def run_pass():
                                               "pnl": pnl, "reason": "stop-loss"})
                 actions.append({"type": "stop_loss", "market": slug, "pnl": pnl})
                 log(f"  STOP-LOSS closing {slug} (pnl {pnl:+.4f})")
+                cds = state.setdefault("cooldowns", {})
+                cds[slug] = time.time() + cfg["reentry_cooldown_min"] * 60
                 try:
                     client.orders.close_position({"marketSlug": slug})
                 except Exception as e:
@@ -480,11 +509,17 @@ def run_pass():
                 except Exception as e:
                     log(f"  TP ensure failed for {slug}: {e}")
 
-    # daily guardrails
+    # daily guardrails (per mode)
     can_bet = True
-    if state["bets"] >= MAX_BETS_PER_DAY:
-        log(f"  daily bet cap reached ({MAX_BETS_PER_DAY}); no new entries today")
-        can_bet = False
+    main_used = state["bets"] - state.get("bounce_bets", 0)
+    can_bet_main = True
+    if main_used >= MAX_BETS_PER_DAY:
+        log(f"  daily main bet cap reached ({MAX_BETS_PER_DAY}); no new main entries")
+        can_bet_main = False
+    can_bet_bounce = True
+    if state.get("bounce_bets", 0) >= cfg["bounce"]["max_bets_per_day"]:
+        log(f"  daily bounce bet cap reached ({cfg['bounce']['max_bets_per_day']}); no new bounce entries")
+        can_bet_bounce = False
     if state["realized"] <= -MAX_DAILY_LOSS:
         log(f"  daily loss cap hit ({state['realized']:+.2f}); no new entries today")
         can_bet = False
@@ -498,11 +533,17 @@ def run_pass():
             if not g["live"] or g["over"]:
                 continue
             gid = f"{sport_key}:{g['away'].get('abbr')}@{g['home'].get('abbr')}"
-            trig = is_trigger(g, rules)
-            log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} trigger={trig}")
-            if not trig:
+            mode = None
+            if is_trigger(g, rules):
+                mode = "main"
+            elif cfg["bounce"]["enabled"] and is_bounce_trigger(g, rules):
+                mode = "bounce"
+            log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} mode={mode}")
+            if not mode:
                 continue
-            if not can_bet:
+            mode_ok = can_bet_main if mode == "main" else can_bet_bounce
+            if not (can_bet and mode_ok):
+                log(f"  {mode} daily cap reached, skipping")
                 continue
             try:
                 meta = find_market(client, g)
@@ -515,6 +556,10 @@ def run_pass():
             if meta["market_slug"] in held_slugs:
                 log("  already holding this game, skipping")
                 continue
+            cd_until = (state.get("cooldowns") or {}).get(meta["market_slug"], 0)
+            if time.time() < cd_until:
+                log("  in stop-loss cooldown, skipping")
+                continue
             try:
                 info = side_info(client, meta["market_slug"])
                 q = quotes(client, meta["market_slug"])
@@ -525,40 +570,56 @@ def run_pass():
             ask = q["long_ask"] if dog == "long" else q["short_ask"]
             desc = info[dog]["desc"]
             log(f"  underdog: {desc} ask {ask:.4f}")
-            if not (cfg["min_buy_price"] <= ask <= cfg["max_buy_price"]) or ask <= 0:
-                log("  ask outside buy window, skipping")
+            bcfg = cfg if mode == "main" else cfg["bounce"]
+            if not (bcfg["min_buy_price"] <= ask <= bcfg["max_buy_price"]) or ask <= 0:
+                log(f"  ask outside {mode} buy window, skipping")
                 continue
-            qty = round(cfg["stake_usd"] / ask, 4)
+            # waterfall filter: don't buy into a collapsing price
+            now_ts = time.time()
+            pxh = [(t, p) for t, p in (state.get("px_hist") or {}).get(meta["market_slug"], [])
+                   if now_ts - t <= cfg["waterfall_window_sec"]]
+            if pxh and ask < cfg["waterfall_drop_mult"] * max(p for _, p in pxh):
+                log(f"  price waterfalling ({max(p for _, p in pxh):.4f} -> {ask:.4f}), skipping")
+                pxh.append((now_ts, ask))
+                state.setdefault("px_hist", {})[meta["market_slug"]] = pxh
+                continue
+            pxh.append((now_ts, ask))
+            state.setdefault("px_hist", {})[meta["market_slug"]] = pxh
+            qty = round(bcfg["stake_usd"] / ask, 4)
             if qty < info.get("min_qty", 0):
                 log(f"  qty {qty} below market minimum, skipping")
                 continue
             action = {"type": "buy", "game": gid, "market": meta["market_slug"],
                       "side": dog, "team": desc, "ask": round(ask, 4),
-                      "qty": qty, "stake": cfg["stake_usd"]}
+                      "qty": qty, "stake": bcfg["stake_usd"], "mode": mode}
             actions.append(action)
             if paper:
-                tp = min(round(ask * cfg["take_profit_mult"], 4), 0.99)
-                sl = round(ask * cfg["stop_loss_mult"], 4)
+                tp = min(round(ask * bcfg["take_profit_mult"], 4), 0.99)
+                sl = round(ask * bcfg["stop_loss_mult"], 4)
                 state["paper_positions"].append({
                     "market": meta["market_slug"], "game": gid, "side": dog,
                     "team": desc, "entry": round(ask, 4), "qty": qty,
                     "tp": tp, "sl": sl, "opened": now_et_str(),
-                    "last_bid": round(ask, 4)})
+                    "mode": mode, "last_bid": round(ask, 4)})
                 state["bets"] += 1
+                if mode == "bounce":
+                    state["bounce_bets"] = state.get("bounce_bets", 0) + 1
                 held_slugs.add(meta["market_slug"])
-                log(f"  PAPER BUY {qty} {desc} @ {ask:.4f} "
+                log(f"  PAPER BUY [{mode}] {qty} {desc} @ {ask:.4f} "
                     f"(${(qty*ask):.2f}), TP @ {tp:.4f}, SL @ {sl:.4f}")
             else:
-                buy = place_buy(client, cfg, meta["market_slug"], dog, ask)
+                buy = place_buy(client, bcfg, meta["market_slug"], dog, ask)
                 if buy:
                     held_slugs.add(meta["market_slug"])
                     state["bets"] += 1
+                    if mode == "bounce":
+                        state["bounce_bets"] = state.get("bounce_bets", 0) + 1
                     state["live_history"].append({
                         "market": meta["market_slug"], "opened": now_et_str(),
                         "side": dog, "team": desc, "entry": buy["price"],
-                        "qty": buy["qty"]})
+                        "qty": buy["qty"], "mode": mode})
                     try:
-                        ensure_take_profit(client, cfg, meta["market_slug"],
+                        ensure_take_profit(client, bcfg, meta["market_slug"],
                                            dog, buy["price"], buy["qty"])
                     except Exception as e:
                         log(f"  TP placement failed: {e} (will retry next run)")
@@ -573,4 +634,7 @@ def run_pass():
             "live_positions": positions,
             "live_history": state["live_history"][-10:],
             "daily": {"date": state["date"], "bets": state["bets"],
+                      "bounce_bets": state.get("bounce_bets", 0),
+                      "max_main": MAX_BETS_PER_DAY,
+                      "max_bounce": cfg["bounce"]["max_bets_per_day"],
                       "realized": round(state["realized"], 4)}}
