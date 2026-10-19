@@ -1,8 +1,21 @@
 {
  "date": "2026-10-18",
- "bets": 2,
+ "bets": 3,
  "realized": -0.6614,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-cbj-min-2026-10-18",
+   "game": "nhl:CBJ@MIN",
+   "side": "long",
+   "team": "Blue Jackets",
+   "entry": 0.06,
+   "qty": 8.3333,
+   "tp": 0.15,
+   "sl": 0.024,
+   "opened": "2026-10-18 20:20 ET",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nfl-buf-lv-2026-10-18",
