@@ -1,15 +1,11 @@
 {
- "updated": "2026-10-19T02:15:36.676469-04:00",
- "mode": "paper",
- "ok": true,
- "duration_s": 0.8,
- "daily": {
-  "date": "2026-10-19",
-  "bets": 0,
-  "realized": 0.0
- },
- "paper_positions": [],
- "paper_history": [],
- "live_positions": {},
- "actions": []
+ "updated": "2026-10-19T02:20:34.248871-04:00",
+ "mode": null,
+ "ok": false,
+ "duration_s": null,
+ "daily": null,
+ "paper_positions": null,
+ "paper_history": null,
+ "live_positions": null,
+ "actions": null
 }
