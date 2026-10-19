@@ -1,1 +1,1 @@
-{"$schema":"https://openapi.vercel.sh/vercel.json","functions":{"api/trade.py":{"maxDuration":60}}}
+{"$schema":"https://openapi.vercel.sh/vercel.json","functions":{"api/trade.py":{"maxDuration":60}},"git":{"deploymentEnabled":false}}
