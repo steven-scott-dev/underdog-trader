@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-18 22:40 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-18 22:45 ET · Mode: **PAPER** · Result: OK (0.5s)
 
 ## Today
 - Bets placed: 4 / 5
@@ -16,4 +16,4 @@ Updated: 2026-10-18 22:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-18 19:15 ET: Raiders — stop-loss @ 0.0550 → -0.3136
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hurricanes", "reason": "stop-loss", "pnl": -0.5}`
+- _none_
