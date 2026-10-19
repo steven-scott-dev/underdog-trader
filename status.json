@@ -1,18 +1,11 @@
 {
- "updated": "2026-10-19T15:55:42.000228-04:00",
- "mode": "paper",
- "ok": true,
- "duration_s": 1.0,
- "daily": {
-  "date": "2026-10-19",
-  "bets": 0,
-  "bounce_bets": 0,
-  "max_main": 5,
-  "max_bounce": 20,
-  "realized": 0.0
- },
- "paper_positions": [],
- "paper_history": [],
- "live_positions": {},
- "actions": []
+ "updated": "2026-10-19T16:00:35.040412-04:00",
+ "mode": null,
+ "ok": false,
+ "duration_s": null,
+ "daily": null,
+ "paper_positions": null,
+ "paper_history": null,
+ "live_positions": null,
+ "actions": null
 }
