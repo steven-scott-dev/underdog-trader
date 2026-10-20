@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-19T22:20:38.848533-04:00",
+ "updated": "2026-10-19T22:25:38.050851-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-19",
   "bets": 4,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.58
+  "realized": -0.6642
  },
- "paper_positions": [
-  {
-   "market": "aec-mlb-cle-tb-2026-10-19",
-   "game": "mlb:CLE@TB",
-   "side": "long",
-   "team": "Cleveland Guardians",
-   "entry": 0.095,
-   "qty": 1.0526,
-   "tp": 0.19,
-   "sl": 0.038,
-   "opened": "2026-10-19 21:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.075
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
@@ -77,8 +63,32 @@
    "exit": 0.02,
    "pnl": -0.4,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-mlb-cle-tb-2026-10-19",
+   "game": "mlb:CLE@TB",
+   "side": "long",
+   "team": "Cleveland Guardians",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-10-19 21:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.075,
+   "closed": "2026-10-19 22:25 ET",
+   "exit": 0.015,
+   "pnl": -0.0842,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Cleveland Guardians",
+   "reason": "stop-loss",
+   "pnl": -0.0842
+  }
+ ]
 }
