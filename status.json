@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T21:35:43.702783-04:00",
+ "updated": "2026-10-19T21:40:40.518334-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 3.0,
  "daily": {
   "date": "2026-10-19",
   "bets": 3,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-19 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.05
   },
   {
    "market": "aec-mlb-cle-tb-2026-10-19",
@@ -36,7 +36,7 @@
    "sl": 0.038,
    "opened": "2026-10-19 21:30 ET",
    "mode": "bounce",
-   "last_bid": 0.105
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
