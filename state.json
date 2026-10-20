@@ -1,8 +1,22 @@
 {
  "date": "2026-10-19",
- "bets": 4,
+ "bets": 5,
  "realized": -0.6642,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-pit-uta-2026-10-19",
+   "game": "nhl:PIT@UTA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-19 22:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
@@ -74,7 +88,7 @@
   }
  ],
  "live_history": [],
- "bounce_bets": 3,
+ "bounce_bets": 4,
  "px_hist": {
   "aec-nhl-ana-nyr-2026-10-19": [
    [
@@ -98,6 +112,12 @@
    [
     1792462244.195064,
     0.1
+   ]
+  ],
+  "aec-nhl-pit-uta-2026-10-19": [
+   [
+    1792464046.1325946,
+    0.09
    ]
   ]
  },
