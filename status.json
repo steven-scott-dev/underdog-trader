@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:15:48.540648-04:00",
+ "updated": "2026-10-19T22:20:38.848533-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.6,
@@ -23,7 +23,7 @@
    "sl": 0.038,
    "opened": "2026-10-19 21:30 ET",
    "mode": "bounce",
-   "last_bid": 0.095
+   "last_bid": 0.075
   }
  ],
  "paper_history": [
@@ -80,12 +80,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sharks",
-   "reason": "stop-loss",
-   "pnl": -0.4
-  }
- ]
+ "actions": []
 }
