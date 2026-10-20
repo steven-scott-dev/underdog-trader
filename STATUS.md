@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 17:21 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-20 17:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 2 (main 0/5, bounce 2/20)
-- Realized P&L: +0.10
+- Realized P&L: +0.03
 
 ## Open paper positions
-- **Celtics** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- _none_
 
 ## Recent history
+- 2026-10-20 17:25 ET: Celtics [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:BOS@DET", "market": "aec-nba-bos-det-2026-10-20", "side": "long", "team": "Celtics", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Celtics", "reason": "stop-loss", "pnl": -0.075}`
