@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-19T22:10:44.568642-04:00",
+ "updated": "2026-10-19T22:15:48.540648-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-19",
   "bets": 4,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.18
+  "realized": -0.58
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.038,
    "opened": "2026-10-19 21:30 ET",
    "mode": "bounce",
-   "last_bid": 0.115
-  },
-  {
-   "market": "aec-nhl-sj-tor-2026-10-19",
-   "game": "nhl:SJ@TOR",
-   "side": "long",
-   "team": "Sharks",
-   "entry": 0.1,
-   "qty": 5.0,
-   "tp": 0.25,
-   "sl": 0.04,
-   "opened": "2026-10-19 22:10 ET",
-   "mode": "main",
-   "last_bid": 0.1
+   "last_bid": 0.095
   }
  ],
  "paper_history": [
@@ -73,20 +60,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-sj-tor-2026-10-19",
+   "game": "nhl:SJ@TOR",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.1,
+   "qty": 5.0,
+   "tp": 0.25,
+   "sl": 0.04,
+   "opened": "2026-10-19 22:10 ET",
+   "mode": "main",
+   "last_bid": 0.1,
+   "closed": "2026-10-19 22:15 ET",
+   "exit": 0.02,
+   "pnl": -0.4,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:SJ@TOR",
-   "market": "aec-nhl-sj-tor-2026-10-19",
-   "side": "long",
+   "type": "paper_close",
    "team": "Sharks",
-   "ask": 0.1,
-   "qty": 5.0,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.4
   }
  ]
 }
