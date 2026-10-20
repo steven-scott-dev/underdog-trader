@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T21:25:41.326616-04:00",
+ "updated": "2026-10-19T21:30:41.591021-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-19",
-  "bets": 2,
-  "bounce_bets": 2,
+  "bets": 3,
+  "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 20,
   "realized": -0.08
@@ -23,7 +23,20 @@
    "sl": 0.036,
    "opened": "2026-10-19 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-mlb-cle-tb-2026-10-19",
+   "game": "mlb:CLE@TB",
+   "side": "long",
+   "team": "Cleveland Guardians",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-10-19 21:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.095
   }
  ],
  "paper_history": [
@@ -49,12 +62,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nhl:COL@PHI",
-   "market": "aec-nhl-col-phi-2026-10-19",
+   "game": "mlb:CLE@TB",
+   "market": "aec-mlb-cle-tb-2026-10-19",
    "side": "long",
-   "team": "Avalanche",
-   "ask": 0.09,
-   "qty": 1.1111,
+   "team": "Cleveland Guardians",
+   "ask": 0.095,
+   "qty": 1.0526,
    "stake": 0.1,
    "mode": "bounce"
   }

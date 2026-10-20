@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "bets": 2,
+ "bets": 3,
  "realized": -0.08,
  "paper_positions": [
   {
@@ -14,7 +14,20 @@
    "sl": 0.036,
    "opened": "2026-10-19 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-mlb-cle-tb-2026-10-19",
+   "game": "mlb:CLE@TB",
+   "side": "long",
+   "team": "Cleveland Guardians",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-10-19 21:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.095
   }
  ],
  "paper_history": [
@@ -37,7 +50,7 @@
   }
  ],
  "live_history": [],
- "bounce_bets": 2,
+ "bounce_bets": 3,
  "px_hist": {
   "aec-nhl-ana-nyr-2026-10-19": [
    [
@@ -49,6 +62,12 @@
    [
     1792459540.933016,
     0.09
+   ]
+  ],
+  "aec-mlb-cle-tb-2026-10-19": [
+   [
+    1792459840.7658594,
+    0.095
    ]
   ]
  },
