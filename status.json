@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T16:40:37.798807-04:00",
+ "updated": "2026-10-20T16:45:40.326158-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-20",
   "bets": 1,
@@ -32,12 +32,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Pistons",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

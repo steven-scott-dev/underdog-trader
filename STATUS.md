@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 16:40 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-20 16:45 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 1 (main 0/5, bounce 1/20)
@@ -13,4 +13,4 @@ Updated: 2026-10-20 16:40 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pistons", "reason": "take-profit", "pnl": 0.1}`
+- _none_
