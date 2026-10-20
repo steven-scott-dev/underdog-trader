@@ -1,21 +1,8 @@
 {
  "date": "2026-10-19",
  "bets": 3,
- "realized": -0.08,
+ "realized": -0.18,
  "paper_positions": [
-  {
-   "market": "aec-nhl-col-phi-2026-10-19",
-   "game": "nhl:COL@PHI",
-   "side": "long",
-   "team": "Avalanche",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-19 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-mlb-cle-tb-2026-10-19",
    "game": "mlb:CLE@TB",
@@ -27,7 +14,7 @@
    "sl": 0.038,
    "opened": "2026-10-19 21:30 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -46,6 +33,23 @@
    "closed": "2026-10-19 20:35 ET",
    "exit": 0.01,
    "pnl": -0.08,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-col-phi-2026-10-19",
+   "game": "nhl:COL@PHI",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-19 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-19 21:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
    "reason": "stop-loss"
   }
  ],
@@ -72,6 +76,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nhl-ana-nyr-2026-10-19": 1792458337.660993
+  "aec-nhl-ana-nyr-2026-10-19": 1792458337.660993,
+  "aec-nhl-col-phi-2026-10-19": 1792462542.621493
  }
 }

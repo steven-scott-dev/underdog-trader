@@ -1,17 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-19 21:40 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-10-19 21:45 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 3 (main 0/5, bounce 3/20)
-- Realized P&L: -0.08
+- Realized P&L: -0.18
 
 ## Open paper positions
-- **Avalanche** (long/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
-- **Cleveland Guardians** (long/bounce) — 1.0526 @ 0.0950, now ~0.0900, unrealized -0.0053 (TP 0.1900 / SL 0.0380)
+- **Cleveland Guardians** (long/bounce) — 1.0526 @ 0.0950, now ~0.0800, unrealized -0.0158 (TP 0.1900 / SL 0.0380)
 
 ## Recent history
+- 2026-10-19 21:45 ET: Avalanche [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-19 20:35 ET: Ducks [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Avalanche", "reason": "stop-loss", "pnl": -0.1}`
