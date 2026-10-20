@@ -2,8 +2,9 @@
  "date": "2026-10-20",
  "bets": 1,
  "bounce_bets": 1,
- "realized": 0.0,
- "paper_positions": [
+ "realized": 0.1,
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nba-bos-det-2026-10-20",
    "game": "nba:BOS@DET",
@@ -15,10 +16,13 @@
    "sl": 0.024,
    "opened": "2026-10-20 16:35 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.06,
+   "closed": "2026-10-20 16:40 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "px_hist": {
   "aec-nba-bos-det-2026-10-20": [
