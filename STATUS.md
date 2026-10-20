@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-19 23:05 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-19 23:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 5 (main 1/5, bounce 4/20)
 - Realized P&L: -0.66
 
 ## Open paper positions
-- **Penguins** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Penguins** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-19 22:25 ET: Cleveland Guardians [bounce] — stop-loss @ 0.0150 → -0.0842
