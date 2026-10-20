@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-19 20:35 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-19 20:40 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 1 (main 0/5, bounce 1/20)
@@ -13,4 +13,4 @@ Updated: 2026-10-19 20:35 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-19 20:35 ET: Ducks [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ducks", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
