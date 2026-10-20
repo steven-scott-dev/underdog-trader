@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T22:40:46.208027-04:00",
+ "updated": "2026-10-19T22:45:41.781251-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-19",
   "bets": 5,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-19 22:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -97,17 +97,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:PIT@UTA",
-   "market": "aec-nhl-pit-uta-2026-10-19",
-   "side": "long",
-   "team": "Penguins",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
