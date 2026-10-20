@@ -1,9 +1,31 @@
 {
  "date": "2026-10-20",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-bos-det-2026-10-20",
+   "game": "nba:BOS@DET",
+   "side": "short",
+   "team": "Pistons",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-20 16:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-bos-det-2026-10-20": [
+   [
+    1792528547.8626552,
+    0.06
+   ]
+  ]
+ }
 }
