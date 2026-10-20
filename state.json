@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "bets": 3,
+ "bets": 4,
  "realized": -0.18,
  "paper_positions": [
   {
@@ -14,7 +14,20 @@
    "sl": 0.038,
    "opened": "2026-10-19 21:30 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.115
+  },
+  {
+   "market": "aec-nhl-sj-tor-2026-10-19",
+   "game": "nhl:SJ@TOR",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.1,
+   "qty": 5.0,
+   "tp": 0.25,
+   "sl": 0.04,
+   "opened": "2026-10-19 22:10 ET",
+   "mode": "main",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -72,6 +85,12 @@
    [
     1792459840.7658594,
     0.095
+   ]
+  ],
+  "aec-nhl-sj-tor-2026-10-19": [
+   [
+    1792462244.195064,
+    0.1
    ]
   ]
  },
