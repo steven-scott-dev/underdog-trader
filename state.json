@@ -1,8 +1,9 @@
 {
  "date": "2026-10-19",
  "bets": 1,
- "realized": 0.0,
- "paper_positions": [
+ "realized": -0.08,
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
    "game": "nhl:ANA@NYR",
@@ -14,10 +15,13 @@
    "sl": 0.02,
    "opened": "2026-10-19 20:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.04,
+   "closed": "2026-10-19 20:35 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "bounce_bets": 1,
  "px_hist": {
@@ -27,5 +31,8 @@
     0.05
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-nhl-ana-nyr-2026-10-19": 1792458337.660993
  }
 }
