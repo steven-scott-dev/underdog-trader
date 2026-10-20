@@ -1,9 +1,31 @@
 {
  "date": "2026-10-19",
- "bets": 0,
+ "bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ana-nyr-2026-10-19",
+   "game": "nhl:ANA@NYR",
+   "side": "long",
+   "team": "Ducks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-19 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [],
  "live_history": [],
- "bounce_bets": 0
+ "bounce_bets": 1,
+ "px_hist": {
+  "aec-nhl-ana-nyr-2026-10-19": [
+   [
+    1792455935.7521958,
+    0.05
+   ]
+  ]
+ }
 }
