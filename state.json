@@ -1,22 +1,8 @@
 {
  "date": "2026-10-19",
  "bets": 5,
- "realized": -0.6642,
- "paper_positions": [
-  {
-   "market": "aec-nhl-pit-uta-2026-10-19",
-   "game": "nhl:PIT@UTA",
-   "side": "long",
-   "team": "Penguins",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-19 22:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.7309,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
@@ -85,6 +71,23 @@
    "exit": 0.015,
    "pnl": -0.0842,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-pit-uta-2026-10-19",
+   "game": "nhl:PIT@UTA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-19 22:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-19 23:15 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -125,6 +128,7 @@
   "aec-nhl-ana-nyr-2026-10-19": 1792458337.660993,
   "aec-nhl-col-phi-2026-10-19": 1792462542.621493,
   "aec-nhl-sj-tor-2026-10-19": 1792464347.2702215,
-  "aec-mlb-cle-tb-2026-10-19": 1792464936.7888927
+  "aec-mlb-cle-tb-2026-10-19": 1792464936.7888927,
+  "aec-nhl-pit-uta-2026-10-19": 1792467943.2169268
  }
 }

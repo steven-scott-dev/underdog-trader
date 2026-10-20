@@ -1,19 +1,20 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-19 23:10 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-19 23:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 5 (main 1/5, bounce 4/20)
-- Realized P&L: -0.66
+- Realized P&L: -0.73
 
 ## Open paper positions
-- **Penguins** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-10-19 23:15 ET: Penguins [bounce] — stop-loss @ 0.0300 → -0.0667
 - 2026-10-19 22:25 ET: Cleveland Guardians [bounce] — stop-loss @ 0.0150 → -0.0842
 - 2026-10-19 22:15 ET: Sharks [main] — stop-loss @ 0.0200 → -0.4000
 - 2026-10-19 21:45 ET: Avalanche [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-19 20:35 ET: Ducks [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Penguins", "reason": "stop-loss", "pnl": -0.0667}`

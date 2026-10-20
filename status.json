@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-19T23:10:46.675443-04:00",
+ "updated": "2026-10-19T23:15:44.296471-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-19",
   "bets": 5,
   "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.6642
+  "realized": -0.7309
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-pit-uta-2026-10-19",
-   "game": "nhl:PIT@UTA",
-   "side": "long",
-   "team": "Penguins",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-19 22:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
@@ -94,8 +80,32 @@
    "exit": 0.015,
    "pnl": -0.0842,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-pit-uta-2026-10-19",
+   "game": "nhl:PIT@UTA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-19 22:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-19 23:15 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Penguins",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }
