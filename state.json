@@ -1,8 +1,22 @@
 {
  "date": "2026-10-19",
- "bets": 1,
+ "bets": 2,
  "realized": -0.08,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-col-phi-2026-10-19",
+   "game": "nhl:COL@PHI",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-19 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-ana-nyr-2026-10-19",
@@ -23,12 +37,18 @@
   }
  ],
  "live_history": [],
- "bounce_bets": 1,
+ "bounce_bets": 2,
  "px_hist": {
   "aec-nhl-ana-nyr-2026-10-19": [
    [
     1792455935.7521958,
     0.05
+   ]
+  ],
+  "aec-nhl-col-phi-2026-10-19": [
+   [
+    1792459540.933016,
+    0.09
    ]
   ]
  },
