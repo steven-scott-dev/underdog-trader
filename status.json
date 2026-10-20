@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T22:25:38.050851-04:00",
+ "updated": "2026-10-19T22:30:53.583562-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-19",
   "bets": 4,
@@ -83,12 +83,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Cleveland Guardians",
-   "reason": "stop-loss",
-   "pnl": -0.0842
-  }
- ]
+ "actions": []
 }
