@@ -1,9 +1,23 @@
 {
  "date": "2026-10-21",
- "bets": 2,
- "bounce_bets": 1,
+ "bets": 3,
+ "bounce_bets": 2,
  "realized": 0.85,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-car-van-2026-10-20",
+   "game": "nhl:CAR@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-21 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -52,6 +66,12 @@
    [
     1792555855.9134696,
     0.14
+   ]
+  ],
+  "aec-nhl-car-van-2026-10-20": [
+   [
+    1792556735.8052297,
+    0.06
    ]
   ]
  }

@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-21T00:20:43.160919-04:00",
+ "updated": "2026-10-21T00:25:35.925134-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-21",
-  "bets": 2,
-  "bounce_bets": 1,
+  "bets": 3,
+  "bounce_bets": 2,
   "max_main": 5,
   "max_bounce": 20,
   "realized": 0.85
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-car-van-2026-10-20",
+   "game": "nhl:CAR@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-21 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -51,10 +65,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Red Wings",
-   "reason": "take-profit",
-   "pnl": 0.75
+   "type": "buy",
+   "game": "nhl:CAR@VAN",
+   "market": "aec-nhl-car-van-2026-10-20",
+   "side": "short",
+   "team": "Canucks",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
