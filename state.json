@@ -2,22 +2,8 @@
  "date": "2026-10-20",
  "bets": 9,
  "bounce_bets": 8,
- "realized": -0.6035,
- "paper_positions": [
-  {
-   "market": "aec-nhl-det-sea-2026-10-20",
-   "game": "nhl:DET@SEA",
-   "side": "long",
-   "team": "Red Wings",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-20 23:21 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": -0.6702,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-bos-det-2026-10-20",
@@ -154,6 +140,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-det-sea-2026-10-20",
+   "game": "nhl:DET@SEA",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-20 23:21 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-20 23:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -212,6 +215,7 @@
   "aec-nhl-tor-cbj-2026-10-20": 1792544787.3444102,
   "aec-nhl-sj-mon-2026-10-20": 1792547142.240963,
   "aec-nhl-ana-nyi-2026-10-20": 1792547470.6406827,
-  "aec-nhl-col-nj-2026-10-20": 1792547804.3280876
+  "aec-nhl-col-nj-2026-10-20": 1792547804.3280876,
+  "aec-nhl-det-sea-2026-10-20": 1792555859.7608433
  }
 }
