@@ -2,22 +2,8 @@
  "date": "2026-10-20",
  "bets": 10,
  "bounce_bets": 8,
- "realized": -0.6702,
- "paper_positions": [
-  {
-   "market": "aec-nhl-min-edm-2026-10-20",
-   "game": "nhl:MIN@EDM",
-   "side": "long",
-   "team": "Wild",
-   "entry": 0.32,
-   "qty": 1.5625,
-   "tp": 0.8,
-   "sl": 0.128,
-   "opened": "2026-10-20 23:50 ET",
-   "mode": "main",
-   "last_bid": 0.32
-  }
- ],
+ "realized": -1.1702,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-bos-det-2026-10-20",
@@ -171,6 +157,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-edm-2026-10-20",
+   "game": "nhl:MIN@EDM",
+   "side": "long",
+   "team": "Wild",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "tp": 0.8,
+   "sl": 0.128,
+   "opened": "2026-10-20 23:50 ET",
+   "mode": "main",
+   "last_bid": 0.32,
+   "closed": "2026-10-20 23:56 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -230,6 +233,7 @@
   "aec-nhl-sj-mon-2026-10-20": 1792547142.240963,
   "aec-nhl-ana-nyi-2026-10-20": 1792547470.6406827,
   "aec-nhl-col-nj-2026-10-20": 1792547804.3280876,
-  "aec-nhl-det-sea-2026-10-20": 1792555859.7608433
+  "aec-nhl-det-sea-2026-10-20": 1792555859.7608433,
+  "aec-nhl-min-edm-2026-10-20": 1792556761.6907008
  }
 }
