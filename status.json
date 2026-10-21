@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T23:31:22.993398-04:00",
+ "updated": "2026-10-20T23:35:34.764714-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-20",
   "bets": 9,
@@ -165,12 +165,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Wild",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
