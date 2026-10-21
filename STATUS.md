@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 23:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-20 23:31 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 9 (main 1/5, bounce 8/20)
-- Realized P&L: -0.70
+- Realized P&L: -0.60
 
 ## Open paper positions
-- **Wild** (long/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
-- **Red Wings** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Red Wings** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
+- 2026-10-20 23:31 ET: Wild [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-20 22:36 ET: Jets [main] — settled @ 0.0100 → -0.4546
 - 2026-10-20 21:26 ET: Avalanche [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-10-20 21:21 ET: Ducks [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-10-20 23:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Wild", "reason": "take-profit", "pnl": 0.1}`

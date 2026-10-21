@@ -2,21 +2,8 @@
  "date": "2026-10-20",
  "bets": 9,
  "bounce_bets": 8,
- "realized": -0.7035,
+ "realized": -0.6035,
  "paper_positions": [
-  {
-   "market": "aec-nhl-min-edm-2026-10-20",
-   "game": "nhl:MIN@EDM",
-   "side": "long",
-   "team": "Wild",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-20 23:16 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-nhl-det-sea-2026-10-20",
    "game": "nhl:DET@SEA",
@@ -28,7 +15,7 @@
    "sl": 0.024,
    "opened": "2026-10-20 23:21 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -150,6 +137,23 @@
    "exit": 0.01,
    "pnl": -0.4546,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-min-edm-2026-10-20",
+   "game": "nhl:MIN@EDM",
+   "side": "long",
+   "team": "Wild",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-20 23:16 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-20 23:31 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
