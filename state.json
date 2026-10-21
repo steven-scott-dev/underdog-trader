@@ -1,9 +1,31 @@
 {
  "date": "2026-10-21",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-okc-sa-2026-10-20",
+   "game": "nba:OKC@SA",
+   "side": "short",
+   "team": "Spurs",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-21 00:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-okc-sa-2026-10-20": [
+   [
+    1792555577.5870428,
+    0.08
+   ]
+  ]
+ }
 }
