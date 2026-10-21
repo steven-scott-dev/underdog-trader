@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "bets": 8,
- "bounce_bets": 7,
+ "bets": 9,
+ "bounce_bets": 8,
  "realized": -0.7035,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-20 23:16 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-nhl-det-sea-2026-10-20",
+   "game": "nhl:DET@SEA",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-20 23:21 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -181,6 +194,12 @@
    [
     1792552568.3740032,
     0.08
+   ]
+  ],
+  "aec-nhl-det-sea-2026-10-20": [
+   [
+    1792552879.838731,
+    0.06
    ]
   ]
  },
