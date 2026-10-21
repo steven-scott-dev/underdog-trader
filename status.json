@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T22:25:57.887320-04:00",
+ "updated": "2026-10-20T22:30:59.198516-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-20",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.044,
    "opened": "2026-10-20 22:25 ET",
    "mode": "main",
-   "last_bid": 0.11
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -131,17 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:WPG@STL",
-   "market": "aec-nhl-wpg-stl-2026-10-20",
-   "side": "long",
-   "team": "Jets",
-   "ask": 0.11,
-   "qty": 4.5455,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }

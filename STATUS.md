@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 22:25 ET · Mode: **PAPER** · Result: OK (13.3s)
+Updated: 2026-10-20 22:30 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 7 (main 1/5, bounce 6/20)
 - Realized P&L: -0.25
 
 ## Open paper positions
-- **Jets** (long/main) — 4.5455 @ 0.1100, now ~0.1100, unrealized +0.0000 (TP 0.2750 / SL 0.0440)
+- **Jets** (long/main) — 4.5455 @ 0.1100, now ~0.0500, unrealized -0.2727 (TP 0.2750 / SL 0.0440)
 
 ## Recent history
 - 2026-10-20 21:26 ET: Avalanche [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -18,4 +18,4 @@ Updated: 2026-10-20 22:25 ET · Mode: **PAPER** · Result: OK (13.3s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:WPG@STL", "market": "aec-nhl-wpg-stl-2026-10-20", "side": "long", "team": "Jets", "ask": 0.11, "qty": 4.5455, "stake": 0.5, "mode": "main"}`
+- _none_
