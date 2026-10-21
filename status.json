@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-20T21:11:18.747305-04:00",
+ "updated": "2026-10-20T21:16:05.056220-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.9,
+ "duration_s": 23.1,
  "daily": {
   "date": "2026-10-20",
   "bets": 6,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.055
+  "realized": -0.115
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-sj-mon-2026-10-20",
-   "game": "nhl:SJ@MTL",
-   "side": "long",
-   "team": "Sharks",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-20 20:36 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-nhl-ana-nyi-2026-10-20",
    "game": "nhl:ANA@NYI",
@@ -49,7 +36,7 @@
    "sl": 0.028,
    "opened": "2026-10-20 21:06 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -103,8 +90,32 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-sj-mon-2026-10-20",
+   "game": "nhl:SJ@MTL",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-20 20:36 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-20 21:15 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sharks",
+   "reason": "stop-loss",
+   "pnl": -0.06
+  }
+ ]
 }
