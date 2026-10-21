@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T20:36:42.245202-04:00",
+ "updated": "2026-10-20T20:41:24.286534-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 15.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-20",
   "bets": 4,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-20 20:36 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -80,23 +80,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Blue Jackets",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  },
-  {
-   "type": "buy",
-   "game": "nhl:SJ@MTL",
-   "market": "aec-nhl-sj-mon-2026-10-20",
-   "side": "long",
-   "team": "Sharks",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
