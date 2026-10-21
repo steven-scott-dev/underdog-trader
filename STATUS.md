@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 20:41 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-20 20:46 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 4 (main 0/5, bounce 4/20)
 - Realized P&L: -0.06
 
 ## Open paper positions
-- **Sharks** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Sharks** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-20 20:36 ET: Blue Jackets [bounce] — stop-loss @ 0.0200 → -0.0800
