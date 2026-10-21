@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 23:10 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-20 23:16 ET · Mode: **PAPER** · Result: OK (3.1s)
 
 ## Today
-- Bets placed: 7 (main 1/5, bounce 6/20)
+- Bets placed: 8 (main 1/5, bounce 7/20)
 - Realized P&L: -0.70
 
 ## Open paper positions
-- _none_
+- **Wild** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-20 22:36 ET: Jets [main] — settled @ 0.0100 → -0.4546
@@ -19,4 +19,4 @@ Updated: 2026-10-20 23:10 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:MIN@EDM", "market": "aec-nhl-min-edm-2026-10-20", "side": "long", "team": "Wild", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
