@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 23:46 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-10-20 23:50 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 9 (main 1/5, bounce 8/20)
+- Bets placed: 10 (main 2/5, bounce 8/20)
 - Realized P&L: -0.67
 
 ## Open paper positions
-- _none_
+- **Wild** (long/main) — 1.5625 @ 0.3200, now ~0.3200, unrealized +0.0000 (TP 0.8000 / SL 0.1280)
 
 ## Recent history
 - 2026-10-20 23:40 ET: Red Wings [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-10-20 23:46 ET · Mode: **PAPER** · Result: OK (2.8s)
 - 2026-10-20 17:25 ET: Celtics [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:MIN@EDM", "market": "aec-nhl-min-edm-2026-10-20", "side": "long", "team": "Wild", "ask": 0.32, "qty": 1.5625, "stake": 0.5, "mode": "main"}`
