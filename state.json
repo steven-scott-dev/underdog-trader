@@ -2,21 +2,8 @@
  "date": "2026-10-21",
  "bets": 2,
  "bounce_bets": 1,
- "realized": 0.0,
+ "realized": 0.1,
  "paper_positions": [
-  {
-   "market": "aec-nba-okc-sa-2026-10-20",
-   "game": "nba:OKC@SA",
-   "side": "short",
-   "team": "Spurs",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-21 00:06 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-nhl-det-sea-2026-10-20",
    "game": "nhl:DET@SEA",
@@ -28,10 +15,28 @@
    "sl": 0.056,
    "opened": "2026-10-21 00:10 ET",
    "mode": "main",
-   "last_bid": 0.14
+   "last_bid": 0.07
   }
  ],
- "paper_history": [],
+ "paper_history": [
+  {
+   "market": "aec-nba-okc-sa-2026-10-20",
+   "game": "nba:OKC@SA",
+   "side": "short",
+   "team": "Spurs",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-21 00:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-21 00:17 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  }
+ ],
  "live_history": [],
  "px_hist": {
   "aec-nba-okc-sa-2026-10-20": [
