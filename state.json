@@ -2,22 +2,8 @@
  "date": "2026-10-20",
  "bets": 7,
  "bounce_bets": 6,
- "realized": -0.2489,
- "paper_positions": [
-  {
-   "market": "aec-nhl-wpg-stl-2026-10-20",
-   "game": "nhl:WPG@STL",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.11,
-   "qty": 4.5455,
-   "tp": 0.275,
-   "sl": 0.044,
-   "opened": "2026-10-20 22:25 ET",
-   "mode": "main",
-   "last_bid": 0.05
-  }
- ],
+ "realized": -0.7035,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-bos-det-2026-10-20",
@@ -120,6 +106,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-stl-2026-10-20",
+   "game": "nhl:WPG@STL",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.11,
+   "qty": 4.5455,
+   "tp": 0.275,
+   "sl": 0.044,
+   "opened": "2026-10-20 22:25 ET",
+   "mode": "main",
+   "last_bid": 0.05,
+   "closed": "2026-10-20 22:36 ET",
+   "exit": 0.01,
+   "pnl": -0.4546,
+   "reason": "settled"
   }
  ],
  "live_history": [],

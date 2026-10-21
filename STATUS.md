@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 22:30 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-20 22:36 ET · Mode: **PAPER** · Result: OK (3.3s)
 
 ## Today
 - Bets placed: 7 (main 1/5, bounce 6/20)
-- Realized P&L: -0.25
+- Realized P&L: -0.70
 
 ## Open paper positions
-- **Jets** (long/main) — 4.5455 @ 0.1100, now ~0.0500, unrealized -0.2727 (TP 0.2750 / SL 0.0440)
+- _none_
 
 ## Recent history
+- 2026-10-20 22:36 ET: Jets [main] — settled @ 0.0100 → -0.4546
 - 2026-10-20 21:26 ET: Avalanche [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-10-20 21:21 ET: Ducks [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-10-20 21:15 ET: Sharks [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -18,4 +19,4 @@ Updated: 2026-10-20 22:30 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Jets", "reason": "settled", "pnl": -0.4546}`
