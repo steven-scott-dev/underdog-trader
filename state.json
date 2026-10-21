@@ -1,19 +1,19 @@
 {
  "date": "2026-10-20",
- "bets": 3,
- "bounce_bets": 3,
- "realized": 0.025,
+ "bets": 4,
+ "bounce_bets": 4,
+ "realized": -0.055,
  "paper_positions": [
   {
-   "market": "aec-nhl-tor-cbj-2026-10-20",
-   "game": "nhl:TOR@CBJ",
-   "side": "short",
-   "team": "Blue Jackets",
+   "market": "aec-nhl-sj-mon-2026-10-20",
+   "game": "nhl:SJ@MTL",
+   "side": "long",
+   "team": "Sharks",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-10-20 20:30 ET",
+   "opened": "2026-10-20 20:36 ET",
    "mode": "bounce",
    "last_bid": 0.1
   }
@@ -52,6 +52,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-cbj-2026-10-20",
+   "game": "nhl:TOR@CBJ",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-20 20:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-20 20:36 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -67,9 +84,16 @@
     1792542640.6270437,
     0.1
    ]
+  ],
+  "aec-nhl-sj-mon-2026-10-20": [
+   [
+    1792542987.8662453,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
-  "aec-nba-bos-det-2026-10-20": 1792533351.298665
+  "aec-nba-bos-det-2026-10-20": 1792533351.298665,
+  "aec-nhl-tor-cbj-2026-10-20": 1792544787.3444102
  }
 }
