@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 23:21 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-20 23:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 9 (main 1/5, bounce 8/20)
 - Realized P&L: -0.70
 
 ## Open paper positions
-- **Wild** (long/bounce) — 1.25 @ 0.0800, now ~0.0700, unrealized -0.0125 (TP 0.1600 / SL 0.0320)
-- **Red Wings** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Wild** (long/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- **Red Wings** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-20 22:36 ET: Jets [main] — settled @ 0.0100 → -0.4546
@@ -20,4 +20,4 @@ Updated: 2026-10-20 23:21 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:DET@SEA", "market": "aec-nhl-det-sea-2026-10-20", "side": "long", "team": "Red Wings", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
