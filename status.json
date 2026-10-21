@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T21:26:58.060977-04:00",
+ "updated": "2026-10-20T21:31:17.025655-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.2,
+ "duration_s": 3.3,
  "daily": {
   "date": "2026-10-20",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Avalanche",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  }
- ]
+ "actions": []
 }
