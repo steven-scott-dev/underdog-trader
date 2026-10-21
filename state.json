@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": -0.055,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-10-20 20:36 ET",
    "mode": "bounce",
    "last_bid": 0.06
+  },
+  {
+   "market": "aec-nhl-ana-nyi-2026-10-20",
+   "game": "nhl:ANA@NYI",
+   "side": "long",
+   "team": "Ducks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-20 21:01 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -89,6 +102,12 @@
    [
     1792542987.8662453,
     0.1
+   ]
+  ],
+  "aec-nhl-ana-nyi-2026-10-20": [
+   [
+    1792544502.6390975,
+    0.08
    ]
   ]
  },
