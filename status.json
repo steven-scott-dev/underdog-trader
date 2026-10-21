@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T23:41:01.432972-04:00",
+ "updated": "2026-10-20T23:46:24.355346-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-10-20",
   "bets": 9,
@@ -168,12 +168,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Red Wings",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 23:41 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-20 23:46 ET · Mode: **PAPER** · Result: OK (2.8s)
 
 ## Today
 - Bets placed: 9 (main 1/5, bounce 8/20)
@@ -20,4 +20,4 @@ Updated: 2026-10-20 23:41 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-20 17:25 ET: Celtics [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Red Wings", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
