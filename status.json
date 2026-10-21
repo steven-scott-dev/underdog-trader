@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-21T00:06:18.568779-04:00",
+ "updated": "2026-10-21T00:10:56.369739-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-21",
-  "bets": 1,
+  "bets": 2,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 20,
@@ -23,7 +23,20 @@
    "sl": 0.032,
    "opened": "2026-10-21 00:06 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nhl-det-sea-2026-10-20",
+   "game": "nhl:DET@SEA",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.14,
+   "qty": 3.5714,
+   "tp": 0.35,
+   "sl": 0.056,
+   "opened": "2026-10-21 00:10 ET",
+   "mode": "main",
+   "last_bid": 0.14
   }
  ],
  "paper_history": [],
@@ -31,14 +44,14 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nba:OKC@SA",
-   "market": "aec-nba-okc-sa-2026-10-20",
-   "side": "short",
-   "team": "Spurs",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "game": "nhl:DET@SEA",
+   "market": "aec-nhl-det-sea-2026-10-20",
+   "side": "long",
+   "team": "Red Wings",
+   "ask": 0.14,
+   "qty": 3.5714,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
