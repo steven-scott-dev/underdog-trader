@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-20 21:21 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-20 21:26 ET · Mode: **PAPER** · Result: OK (14.2s)
 
 ## Today
 - Bets placed: 6 (main 0/5, bounce 6/20)
-- Realized P&L: -0.18
+- Realized P&L: -0.25
 
 ## Open paper positions
-- **Avalanche** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
+- _none_
 
 ## Recent history
+- 2026-10-20 21:26 ET: Avalanche [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-10-20 21:21 ET: Ducks [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-10-20 21:15 ET: Sharks [bounce] — stop-loss @ 0.0400 → -0.0600
 - 2026-10-20 20:36 ET: Blue Jackets [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -17,4 +18,4 @@ Updated: 2026-10-20 21:21 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-10-20 16:40 ET: Pistons [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ducks", "reason": "stop-loss", "pnl": -0.0625}`
+- `{"type": "paper_close", "team": "Avalanche", "reason": "stop-loss", "pnl": -0.0714}`

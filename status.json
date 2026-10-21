@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-20T21:21:23.028094-04:00",
+ "updated": "2026-10-20T21:26:58.060977-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 14.2,
  "daily": {
   "date": "2026-10-20",
   "bets": 6,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.1775
+  "realized": -0.2489
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-col-nj-2026-10-20",
-   "game": "nhl:COL@NJ",
-   "side": "long",
-   "team": "Avalanche",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-20 21:06 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-bos-det-2026-10-20",
@@ -111,15 +97,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-col-nj-2026-10-20",
+   "game": "nhl:COL@NJ",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-20 21:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-20 21:26 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Ducks",
+   "team": "Avalanche",
    "reason": "stop-loss",
-   "pnl": -0.0625
+   "pnl": -0.0714
   }
  ]
 }
