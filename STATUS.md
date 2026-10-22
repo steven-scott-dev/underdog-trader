@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 22:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-21 22:30 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 10 (main 3/5, bounce 7/20)
 - Realized P&L: -0.10
 
 ## Open paper positions
-- **Pelicans** (short/main) — 1.5625 @ 0.3200, now ~0.4500, unrealized +0.2031 (TP 0.8000 / SL 0.1280)
+- **Pelicans** (short/main) — 1.5625 @ 0.3200, now ~0.2400, unrealized -0.1250 (TP 0.8000 / SL 0.1280)
 
 ## Recent history
 - 2026-10-21 22:05 ET: Panthers [bounce] — stop-loss @ 0.0200 → -0.0778
