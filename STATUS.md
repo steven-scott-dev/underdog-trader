@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 22:20 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-10-21 22:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 10 (main 3/5, bounce 7/20)
 - Realized P&L: -0.10
 
 ## Open paper positions
-- **Pelicans** (short/main) — 1.5625 @ 0.3200, now ~0.3200, unrealized +0.0000 (TP 0.8000 / SL 0.1280)
+- **Pelicans** (short/main) — 1.5625 @ 0.3200, now ~0.4500, unrealized +0.2031 (TP 0.8000 / SL 0.1280)
 
 ## Recent history
 - 2026-10-21 22:05 ET: Panthers [bounce] — stop-loss @ 0.0200 → -0.0778
@@ -20,4 +20,4 @@ Updated: 2026-10-21 22:20 ET · Mode: **PAPER** · Result: OK (2.8s)
 - 2026-10-21 00:20 ET: Red Wings [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:IND@NO", "market": "aec-nba-ind-no-2026-10-21", "side": "short", "team": "Pelicans", "ask": 0.32, "qty": 1.5625, "stake": 0.5, "mode": "main"}`
+- _none_

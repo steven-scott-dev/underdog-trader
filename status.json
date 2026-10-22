@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T22:20:37.718462-04:00",
+ "updated": "2026-10-21T22:25:35.706285-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-21",
   "bets": 10,
@@ -23,7 +23,7 @@
    "sl": 0.128,
    "opened": "2026-10-21 22:20 ET",
    "mode": "main",
-   "last_bid": 0.32
+   "last_bid": 0.45
   }
  ],
  "paper_history": [
@@ -182,17 +182,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:IND@NO",
-   "market": "aec-nba-ind-no-2026-10-21",
-   "side": "short",
-   "team": "Pelicans",
-   "ask": 0.32,
-   "qty": 1.5625,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
