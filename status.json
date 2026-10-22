@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-21T22:30:41.515287-04:00",
+ "updated": "2026-10-21T22:35:39.854385-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-21",
   "bets": 10,
   "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.0962
+  "realized": 0.6538
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-ind-no-2026-10-21",
-   "game": "nba:IND@NO",
-   "side": "short",
-   "team": "Pelicans",
-   "entry": 0.32,
-   "qty": 1.5625,
-   "tp": 0.8,
-   "sl": 0.128,
-   "opened": "2026-10-21 22:20 ET",
-   "mode": "main",
-   "last_bid": 0.24
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -179,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-ind-no-2026-10-21",
+   "game": "nba:IND@NO",
+   "side": "short",
+   "team": "Pelicans",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "tp": 0.8,
+   "sl": 0.128,
+   "opened": "2026-10-21 22:20 ET",
+   "mode": "main",
+   "last_bid": 0.24,
+   "closed": "2026-10-21 22:35 ET",
+   "exit": 0.8,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Pelicans",
+   "reason": "take-profit",
+   "pnl": 0.75
+  }
+ ]
 }
