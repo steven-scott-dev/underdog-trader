@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "bets": 6,
- "bounce_bets": 5,
+ "bets": 7,
+ "bounce_bets": 6,
  "realized": 0.6055,
  "paper_positions": [
   {
@@ -14,6 +14,19 @@
    "tp": 0.18,
    "sl": 0.036,
    "opened": "2026-10-21 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-min-mia-2026-10-21",
+   "game": "nba:MIN@MIA",
+   "side": "short",
+   "team": "Heat",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-21 21:35 ET",
    "mode": "bounce",
    "last_bid": 0.08
   }
@@ -135,6 +148,12 @@
    [
     1792632335.9588761,
     0.09
+   ]
+  ],
+  "aec-nba-min-mia-2026-10-21": [
+   [
+    1792632937.7629583,
+    0.08
    ]
   ]
  },
