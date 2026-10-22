@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 20:11 ET · Mode: **PAPER** · Result: OK (12.4s)
+Updated: 2026-10-21 20:15 ET · Mode: **PAPER** · Result: OK (11.9s)
 
 ## Today
 - Bets placed: 4 (main 1/5, bounce 3/20)
 - Realized P&L: +0.78
 
 ## Open paper positions
-- **Bulls** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Bulls** (long/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-21 00:30 ET: Canucks [bounce] — stop-loss @ 0.0200 → -0.0667
