@@ -1,9 +1,23 @@
 {
  "date": "2026-10-21",
- "bets": 4,
- "bounce_bets": 3,
+ "bets": 5,
+ "bounce_bets": 4,
  "realized": 0.7055,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-chi-tor-2026-10-21",
+   "game": "nba:CHI@TOR",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.03,
+   "qty": 3.3333,
+   "tp": 0.06,
+   "sl": 0.012,
+   "opened": "2026-10-21 21:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.03
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -96,8 +110,8 @@
   ],
   "aec-nba-chi-tor-2026-10-21": [
    [
-    1792627844.3014493,
-    0.09
+    1792631443.238881,
+    0.03
    ]
   ]
  },
