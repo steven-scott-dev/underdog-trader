@@ -1,9 +1,23 @@
 {
  "date": "2026-10-21",
- "bets": 5,
- "bounce_bets": 4,
+ "bets": 6,
+ "bounce_bets": 5,
  "realized": 0.6055,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-fla-ott-2026-10-21",
+   "game": "nhl:FLA@OTT",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-21 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -115,6 +129,12 @@
    [
     1792631443.238881,
     0.03
+   ]
+  ],
+  "aec-nhl-fla-ott-2026-10-21": [
+   [
+    1792632335.9588761,
+    0.09
    ]
   ]
  },
