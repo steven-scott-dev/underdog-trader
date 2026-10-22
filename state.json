@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "bets": 7,
+ "bets": 8,
  "bounce_bets": 6,
  "realized": 0.6055,
  "paper_positions": [
@@ -28,7 +28,20 @@
    "sl": 0.032,
    "opened": "2026-10-21 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-atl-orl-2026-10-21",
+   "game": "nba:ATL@ORL",
+   "side": "short",
+   "team": "Magic",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-21 21:40 ET",
+   "mode": "main",
+   "last_bid": 0.33
   }
  ],
  "paper_history": [
@@ -154,6 +167,12 @@
    [
     1792632937.7629583,
     0.08
+   ]
+  ],
+  "aec-nba-atl-orl-2026-10-21": [
+   [
+    1792633237.1746275,
+    0.33
    ]
   ]
  },
