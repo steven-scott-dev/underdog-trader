@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-21T22:00:46.648425-04:00",
+ "updated": "2026-10-21T22:05:37.773142-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.2,
+ "duration_s": 3.6,
  "daily": {
   "date": "2026-10-21",
   "bets": 9,
   "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.0184
+  "realized": -0.0962
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-fla-ott-2026-10-21",
-   "game": "nhl:FLA@OTT",
-   "side": "long",
-   "team": "Panthers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-21 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -162,15 +148,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-fla-ott-2026-10-21",
+   "game": "nhl:FLA@OTT",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-21 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-21 22:05 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Sabres",
+   "team": "Panthers",
    "reason": "stop-loss",
-   "pnl": -0.0667
+   "pnl": -0.0778
   }
  ]
 }
