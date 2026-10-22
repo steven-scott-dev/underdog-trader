@@ -2,22 +2,8 @@
  "date": "2026-10-21",
  "bets": 4,
  "bounce_bets": 3,
- "realized": 0.7833,
- "paper_positions": [
-  {
-   "market": "aec-nba-chi-tor-2026-10-21",
-   "game": "nba:CHI@TOR",
-   "side": "long",
-   "team": "Bulls",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-21 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 0.7055,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -69,6 +55,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-chi-tor-2026-10-21",
+   "game": "nba:CHI@TOR",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-21 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-21 20:25 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -99,6 +102,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nhl-car-van-2026-10-20": 1792558833.2939837
+  "aec-nhl-car-van-2026-10-20": 1792558833.2939837,
+  "aec-nba-chi-tor-2026-10-21": 1792630541.168944
  }
 }

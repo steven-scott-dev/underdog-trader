@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-21T20:20:37.027939-04:00",
+ "updated": "2026-10-21T20:25:43.733244-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-21",
   "bets": 4,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": 0.7833
+  "realized": 0.7055
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-chi-tor-2026-10-21",
-   "game": "nba:CHI@TOR",
-   "side": "long",
-   "team": "Bulls",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-21 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-okc-sa-2026-10-20",
@@ -77,8 +63,32 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-chi-tor-2026-10-21",
+   "game": "nba:CHI@TOR",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-21 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-21 20:25 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Bulls",
+   "reason": "stop-loss",
+   "pnl": -0.0778
+  }
+ ]
 }
