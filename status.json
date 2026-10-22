@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T20:25:43.733244-04:00",
+ "updated": "2026-10-21T20:30:36.778293-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-21",
   "bets": 4,
@@ -83,12 +83,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bulls",
-   "reason": "stop-loss",
-   "pnl": -0.0778
-  }
- ]
+ "actions": []
 }

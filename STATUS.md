@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 20:25 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-10-21 20:30 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 4 (main 1/5, bounce 3/20)
@@ -16,4 +16,4 @@ Updated: 2026-10-21 20:25 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-10-21 00:17 ET: Spurs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Bulls", "reason": "stop-loss", "pnl": -0.0778}`
+- _none_
