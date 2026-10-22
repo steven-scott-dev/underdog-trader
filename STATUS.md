@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 00:30 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-22 00:35 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 1 (main 0/5, bounce 1/20)
@@ -13,4 +13,4 @@ Updated: 2026-10-22 00:30 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-22 00:30 ET: Kings [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kings", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

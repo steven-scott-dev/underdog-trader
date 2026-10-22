@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T00:30:50.267498-04:00",
+ "updated": "2026-10-22T00:35:35.177444-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-10-22",
   "bets": 1,
@@ -32,12 +32,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kings",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
