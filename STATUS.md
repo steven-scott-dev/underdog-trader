@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 22:05 ET · Mode: **PAPER** · Result: OK (3.6s)
+Updated: 2026-10-21 22:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 9 (main 2/5, bounce 7/20)
@@ -20,4 +20,4 @@ Updated: 2026-10-21 22:05 ET · Mode: **PAPER** · Result: OK (3.6s)
 - 2026-10-21 00:20 ET: Red Wings [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Panthers", "reason": "stop-loss", "pnl": -0.0778}`
+- _none_
