@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T21:50:34.982306-04:00",
+ "updated": "2026-10-21T21:56:01.748735-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-21",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-21 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
   },
   {
    "market": "aec-nhl-phi-buf-2026-10-21",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-21 21:45 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [

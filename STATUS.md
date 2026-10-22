@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 21:50 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-21 21:56 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 9 (main 2/5, bounce 7/20)
 - Realized P&L: +0.05
 
 ## Open paper positions
-- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
-- **Sabres** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
+- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Sabres** (short/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-21 21:45 ET: Magic [main] — stop-loss @ 0.0200 → -0.4697
