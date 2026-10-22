@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 21:45 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-21 21:50 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 9 (main 2/5, bounce 7/20)
@@ -8,7 +8,7 @@ Updated: 2026-10-21 21:45 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Open paper positions
 - **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
-- **Sabres** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Sabres** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-21 21:45 ET: Magic [main] — stop-loss @ 0.0200 → -0.4697
@@ -20,6 +20,4 @@ Updated: 2026-10-21 21:45 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-21 00:17 ET: Spurs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Heat", "reason": "stop-loss", "pnl": -0.0875}`
-- `{"type": "paper_close", "team": "Magic", "reason": "stop-loss", "pnl": -0.4697}`
-- `{"type": "buy", "game": "nhl:PHI@BUF", "market": "aec-nhl-phi-buf-2026-10-21", "side": "short", "team": "Sabres", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_

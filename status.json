@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T21:45:41.166190-04:00",
+ "updated": "2026-10-21T21:50:34.982306-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-21",
   "bets": 9,
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-21 21:45 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -161,29 +161,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Heat",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  },
-  {
-   "type": "paper_close",
-   "team": "Magic",
-   "reason": "stop-loss",
-   "pnl": -0.4697
-  },
-  {
-   "type": "buy",
-   "game": "nhl:PHI@BUF",
-   "market": "aec-nhl-phi-buf-2026-10-21",
-   "side": "short",
-   "team": "Sabres",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
