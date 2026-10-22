@@ -1,17 +1,18 @@
 {
- "updated": "2026-10-22T00:25:37.865005-04:00",
+ "updated": "2026-10-22T00:30:50.267498-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-22",
   "bets": 1,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": 0.0
+  "realized": -0.0667
  },
- "paper_positions": [
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
    "game": "nba:SAC@LAC",
@@ -23,10 +24,20 @@
    "sl": 0.024,
    "opened": "2026-10-22 00:20 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.05,
+   "closed": "2026-10-22 00:30 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Kings",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }
