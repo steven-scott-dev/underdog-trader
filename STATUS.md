@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-21 22:35 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-21 22:40 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 10 (main 3/5, bounce 7/20)
@@ -20,4 +20,4 @@ Updated: 2026-10-21 22:35 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-21 00:30 ET: Canucks [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pelicans", "reason": "take-profit", "pnl": 0.75}`
+- _none_

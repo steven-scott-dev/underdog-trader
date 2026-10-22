@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T22:35:39.854385-04:00",
+ "updated": "2026-10-21T22:40:45.540265-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-21",
   "bets": 10,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Pelicans",
-   "reason": "take-profit",
-   "pnl": 0.75
-  }
- ]
+ "actions": []
 }
