@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-23T00:40:36.586812-04:00",
+ "updated": "2026-10-23T00:45:34.399029-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-23",
-  "bets": 1,
+  "bets": 2,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 20,
   "realized": -0.07
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-uta-sea-2026-10-22",
+   "game": "nhl:UTA@SEA",
+   "side": "long",
+   "team": "Mammoth",
+   "entry": 0.19,
+   "qty": 2.6316,
+   "tp": 0.475,
+   "sl": 0.076,
+   "opened": "2026-10-23 00:45 ET",
+   "mode": "main",
+   "last_bid": 0.19
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -32,5 +46,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:UTA@SEA",
+   "market": "aec-nhl-uta-sea-2026-10-22",
+   "side": "long",
+   "team": "Mammoth",
+   "ask": 0.19,
+   "qty": 2.6316,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
