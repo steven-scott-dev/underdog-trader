@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 18:30 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-23 18:35 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 4 (main 3/5, bounce 1/50)
 - Realized P&L: +0.36
 
 ## Open paper positions
-- **Bulls** (long/main) — 1.4286 @ 0.3500, now ~0.4400, unrealized +0.1286 (TP 0.8750 / SL 0.1400)
+- **Bulls** (long/main) — 1.4286 @ 0.3500, now ~0.5100, unrealized +0.2286 (TP 0.8750 / SL 0.1400)
 
 ## Recent history
 - 2026-10-23 18:24 ET: Bucks [main] — take-profit @ 0.6000 → +0.7500
