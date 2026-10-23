@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-22T21:30:55.042834-04:00",
+ "updated": "2026-10-22T21:35:49.862492-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 20.0,
+ "duration_s": 12.2,
  "daily": {
   "date": "2026-10-22",
-  "bets": 6,
+  "bets": 7,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.1767
+  "realized": -0.0767
  },
  "paper_positions": [
   {
-   "market": "aec-nhl-sj-ott-2026-10-22",
-   "game": "nhl:SJ@OTT",
-   "side": "short",
-   "team": "Senators",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-22 20:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "game": "nba:CLE@PHI",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-10-22 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -111,8 +111,43 @@
    "exit": 0.01,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-sj-ott-2026-10-22",
+   "game": "nhl:SJ@OTT",
+   "side": "short",
+   "team": "Senators",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-22 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-22 21:35 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Senators",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nba:CLE@PHI",
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "side": "long",
+   "team": "Cavaliers",
+   "ask": 0.16,
+   "qty": 3.125,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
