@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T22:20:58.351815-04:00",
+ "updated": "2026-10-22T22:25:49.519951-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.7,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-22",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Golden Knights",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }
