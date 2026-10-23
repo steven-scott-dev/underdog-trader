@@ -1,9 +1,23 @@
 {
  "date": "2026-10-22",
- "bets": 10,
- "bounce_bets": 7,
+ "bets": 11,
+ "bounce_bets": 8,
  "realized": -0.3838,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-det-van-2026-10-22",
+   "game": "nhl:DET@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-22 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -230,6 +244,12 @@
    [
     1792724736.6998856,
     0.0875
+   ]
+  ],
+  "aec-nhl-det-van-2026-10-22": [
+   [
+    1792725638.5618563,
+    0.1
    ]
   ]
  },
