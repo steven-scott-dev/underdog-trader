@@ -2,22 +2,8 @@
  "date": "2026-10-23",
  "bets": 2,
  "bounce_bets": 1,
- "realized": -0.07,
- "paper_positions": [
-  {
-   "market": "aec-nhl-uta-sea-2026-10-22",
-   "game": "nhl:UTA@SEA",
-   "side": "long",
-   "team": "Mammoth",
-   "entry": 0.19,
-   "qty": 2.6316,
-   "tp": 0.475,
-   "sl": 0.076,
-   "opened": "2026-10-23 00:45 ET",
-   "mode": "main",
-   "last_bid": 0.19
-  }
- ],
+ "realized": -0.3858,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -34,6 +20,23 @@
    "closed": "2026-10-23 00:10 ET",
    "exit": 0.03,
    "pnl": -0.07,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-uta-sea-2026-10-22",
+   "game": "nhl:UTA@SEA",
+   "side": "long",
+   "team": "Mammoth",
+   "entry": 0.19,
+   "qty": 2.6316,
+   "tp": 0.475,
+   "sl": 0.076,
+   "opened": "2026-10-23 00:45 ET",
+   "mode": "main",
+   "last_bid": 0.19,
+   "closed": "2026-10-23 00:50 ET",
+   "exit": 0.07,
+   "pnl": -0.3158,
    "reason": "stop-loss"
   }
  ],
@@ -53,6 +56,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nba-den-okc-2026-10-22": 1792730440.9070125
+  "aec-nba-den-okc-2026-10-22": 1792730440.9070125,
+  "aec-nhl-uta-sea-2026-10-22": 1792732831.7463171
  }
 }
