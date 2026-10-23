@@ -2,7 +2,7 @@
  "date": "2026-10-22",
  "bets": 6,
  "bounce_bets": 6,
- "realized": -0.11,
+ "realized": -0.1767,
  "paper_positions": [
   {
    "market": "aec-nhl-sj-ott-2026-10-22",
@@ -14,19 +14,6 @@
    "tp": 0.14,
    "sl": 0.028,
    "opened": "2026-10-22 20:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nhl-fla-pit-2026-10-22",
-   "game": "nhl:FLA@PIT",
-   "side": "long",
-   "team": "Panthers",
-   "entry": 0.03,
-   "qty": 3.3333,
-   "tp": 0.06,
-   "sl": 0.012,
-   "opened": "2026-10-22 21:05 ET",
    "mode": "bounce",
    "last_bid": 0.03
   }
@@ -99,6 +86,23 @@
    "exit": 0.04,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-fla-pit-2026-10-22",
+   "game": "nhl:FLA@PIT",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.03,
+   "qty": 3.3333,
+   "tp": 0.06,
+   "sl": 0.012,
+   "opened": "2026-10-22 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-22 21:10 ET",
+   "exit": 0.01,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -143,6 +147,7 @@
  "cooldowns": {
   "aec-nba-sac-lac-2026-10-21": 1792645249.7883875,
   "aec-nhl-nas-bos-2026-10-22": 1792717838.0711534,
-  "aec-nhl-ana-nj-2026-10-22": 1792719334.3506248
+  "aec-nhl-ana-nj-2026-10-22": 1792719334.3506248,
+  "aec-nhl-fla-pit-2026-10-22": 1792719640.3959403
  }
 }
