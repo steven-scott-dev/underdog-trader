@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 21:15 ET · Mode: **PAPER** · Result: OK (14.6s)
+Updated: 2026-10-22 21:20 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Today
 - Bets placed: 6 (main 0/5, bounce 6/20)
 - Realized P&L: -0.18
 
 ## Open paper positions
-- **Senators** (short/bounce) — 1.4286 @ 0.0700, now ~0.0900, unrealized +0.0286 (TP 0.1400 / SL 0.0280)
+- **Senators** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-22 21:10 ET: Panthers [bounce] — stop-loss @ 0.0100 → -0.0667
