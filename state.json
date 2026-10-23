@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": -0.0667,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.024,
    "opened": "2026-10-22 20:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.06
   },
   {
    "market": "aec-nhl-ana-nj-2026-10-22",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-22 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nhl-nas-bos-2026-10-22",
+   "game": "nhl:NSH@BOS",
+   "side": "long",
+   "team": "Predators",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-22 20:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -68,6 +81,12 @@
    [
     1792714539.7274306,
     0.1
+   ]
+  ],
+  "aec-nhl-nas-bos-2026-10-22": [
+   [
+    1792714834.7957175,
+    0.06
    ]
   ]
  },
