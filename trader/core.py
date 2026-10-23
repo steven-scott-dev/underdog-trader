@@ -52,7 +52,7 @@ DEFAULT_CONFIG = {
         "stop_loss_mult": 0.40,
         "min_buy_price": 0.02,
         "max_buy_price": 0.10,
-        "max_bets_per_day": 20,
+        "max_bets_per_day": 50,
     },
     "poll_seconds": 20,          # local runs only; Vercel uses cron
     "sports": {
