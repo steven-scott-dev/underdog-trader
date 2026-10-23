@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-22T23:30:39.582949-04:00",
+ "updated": "2026-10-22T23:35:35.258727-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-22",
-  "bets": 12,
+  "bets": 13,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 20,
@@ -23,7 +23,20 @@
    "sl": 0.052,
    "opened": "2026-10-22 23:30 ET",
    "mode": "main",
-   "last_bid": 0.13
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-nhl-car-edm-2026-10-22",
+   "game": "nhl:CAR@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-22 23:35 ET",
+   "mode": "main",
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
@@ -201,19 +214,13 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Canucks",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  },
-  {
    "type": "buy",
-   "game": "nhl:MIN@CGY",
-   "market": "aec-nhl-min-cgy-2026-10-22",
-   "side": "long",
-   "team": "Wild",
-   "ask": 0.13,
-   "qty": 3.8462,
+   "game": "nhl:CAR@EDM",
+   "market": "aec-nhl-car-edm-2026-10-22",
+   "side": "short",
+   "team": "Oilers",
+   "ask": 0.4,
+   "qty": 1.25,
    "stake": 0.5,
    "mode": "main"
   }

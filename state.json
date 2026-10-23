@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 8,
  "realized": -0.4638,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.052,
    "opened": "2026-10-22 23:30 ET",
    "mode": "main",
-   "last_bid": 0.13
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-nhl-car-edm-2026-10-22",
+   "game": "nhl:CAR@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-22 23:35 ET",
+   "mode": "main",
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
@@ -273,6 +286,12 @@
    [
     1792726238.8461773,
     0.13
+   ]
+  ],
+  "aec-nhl-car-edm-2026-10-22": [
+   [
+    1792726535.0295804,
+    0.4
    ]
   ]
  },
