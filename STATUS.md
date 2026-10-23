@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 23:45 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-22 23:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 13 (main 5/5, bounce 8/20)
 - Realized P&L: -0.93
 
 ## Open paper positions
-- **Oilers** (short/main) — 1.25 @ 0.4000, now ~0.5100, unrealized +0.1375 (TP 0.9900 / SL 0.1600)
+- **Oilers** (short/main) — 1.25 @ 0.4000, now ~0.4700, unrealized +0.0875 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-22 23:40 ET: Wild [main] — settled @ 0.0100 → -0.4615
