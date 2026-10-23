@@ -1,22 +1,9 @@
 {
  "date": "2026-10-22",
- "bets": 4,
- "bounce_bets": 4,
- "realized": -0.0667,
+ "bets": 5,
+ "bounce_bets": 5,
+ "realized": 0.0333,
  "paper_positions": [
-  {
-   "market": "aec-nba-cle-phi-2026-10-22",
-   "game": "nba:CLE@PHI",
-   "side": "short",
-   "team": "76ers",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-22 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-nhl-ana-nj-2026-10-22",
    "game": "nhl:ANA@NJ",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-22 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   },
   {
    "market": "aec-nhl-nas-bos-2026-10-22",
@@ -41,7 +28,20 @@
    "sl": 0.024,
    "opened": "2026-10-22 20:20 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-nhl-sj-ott-2026-10-22",
+   "game": "nhl:SJ@OTT",
+   "side": "short",
+   "team": "Senators",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-22 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -61,6 +61,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "game": "nba:CLE@PHI",
+   "side": "short",
+   "team": "76ers",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-22 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-22 20:35 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -87,6 +104,12 @@
    [
     1792714834.7957175,
     0.06
+   ]
+  ],
+  "aec-nhl-sj-ott-2026-10-22": [
+   [
+    1792715748.5132399,
+    0.07
    ]
   ]
  },
