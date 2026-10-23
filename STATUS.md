@@ -1,23 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 23:55 ET · Mode: **PAPER** · Result: OK (0.6s)
+Updated: 2026-10-23 00:00 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 13 (main 5/5, bounce 8/20)
-- Realized P&L: -0.93
+- Bets placed: 0 (main 0/5, bounce 0/20)
+- Realized P&L: +0.00
 
 ## Open paper positions
-- **Oilers** (short/main) — 1.25 @ 0.4000, now ~0.3700, unrealized -0.0375 (TP 0.9900 / SL 0.1600)
+- _none_
 
 ## Recent history
-- 2026-10-22 23:40 ET: Wild [main] — settled @ 0.0100 → -0.4615
-- 2026-10-22 23:30 ET: Canucks [bounce] — stop-loss @ 0.0200 → -0.0800
-- 2026-10-22 23:15 ET: Patriots [main] — stop-loss @ 0.0075 → -0.4571
-- 2026-10-22 22:35 ET: Stars [main] — take-profit @ 0.4000 → +0.7500
-- 2026-10-22 22:20 ET: Golden Knights [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-10-22 21:50 ET: Cavaliers [main] — stop-loss @ 0.0000 → -0.5000
-- 2026-10-22 21:35 ET: Senators [bounce] — take-profit @ 0.1400 → +0.1000
-- 2026-10-22 21:10 ET: Panthers [bounce] — stop-loss @ 0.0100 → -0.0667
+- _none yet_
 
 ## Last run actions
 - _none_
