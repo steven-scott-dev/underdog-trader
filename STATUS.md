@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 21:40 ET · Mode: **PAPER** · Result: OK (13.2s)
+Updated: 2026-10-22 21:45 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 7 (main 1/5, bounce 6/20)
 - Realized P&L: -0.08
 
 ## Open paper positions
-- **Cavaliers** (long/main) — 3.125 @ 0.1600, now ~0.1100, unrealized -0.1562 (TP 0.4000 / SL 0.0640)
+- **Cavaliers** (long/main) — 3.125 @ 0.1600, now ~0.1200, unrealized -0.1250 (TP 0.4000 / SL 0.0640)
 
 ## Recent history
 - 2026-10-22 21:35 ET: Senators [bounce] — take-profit @ 0.1400 → +0.1000
