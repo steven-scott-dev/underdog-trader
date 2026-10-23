@@ -2,22 +2,8 @@
  "date": "2026-10-22",
  "bets": 8,
  "bounce_bets": 7,
- "realized": -0.5767,
- "paper_positions": [
-  {
-   "market": "aec-nhl-veg-stl-2026-10-22",
-   "game": "nhl:VGK@STL",
-   "side": "long",
-   "team": "Golden Knights",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-22 22:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.6767,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -137,6 +123,23 @@
    "exit": 0.0,
    "pnl": -0.5,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-veg-stl-2026-10-22",
+   "game": "nhl:VGK@STL",
+   "side": "long",
+   "team": "Golden Knights",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-22 22:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-22 22:20 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -189,6 +192,7 @@
   "aec-nhl-nas-bos-2026-10-22": 1792717838.0711534,
   "aec-nhl-ana-nj-2026-10-22": 1792719334.3506248,
   "aec-nhl-fla-pit-2026-10-22": 1792719640.3959403,
-  "aec-nba-cle-phi-2026-10-22": 1792722035.1237166
+  "aec-nba-cle-phi-2026-10-22": 1792722035.1237166,
+  "aec-nhl-veg-stl-2026-10-22": 1792723846.0077
  }
 }
