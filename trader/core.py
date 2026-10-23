@@ -44,6 +44,7 @@ DEFAULT_CONFIG = {
     "reentry_cooldown_min": 30,   # don't re-enter a market this long after a stop-loss
     "waterfall_drop_mult": 0.5,   # skip buy if ask < this × max ask seen recently
     "waterfall_window_sec": 900,  # lookback window for the waterfall check
+    "min_bid_ask_ratio": 0.7,     # skip buy if exit bid < this × ask (wide spread = starts underwater)
     "bounce": {               # second mode: early + extreme, smaller stake
         "enabled": True,
         "stake_usd": 0.10,
@@ -573,6 +574,12 @@ def run_pass():
             bcfg = cfg if mode == "main" else cfg["bounce"]
             if not (bcfg["min_buy_price"] <= ask <= bcfg["max_buy_price"]) or ask <= 0:
                 log(f"  ask outside {mode} buy window, skipping")
+                continue
+            # spread filter: positions exit at the bid, so a wide spread
+            # means starting deep underwater -> instant stop-outs
+            exit_bid = paper_bid(q, dog)
+            if exit_bid is None or exit_bid < cfg["min_bid_ask_ratio"] * ask:
+                log(f"  spread too wide (bid {exit_bid} vs ask {ask:.4f}), skipping")
                 continue
             # waterfall filter: don't buy into a collapsing price
             now_ts = time.time()
