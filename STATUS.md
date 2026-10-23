@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 22:35 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-10-22 22:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 9 (main 2/5, bounce 7/20)
@@ -20,4 +20,4 @@ Updated: 2026-10-22 22:35 ET · Mode: **PAPER** · Result: OK (12.3s)
 - 2026-10-22 20:35 ET: 76ers [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Stars", "reason": "take-profit", "pnl": 0.75}`
+- _none_
