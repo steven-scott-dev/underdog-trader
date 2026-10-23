@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T21:35:49.862492-04:00",
+ "updated": "2026-10-22T21:40:45.959786-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 13.2,
  "daily": {
   "date": "2026-10-22",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.064,
    "opened": "2026-10-22 21:35 ET",
    "mode": "main",
-   "last_bid": 0.16
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -131,23 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Senators",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "nba:CLE@PHI",
-   "market": "aec-nba-cle-phi-2026-10-22",
-   "side": "long",
-   "team": "Cavaliers",
-   "ask": 0.16,
-   "qty": 3.125,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
