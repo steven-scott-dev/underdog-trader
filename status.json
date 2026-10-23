@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T20:40:51.358394-04:00",
+ "updated": "2026-10-22T20:45:38.704962-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-22",
   "bets": 5,
@@ -36,7 +36,7 @@
    "sl": 0.028,
    "opened": "2026-10-22 20:35 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -93,12 +93,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Predators",
-   "reason": "stop-loss",
-   "pnl": -0.0833
-  }
- ]
+ "actions": []
 }
