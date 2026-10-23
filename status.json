@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-22T22:25:49.519951-04:00",
+ "updated": "2026-10-22T22:30:52.274896-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.7,
+ "duration_s": 13.5,
  "daily": {
   "date": "2026-10-22",
-  "bets": 8,
+  "bets": 9,
   "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 20,
   "realized": -0.6767
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-wpg-dal-2026-10-22",
+   "game": "nhl:WPG@DAL",
+   "side": "short",
+   "team": "Stars",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-10-22 22:30 ET",
+   "mode": "main",
+   "last_bid": 0.16
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -151,5 +165,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:WPG@DAL",
+   "market": "aec-nhl-wpg-dal-2026-10-22",
+   "side": "short",
+   "team": "Stars",
+   "ask": 0.16,
+   "qty": 3.125,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
