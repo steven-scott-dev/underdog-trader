@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 23:05 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-22 23:10 ET · Mode: **PAPER** · Result: OK (12.4s)
 
 ## Today
 - Bets placed: 10 (main 3/5, bounce 7/20)
 - Realized P&L: +0.07
 
 ## Open paper positions
-- **Patriots** (long/main) — 5.7143 @ 0.0875, now ~0.0875, unrealized +0.0000 (TP 0.2188 / SL 0.0350)
+- **Patriots** (long/main) — 5.7143 @ 0.0875, now ~0.0425, unrealized -0.2571 (TP 0.2188 / SL 0.0350)
 
 ## Recent history
 - 2026-10-22 22:35 ET: Stars [main] — take-profit @ 0.4000 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-10-22 23:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-22 20:35 ET: 76ers [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:NE@CHI", "market": "aec-nfl-ne-chi-2026-10-22", "side": "long", "team": "Patriots", "ask": 0.0875, "qty": 5.7143, "stake": 0.5, "mode": "main"}`
+- _none_
