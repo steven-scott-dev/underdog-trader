@@ -2,22 +2,8 @@
  "date": "2026-10-22",
  "bets": 10,
  "bounce_bets": 7,
- "realized": 0.0733,
- "paper_positions": [
-  {
-   "market": "aec-nfl-ne-chi-2026-10-22",
-   "game": "nfl:NE@CHI",
-   "side": "long",
-   "team": "Patriots",
-   "entry": 0.0875,
-   "qty": 5.7143,
-   "tp": 0.2188,
-   "sl": 0.035,
-   "opened": "2026-10-22 23:05 ET",
-   "mode": "main",
-   "last_bid": 0.0425
-  }
- ],
+ "realized": -0.3838,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -171,6 +157,23 @@
    "exit": 0.4,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-ne-chi-2026-10-22",
+   "game": "nfl:NE@CHI",
+   "side": "long",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 5.7143,
+   "tp": 0.2188,
+   "sl": 0.035,
+   "opened": "2026-10-22 23:05 ET",
+   "mode": "main",
+   "last_bid": 0.0425,
+   "closed": "2026-10-22 23:15 ET",
+   "exit": 0.0075,
+   "pnl": -0.4571,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -236,6 +239,7 @@
   "aec-nhl-ana-nj-2026-10-22": 1792719334.3506248,
   "aec-nhl-fla-pit-2026-10-22": 1792719640.3959403,
   "aec-nba-cle-phi-2026-10-22": 1792722035.1237166,
-  "aec-nhl-veg-stl-2026-10-22": 1792723846.0077
+  "aec-nhl-veg-stl-2026-10-22": 1792723846.0077,
+  "aec-nfl-ne-chi-2026-10-22": 1792727136.0487962
  }
 }

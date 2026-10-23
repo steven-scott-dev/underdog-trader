@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-22T23:10:46.600799-04:00",
+ "updated": "2026-10-22T23:15:47.964718-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.4,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-10-22",
   "bets": 10,
   "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": 0.0733
+  "realized": -0.3838
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-ne-chi-2026-10-22",
-   "game": "nfl:NE@CHI",
-   "side": "long",
-   "team": "Patriots",
-   "entry": 0.0875,
-   "qty": 5.7143,
-   "tp": 0.2188,
-   "sl": 0.035,
-   "opened": "2026-10-22 23:05 ET",
-   "mode": "main",
-   "last_bid": 0.0425
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -179,8 +165,32 @@
    "exit": 0.4,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-ne-chi-2026-10-22",
+   "game": "nfl:NE@CHI",
+   "side": "long",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 5.7143,
+   "tp": 0.2188,
+   "sl": 0.035,
+   "opened": "2026-10-22 23:05 ET",
+   "mode": "main",
+   "last_bid": 0.0425,
+   "closed": "2026-10-22 23:15 ET",
+   "exit": 0.0075,
+   "pnl": -0.4571,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Patriots",
+   "reason": "stop-loss",
+   "pnl": -0.4571
+  }
+ ]
 }
