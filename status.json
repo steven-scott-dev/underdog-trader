@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T00:50:32.470547-04:00",
+ "updated": "2026-10-23T00:55:33.368163-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 0.6,
  "daily": {
   "date": "2026-10-23",
   "bets": 2,
@@ -49,12 +49,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Mammoth",
-   "reason": "stop-loss",
-   "pnl": -0.3158
-  }
- ]
+ "actions": []
 }
