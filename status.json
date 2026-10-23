@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-23T15:55:37.920778-04:00",
+ "updated": "2026-10-23T16:00:56.158197-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-23",
   "bets": 2,
   "bounce_bets": 1,
   "max_main": 5,
-  "max_bounce": 20,
+  "max_bounce": 50,
   "realized": -0.3858
  },
  "paper_positions": [],
