@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-22T23:35:35.258727-04:00",
+ "updated": "2026-10-22T23:40:34.478192-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-22",
   "bets": 13,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.4638
+  "realized": -0.9253
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-min-cgy-2026-10-22",
-   "game": "nhl:MIN@CGY",
-   "side": "long",
-   "team": "Wild",
-   "entry": 0.13,
-   "qty": 3.8462,
-   "tp": 0.325,
-   "sl": 0.052,
-   "opened": "2026-10-22 23:30 ET",
-   "mode": "main",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-nhl-car-edm-2026-10-22",
    "game": "nhl:CAR@EDM",
@@ -36,27 +23,10 @@
    "sl": 0.16,
    "opened": "2026-10-22 23:35 ET",
    "mode": "main",
-   "last_bid": 0.4
+   "last_bid": 0.51
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-cle-phi-2026-10-22",
-   "game": "nba:CLE@PHI",
-   "side": "short",
-   "team": "76ers",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-22 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-22 20:35 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nhl-nas-bos-2026-10-22",
    "game": "nhl:NSH@BOS",
@@ -209,20 +179,32 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-cgy-2026-10-22",
+   "game": "nhl:MIN@CGY",
+   "side": "long",
+   "team": "Wild",
+   "entry": 0.13,
+   "qty": 3.8462,
+   "tp": 0.325,
+   "sl": 0.052,
+   "opened": "2026-10-22 23:30 ET",
+   "mode": "main",
+   "last_bid": 0.06,
+   "closed": "2026-10-22 23:40 ET",
+   "exit": 0.01,
+   "pnl": -0.4615,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:CAR@EDM",
-   "market": "aec-nhl-car-edm-2026-10-22",
-   "side": "short",
-   "team": "Oilers",
-   "ask": 0.4,
-   "qty": 1.25,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Wild",
+   "reason": "settled",
+   "pnl": -0.4615
   }
  ]
 }
