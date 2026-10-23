@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-22 20:55 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-22 21:00 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Today
 - Bets placed: 5 (main 0/5, bounce 5/20)
 - Realized P&L: -0.05
 
 ## Open paper positions
-- **Ducks** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Ducks** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 - **Senators** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
