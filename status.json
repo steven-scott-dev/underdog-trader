@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T21:11:03.470095-04:00",
+ "updated": "2026-10-22T21:15:48.538913-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 23.7,
+ "duration_s": 14.6,
  "daily": {
   "date": "2026-10-22",
   "bets": 6,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-22 20:35 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -114,12 +114,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Panthers",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
