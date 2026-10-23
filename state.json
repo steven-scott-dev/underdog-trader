@@ -1,9 +1,31 @@
 {
  "date": "2026-10-23",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-den-okc-2026-10-22",
+   "game": "nba:DEN@OKC",
+   "side": "long",
+   "team": "Nuggets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-23 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-den-okc-2026-10-22": [
+   [
+    1792728342.3565516,
+    0.1
+   ]
+  ]
+ }
 }
