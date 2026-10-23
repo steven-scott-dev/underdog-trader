@@ -1,9 +1,23 @@
 {
  "date": "2026-10-23",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 1,
  "realized": -0.3858,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-chi-mil-2026-10-23",
+   "game": "nba:CHI@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "tp": 0.6,
+   "sl": 0.096,
+   "opened": "2026-10-23 18:20 ET",
+   "mode": "main",
+   "last_bid": 0.24
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -52,6 +66,12 @@
    [
     1792730734.3346624,
     0.19
+   ]
+  ],
+  "aec-nba-chi-mil-2026-10-23": [
+   [
+    1792794035.2694225,
+    0.24
    ]
   ]
  },
