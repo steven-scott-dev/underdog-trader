@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22T23:20:38.624060-04:00",
+ "updated": "2026-10-22T23:25:41.634787-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-22",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-22 23:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:DET@VAN",
-   "market": "aec-nhl-det-van-2026-10-22",
-   "side": "short",
-   "team": "Canucks",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
