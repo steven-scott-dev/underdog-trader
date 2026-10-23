@@ -1,9 +1,23 @@
 {
  "date": "2026-10-22",
- "bets": 1,
- "bounce_bets": 1,
+ "bets": 2,
+ "bounce_bets": 2,
  "realized": -0.0667,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "game": "nba:CLE@PHI",
+   "side": "short",
+   "team": "76ers",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-22 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -28,6 +42,12 @@
   "aec-nba-sac-lac-2026-10-21": [
    [
     1792642840.7358506,
+    0.06
+   ]
+  ],
+  "aec-nba-cle-phi-2026-10-22": [
+   [
+    1792714239.2340949,
     0.06
    ]
   ]
