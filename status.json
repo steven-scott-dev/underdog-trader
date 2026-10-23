@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-22T21:45:40.060448-04:00",
+ "updated": "2026-10-22T21:50:36.699578-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-22",
   "bets": 7,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 20,
-  "realized": -0.0767
+  "realized": -0.5767
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-cle-phi-2026-10-22",
-   "game": "nba:CLE@PHI",
-   "side": "long",
-   "team": "Cavaliers",
-   "entry": 0.16,
-   "qty": 3.125,
-   "tp": 0.4,
-   "sl": 0.064,
-   "opened": "2026-10-22 21:35 ET",
-   "mode": "main",
-   "last_bid": 0.12
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -128,8 +114,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "game": "nba:CLE@PHI",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-10-22 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.12,
+   "closed": "2026-10-22 21:50 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Cavaliers",
+   "reason": "stop-loss",
+   "pnl": -0.5
+  }
+ ]
 }

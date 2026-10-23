@@ -2,22 +2,8 @@
  "date": "2026-10-22",
  "bets": 7,
  "bounce_bets": 6,
- "realized": -0.0767,
- "paper_positions": [
-  {
-   "market": "aec-nba-cle-phi-2026-10-22",
-   "game": "nba:CLE@PHI",
-   "side": "long",
-   "team": "Cavaliers",
-   "entry": 0.16,
-   "qty": 3.125,
-   "tp": 0.4,
-   "sl": 0.064,
-   "opened": "2026-10-22 21:35 ET",
-   "mode": "main",
-   "last_bid": 0.12
-  }
- ],
+ "realized": -0.5767,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sac-lac-2026-10-21",
@@ -120,6 +106,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-cle-phi-2026-10-22",
+   "game": "nba:CLE@PHI",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-10-22 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.12,
+   "closed": "2026-10-22 21:50 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -165,6 +168,7 @@
   "aec-nba-sac-lac-2026-10-21": 1792645249.7883875,
   "aec-nhl-nas-bos-2026-10-22": 1792717838.0711534,
   "aec-nhl-ana-nj-2026-10-22": 1792719334.3506248,
-  "aec-nhl-fla-pit-2026-10-22": 1792719640.3959403
+  "aec-nhl-fla-pit-2026-10-22": 1792719640.3959403,
+  "aec-nba-cle-phi-2026-10-22": 1792722035.1237166
  }
 }
