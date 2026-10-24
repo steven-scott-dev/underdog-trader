@@ -1,9 +1,23 @@
 {
  "date": "2026-10-24",
- "bets": 7,
- "bounce_bets": 3,
+ "bets": 8,
+ "bounce_bets": 4,
  "realized": 2.1152,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-mia-cha-2026-10-24",
+   "game": "nba:MIA@CHA",
+   "side": "long",
+   "team": "Heat",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-24 19:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -153,6 +167,12 @@
    [
     1792871134.4722233,
     0.08
+   ]
+  ],
+  "aec-nba-mia-cha-2026-10-24": [
+   [
+    1792885833.9997694,
+    0.07
    ]
   ]
  },
