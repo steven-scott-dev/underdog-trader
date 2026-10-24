@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 23:40 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-23 23:45 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 11 (main 4/5, bounce 7/50)
 - Realized P&L: +0.25
 
 ## Open paper positions
-- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-23 22:25 ET: Blackhawks [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-10-23 23:40 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-23 18:24 ET: Bucks [main] — take-profit @ 0.6000 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:POR@SAC", "market": "aec-nba-por-sac-2026-10-23", "side": "short", "team": "Kings", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
