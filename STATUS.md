@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 21:00 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-10-23 21:05 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 7 (main 3/5, bounce 4/50)
 - Realized P&L: +0.97
 
 ## Open paper positions
-- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-23 20:55 ET: Magic [bounce] — stop-loss @ 0.0200 → -0.0714
