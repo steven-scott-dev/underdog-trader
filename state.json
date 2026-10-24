@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "bets": 5,
- "bounce_bets": 2,
+ "bets": 6,
+ "bounce_bets": 3,
  "realized": 1.1142,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-23 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.14
+  },
+  {
+   "market": "aec-nba-atl-cha-2026-10-23",
+   "game": "nba:ATL@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-23 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -116,6 +129,12 @@
    [
     1792800340.0035257,
     0.1
+   ]
+  ],
+  "aec-nba-atl-cha-2026-10-23": [
+   [
+    1792800638.4490588,
+    0.07
    ]
   ]
  },
