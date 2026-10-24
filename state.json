@@ -2,21 +2,8 @@
  "date": "2026-10-23",
  "bets": 9,
  "bounce_bets": 5,
- "realized": 0.9014,
+ "realized": 0.4014,
  "paper_positions": [
-  {
-   "market": "aec-nba-ny-bos-2026-10-23",
-   "game": "nba:NY@BOS",
-   "side": "long",
-   "team": "Knicks",
-   "entry": 0.3,
-   "qty": 1.6667,
-   "tp": 0.75,
-   "sl": 0.12,
-   "opened": "2026-10-23 21:35 ET",
-   "mode": "main",
-   "last_bid": 0.21
-  },
   {
    "market": "aec-nba-det-mia-2026-10-23",
    "game": "nba:DET@MIA",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-23 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.14
   }
  ],
  "paper_history": [
@@ -150,6 +137,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-ny-bos-2026-10-23",
+   "game": "nba:NY@BOS",
+   "side": "long",
+   "team": "Knicks",
+   "entry": 0.3,
+   "qty": 1.6667,
+   "tp": 0.75,
+   "sl": 0.12,
+   "opened": "2026-10-23 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.21,
+   "closed": "2026-10-23 21:45 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -212,6 +216,7 @@
   "aec-nhl-uta-sea-2026-10-22": 1792732831.7463171,
   "aec-nba-atl-cha-2026-10-23": 1792803936.1029558,
   "aec-nba-min-orl-2026-10-23": 1792805147.8188975,
-  "aec-nba-dal-ind-2026-10-23": 1792806038.8737423
+  "aec-nba-dal-ind-2026-10-23": 1792806038.8737423,
+  "aec-nba-ny-bos-2026-10-23": 1792808134.4188843
  }
 }
