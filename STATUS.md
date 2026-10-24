@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 20:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-23 20:16 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
 - Bets placed: 6 (main 3/5, bounce 3/50)
 - Realized P&L: +1.11
 
 ## Open paper positions
-- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
-- **Hornets** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Hornets** (short/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-23 18:40 ET: Bulls [main] — take-profit @ 0.8750 → +0.7500
@@ -17,4 +17,4 @@ Updated: 2026-10-23 20:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-23 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:ATL@CHA", "market": "aec-nba-atl-cha-2026-10-23", "side": "short", "team": "Hornets", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
