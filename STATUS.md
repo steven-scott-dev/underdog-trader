@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 21:55 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-23 22:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 10 (main 4/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-23 21:55 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-23 00:50 ET: Mammoth [main] — stop-loss @ 0.0700 → -0.3158
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Heat", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_

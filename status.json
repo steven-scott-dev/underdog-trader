@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T21:55:38.038961-04:00",
+ "updated": "2026-10-23T22:00:35.247365-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-23",
   "bets": 10,
@@ -182,12 +182,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Heat",
-   "reason": "stop-loss",
-   "pnl": -0.0889
-  }
- ]
+ "actions": []
 }
