@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:25:37.258513-04:00",
+ "updated": "2026-10-24T00:30:34.013247-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.5,
@@ -66,12 +66,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kings",
-   "reason": "stop-loss",
-   "pnl": -0.4348
-  }
- ]
+ "actions": []
 }
