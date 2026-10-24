@@ -1,17 +1,19 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 00:15 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-24 00:20 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 2 (main 1/5, bounce 1/50)
-- Realized P&L: +0.00
+- Bets placed: 3 (main 2/5, bounce 1/50)
+- Realized P&L: +0.85
 
 ## Open paper positions
-- **Kings** (short/bounce) — 2.0 @ 0.0500, now ~0.0900, unrealized +0.0800 (TP 0.1000 / SL 0.0200)
-- **Spurs** (short/main) — 1.9231 @ 0.2600, now ~0.2300, unrealized -0.0577 (TP 0.6500 / SL 0.1040)
+- **Kings** (short/main) — 2.1739 @ 0.2300, now ~0.2300, unrealized +0.0000 (TP 0.5750 / SL 0.0920)
 
 ## Recent history
-- _none yet_
+- 2026-10-24 00:20 ET: Spurs [main] — take-profit @ 0.6500 → +0.7500
+- 2026-10-24 00:20 ET: Kings [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Kings", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "paper_close", "team": "Spurs", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "buy", "game": "nba:POR@SAC", "market": "aec-nba-por-sac-2026-10-23", "side": "short", "team": "Kings", "ask": 0.23, "qty": 2.1739, "stake": 0.5, "mode": "main"}`

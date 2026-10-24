@@ -1,17 +1,32 @@
 {
- "updated": "2026-10-24T00:15:34.901087-04:00",
+ "updated": "2026-10-24T00:20:35.794309-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-24",
-  "bets": 2,
+  "bets": 3,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.0
+  "realized": 0.85
  },
  "paper_positions": [
+  {
+   "market": "aec-nba-por-sac-2026-10-23",
+   "game": "nba:POR@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-10-24 00:20 ET",
+   "mode": "main",
+   "last_bid": 0.23
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
    "game": "nba:POR@SAC",
@@ -23,7 +38,11 @@
    "sl": 0.02,
    "opened": "2026-10-24 00:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.09,
+   "closed": "2026-10-24 00:20 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   },
   {
    "market": "aec-nba-hou-sa-2026-10-23",
@@ -36,10 +55,37 @@
    "sl": 0.104,
    "opened": "2026-10-24 00:10 ET",
    "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.23,
+   "closed": "2026-10-24 00:20 ET",
+   "exit": 0.65,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Kings",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "paper_close",
+   "team": "Spurs",
+   "reason": "take-profit",
+   "pnl": 0.75
+  },
+  {
+   "type": "buy",
+   "game": "nba:POR@SAC",
+   "market": "aec-nba-por-sac-2026-10-23",
+   "side": "short",
+   "team": "Kings",
+   "ask": 0.23,
+   "qty": 2.1739,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
