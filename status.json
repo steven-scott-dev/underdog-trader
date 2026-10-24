@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T00:50:35.041518-04:00",
+ "updated": "2026-10-24T00:55:34.034163-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 0.6,
  "daily": {
   "date": "2026-10-24",
   "bets": 5,
@@ -100,12 +100,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Grizzlies",
-   "reason": "take-profit",
-   "pnl": 0.75
-  }
- ]
+ "actions": []
 }
