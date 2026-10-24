@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-23T21:05:40.900430-04:00",
+ "updated": "2026-10-23T21:10:44.853575-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 7.4,
  "daily": {
   "date": "2026-10-23",
   "bets": 7,
   "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.9714
+  "realized": 0.9014
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-dal-ind-2026-10-23",
-   "game": "nba:DAL@IND",
-   "side": "short",
-   "team": "Pacers",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-23 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -128,8 +114,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-dal-ind-2026-10-23",
+   "game": "nba:DAL@IND",
+   "side": "short",
+   "team": "Pacers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-23 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-23 21:10 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Pacers",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }

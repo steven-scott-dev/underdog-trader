@@ -2,22 +2,8 @@
  "date": "2026-10-23",
  "bets": 7,
  "bounce_bets": 4,
- "realized": 0.9714,
- "paper_positions": [
-  {
-   "market": "aec-nba-dal-ind-2026-10-23",
-   "game": "nba:DAL@IND",
-   "side": "short",
-   "team": "Pacers",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-23 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": 0.9014,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -120,6 +106,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-dal-ind-2026-10-23",
+   "game": "nba:DAL@IND",
+   "side": "short",
+   "team": "Pacers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-23 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-23 21:10 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -169,6 +172,7 @@
   "aec-nba-den-okc-2026-10-22": 1792730440.9070125,
   "aec-nhl-uta-sea-2026-10-22": 1792732831.7463171,
   "aec-nba-atl-cha-2026-10-23": 1792803936.1029558,
-  "aec-nba-min-orl-2026-10-23": 1792805147.8188975
+  "aec-nba-min-orl-2026-10-23": 1792805147.8188975,
+  "aec-nba-dal-ind-2026-10-23": 1792806038.8737423
  }
 }
