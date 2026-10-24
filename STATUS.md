@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 20:16 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-10-23 20:20 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 6 (main 3/5, bounce 3/50)
 - Realized P&L: +1.11
 
 ## Open paper positions
-- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
 - **Hornets** (short/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
