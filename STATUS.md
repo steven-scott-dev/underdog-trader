@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 15:50 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-24 15:55 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 7 (main 4/5, bounce 3/50)
@@ -19,4 +19,4 @@ Updated: 2026-10-24 15:50 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-24 00:20 ET: Kings [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Flyers", "reason": "take-profit", "pnl": 0.75}`
+- _none_
