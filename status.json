@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-23T20:50:54.473714-04:00",
+ "updated": "2026-10-23T20:55:50.016942-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 16.1,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-23",
   "bets": 7,
   "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.0428
+  "realized": 0.9714
  },
  "paper_positions": [
   {
@@ -22,19 +22,6 @@
    "tp": 0.2,
    "sl": 0.04,
    "opened": "2026-10-23 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nba-min-orl-2026-10-23",
-   "game": "nba:MIN@ORL",
-   "side": "short",
-   "team": "Magic",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-23 20:45 ET",
    "mode": "bounce",
    "last_bid": 0.04
   }
@@ -124,8 +111,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-min-orl-2026-10-23",
+   "game": "nba:MIN@ORL",
+   "side": "short",
+   "team": "Magic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-23 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-23 20:55 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Magic",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  }
+ ]
 }
