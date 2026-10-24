@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T21:35:37.652315-04:00",
+ "updated": "2026-10-23T21:40:34.701133-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-23",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.12,
    "opened": "2026-10-23 21:35 ET",
    "mode": "main",
-   "last_bid": 0.3
+   "last_bid": 0.21
   },
   {
    "market": "aec-nba-det-mia-2026-10-23",
@@ -161,28 +161,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:NY@BOS",
-   "market": "aec-nba-ny-bos-2026-10-23",
-   "side": "long",
-   "team": "Knicks",
-   "ask": 0.3,
-   "qty": 1.6667,
-   "stake": 0.5,
-   "mode": "main"
-  },
-  {
-   "type": "buy",
-   "game": "nba:DET@MIA",
-   "market": "aec-nba-det-mia-2026-10-23",
-   "side": "short",
-   "team": "Heat",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

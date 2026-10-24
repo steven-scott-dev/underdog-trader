@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 21:35 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-23 21:40 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 9 (main 4/5, bounce 5/50)
 - Realized P&L: +0.90
 
 ## Open paper positions
-- **Knicks** (long/main) — 1.6667 @ 0.3000, now ~0.3000, unrealized +0.0000 (TP 0.7500 / SL 0.1200)
+- **Knicks** (long/main) — 1.6667 @ 0.3000, now ~0.2100, unrealized -0.1500 (TP 0.7500 / SL 0.1200)
 - **Heat** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
@@ -20,5 +20,4 @@ Updated: 2026-10-23 21:35 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-23 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:NY@BOS", "market": "aec-nba-ny-bos-2026-10-23", "side": "long", "team": "Knicks", "ask": 0.3, "qty": 1.6667, "stake": 0.5, "mode": "main"}`
-- `{"type": "buy", "game": "nba:DET@MIA", "market": "aec-nba-det-mia-2026-10-23", "side": "short", "team": "Heat", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
