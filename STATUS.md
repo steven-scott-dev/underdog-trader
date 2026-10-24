@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 22:25 ET · Mode: **PAPER** · Result: OK (13.8s)
+Updated: 2026-10-23 22:30 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 10 (main 4/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-23 22:25 ET · Mode: **PAPER** · Result: OK (13.8s)
 - 2026-10-23 18:24 ET: Bucks [main] — take-profit @ 0.6000 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blackhawks", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
