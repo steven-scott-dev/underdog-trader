@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T20:35:48.653090-04:00",
+ "updated": "2026-10-23T20:40:40.587337-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-23",
   "bets": 6,
@@ -114,12 +114,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Hornets",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 20:35 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-23 20:40 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 6 (main 3/5, bounce 3/50)
@@ -17,4 +17,4 @@ Updated: 2026-10-23 20:35 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-10-23 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hornets", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
