@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T00:10:36.412193-04:00",
+ "updated": "2026-10-24T00:15:34.901087-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-24",
   "bets": 2,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-24 00:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   },
   {
    "market": "aec-nba-hou-sa-2026-10-23",
@@ -36,22 +36,10 @@
    "sl": 0.104,
    "opened": "2026-10-24 00:10 ET",
    "mode": "main",
-   "last_bid": 0.26
+   "last_bid": 0.23
   }
  ],
  "paper_history": [],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:HOU@SA",
-   "market": "aec-nba-hou-sa-2026-10-23",
-   "side": "short",
-   "team": "Spurs",
-   "ask": 0.26,
-   "qty": 1.9231,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
