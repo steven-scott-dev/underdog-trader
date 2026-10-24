@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 15:40 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-24 15:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 6 (main 3/5, bounce 3/50)
+- Bets placed: 7 (main 4/5, bounce 3/50)
 - Realized P&L: +1.37
 
 ## Open paper positions
-- _none_
+- **Flyers** (short/main) — 6.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.2000 / SL 0.0320)
 
 ## Recent history
 - 2026-10-24 15:25 ET: Flyers [bounce] — take-profit @ 0.1400 → +0.1000
@@ -18,4 +18,4 @@ Updated: 2026-10-24 15:40 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-24 00:20 ET: Kings [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:ANA@PHI", "market": "aec-nhl-ana-phi-2026-10-24", "side": "short", "team": "Flyers", "ask": 0.08, "qty": 6.25, "stake": 0.5, "mode": "main"}`

@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-24T15:40:37.533474-04:00",
+ "updated": "2026-10-24T15:45:34.746158-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-24",
-  "bets": 6,
+  "bets": 7,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 1.3652
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ana-phi-2026-10-24",
+   "game": "nhl:ANA@PHI",
+   "side": "short",
+   "team": "Flyers",
+   "entry": 0.08,
+   "qty": 6.25,
+   "tp": 0.2,
+   "sl": 0.032,
+   "opened": "2026-10-24 15:45 ET",
+   "mode": "main",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -117,5 +131,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:ANA@PHI",
+   "market": "aec-nhl-ana-phi-2026-10-24",
+   "side": "short",
+   "team": "Flyers",
+   "ask": 0.08,
+   "qty": 6.25,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
