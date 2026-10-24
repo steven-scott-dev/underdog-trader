@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 22:10 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-23 22:15 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 10 (main 4/5, bounce 6/50)
 - Realized P&L: +0.31
 
 ## Open paper positions
-- **Blackhawks** (short/bounce) — 1.25 @ 0.0800, now ~0.0700, unrealized -0.0125 (TP 0.1600 / SL 0.0320)
+- **Blackhawks** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-23 21:55 ET: Heat [bounce] — stop-loss @ 0.0100 → -0.0889
