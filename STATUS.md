@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-23 20:40 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-23 20:45 ET · Mode: **PAPER** · Result: OK (11.7s)
 
 ## Today
-- Bets placed: 6 (main 3/5, bounce 3/50)
+- Bets placed: 7 (main 3/5, bounce 4/50)
 - Realized P&L: +1.04
 
 ## Open paper positions
 - **Pacers** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
+- **Magic** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-23 20:35 ET: Hornets [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -17,4 +18,4 @@ Updated: 2026-10-23 20:40 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-23 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:MIN@ORL", "market": "aec-nba-min-orl-2026-10-23", "side": "short", "team": "Magic", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`

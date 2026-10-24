@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-23T20:40:40.587337-04:00",
+ "updated": "2026-10-23T20:45:46.968862-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-23",
-  "bets": 6,
-  "bounce_bets": 3,
+  "bets": 7,
+  "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 1.0428
@@ -24,6 +24,19 @@
    "opened": "2026-10-23 20:05 ET",
    "mode": "bounce",
    "last_bid": 0.04
+  },
+  {
+   "market": "aec-nba-min-orl-2026-10-23",
+   "game": "nba:MIN@ORL",
+   "side": "short",
+   "team": "Magic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-23 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -114,5 +127,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:MIN@ORL",
+   "market": "aec-nba-min-orl-2026-10-23",
+   "side": "short",
+   "team": "Magic",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
