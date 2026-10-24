@@ -1,9 +1,23 @@
 {
  "date": "2026-10-24",
- "bets": 5,
- "bounce_bets": 2,
+ "bets": 6,
+ "bounce_bets": 3,
  "realized": 1.2652,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ana-phi-2026-10-24",
+   "game": "nhl:ANA@PHI",
+   "side": "short",
+   "team": "Flyers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-24 15:24 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -113,6 +127,12 @@
    [
     1792817133.8949258,
     0.31
+   ]
+  ],
+  "aec-nhl-ana-phi-2026-10-24": [
+   [
+    1792869866.0529857,
+    0.07
    ]
   ]
  },
