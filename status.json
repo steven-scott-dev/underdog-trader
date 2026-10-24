@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-24T00:45:34.248735-04:00",
+ "updated": "2026-10-24T00:50:35.041518-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-24",
   "bets": 5,
   "bounce_bets": 2,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.5152
+  "realized": 1.2652
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-mem-gs-2026-10-23",
-   "game": "nba:MEM@GS",
-   "side": "long",
-   "team": "Grizzlies",
-   "entry": 0.31,
-   "qty": 1.6129,
-   "tp": 0.775,
-   "sl": 0.124,
-   "opened": "2026-10-24 00:45 ET",
-   "mode": "main",
-   "last_bid": 0.31
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -94,6 +80,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-mem-gs-2026-10-23",
+   "game": "nba:MEM@GS",
+   "side": "long",
+   "team": "Grizzlies",
+   "entry": 0.31,
+   "qty": 1.6129,
+   "tp": 0.775,
+   "sl": 0.124,
+   "opened": "2026-10-24 00:45 ET",
+   "mode": "main",
+   "last_bid": 0.31,
+   "closed": "2026-10-24 00:50 ET",
+   "exit": 0.775,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
@@ -102,18 +105,7 @@
    "type": "paper_close",
    "team": "Grizzlies",
    "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "nba:MEM@GS",
-   "market": "aec-nba-mem-gs-2026-10-23",
-   "side": "long",
-   "team": "Grizzlies",
-   "ask": 0.31,
-   "qty": 1.6129,
-   "stake": 0.5,
-   "mode": "main"
+   "pnl": 0.75
   }
  ]
 }
