@@ -1,9 +1,36 @@
 {
  "date": "2026-10-23",
- "bets": 7,
- "bounce_bets": 4,
+ "bets": 9,
+ "bounce_bets": 5,
  "realized": 0.9014,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-ny-bos-2026-10-23",
+   "game": "nba:NY@BOS",
+   "side": "long",
+   "team": "Knicks",
+   "entry": 0.3,
+   "qty": 1.6667,
+   "tp": 0.75,
+   "sl": 0.12,
+   "opened": "2026-10-23 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.3
+  },
+  {
+   "market": "aec-nba-det-mia-2026-10-23",
+   "game": "nba:DET@MIA",
+   "side": "short",
+   "team": "Heat",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-23 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -165,6 +192,18 @@
    [
     1792802736.2716074,
     0.07
+   ]
+  ],
+  "aec-nba-ny-bos-2026-10-23": [
+   [
+    1792805735.914748,
+    0.3
+   ]
+  ],
+  "aec-nba-det-mia-2026-10-23": [
+   [
+    1792805736.6668599,
+    0.09
    ]
   ]
  },
