@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "bets": 9,
- "bounce_bets": 5,
+ "bets": 10,
+ "bounce_bets": 6,
  "realized": 0.4014,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-23 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nhl-mon-chi-2026-10-23",
+   "game": "nhl:MTL@CHI",
+   "side": "short",
+   "team": "Blackhawks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-23 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -208,6 +221,12 @@
    [
     1792805736.6668599,
     0.09
+   ]
+  ],
+  "aec-nhl-mon-chi-2026-10-23": [
+   [
+    1792806638.5414734,
+    0.08
    ]
   ]
  },
