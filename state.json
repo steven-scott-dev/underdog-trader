@@ -1,9 +1,31 @@
 {
  "date": "2026-10-24",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-por-sac-2026-10-23",
+   "game": "nba:POR@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-24 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-por-sac-2026-10-23": [
+   [
+    1792814733.744429,
+    0.05
+   ]
+  ]
+ }
 }

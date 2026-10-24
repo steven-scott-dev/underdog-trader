@@ -1,18 +1,44 @@
 {
- "updated": "2026-10-24T00:00:36.091074-04:00",
+ "updated": "2026-10-24T00:05:33.896052-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-24",
-  "bets": 0,
-  "bounce_bets": 0,
+  "bets": 1,
+  "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-por-sac-2026-10-23",
+   "game": "nba:POR@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-24 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:POR@SAC",
+   "market": "aec-nba-por-sac-2026-10-23",
+   "side": "short",
+   "team": "Kings",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
