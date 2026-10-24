@@ -2,22 +2,8 @@
  "date": "2026-10-23",
  "bets": 10,
  "bounce_bets": 6,
- "realized": 0.3125,
- "paper_positions": [
-  {
-   "market": "aec-nhl-mon-chi-2026-10-23",
-   "game": "nhl:MTL@CHI",
-   "side": "short",
-   "team": "Blackhawks",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-23 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 0.25,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -171,6 +157,23 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-mon-chi-2026-10-23",
+   "game": "nhl:MTL@CHI",
+   "side": "short",
+   "team": "Blackhawks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-23 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-23 22:25 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -241,6 +244,7 @@
   "aec-nba-min-orl-2026-10-23": 1792805147.8188975,
   "aec-nba-dal-ind-2026-10-23": 1792806038.8737423,
   "aec-nba-ny-bos-2026-10-23": 1792808134.4188843,
-  "aec-nba-det-mia-2026-10-23": 1792808736.302716
+  "aec-nba-det-mia-2026-10-23": 1792808736.302716,
+  "aec-nhl-mon-chi-2026-10-23": 1792810536.6218474
  }
 }

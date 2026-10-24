@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-23T22:20:37.812382-04:00",
+ "updated": "2026-10-23T22:25:49.917653-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.4,
+ "duration_s": 13.8,
  "daily": {
   "date": "2026-10-23",
   "bets": 10,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.3125
+  "realized": 0.25
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-mon-chi-2026-10-23",
-   "game": "nhl:MTL@CHI",
-   "side": "short",
-   "team": "Blackhawks",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-23 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-den-okc-2026-10-22",
@@ -179,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-mon-chi-2026-10-23",
+   "game": "nhl:MTL@CHI",
+   "side": "short",
+   "team": "Blackhawks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-23 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-23 22:25 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Blackhawks",
+   "reason": "stop-loss",
+   "pnl": -0.0625
+  }
+ ]
 }
