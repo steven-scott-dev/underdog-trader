@@ -1,9 +1,23 @@
 {
  "date": "2026-10-24",
- "bets": 3,
- "bounce_bets": 1,
+ "bets": 4,
+ "bounce_bets": 2,
  "realized": 0.4152,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-mem-gs-2026-10-23",
+   "game": "nba:MEM@GS",
+   "side": "long",
+   "team": "Grizzlies",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-24 00:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -69,6 +83,12 @@
    [
     1792815035.31871,
     0.26
+   ]
+  ],
+  "aec-nba-mem-gs-2026-10-23": [
+   [
+    1792816536.8617544,
+    0.06
    ]
   ]
  },
