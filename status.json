@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T19:50:34.621995-04:00",
+ "updated": "2026-10-24T19:55:36.940417-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-24",
   "bets": 8,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-24 19:50 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -148,17 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:MIA@CHA",
-   "market": "aec-nba-mia-cha-2026-10-24",
-   "side": "long",
-   "team": "Heat",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

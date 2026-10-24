@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 19:50 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-24 19:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 8 (main 4/5, bounce 4/50)
 - Realized P&L: +2.12
 
 ## Open paper positions
-- **Heat** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Heat** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-24 15:50 ET: Flyers [main] — take-profit @ 0.2000 → +0.7500
@@ -19,4 +19,4 @@ Updated: 2026-10-24 19:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-24 00:20 ET: Kings [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MIA@CHA", "market": "aec-nba-mia-cha-2026-10-24", "side": "long", "team": "Heat", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
