@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T21:45:49.070924-04:00",
+ "updated": "2026-10-24T21:48:02.036031-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.9,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-10-24",
   "bets": 15,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sharks",
-   "reason": "settled",
-   "pnl": -0.0889
-  },
-  {
-   "type": "paper_close",
-   "team": "Bucks",
-   "reason": "stop-loss",
-   "pnl": -0.0833
-  }
- ]
+ "actions": []
 }
