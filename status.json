@@ -1,79 +1,18 @@
 {
- "updated": "2026-10-24T21:40:48.687680-04:00",
+ "updated": "2026-10-24T21:45:49.070924-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.1,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-10-24",
   "bets": 15,
   "bounce_bets": 10,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.6764
+  "realized": 1.5042
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-sj-bos-2026-10-24",
-   "game": "nhl:SJ@BOS",
-   "side": "long",
-   "team": "Sharks",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-24 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
-  {
-   "market": "aec-nba-mil-phi-2026-10-24",
-   "game": "nba:MIL@PHI",
-   "side": "long",
-   "team": "Bucks",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-24 21:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nba-mem-gs-2026-10-23",
-   "game": "nba:MEM@GS",
-   "side": "long",
-   "team": "Grizzlies",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-24 00:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-10-24 00:45 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-nba-mem-gs-2026-10-23",
-   "game": "nba:MEM@GS",
-   "side": "long",
-   "team": "Grizzlies",
-   "entry": 0.31,
-   "qty": 1.6129,
-   "tp": 0.775,
-   "sl": 0.124,
-   "opened": "2026-10-24 00:45 ET",
-   "mode": "main",
-   "last_bid": 0.31,
-   "closed": "2026-10-24 00:50 ET",
-   "exit": 0.775,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nhl-ana-phi-2026-10-24",
    "game": "nhl:ANA@PHI",
@@ -209,8 +148,55 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-sj-bos-2026-10-24",
+   "game": "nhl:SJ@BOS",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-24 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-24 21:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-mil-phi-2026-10-24",
+   "game": "nba:MIL@PHI",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-24 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-24 21:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0833,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sharks",
+   "reason": "settled",
+   "pnl": -0.0889
+  },
+  {
+   "type": "paper_close",
+   "team": "Bucks",
+   "reason": "stop-loss",
+   "pnl": -0.0833
+  }
+ ]
 }

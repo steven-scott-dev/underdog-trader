@@ -1,24 +1,24 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 21:40 ET · Mode: **PAPER** · Result: OK (14.1s)
+Updated: 2026-10-24 21:45 ET · Mode: **PAPER** · Result: OK (13.9s)
 
 ## Today
 - Bets placed: 15 (main 5/5, bounce 10/50)
-- Realized P&L: +1.68
+- Realized P&L: +1.50
 
 ## Open paper positions
-- **Sharks** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Bucks** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- _none_
 
 ## Recent history
+- 2026-10-24 21:45 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0833
+- 2026-10-24 21:45 ET: Sharks [bounce] — settled @ 0.0100 → -0.0889
 - 2026-10-24 21:20 ET: Oilers [bounce] — stop-loss @ 0.0100 → -0.0900
 - 2026-10-24 21:10 ET: Nets [bounce] — stop-loss @ 0.0400 → -0.0600
 - 2026-10-24 21:10 ET: Blues [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-24 20:30 ET: Heat [main] — stop-loss @ 0.0500 → -0.4138
 - 2026-10-24 20:10 ET: Heat [bounce] — take-profit @ 0.1400 → +0.1000
-- 2026-10-24 15:50 ET: Flyers [main] — take-profit @ 0.2000 → +0.7500
-- 2026-10-24 15:25 ET: Flyers [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Sharks", "reason": "settled", "pnl": -0.0889}`
+- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.0833}`
