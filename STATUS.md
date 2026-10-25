@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 18:30 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-25 18:35 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 10 (main 5/5, bounce 5/50)
 - Realized P&L: +0.39
 
 ## Open paper positions
-- **Cardinals** (short/bounce) — 1.8182 @ 0.0550, now ~0.0550, unrealized +0.0000 (TP 0.1100 / SL 0.0220)
+- **Cardinals** (short/bounce) — 1.8182 @ 0.0550, now ~0.0375, unrealized -0.0318 (TP 0.1100 / SL 0.0220)
 
 ## Recent history
 - 2026-10-25 18:20 ET: Cardinals [bounce] — take-profit @ 0.1150 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-25 18:30 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-25 12:25 ET: Saints [main] — stop-loss @ 0.0225 → -0.3500
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:DEN@ARI", "market": "aec-nfl-den-ari-2026-10-25", "side": "short", "team": "Cardinals", "ask": 0.055, "qty": 1.8182, "stake": 0.1, "mode": "bounce"}`
+- _none_
