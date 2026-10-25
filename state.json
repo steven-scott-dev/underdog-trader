@@ -1,9 +1,23 @@
 {
  "date": "2026-10-24",
- "bets": 16,
- "bounce_bets": 11,
+ "bets": 17,
+ "bounce_bets": 12,
  "realized": 1.4042,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-min-sea-2026-10-24",
+   "game": "nhl:MIN@SEA",
+   "side": "short",
+   "team": "Kraken",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 23:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -348,6 +362,12 @@
    [
     1792892135.0569363,
     0.06
+   ]
+  ],
+  "aec-nhl-min-sea-2026-10-24": [
+   [
+    1792898735.5679536,
+    0.1
    ]
   ]
  },

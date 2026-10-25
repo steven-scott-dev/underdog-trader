@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 23:20 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-24 23:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 16 (main 5/5, bounce 11/50)
+- Bets placed: 17 (main 5/5, bounce 12/50)
 - Realized P&L: +1.40
 
 ## Open paper positions
-- _none_
+- **Kraken** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-24 22:20 ET: Nets [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-24 23:20 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-24 20:30 ET: Heat [main] — stop-loss @ 0.0500 → -0.4138
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:MIN@SEA", "market": "aec-nhl-min-sea-2026-10-24", "side": "short", "team": "Kraken", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

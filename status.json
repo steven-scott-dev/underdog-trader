@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-24T23:20:35.810030-04:00",
+ "updated": "2026-10-24T23:25:35.635070-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-24",
-  "bets": 16,
-  "bounce_bets": 11,
+  "bets": 17,
+  "bounce_bets": 12,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 1.4042
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-min-sea-2026-10-24",
+   "game": "nhl:MIN@SEA",
+   "side": "short",
+   "team": "Kraken",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 23:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-ana-phi-2026-10-24",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:MIN@SEA",
+   "market": "aec-nhl-min-sea-2026-10-24",
+   "side": "short",
+   "team": "Kraken",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
