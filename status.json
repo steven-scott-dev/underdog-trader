@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T18:40:36.457046-04:00",
+ "updated": "2026-10-25T18:45:41.657590-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.1,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-25",
   "bets": 10,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Cardinals",
-   "reason": "stop-loss",
-   "pnl": -0.0636
-  }
- ]
+ "actions": []
 }

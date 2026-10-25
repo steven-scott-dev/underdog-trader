@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 18:40 ET · Mode: **PAPER** · Result: OK (3.1s)
+Updated: 2026-10-25 18:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 10 (main 5/5, bounce 5/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-25 18:40 ET · Mode: **PAPER** · Result: OK (3.1s)
 - 2026-10-25 14:45 ET: Panthers [bounce] — stop-loss @ 0.0150 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Cardinals", "reason": "stop-loss", "pnl": -0.0636}`
+- _none_
