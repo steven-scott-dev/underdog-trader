@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T16:00:41.257139-04:00",
+ "updated": "2026-10-25T16:05:34.767926-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-25",
   "bets": 8,
@@ -23,7 +23,7 @@
    "sl": 0.145,
    "opened": "2026-10-25 16:00 ET",
    "mode": "main",
-   "last_bid": 0.3625
+   "last_bid": 0.3075
   }
  ],
  "paper_history": [
@@ -148,29 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Titans",
-   "reason": "take-profit",
-   "pnl": 0.7498
-  },
-  {
-   "type": "paper_close",
-   "team": "49ers",
-   "reason": "stop-loss",
-   "pnl": -0.4522
-  },
-  {
-   "type": "buy",
-   "game": "nfl:CLE@TEN",
-   "market": "aec-nfl-cle-ten-2026-10-25",
-   "side": "short",
-   "team": "Titans",
-   "ask": 0.3625,
-   "qty": 1.3793,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
