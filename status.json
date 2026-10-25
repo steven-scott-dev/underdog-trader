@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T21:11:03.145436-04:00",
+ "updated": "2026-10-24T21:15:58.115968-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.3,
+ "duration_s": 24.1,
  "daily": {
   "date": "2026-10-24",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
-   "last_bid": 0.13
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -199,18 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Blues",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  },
-  {
-   "type": "paper_close",
-   "team": "Nets",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }
