@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-24T23:25:35.635070-04:00",
+ "updated": "2026-10-24T23:30:36.670569-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-24",
   "bets": 17,
   "bounce_bets": 12,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.4042
+  "realized": 1.3342
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-min-sea-2026-10-24",
-   "game": "nhl:MIN@SEA",
-   "side": "short",
-   "team": "Kraken",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-24 23:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nhl-ana-phi-2026-10-24",
-   "game": "nhl:ANA@PHI",
-   "side": "short",
-   "team": "Flyers",
-   "entry": 0.08,
-   "qty": 6.25,
-   "tp": 0.2,
-   "sl": 0.032,
-   "opened": "2026-10-24 15:45 ET",
-   "mode": "main",
-   "last_bid": 0.08,
-   "closed": "2026-10-24 15:50 ET",
-   "exit": 0.2,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nba-mia-cha-2026-10-24",
    "game": "nba:MIA@CHA",
@@ -196,20 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-sea-2026-10-24",
+   "game": "nhl:MIN@SEA",
+   "side": "short",
+   "team": "Kraken",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 23:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-24 23:30 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:MIN@SEA",
-   "market": "aec-nhl-min-sea-2026-10-24",
-   "side": "short",
+   "type": "paper_close",
    "team": "Kraken",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.07
   }
  ]
 }

@@ -2,22 +2,8 @@
  "date": "2026-10-24",
  "bets": 17,
  "bounce_bets": 12,
- "realized": 1.4042,
- "paper_positions": [
-  {
-   "market": "aec-nhl-min-sea-2026-10-24",
-   "game": "nhl:MIN@SEA",
-   "side": "short",
-   "team": "Kraken",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-24 23:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "realized": 1.3342,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -290,6 +276,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-sea-2026-10-24",
+   "game": "nhl:MIN@SEA",
+   "side": "short",
+   "team": "Kraken",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 23:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-24 23:30 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -377,6 +380,7 @@
   "aec-nhl-car-stl-2026-10-24": 1792892439.2624395,
   "aec-nba-bkn-cle-2026-10-24": 1792896633.858059,
   "aec-nhl-tor-edm-2026-10-24": 1792893033.1073368,
-  "aec-nba-mil-phi-2026-10-24": 1792894535.8016229
+  "aec-nba-mil-phi-2026-10-24": 1792894535.8016229,
+  "aec-nhl-min-sea-2026-10-24": 1792900834.865094
  }
 }
