@@ -1,9 +1,23 @@
 {
  "date": "2026-10-24",
- "bets": 13,
- "bounce_bets": 8,
+ "bets": 14,
+ "bounce_bets": 9,
  "realized": 1.6764,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-sj-bos-2026-10-24",
+   "game": "nhl:SJ@BOS",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-24 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -285,6 +299,12 @@
    [
     1792888836.3508267,
     0.1
+   ]
+  ],
+  "aec-nhl-sj-bos-2026-10-24": [
+   [
+    1792891533.858694,
+    0.09
    ]
   ]
  },
