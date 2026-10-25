@@ -1,6 +1,6 @@
 """Underdog Auto-Trader core: multi-sport, stateless, serverless-friendly.
 
-Strategy: watch live games (NFL/NBA/MLB/NHL/soccer) via ESPN's free
+Strategy: watch live games (NFL/NBA/MLB/NHL/soccer/tennis) via ESPN's free
 scoreboard API. Two entry modes:
   main   - CLOSE and LATE: buy STAKE_USD of the underdog, rest a
            take-profit limit sell. Per-run stop-loss closes cratered positions.
@@ -71,6 +71,12 @@ DEFAULT_CONFIG = {
         "epl": {"enabled": True, "espn": "soccer/eng.1",
                 "max_diff": 1, "late_period": 2, "late_clock_min": 80,
                 "clock": "up"},
+        "atp": {"enabled": True, "espn": "tennis/atp", "tennis": True,
+                "max_diff": 2, "late_period": 3,
+                "clock": "none"},
+        "wta": {"enabled": True, "espn": "tennis/wta", "tennis": True,
+                "max_diff": 2, "late_period": 3,
+                "clock": "none"},
     },
 }
 
@@ -255,6 +261,74 @@ def espn_games(sport_key, rules):
             "diff": abs(teams.get("away", {}).get("score", 0)
                         - teams.get("home", {}).get("score", 0)),
         })
+    return games
+
+
+def espn_tennis_games(sport_key, rules):
+    """Tennis scoreboard adapter (ATP/WTA, singles only).
+
+    ESPN tennis nests matches one level deeper than team sports:
+    leagues -> events (tournaments) -> groupings -> competitions (matches).
+    Players carry per-set game scores in linescores[]; there is no clock.
+    Output matches espn_games() shape so trigger logic is shared:
+    period = current set number, diff = games difference in the current set.
+    """
+    url = f"https://site.api.espn.com/apis/site/v2/sports/{rules['espn']}/scoreboard"
+    try:
+        r = httpx.get(url, timeout=15)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"ESPN {sport_key} fetch failed: {e}")
+        return []
+    leagues = data.get("leagues", [])
+    events = leagues[0].get("events", []) if leagues else data.get("events", [])
+    games = []
+    for ev in events:
+        for grp in ev.get("groupings", []):
+            for comp in grp.get("competitions", []):
+                comps = comp.get("competitors", [])
+                if len(comps) != 2:
+                    continue
+                if any(c.get("type") != "athlete" for c in comps):
+                    continue  # doubles: skip for now
+                st = comp["status"]["type"]
+                players = {}
+                for c in comps:
+                    ath = c.get("athlete", {}) or {}
+                    name = ath.get("displayName", "")
+                    abbr = name.split()[-1] if name else ""
+                    lines = c.get("linescores", []) or []
+                    sets_won = sum(1 for s in lines if s.get("winner"))
+                    cur_games = 0
+                    if lines:
+                        try:
+                            cur_games = int(lines[-1].get("value") or 0)
+                        except (TypeError, ValueError):
+                            cur_games = 0
+                    ha = c.get("homeAway") or ("home" if c.get("order") == 1
+                                               else "away")
+                    players[ha] = {"abbr": abbr, "name": name,
+                                   "score": sets_won,
+                                   "_games": cur_games, "_sets": len(lines)}
+                away = players.get("away", {})
+                home = players.get("home", {})
+                period = max(away.get("_sets", 0), home.get("_sets", 0),
+                             comp["status"].get("period", 0) or 0)
+                games.append({
+                    "sport": sport_key,
+                    "away": {"abbr": away.get("abbr", ""),
+                             "name": away.get("name", ""),
+                             "score": away.get("score", 0)},
+                    "home": {"abbr": home.get("abbr", ""),
+                             "name": home.get("name", ""),
+                             "score": home.get("score", 0)},
+                    "live": st.get("name") == "STATUS_IN_PROGRESS",
+                    "over": bool(st.get("completed")),
+                    "period": period,
+                    "clock_kind": None, "clock": None,
+                    "diff": abs(away.get("_games", 0) - home.get("_games", 0)),
+                })
     return games
 
 
@@ -530,7 +604,9 @@ def run_pass():
     for sport_key, rules in cfg["sports"].items():
         if not rules.get("enabled"):
             continue
-        for g in espn_games(sport_key, rules):
+        games = (espn_tennis_games(sport_key, rules) if rules.get("tennis")
+                 else espn_games(sport_key, rules))
+        for g in games:
             if not g["live"] or g["over"]:
                 continue
             gid = f"{sport_key}:{g['away'].get('abbr')}@{g['home'].get('abbr')}"
