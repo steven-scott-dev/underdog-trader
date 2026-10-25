@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "bets": 12,
- "bounce_bets": 7,
+ "bets": 13,
+ "bounce_bets": 8,
  "realized": 1.9014,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.016,
    "opened": "2026-10-24 20:35 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-nba-bkn-cle-2026-10-24",
+   "game": "nba:BKN@CLE",
+   "side": "long",
+   "team": "Nets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -255,6 +268,12 @@
    [
     1792888559.7984402,
     0.04
+   ]
+  ],
+  "aec-nba-bkn-cle-2026-10-24": [
+   [
+    1792888836.3508267,
+    0.1
    ]
   ]
  },

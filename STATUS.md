@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 20:35 ET · Mode: **PAPER** · Result: OK (22.4s)
+Updated: 2026-10-24 20:40 ET · Mode: **PAPER** · Result: OK (23.8s)
 
 ## Today
-- Bets placed: 12 (main 5/5, bounce 7/50)
+- Bets placed: 13 (main 5/5, bounce 8/50)
 - Realized P&L: +1.90
 
 ## Open paper positions
 - **Oilers** (short/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
-- **Blues** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Blues** (short/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000
@@ -21,5 +22,4 @@ Updated: 2026-10-24 20:35 ET · Mode: **PAPER** · Result: OK (22.4s)
 - 2026-10-24 00:25 ET: Kings [main] — stop-loss @ 0.0300 → -0.4348
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rangers", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "nhl:CAR@STL", "market": "aec-nhl-car-stl-2026-10-24", "side": "short", "team": "Blues", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "nba:BKN@CLE", "market": "aec-nba-bkn-cle-2026-10-24", "side": "long", "team": "Nets", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
