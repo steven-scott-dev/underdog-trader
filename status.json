@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-24T21:15:58.115968-04:00",
+ "updated": "2026-10-24T21:20:52.939583-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.1,
+ "duration_s": 20.0,
  "daily": {
   "date": "2026-10-24",
   "bets": 13,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.7664
+  "realized": 1.6764
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-tor-edm-2026-10-24",
-   "game": "nhl:TOR@EDM",
-   "side": "short",
-   "team": "Oilers",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-24 20:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nba-por-sac-2026-10-23",
-   "game": "nba:POR@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.23,
-   "qty": 2.1739,
-   "tp": 0.575,
-   "sl": 0.092,
-   "opened": "2026-10-24 00:20 ET",
-   "mode": "main",
-   "last_bid": 0.23,
-   "closed": "2026-10-24 00:25 ET",
-   "exit": 0.03,
-   "pnl": -0.4348,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nba-mem-gs-2026-10-23",
    "game": "nba:MEM@GS",
@@ -196,8 +165,32 @@
    "exit": 0.04,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-edm-2026-10-24",
+   "game": "nhl:TOR@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-24 21:20 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Oilers",
+   "reason": "stop-loss",
+   "pnl": -0.09
+  }
+ ]
 }

@@ -2,22 +2,8 @@
  "date": "2026-10-24",
  "bets": 13,
  "bounce_bets": 8,
- "realized": 1.7664,
- "paper_positions": [
-  {
-   "market": "aec-nhl-tor-edm-2026-10-24",
-   "game": "nhl:TOR@EDM",
-   "side": "short",
-   "team": "Oilers",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-24 20:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "realized": 1.6764,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-por-sac-2026-10-23",
@@ -222,6 +208,23 @@
    "exit": 0.04,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-edm-2026-10-24",
+   "game": "nhl:TOR@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-24 21:20 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -289,6 +292,7 @@
   "aec-nba-por-sac-2026-10-23": 1792817736.2101805,
   "aec-nba-mia-cha-2026-10-24": 1792890034.1935065,
   "aec-nhl-car-stl-2026-10-24": 1792892439.2624395,
-  "aec-nba-bkn-cle-2026-10-24": 1792892439.2882702
+  "aec-nba-bkn-cle-2026-10-24": 1792892439.2882702,
+  "aec-nhl-tor-edm-2026-10-24": 1792893033.1073368
  }
 }
