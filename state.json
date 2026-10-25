@@ -2,22 +2,8 @@
  "date": "2026-10-25",
  "bets": 3,
  "bounce_bets": 2,
- "realized": -0.425,
- "paper_positions": [
-  {
-   "market": "aec-nfl-tb-car-2026-10-25",
-   "game": "nfl:TB@CAR",
-   "side": "short",
-   "team": "Panthers",
-   "entry": 0.0525,
-   "qty": 1.9048,
-   "tp": 0.105,
-   "sl": 0.021,
-   "opened": "2026-10-25 14:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.0225
-  }
- ],
+ "realized": -0.4964,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -52,6 +38,23 @@
    "exit": 0.0225,
    "pnl": -0.35,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-tb-car-2026-10-25",
+   "game": "nfl:TB@CAR",
+   "side": "short",
+   "team": "Panthers",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-10-25 14:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.0225,
+   "closed": "2026-10-25 14:45 ET",
+   "exit": 0.015,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -77,6 +80,7 @@
  },
  "cooldowns": {
   "aec-nhl-det-cgy-2026-10-24": 1792903231.7892575,
-  "aec-nfl-pit-no-2026-10-25": 1792947333.2813313
+  "aec-nfl-pit-no-2026-10-25": 1792947333.2813313,
+  "aec-nfl-tb-car-2026-10-25": 1792955736.903421
  }
 }
