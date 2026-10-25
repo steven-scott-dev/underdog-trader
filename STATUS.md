@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 22:10 ET · Mode: **PAPER** · Result: OK (13.7s)
+Updated: 2026-10-24 22:15 ET · Mode: **PAPER** · Result: OK (13.9s)
 
 ## Today
-- Bets placed: 15 (main 5/5, bounce 10/50)
+- Bets placed: 16 (main 5/5, bounce 11/50)
 - Realized P&L: +1.50
 
 ## Open paper positions
-- _none_
+- **Nets** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-24 21:45 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0833
@@ -20,4 +20,4 @@ Updated: 2026-10-24 22:10 ET · Mode: **PAPER** · Result: OK (13.7s)
 - 2026-10-24 20:10 ET: Heat [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:BKN@CLE", "market": "aec-nba-bkn-cle-2026-10-24", "side": "long", "team": "Nets", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
