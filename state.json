@@ -1,9 +1,23 @@
 {
  "date": "2026-10-25",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 1,
  "realized": -0.075,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-pit-no-2026-10-25",
+   "game": "nfl:PIT@NO",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.075,
+   "qty": 6.6667,
+   "tp": 0.1875,
+   "sl": 0.03,
+   "opened": "2026-10-25 12:20 ET",
+   "mode": "main",
+   "last_bid": 0.075
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -29,6 +43,12 @@
    [
     1792900838.917064,
     0.04
+   ]
+  ],
+  "aec-nfl-pit-no-2026-10-25": [
+   [
+    1792945234.8101463,
+    0.075
    ]
   ]
  },
