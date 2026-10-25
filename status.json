@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-25T12:20:35.131714-04:00",
+ "updated": "2026-10-25T12:25:34.497107-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-25",
   "bets": 2,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": -0.075
+  "realized": -0.425
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-pit-no-2026-10-25",
-   "game": "nfl:PIT@NO",
-   "side": "short",
-   "team": "Saints",
-   "entry": 0.075,
-   "qty": 6.6667,
-   "tp": 0.1875,
-   "sl": 0.03,
-   "opened": "2026-10-25 12:20 ET",
-   "mode": "main",
-   "last_bid": 0.075
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -43,20 +29,32 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-pit-no-2026-10-25",
+   "game": "nfl:PIT@NO",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.075,
+   "qty": 6.6667,
+   "tp": 0.1875,
+   "sl": 0.03,
+   "opened": "2026-10-25 12:20 ET",
+   "mode": "main",
+   "last_bid": 0.075,
+   "closed": "2026-10-25 12:25 ET",
+   "exit": 0.0225,
+   "pnl": -0.35,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nfl:PIT@NO",
-   "market": "aec-nfl-pit-no-2026-10-25",
-   "side": "short",
+   "type": "paper_close",
    "team": "Saints",
-   "ask": 0.075,
-   "qty": 6.6667,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.35
   }
  ]
 }

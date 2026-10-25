@@ -2,22 +2,8 @@
  "date": "2026-10-25",
  "bets": 2,
  "bounce_bets": 1,
- "realized": -0.075,
- "paper_positions": [
-  {
-   "market": "aec-nfl-pit-no-2026-10-25",
-   "game": "nfl:PIT@NO",
-   "side": "short",
-   "team": "Saints",
-   "entry": 0.075,
-   "qty": 6.6667,
-   "tp": 0.1875,
-   "sl": 0.03,
-   "opened": "2026-10-25 12:20 ET",
-   "mode": "main",
-   "last_bid": 0.075
-  }
- ],
+ "realized": -0.425,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -34,6 +20,23 @@
    "closed": "2026-10-25 00:10 ET",
    "exit": 0.01,
    "pnl": -0.075,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-pit-no-2026-10-25",
+   "game": "nfl:PIT@NO",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.075,
+   "qty": 6.6667,
+   "tp": 0.1875,
+   "sl": 0.03,
+   "opened": "2026-10-25 12:20 ET",
+   "mode": "main",
+   "last_bid": 0.075,
+   "closed": "2026-10-25 12:25 ET",
+   "exit": 0.0225,
+   "pnl": -0.35,
    "reason": "stop-loss"
   }
  ],
@@ -53,6 +56,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nhl-det-cgy-2026-10-24": 1792903231.7892575
+  "aec-nhl-det-cgy-2026-10-24": 1792903231.7892575,
+  "aec-nfl-pit-no-2026-10-25": 1792947333.2813313
  }
 }
