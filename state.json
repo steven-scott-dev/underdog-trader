@@ -15,7 +15,7 @@
    "sl": 0.035,
    "opened": "2026-10-25 15:30 ET",
    "mode": "bounce",
-   "last_bid": 0.0875
+   "last_bid": 0.1225
   },
   {
    "market": "aec-nfl-ind-min-2026-10-25",
@@ -28,7 +28,7 @@
    "sl": 0.05,
    "opened": "2026-10-25 15:30 ET",
    "mode": "main",
-   "last_bid": 0.125
+   "last_bid": 0.0675
   }
  ],
  "paper_history": [
