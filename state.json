@@ -1,7 +1,7 @@
 {
  "date": "2026-10-24",
- "bets": 14,
- "bounce_bets": 9,
+ "bets": 15,
+ "bounce_bets": 10,
  "realized": 1.6764,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-24 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nba-mil-phi-2026-10-24",
+   "game": "nba:MIL@PHI",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-24 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -305,6 +318,12 @@
    [
     1792891533.858694,
     0.09
+   ]
+  ],
+  "aec-nba-mil-phi-2026-10-24": [
+   [
+    1792892135.0569363,
+    0.06
    ]
   ]
  },

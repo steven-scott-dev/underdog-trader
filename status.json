@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T21:30:48.358098-04:00",
+ "updated": "2026-10-24T21:35:47.426013-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.2,
+ "duration_s": 13.3,
  "daily": {
   "date": "2026-10-24",
-  "bets": 14,
-  "bounce_bets": 9,
+  "bets": 15,
+  "bounce_bets": 10,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 1.6764
@@ -23,7 +23,20 @@
    "sl": 0.036,
    "opened": "2026-10-24 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nba-mil-phi-2026-10-24",
+   "game": "nba:MIL@PHI",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-24 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:MIL@PHI",
+   "market": "aec-nba-mil-phi-2026-10-24",
+   "side": "long",
+   "team": "Bucks",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
