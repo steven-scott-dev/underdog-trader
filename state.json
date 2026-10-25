@@ -1,9 +1,23 @@
 {
  "date": "2026-10-25",
- "bets": 5,
+ "bets": 6,
  "bounce_bets": 3,
  "realized": -0.8864,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-cle-ten-2026-10-25",
+   "game": "nfl:CLE@TEN",
+   "side": "short",
+   "team": "Titans",
+   "entry": 0.1275,
+   "qty": 3.9216,
+   "tp": 0.3187,
+   "sl": 0.051,
+   "opened": "2026-10-25 15:50 ET",
+   "mode": "main",
+   "last_bid": 0.1275
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -121,6 +135,12 @@
    [
     1792956633.4667013,
     0.125
+   ]
+  ],
+  "aec-nfl-cle-ten-2026-10-25": [
+   [
+    1792957834.932908,
+    0.1275
    ]
   ]
  },

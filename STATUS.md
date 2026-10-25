@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 15:45 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-10-25 15:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 5 (main 2/5, bounce 3/50)
+- Bets placed: 6 (main 3/5, bounce 3/50)
 - Realized P&L: -0.89
 
 ## Open paper positions
-- _none_
+- **Titans** (short/main) — 3.9216 @ 0.1275, now ~0.1275, unrealized +0.0000 (TP 0.3187 / SL 0.0510)
 
 ## Recent history
 - 2026-10-25 15:45 ET: Colts [main] — stop-loss @ 0.0025 → -0.4900
@@ -17,5 +17,4 @@ Updated: 2026-10-25 15:45 ET · Mode: **PAPER** · Result: OK (12.0s)
 - 2026-10-25 00:10 ET: Red Wings [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "49ers", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Colts", "reason": "stop-loss", "pnl": -0.49}`
+- `{"type": "buy", "game": "nfl:CLE@TEN", "market": "aec-nfl-cle-ten-2026-10-25", "side": "short", "team": "Titans", "ask": 0.1275, "qty": 3.9216, "stake": 0.5, "mode": "main"}`
