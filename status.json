@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-25T16:05:34.767926-04:00",
+ "updated": "2026-10-25T16:10:37.952778-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-25",
   "bets": 8,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": -0.5888
+  "realized": 0.2871
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-cle-ten-2026-10-25",
-   "game": "nfl:CLE@TEN",
-   "side": "short",
-   "team": "Titans",
-   "entry": 0.3625,
-   "qty": 1.3793,
-   "tp": 0.9062,
-   "sl": 0.145,
-   "opened": "2026-10-25 16:00 ET",
-   "mode": "main",
-   "last_bid": 0.3075
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -145,8 +131,32 @@
    "exit": 0.0325,
    "pnl": -0.4522,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-cle-ten-2026-10-25",
+   "game": "nfl:CLE@TEN",
+   "side": "short",
+   "team": "Titans",
+   "entry": 0.3625,
+   "qty": 1.3793,
+   "tp": 0.9062,
+   "sl": 0.145,
+   "opened": "2026-10-25 16:00 ET",
+   "mode": "main",
+   "last_bid": 0.3075,
+   "closed": "2026-10-25 16:10 ET",
+   "exit": 0.9975,
+   "pnl": 0.8759,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Titans",
+   "reason": "settled",
+   "pnl": 0.8759
+  }
+ ]
 }
