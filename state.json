@@ -1,21 +1,21 @@
 {
  "date": "2026-10-24",
- "bets": 8,
- "bounce_bets": 4,
- "realized": 2.1152,
+ "bets": 9,
+ "bounce_bets": 5,
+ "realized": 2.2152,
  "paper_positions": [
   {
-   "market": "aec-nba-mia-cha-2026-10-24",
-   "game": "nba:MIA@CHA",
+   "market": "aec-nhl-nyr-ott-2026-10-24",
+   "game": "nhl:NYR@OTT",
    "side": "long",
-   "team": "Heat",
+   "team": "Rangers",
    "entry": 0.07,
    "qty": 1.4286,
    "tp": 0.14,
    "sl": 0.028,
-   "opened": "2026-10-24 19:50 ET",
+   "opened": "2026-10-24 20:10 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -137,6 +137,23 @@
    "exit": 0.2,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-mia-cha-2026-10-24",
+   "game": "nba:MIA@CHA",
+   "side": "long",
+   "team": "Heat",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-24 19:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-24 20:10 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -172,6 +189,12 @@
   "aec-nba-mia-cha-2026-10-24": [
    [
     1792885833.9997694,
+    0.07
+   ]
+  ],
+  "aec-nhl-nyr-ott-2026-10-24": [
+   [
+    1792887051.499027,
     0.07
    ]
   ]
