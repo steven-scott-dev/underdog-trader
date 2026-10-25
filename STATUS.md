@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 18:05 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-25 18:10 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 8 (main 5/5, bounce 3/50)
+- Bets placed: 9 (main 5/5, bounce 4/50)
 - Realized P&L: +0.29
 
 ## Open paper positions
-- _none_
+- **Cardinals** (short/bounce) — 1.7391 @ 0.0575, now ~0.0575, unrealized +0.0000 (TP 0.1150 / SL 0.0230)
 
 ## Recent history
 - 2026-10-25 16:10 ET: Titans [main] — settled @ 0.9975 → +0.8759
@@ -20,4 +20,4 @@ Updated: 2026-10-25 18:05 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-25 00:10 ET: Red Wings [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:DEN@ARI", "market": "aec-nfl-den-ari-2026-10-25", "side": "short", "team": "Cardinals", "ask": 0.0575, "qty": 1.7391, "stake": 0.1, "mode": "bounce"}`

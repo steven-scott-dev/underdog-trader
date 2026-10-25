@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-25T18:05:39.965755-04:00",
+ "updated": "2026-10-25T18:10:37.941718-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-25",
-  "bets": 8,
-  "bounce_bets": 3,
+  "bets": 9,
+  "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 0.2871
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-den-ari-2026-10-25",
+   "game": "nfl:DEN@ARI",
+   "side": "short",
+   "team": "Cardinals",
+   "entry": 0.0575,
+   "qty": 1.7391,
+   "tp": 0.115,
+   "sl": 0.023,
+   "opened": "2026-10-25 18:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.0575
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -151,5 +165,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:DEN@ARI",
+   "market": "aec-nfl-den-ari-2026-10-25",
+   "side": "short",
+   "team": "Cardinals",
+   "ask": 0.0575,
+   "qty": 1.7391,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
