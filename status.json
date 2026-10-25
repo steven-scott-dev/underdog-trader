@@ -1,17 +1,18 @@
 {
- "updated": "2026-10-25T00:05:36.999213-04:00",
+ "updated": "2026-10-25T00:10:32.965593-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-25",
   "bets": 1,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.0
+  "realized": -0.075
  },
- "paper_positions": [
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
    "game": "nhl:DET@CGY",
@@ -23,10 +24,20 @@
    "sl": 0.016,
    "opened": "2026-10-25 00:00 ET",
    "mode": "bounce",
-   "last_bid": 0.02
+   "last_bid": 0.02,
+   "closed": "2026-10-25 00:10 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Red Wings",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }
