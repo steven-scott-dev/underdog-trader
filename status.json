@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-24T21:05:56.313189-04:00",
+ "updated": "2026-10-24T21:11:03.145436-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.1,
+ "duration_s": 24.3,
  "daily": {
   "date": "2026-10-24",
   "bets": 13,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.9014
+  "realized": 1.7664
  },
  "paper_positions": [
   {
@@ -24,69 +24,9 @@
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
    "last_bid": 0.13
-  },
-  {
-   "market": "aec-nhl-car-stl-2026-10-24",
-   "game": "nhl:CAR@STL",
-   "side": "short",
-   "team": "Blues",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-24 20:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  },
-  {
-   "market": "aec-nba-bkn-cle-2026-10-24",
-   "game": "nba:BKN@CLE",
-   "side": "long",
-   "team": "Nets",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-24 20:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-por-sac-2026-10-23",
-   "game": "nba:POR@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-24 00:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.09,
-   "closed": "2026-10-24 00:20 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-nba-hou-sa-2026-10-23",
-   "game": "nba:HOU@SA",
-   "side": "short",
-   "team": "Spurs",
-   "entry": 0.26,
-   "qty": 1.9231,
-   "tp": 0.65,
-   "sl": 0.104,
-   "opened": "2026-10-24 00:10 ET",
-   "mode": "main",
-   "last_bid": 0.23,
-   "closed": "2026-10-24 00:20 ET",
-   "exit": 0.65,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nba-por-sac-2026-10-23",
    "game": "nba:POR@SAC",
@@ -222,8 +162,55 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-car-stl-2026-10-24",
+   "game": "nhl:CAR@STL",
+   "side": "short",
+   "team": "Blues",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-24 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-24 21:10 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bkn-cle-2026-10-24",
+   "game": "nba:BKN@CLE",
+   "side": "long",
+   "team": "Nets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-24 21:10 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Blues",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  },
+  {
+   "type": "paper_close",
+   "team": "Nets",
+   "reason": "stop-loss",
+   "pnl": -0.06
+  }
+ ]
 }
