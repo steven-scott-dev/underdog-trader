@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 23:30 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-24 23:35 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 17 (main 5/5, bounce 12/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-24 23:30 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kraken", "reason": "stop-loss", "pnl": -0.07}`
+- _none_

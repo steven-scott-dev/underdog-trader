@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T23:30:36.670569-04:00",
+ "updated": "2026-10-24T23:35:36.432412-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-24",
   "bets": 17,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kraken",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }
