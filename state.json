@@ -1,34 +1,21 @@
 {
  "date": "2026-10-25",
- "bets": 7,
+ "bets": 8,
  "bounce_bets": 3,
- "realized": -0.8864,
+ "realized": -0.5888,
  "paper_positions": [
   {
    "market": "aec-nfl-cle-ten-2026-10-25",
    "game": "nfl:CLE@TEN",
    "side": "short",
    "team": "Titans",
-   "entry": 0.1275,
-   "qty": 3.9216,
-   "tp": 0.3187,
-   "sl": 0.051,
-   "opened": "2026-10-25 15:50 ET",
+   "entry": 0.3625,
+   "qty": 1.3793,
+   "tp": 0.9062,
+   "sl": 0.145,
+   "opened": "2026-10-25 16:00 ET",
    "mode": "main",
-   "last_bid": 0.245
-  },
-  {
-   "market": "aec-nfl-sf-atl-2026-10-25",
-   "game": "nfl:SF@ATL",
-   "side": "long",
-   "team": "49ers",
-   "entry": 0.34,
-   "qty": 1.4706,
-   "tp": 0.85,
-   "sl": 0.136,
-   "opened": "2026-10-25 15:55 ET",
-   "mode": "main",
-   "last_bid": 0.34
+   "last_bid": 0.3625
   }
  ],
  "paper_history": [
@@ -116,6 +103,40 @@
    "exit": 0.0025,
    "pnl": -0.49,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-cle-ten-2026-10-25",
+   "game": "nfl:CLE@TEN",
+   "side": "short",
+   "team": "Titans",
+   "entry": 0.1275,
+   "qty": 3.9216,
+   "tp": 0.3187,
+   "sl": 0.051,
+   "opened": "2026-10-25 15:50 ET",
+   "mode": "main",
+   "last_bid": 0.245,
+   "closed": "2026-10-25 16:00 ET",
+   "exit": 0.3187,
+   "pnl": 0.7498,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "game": "nfl:SF@ATL",
+   "side": "long",
+   "team": "49ers",
+   "entry": 0.34,
+   "qty": 1.4706,
+   "tp": 0.85,
+   "sl": 0.136,
+   "opened": "2026-10-25 15:55 ET",
+   "mode": "main",
+   "last_bid": 0.34,
+   "closed": "2026-10-25 16:00 ET",
+   "exit": 0.0325,
+   "pnl": -0.4522,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -154,6 +175,10 @@
    [
     1792957834.932908,
     0.1275
+   ],
+   [
+    1792958440.7220848,
+    0.3625
    ]
   ]
  },
@@ -161,6 +186,7 @@
   "aec-nhl-det-cgy-2026-10-24": 1792903231.7892575,
   "aec-nfl-pit-no-2026-10-25": 1792947333.2813313,
   "aec-nfl-tb-car-2026-10-25": 1792955736.903421,
-  "aec-nfl-ind-min-2026-10-25": 1792959339.1683943
+  "aec-nfl-ind-min-2026-10-25": 1792959339.1683943,
+  "aec-nfl-sf-atl-2026-10-25": 1792960240.159021
  }
 }

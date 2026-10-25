@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-25T15:55:40.480305-04:00",
+ "updated": "2026-10-25T16:00:41.257139-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-25",
-  "bets": 7,
+  "bets": 8,
   "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": -0.8864
+  "realized": -0.5888
  },
  "paper_positions": [
   {
@@ -17,26 +17,13 @@
    "game": "nfl:CLE@TEN",
    "side": "short",
    "team": "Titans",
-   "entry": 0.1275,
-   "qty": 3.9216,
-   "tp": 0.3187,
-   "sl": 0.051,
-   "opened": "2026-10-25 15:50 ET",
+   "entry": 0.3625,
+   "qty": 1.3793,
+   "tp": 0.9062,
+   "sl": 0.145,
+   "opened": "2026-10-25 16:00 ET",
    "mode": "main",
-   "last_bid": 0.245
-  },
-  {
-   "market": "aec-nfl-sf-atl-2026-10-25",
-   "game": "nfl:SF@ATL",
-   "side": "long",
-   "team": "49ers",
-   "entry": 0.34,
-   "qty": 1.4706,
-   "tp": 0.85,
-   "sl": 0.136,
-   "opened": "2026-10-25 15:55 ET",
-   "mode": "main",
-   "last_bid": 0.34
+   "last_bid": 0.3625
   }
  ],
  "paper_history": [
@@ -124,18 +111,64 @@
    "exit": 0.0025,
    "pnl": -0.49,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-cle-ten-2026-10-25",
+   "game": "nfl:CLE@TEN",
+   "side": "short",
+   "team": "Titans",
+   "entry": 0.1275,
+   "qty": 3.9216,
+   "tp": 0.3187,
+   "sl": 0.051,
+   "opened": "2026-10-25 15:50 ET",
+   "mode": "main",
+   "last_bid": 0.245,
+   "closed": "2026-10-25 16:00 ET",
+   "exit": 0.3187,
+   "pnl": 0.7498,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "game": "nfl:SF@ATL",
+   "side": "long",
+   "team": "49ers",
+   "entry": 0.34,
+   "qty": 1.4706,
+   "tp": 0.85,
+   "sl": 0.136,
+   "opened": "2026-10-25 15:55 ET",
+   "mode": "main",
+   "last_bid": 0.34,
+   "closed": "2026-10-25 16:00 ET",
+   "exit": 0.0325,
+   "pnl": -0.4522,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nfl:SF@ATL",
-   "market": "aec-nfl-sf-atl-2026-10-25",
-   "side": "long",
+   "type": "paper_close",
+   "team": "Titans",
+   "reason": "take-profit",
+   "pnl": 0.7498
+  },
+  {
+   "type": "paper_close",
    "team": "49ers",
-   "ask": 0.34,
-   "qty": 1.4706,
+   "reason": "stop-loss",
+   "pnl": -0.4522
+  },
+  {
+   "type": "buy",
+   "game": "nfl:CLE@TEN",
+   "market": "aec-nfl-cle-ten-2026-10-25",
+   "side": "short",
+   "team": "Titans",
+   "ask": 0.3625,
+   "qty": 1.3793,
    "stake": 0.5,
    "mode": "main"
   }
