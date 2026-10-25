@@ -1,9 +1,23 @@
 {
  "date": "2026-10-25",
- "bets": 2,
- "bounce_bets": 1,
+ "bets": 3,
+ "bounce_bets": 2,
  "realized": -0.425,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-tb-car-2026-10-25",
+   "game": "nfl:TB@CAR",
+   "side": "short",
+   "team": "Panthers",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-10-25 14:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -52,6 +66,12 @@
    [
     1792945234.8101463,
     0.075
+   ]
+  ],
+  "aec-nfl-tb-car-2026-10-25": [
+   [
+    1792951833.762933,
+    0.0525
    ]
   ]
  },
