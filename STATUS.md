@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 20:00 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-24 20:05 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Today
 - Bets placed: 8 (main 4/5, bounce 4/50)
 - Realized P&L: +2.12
 
 ## Open paper positions
-- **Heat** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
+- **Heat** (long/bounce) — 1.4286 @ 0.0700, now ~0.0800, unrealized +0.0143 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-24 15:50 ET: Flyers [main] — take-profit @ 0.2000 → +0.7500
