@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T12:25:34.497107-04:00",
+ "updated": "2026-10-25T12:30:35.405476-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-25",
   "bets": 2,
@@ -49,12 +49,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Saints",
-   "reason": "stop-loss",
-   "pnl": -0.35
-  }
- ]
+ "actions": []
 }
