@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:45:38.791231-04:00",
+ "updated": "2026-10-25T14:50:36.756767-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 2.5,
@@ -66,12 +66,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Panthers",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  }
- ]
+ "actions": []
 }
