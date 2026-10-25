@@ -2,35 +2,8 @@
  "date": "2026-10-25",
  "bets": 5,
  "bounce_bets": 3,
- "realized": -0.4964,
- "paper_positions": [
-  {
-   "market": "aec-nfl-sf-atl-2026-10-25",
-   "game": "nfl:SF@ATL",
-   "side": "long",
-   "team": "49ers",
-   "entry": 0.0875,
-   "qty": 1.1429,
-   "tp": 0.175,
-   "sl": 0.035,
-   "opened": "2026-10-25 15:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.16
-  },
-  {
-   "market": "aec-nfl-ind-min-2026-10-25",
-   "game": "nfl:IND@MIN",
-   "side": "long",
-   "team": "Colts",
-   "entry": 0.125,
-   "qty": 4.0,
-   "tp": 0.3125,
-   "sl": 0.05,
-   "opened": "2026-10-25 15:30 ET",
-   "mode": "main",
-   "last_bid": 0.1325
-  }
- ],
+ "realized": -0.8864,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -82,6 +55,40 @@
    "exit": 0.015,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "game": "nfl:SF@ATL",
+   "side": "long",
+   "team": "49ers",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.16,
+   "closed": "2026-10-25 15:45 ET",
+   "exit": 0.175,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-ind-min-2026-10-25",
+   "game": "nfl:IND@MIN",
+   "side": "long",
+   "team": "Colts",
+   "entry": 0.125,
+   "qty": 4.0,
+   "tp": 0.3125,
+   "sl": 0.05,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "main",
+   "last_bid": 0.1325,
+   "closed": "2026-10-25 15:45 ET",
+   "exit": 0.0025,
+   "pnl": -0.49,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -120,6 +127,7 @@
  "cooldowns": {
   "aec-nhl-det-cgy-2026-10-24": 1792903231.7892575,
   "aec-nfl-pit-no-2026-10-25": 1792947333.2813313,
-  "aec-nfl-tb-car-2026-10-25": 1792955736.903421
+  "aec-nfl-tb-car-2026-10-25": 1792955736.903421,
+  "aec-nfl-ind-min-2026-10-25": 1792959339.1683943
  }
 }
