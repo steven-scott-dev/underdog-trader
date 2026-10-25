@@ -1,23 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 23:55 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-25 00:00 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 17 (main 5/5, bounce 12/50)
-- Realized P&L: +1.33
+- Bets placed: 1 (main 0/5, bounce 1/50)
+- Realized P&L: +0.00
 
 ## Open paper positions
-- _none_
+- **Red Wings** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
-- 2026-10-24 23:30 ET: Kraken [bounce] — stop-loss @ 0.0300 → -0.0700
-- 2026-10-24 22:20 ET: Nets [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-10-24 21:45 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0833
-- 2026-10-24 21:45 ET: Sharks [bounce] — settled @ 0.0100 → -0.0889
-- 2026-10-24 21:20 ET: Oilers [bounce] — stop-loss @ 0.0100 → -0.0900
-- 2026-10-24 21:10 ET: Nets [bounce] — stop-loss @ 0.0400 → -0.0600
-- 2026-10-24 21:10 ET: Blues [bounce] — stop-loss @ 0.0100 → -0.0750
-- 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000
+- _none yet_
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:DET@CGY", "market": "aec-nhl-det-cgy-2026-10-24", "side": "long", "team": "Red Wings", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
