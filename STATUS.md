@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 22:20 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-10-24 22:25 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 16 (main 5/5, bounce 11/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-24 22:20 ET · Mode: **PAPER** · Result: OK (13.1s)
 - 2026-10-24 20:30 ET: Heat [main] — stop-loss @ 0.0500 → -0.4138
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Nets", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
