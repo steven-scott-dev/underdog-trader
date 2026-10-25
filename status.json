@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T16:10:37.952778-04:00",
+ "updated": "2026-10-25T16:15:38.782951-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-25",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Titans",
-   "reason": "settled",
-   "pnl": 0.8759
-  }
- ]
+ "actions": []
 }
