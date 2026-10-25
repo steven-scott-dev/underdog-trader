@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T15:35:45.401281-04:00",
+ "updated": "2026-10-25T15:40:48.812530-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 14.9,
  "daily": {
   "date": "2026-10-25",
   "bets": 5,
@@ -23,7 +23,7 @@
    "sl": 0.035,
    "opened": "2026-10-25 15:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1225
+   "last_bid": 0.16
   },
   {
    "market": "aec-nfl-ind-min-2026-10-25",
@@ -36,7 +36,7 @@
    "sl": 0.05,
    "opened": "2026-10-25 15:30 ET",
    "mode": "main",
-   "last_bid": 0.0675
+   "last_bid": 0.1325
   }
  ],
  "paper_history": [
