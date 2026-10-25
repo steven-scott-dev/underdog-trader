@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T20:40:58.882742-04:00",
+ "updated": "2026-10-24T20:45:49.656933-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 23.8,
+ "duration_s": 12.0,
  "daily": {
   "date": "2026-10-24",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   },
   {
    "market": "aec-nhl-car-stl-2026-10-24",
@@ -36,7 +36,7 @@
    "sl": 0.016,
    "opened": "2026-10-24 20:35 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.02
   },
   {
    "market": "aec-nba-bkn-cle-2026-10-24",
@@ -49,7 +49,7 @@
    "sl": 0.04,
    "opened": "2026-10-24 20:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -225,17 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:BKN@CLE",
-   "market": "aec-nba-bkn-cle-2026-10-24",
-   "side": "long",
-   "team": "Nets",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
