@@ -2,22 +2,8 @@
  "date": "2026-10-25",
  "bets": 10,
  "bounce_bets": 5,
- "realized": 0.3871,
- "paper_positions": [
-  {
-   "market": "aec-nfl-den-ari-2026-10-25",
-   "game": "nfl:DEN@ARI",
-   "side": "short",
-   "team": "Cardinals",
-   "entry": 0.055,
-   "qty": 1.8182,
-   "tp": 0.11,
-   "sl": 0.022,
-   "opened": "2026-10-25 18:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.0375
-  }
- ],
+ "realized": 0.3235,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -171,6 +157,23 @@
    "exit": 0.115,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-den-ari-2026-10-25",
+   "game": "nfl:DEN@ARI",
+   "side": "short",
+   "team": "Cardinals",
+   "entry": 0.055,
+   "qty": 1.8182,
+   "tp": 0.11,
+   "sl": 0.022,
+   "opened": "2026-10-25 18:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0375,
+   "closed": "2026-10-25 18:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0636,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -227,6 +230,7 @@
   "aec-nfl-pit-no-2026-10-25": 1792947333.2813313,
   "aec-nfl-tb-car-2026-10-25": 1792955736.903421,
   "aec-nfl-ind-min-2026-10-25": 1792959339.1683943,
-  "aec-nfl-sf-atl-2026-10-25": 1792960240.159021
+  "aec-nfl-sf-atl-2026-10-25": 1792960240.159021,
+  "aec-nfl-den-ari-2026-10-25": 1792969833.7859693
  }
 }
