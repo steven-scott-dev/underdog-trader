@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 20:45 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-10-24 20:50 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 13 (main 5/5, bounce 8/50)
 - Realized P&L: +1.90
 
 ## Open paper positions
-- **Oilers** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Oilers** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 - **Blues** (short/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
-- **Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000

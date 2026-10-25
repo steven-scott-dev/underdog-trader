@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T20:45:49.656933-04:00",
+ "updated": "2026-10-24T20:50:37.397465-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.0,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-10-24",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   },
   {
    "market": "aec-nhl-car-stl-2026-10-24",
@@ -49,7 +49,7 @@
    "sl": 0.04,
    "opened": "2026-10-24 20:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
