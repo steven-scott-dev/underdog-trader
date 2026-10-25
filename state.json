@@ -1,22 +1,9 @@
 {
  "date": "2026-10-24",
- "bets": 11,
- "bounce_bets": 6,
- "realized": 1.8014,
+ "bets": 12,
+ "bounce_bets": 7,
+ "realized": 1.9014,
  "paper_positions": [
-  {
-   "market": "aec-nhl-nyr-ott-2026-10-24",
-   "game": "nhl:NYR@OTT",
-   "side": "long",
-   "team": "Rangers",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-24 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-nhl-tor-edm-2026-10-24",
    "game": "nhl:TOR@EDM",
@@ -29,6 +16,19 @@
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
    "last_bid": 0.07
+  },
+  {
+   "market": "aec-nhl-car-stl-2026-10-24",
+   "game": "nhl:CAR@STL",
+   "side": "short",
+   "team": "Blues",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-24 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -184,6 +184,23 @@
    "exit": 0.05,
    "pnl": -0.4138,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-nyr-ott-2026-10-24",
+   "game": "nhl:NYR@OTT",
+   "side": "long",
+   "team": "Rangers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-24 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-24 20:35 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -232,6 +249,12 @@
    [
     1792887956.2409282,
     0.1
+   ]
+  ],
+  "aec-nhl-car-stl-2026-10-24": [
+   [
+    1792888559.7984402,
+    0.04
    ]
   ]
  },

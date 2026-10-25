@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-24 20:30 ET · Mode: **PAPER** · Result: OK (24.4s)
+Updated: 2026-10-24 20:35 ET · Mode: **PAPER** · Result: OK (22.4s)
 
 ## Today
-- Bets placed: 11 (main 5/5, bounce 6/50)
-- Realized P&L: +1.80
+- Bets placed: 12 (main 5/5, bounce 7/50)
+- Realized P&L: +1.90
 
 ## Open paper positions
-- **Rangers** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 - **Oilers** (short/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- **Blues** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
+- 2026-10-24 20:35 ET: Rangers [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-24 20:30 ET: Heat [main] — stop-loss @ 0.0500 → -0.4138
 - 2026-10-24 20:10 ET: Heat [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-24 15:50 ET: Flyers [main] — take-profit @ 0.2000 → +0.7500
@@ -18,7 +19,7 @@ Updated: 2026-10-24 20:30 ET · Mode: **PAPER** · Result: OK (24.4s)
 - 2026-10-24 00:50 ET: Grizzlies [main] — take-profit @ 0.7750 → +0.7500
 - 2026-10-24 00:45 ET: Grizzlies [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-10-24 00:25 ET: Kings [main] — stop-loss @ 0.0300 → -0.4348
-- 2026-10-24 00:20 ET: Spurs [main] — take-profit @ 0.6500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Heat", "reason": "stop-loss", "pnl": -0.4138}`
+- `{"type": "paper_close", "team": "Rangers", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nhl:CAR@STL", "market": "aec-nhl-car-stl-2026-10-24", "side": "short", "team": "Blues", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`

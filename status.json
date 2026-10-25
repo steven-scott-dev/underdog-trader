@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-24T20:30:58.201466-04:00",
+ "updated": "2026-10-24T20:35:59.920850-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.4,
+ "duration_s": 22.4,
  "daily": {
   "date": "2026-10-24",
-  "bets": 11,
-  "bounce_bets": 6,
+  "bets": 12,
+  "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.8014
+  "realized": 1.9014
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-nyr-ott-2026-10-24",
-   "game": "nhl:NYR@OTT",
-   "side": "long",
-   "team": "Rangers",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-24 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-nhl-tor-edm-2026-10-24",
    "game": "nhl:TOR@EDM",
@@ -37,6 +24,19 @@
    "opened": "2026-10-24 20:25 ET",
    "mode": "bounce",
    "last_bid": 0.07
+  },
+  {
+   "market": "aec-nhl-car-stl-2026-10-24",
+   "game": "nhl:CAR@STL",
+   "side": "short",
+   "team": "Blues",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-24 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -192,15 +192,43 @@
    "exit": 0.05,
    "pnl": -0.4138,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-nyr-ott-2026-10-24",
+   "game": "nhl:NYR@OTT",
+   "side": "long",
+   "team": "Rangers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-24 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-24 20:35 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Heat",
-   "reason": "stop-loss",
-   "pnl": -0.4138
+   "team": "Rangers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nhl:CAR@STL",
+   "market": "aec-nhl-car-stl-2026-10-24",
+   "side": "short",
+   "team": "Blues",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
