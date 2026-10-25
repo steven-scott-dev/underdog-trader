@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T20:21:10.876501-04:00",
+ "updated": "2026-10-24T20:25:56.419183-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 32.5,
+ "duration_s": 24.4,
  "daily": {
   "date": "2026-10-24",
-  "bets": 9,
-  "bounce_bets": 5,
+  "bets": 11,
+  "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.2152
@@ -23,7 +23,33 @@
    "sl": 0.028,
    "opened": "2026-10-24 20:10 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nba-mia-cha-2026-10-24",
+   "game": "nba:MIA@CHA",
+   "side": "long",
+   "team": "Heat",
+   "entry": 0.29,
+   "qty": 1.7241,
+   "tp": 0.725,
+   "sl": 0.116,
+   "opened": "2026-10-24 20:25 ET",
+   "mode": "main",
+   "last_bid": 0.29
+  },
+  {
+   "market": "aec-nhl-tor-edm-2026-10-24",
+   "game": "nhl:TOR@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-24 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -165,5 +191,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:MIA@CHA",
+   "market": "aec-nba-mia-cha-2026-10-24",
+   "side": "long",
+   "team": "Heat",
+   "ask": 0.29,
+   "qty": 1.7241,
+   "stake": 0.5,
+   "mode": "main"
+  },
+  {
+   "type": "buy",
+   "game": "nhl:TOR@EDM",
+   "market": "aec-nhl-tor-edm-2026-10-24",
+   "side": "short",
+   "team": "Oilers",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
