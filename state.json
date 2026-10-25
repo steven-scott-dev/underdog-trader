@@ -1,9 +1,36 @@
 {
  "date": "2026-10-25",
- "bets": 3,
- "bounce_bets": 2,
+ "bets": 5,
+ "bounce_bets": 3,
  "realized": -0.4964,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "game": "nfl:SF@ATL",
+   "side": "long",
+   "team": "49ers",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0875
+  },
+  {
+   "market": "aec-nfl-ind-min-2026-10-25",
+   "game": "nfl:IND@MIN",
+   "side": "long",
+   "team": "Colts",
+   "entry": 0.125,
+   "qty": 4.0,
+   "tp": 0.3125,
+   "sl": 0.05,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "main",
+   "last_bid": 0.125
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -75,6 +102,18 @@
    [
     1792951833.762933,
     0.0525
+   ]
+  ],
+  "aec-nfl-sf-atl-2026-10-25": [
+   [
+    1792956632.7338977,
+    0.0875
+   ]
+  ],
+  "aec-nfl-ind-min-2026-10-25": [
+   [
+    1792956633.4667013,
+    0.125
    ]
   ]
  },

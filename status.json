@@ -1,17 +1,44 @@
 {
- "updated": "2026-10-25T15:25:48.258186-04:00",
+ "updated": "2026-10-25T15:30:45.963975-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.1,
+ "duration_s": 14.0,
  "daily": {
   "date": "2026-10-25",
-  "bets": 3,
-  "bounce_bets": 2,
+  "bets": 5,
+  "bounce_bets": 3,
   "max_main": 5,
   "max_bounce": 50,
   "realized": -0.4964
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "game": "nfl:SF@ATL",
+   "side": "long",
+   "team": "49ers",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0875
+  },
+  {
+   "market": "aec-nfl-ind-min-2026-10-25",
+   "game": "nfl:IND@MIN",
+   "side": "long",
+   "team": "Colts",
+   "entry": 0.125,
+   "qty": 4.0,
+   "tp": 0.3125,
+   "sl": 0.05,
+   "opened": "2026-10-25 15:30 ET",
+   "mode": "main",
+   "last_bid": 0.125
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -66,5 +93,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:SF@ATL",
+   "market": "aec-nfl-sf-atl-2026-10-25",
+   "side": "long",
+   "team": "49ers",
+   "ask": 0.0875,
+   "qty": 1.1429,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "nfl:IND@MIN",
+   "market": "aec-nfl-ind-min-2026-10-25",
+   "side": "long",
+   "team": "Colts",
+   "ask": 0.125,
+   "qty": 4.0,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
