@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T23:30:36.152983-04:00",
+ "updated": "2026-10-25T23:35:40.812958-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-25",
   "bets": 18,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Canucks",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }
