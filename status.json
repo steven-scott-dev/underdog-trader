@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:55:38.127106-04:00",
+ "updated": "2026-10-25T23:00:43.150565-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.0,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Chiefs",
-   "reason": "stop-loss",
-   "pnl": -0.0769
-  }
- ]
+ "actions": []
 }
