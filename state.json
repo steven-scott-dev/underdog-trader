@@ -2,7 +2,7 @@
  "date": "2026-10-25",
  "bets": 16,
  "bounce_bets": 11,
- "realized": 0.1835,
+ "realized": 0.1085,
  "paper_positions": [
   {
    "market": "aec-nfl-kc-sea-2026-10-25",
@@ -15,20 +15,7 @@
    "sl": 0.037,
    "opened": "2026-10-25 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1325
-  },
-  {
-   "market": "aec-nhl-col-nas-2026-10-25",
-   "game": "nhl:COL@NSH",
-   "side": "long",
-   "team": "Avalanche",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-25 22:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.155
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-col-nas-2026-10-25",
+   "game": "nhl:COL@NSH",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-25 22:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-25 22:20 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -358,7 +362,7 @@
   "aec-nfl-sf-atl-2026-10-25": 1792960240.159021,
   "aec-nfl-den-ari-2026-10-25": 1792969833.7859693,
   "aec-nba-tor-min-2026-10-25": 1792977639.094107,
-  "aec-nhl-col-nas-2026-10-25": 1792980634.0218954,
+  "aec-nhl-col-nas-2026-10-25": 1792983039.6615562,
   "aec-nhl-mon-wpg-2026-10-25": 1792980937.8405201
  }
 }
