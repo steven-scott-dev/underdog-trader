@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 11:20 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-26 11:25 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 14 (main 4/5, bounce 10/50)
 - Realized P&L: +2.25
 
 ## Open paper positions
-- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
+- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-26 11:05 ET: Eduarda Gomes [bounce] — stop-loss @ 0.0300 → -0.0700
