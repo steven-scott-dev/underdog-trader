@@ -1,21 +1,21 @@
 {
  "date": "2026-10-26",
- "bets": 18,
- "bounce_bets": 13,
- "realized": 2.9354,
+ "bets": 19,
+ "bounce_bets": 14,
+ "realized": 3.0354,
  "paper_positions": [
   {
-   "market": "aec-wta-vicrod-margon-2026-10-25",
-   "game": "wta:Gonzalez@Rodriguez",
-   "side": "short",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 12:00 ET",
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "long",
+   "team": "Tomas Machac",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.17
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -307,6 +307,23 @@
    "exit": 0.825,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-vicrod-margon-2026-10-25",
+   "game": "wta:Gonzalez@Rodriguez",
+   "side": "short",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.17,
+   "closed": "2026-10-26 12:15 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -365,8 +382,8 @@
   ],
   "aec-atp-tommac-alemin-2026-10-26": [
    [
-    1793030436.3583152,
-    0.33
+    1793031336.3751197,
+    0.06
    ]
   ],
   "aec-wta-leygor-julsil-2026-10-26": [

@@ -1,49 +1,32 @@
 {
- "updated": "2026-10-26T12:10:44.748176-04:00",
+ "updated": "2026-10-26T12:15:48.007145-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 13.0,
  "daily": {
   "date": "2026-10-26",
-  "bets": 18,
-  "bounce_bets": 13,
+  "bets": 19,
+  "bounce_bets": 14,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.9354
+  "realized": 3.0354
  },
  "paper_positions": [
   {
-   "market": "aec-wta-vicrod-margon-2026-10-25",
-   "game": "wta:Gonzalez@Rodriguez",
-   "side": "short",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 12:00 ET",
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "long",
+   "team": "Tomas Machac",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.17
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-mikbru-nunbor-2026-10-26",
-   "game": "atp:Borges@Brunold",
-   "side": "long",
-   "team": "Mika Brunold",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 09:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-26 09:25 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-yelkot-aljsen-2026-10-26",
    "game": "wta:Senica@Kotliar",
@@ -196,15 +179,43 @@
    "exit": 0.825,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-vicrod-margon-2026-10-25",
+   "game": "wta:Gonzalez@Rodriguez",
+   "side": "short",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.17,
+   "closed": "2026-10-26 12:15 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Alex de Minaur",
+   "team": "Maria Fernanda Herazo Gonzalez",
    "reason": "take-profit",
-   "pnl": 0.75
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "atp:Minaur@Machac",
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "side": "long",
+   "team": "Tomas Machac",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
