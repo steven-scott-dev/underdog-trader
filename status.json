@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-26T15:15:37.474441-04:00",
+ "updated": "2026-10-26T15:20:45.078517-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 11.4,
  "daily": {
   "date": "2026-10-26",
   "bets": 32,
   "bounce_bets": 27,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.4981
+  "realized": 2.5981
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.04,
    "opened": "2026-10-26 14:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-rosden-gabknu-2026-10-26",
-   "game": "wta:Knutson@Dencheva",
-   "side": "long",
-   "team": "Rositsa Dencheva",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 15:10 ET",
-   "mode": "bounce",
    "last_bid": 0.11
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-carher-abroli-2026-10-25",
-   "game": "wta:Olivares@Herea",
-   "side": "short",
-   "team": "Abril Cardenas Olivares",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 12:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-10-26 12:45 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-ferlab-gabce-2026-10-26",
    "game": "wta:Ce@Labrana",
@@ -209,8 +179,32 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-rosden-gabknu-2026-10-26",
+   "game": "wta:Knutson@Dencheva",
+   "side": "long",
+   "team": "Rositsa Dencheva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 15:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-26 15:20 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Rositsa Dencheva",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

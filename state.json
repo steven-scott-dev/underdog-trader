@@ -2,7 +2,7 @@
  "date": "2026-10-26",
  "bets": 32,
  "bounce_bets": 27,
- "realized": 2.4981,
+ "realized": 2.5981,
  "paper_positions": [
   {
    "market": "aec-wta-aleosb-jeshin-2026-10-25",
@@ -14,19 +14,6 @@
    "tp": 0.2,
    "sl": 0.04,
    "opened": "2026-10-26 14:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-rosden-gabknu-2026-10-26",
-   "game": "wta:Knutson@Dencheva",
-   "side": "long",
-   "team": "Rositsa Dencheva",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 15:10 ET",
    "mode": "bounce",
    "last_bid": 0.11
   }
@@ -541,6 +528,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-rosden-gabknu-2026-10-26",
+   "game": "wta:Knutson@Dencheva",
+   "side": "long",
+   "team": "Rositsa Dencheva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 15:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-26 15:20 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
