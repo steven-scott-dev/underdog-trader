@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 11:05 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-26 11:10 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 13 (main 4/5, bounce 9/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 11:05 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-10-26 07:20 ET: Tatiana Prozorova [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Eduarda Gomes", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
