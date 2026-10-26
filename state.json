@@ -2,21 +2,8 @@
  "date": "2026-10-26",
  "bets": 11,
  "bounce_bets": 8,
- "realized": 0.7161,
+ "realized": 0.8161,
  "paper_positions": [
-  {
-   "market": "aec-atp-matber-tometc-2026-10-25",
-   "game": "atp:Etcheverry@Berrettini",
-   "side": "short",
-   "team": "Tomas Etcheverry",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  },
   {
    "market": "aec-wta-adrnag-daryes-2026-10-26",
    "game": "wta:Yesypchuk@Nagy",
@@ -28,7 +15,7 @@
    "sl": 0.084,
    "opened": "2026-10-26 09:55 ET",
    "mode": "main",
-   "last_bid": 0.43
+   "last_bid": 0.44
   }
  ],
  "paper_history": [
@@ -182,6 +169,23 @@
    "last_bid": 0.06,
    "closed": "2026-10-26 10:00 ET",
    "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-matber-tometc-2026-10-25",
+   "game": "atp:Etcheverry@Berrettini",
+   "side": "short",
+   "team": "Tomas Etcheverry",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-26 10:05 ET",
+   "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
   }
