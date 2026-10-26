@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 33,
  "bounce_bets": 28,
- "realized": 2.5314,
- "paper_positions": [
-  {
-   "market": "aec-wta-aleosb-jeshin-2026-10-25",
-   "game": "wta:Gomez@Osborne",
-   "side": "long",
-   "team": "Alexandra Osborne",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 14:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "realized": 2.4314,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -562,6 +548,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-aleosb-jeshin-2026-10-25",
+   "game": "wta:Gomez@Osborne",
+   "side": "long",
+   "team": "Alexandra Osborne",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-26 15:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -736,6 +739,7 @@
   "aec-wta-vicbos-jazort-2026-10-26": 1793040335.34244,
   "aec-wta-zonli-gaimad-2026-10-26": 1793041534.9722984,
   "aec-atp-lucdar-matarn-2026-10-25": 1793042735.2392168,
-  "aec-wta-dasple-demtra-2026-10-25": 1793044835.446357
+  "aec-wta-dasple-demtra-2026-10-25": 1793044835.446357,
+  "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058
  }
 }
