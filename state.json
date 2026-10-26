@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-26 10:10 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-adrnag-daryes-2026-10-26",
@@ -28,7 +28,7 @@
    "sl": 0.156,
    "opened": "2026-10-26 10:15 ET",
    "mode": "main",
-   "last_bid": 0.3
+   "last_bid": 0.28
   }
  ],
  "paper_history": [
