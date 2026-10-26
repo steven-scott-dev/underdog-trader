@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 36,
  "bounce_bets": 31,
- "realized": 2.2933,
- "paper_positions": [
-  {
-   "market": "aec-wta-carher-maroli-2026-10-27",
-   "game": "wta:Oliva@Herea",
-   "side": "short",
-   "team": "Maria Fernanda Navarro Oliva",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-26 16:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "realized": 2.2183,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -613,6 +599,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-carher-maroli-2026-10-27",
+   "game": "wta:Oliva@Herea",
+   "side": "short",
+   "team": "Maria Fernanda Navarro Oliva",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-26 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-26 16:50 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -808,6 +811,7 @@
   "aec-wta-dasple-demtra-2026-10-25": 1793044835.446357,
   "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058,
   "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196,
-  "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332
+  "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332,
+  "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085
  }
 }
