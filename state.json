@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 33,
- "bounce_bets": 28,
+ "bets": 34,
+ "bounce_bets": 29,
  "realized": 2.4314,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-lucass-leatie-2026-10-25",
+   "game": "atp:Tien@Assche",
+   "side": "long",
+   "team": "Luca Van Assche",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 16:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -719,6 +733,12 @@
    [
     1793042736.0118465,
     0.06
+   ]
+  ],
+  "aec-atp-lucass-leatie-2026-10-25": [
+   [
+    1793045440.6315138,
+    0.07
    ]
   ]
  },
