@@ -1,17 +1,18 @@
 {
- "updated": "2026-10-26T04:50:35.799796-04:00",
+ "updated": "2026-10-26T04:55:35.783245-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-26",
   "bets": 1,
   "bounce_bets": 1,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.0
+  "realized": -0.075
  },
- "paper_positions": [
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
    "game": "wta:Stojsavljevic@Eala",
@@ -23,10 +24,20 @@
    "sl": 0.016,
    "opened": "2026-10-26 04:40 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.03,
+   "closed": "2026-10-26 04:55 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Mika Stojsavljevic",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }
