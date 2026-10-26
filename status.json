@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T13:55:41.400445-04:00",
+ "updated": "2026-10-26T14:00:54.363541-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-10-26",
-  "bets": 25,
-  "bounce_bets": 20,
+  "bets": 27,
+  "bounce_bets": 22,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.734
@@ -23,7 +23,33 @@
    "sl": 0.024,
    "opened": "2026-10-26 13:15 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "game": "wta:Ortenzi@Bosio",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-martor-maroli-2026-10-25",
+   "game": "wta:Oliva@Murcia",
+   "side": "long",
+   "team": "Maria Torres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -199,5 +225,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Ortenzi@Bosio",
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Oliva@Murcia",
+   "market": "aec-wta-martor-maroli-2026-10-25",
+   "side": "long",
+   "team": "Maria Torres",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
