@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 14:55 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-26 15:00 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 31 (main 5/5, bounce 26/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 14:55 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-26 13:30 ET: Lukas Neumayer [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Matteo Arnaldi", "reason": "stop-loss", "pnl": -0.08}`
+- _none_

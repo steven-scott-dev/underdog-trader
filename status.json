@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T14:55:36.233572-04:00",
+ "updated": "2026-10-26T15:00:38.891234-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-26",
   "bets": 31,
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Matteo Arnaldi",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }
