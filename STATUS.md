@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 22:05 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-25 22:10 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
-- Bets placed: 15 (main 5/5, bounce 10/50)
+- Bets placed: 16 (main 5/5, bounce 11/50)
 - Realized P&L: +0.18
 
 ## Open paper positions
-- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1275, unrealized +0.0378 (TP 0.1850 / SL 0.0370)
+- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1225, unrealized +0.0324 (TP 0.1850 / SL 0.0370)
+- **Avalanche** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-25 21:45 ET: Jets [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +21,4 @@ Updated: 2026-10-25 22:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-25 16:00 ET: 49ers [main] — stop-loss @ 0.0325 → -0.4522
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:COL@NSH", "market": "aec-nhl-col-nas-2026-10-25", "side": "long", "team": "Avalanche", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
