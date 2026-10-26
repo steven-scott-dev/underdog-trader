@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 15:20 ET · Mode: **PAPER** · Result: OK (11.4s)
+Updated: 2026-10-26 15:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 32 (main 5/5, bounce 27/50)
+- Bets placed: 33 (main 5/5, bounce 28/50)
 - Realized P&L: +2.60
 
 ## Open paper positions
-- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
+- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Demi Tran** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-26 15:20 ET: Rositsa Dencheva [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-26 15:20 ET · Mode: **PAPER** · Result: OK (11.4s)
 - 2026-10-26 13:40 ET: Lisa Zaar [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rositsa Dencheva", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "wta:Tran@Plekhanova", "market": "aec-wta-dasple-demtra-2026-10-25", "side": "short", "team": "Demi Tran", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`

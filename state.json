@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 32,
- "bounce_bets": 27,
+ "bets": 33,
+ "bounce_bets": 28,
  "realized": 2.5981,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-26 14:50 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-dasple-demtra-2026-10-25",
+   "game": "wta:Tran@Plekhanova",
+   "side": "short",
+   "team": "Demi Tran",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 15:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -693,6 +706,12 @@
    [
     1793041835.8542585,
     0.09
+   ]
+  ],
+  "aec-wta-dasple-demtra-2026-10-25": [
+   [
+    1793042736.0118465,
+    0.06
    ]
   ]
  },
