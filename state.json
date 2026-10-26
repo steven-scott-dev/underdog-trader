@@ -2,21 +2,8 @@
  "date": "2026-10-26",
  "bets": 18,
  "bounce_bets": 13,
- "realized": 2.1854,
+ "realized": 2.9354,
  "paper_positions": [
-  {
-   "market": "aec-atp-tommac-alemin-2026-10-26",
-   "game": "atp:Minaur@Machac",
-   "side": "short",
-   "team": "Alex de Minaur",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-10-26 12:00 ET",
-   "mode": "main",
-   "last_bid": 0.64
-  },
   {
    "market": "aec-wta-vicrod-margon-2026-10-25",
    "game": "wta:Gonzalez@Rodriguez",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-26 12:00 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.17
   }
  ],
  "paper_history": [
@@ -303,6 +290,23 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "short",
+   "team": "Alex de Minaur",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-26 12:00 ET",
+   "mode": "main",
+   "last_bid": 0.64,
+   "closed": "2026-10-26 12:10 ET",
+   "exit": 0.825,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
