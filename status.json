@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-26T10:25:53.456197-04:00",
+ "updated": "2026-10-26T10:40:50.237650-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 13,
   "bounce_bets": 9,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.5661
+  "realized": 2.3161
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.04,
    "opened": "2026-10-26 10:10 ET",
    "mode": "bounce",
-   "last_bid": 0.11
-  },
-  {
-   "market": "aec-wta-adrnag-daryes-2026-10-26",
-   "game": "wta:Yesypchuk@Nagy",
-   "side": "long",
-   "team": "Adrienn Nagy",
-   "entry": 0.39,
-   "qty": 1.2821,
-   "tp": 0.975,
-   "sl": 0.156,
-   "opened": "2026-10-26 10:15 ET",
-   "mode": "main",
-   "last_bid": 0.28
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-paubad-carlee-2026-10-25",
-   "game": "wta:Lee@Badosa",
-   "side": "short",
-   "team": "Carol Young Suh Lee",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-26 05:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-26 05:40 ET",
-   "exit": 0.08,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-paubad-carlee-2026-10-25",
    "game": "wta:Lee@Badosa",
@@ -209,8 +179,32 @@
    "exit": 0.525,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "game": "wta:Yesypchuk@Nagy",
+   "side": "long",
+   "team": "Adrienn Nagy",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-10-26 10:15 ET",
+   "mode": "main",
+   "last_bid": 0.28,
+   "closed": "2026-10-26 10:40 ET",
+   "exit": 0.975,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Adrienn Nagy",
+   "reason": "take-profit",
+   "pnl": 0.75
+  }
+ ]
 }
