@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:50:46.159838-04:00",
+ "updated": "2026-10-26T12:54:05.397459-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 12.8,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Fernanda Labrana",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }

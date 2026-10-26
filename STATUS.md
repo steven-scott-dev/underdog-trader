@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 12:50 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-26 12:54 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
 - Bets placed: 22 (main 5/5, bounce 17/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 12:50 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-10-26 11:45 ET: Julia Konishi Camargo Silva [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Fernanda Labrana", "reason": "stop-loss", "pnl": -0.06}`
+- _none_
