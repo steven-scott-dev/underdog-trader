@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T11:25:38.017960-04:00",
+ "updated": "2026-10-26T11:30:40.059171-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-26",
-  "bets": 14,
-  "bounce_bets": 10,
+  "bets": 15,
+  "bounce_bets": 11,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.2461
@@ -23,7 +23,20 @@
    "sl": 0.036,
    "opened": "2026-10-26 11:15 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-leygor-julsil-2026-10-26",
+   "game": "wta:Silva@Gormaz",
+   "side": "short",
+   "team": "Julia Konishi Camargo Silva",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Silva@Gormaz",
+   "market": "aec-wta-leygor-julsil-2026-10-26",
+   "side": "short",
+   "team": "Julia Konishi Camargo Silva",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

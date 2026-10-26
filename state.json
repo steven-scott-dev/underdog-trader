@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 14,
- "bounce_bets": 10,
+ "bets": 15,
+ "bounce_bets": 11,
  "realized": 2.2461,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-26 11:15 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-leygor-julsil-2026-10-26",
+   "game": "wta:Silva@Gormaz",
+   "side": "short",
+   "team": "Julia Konishi Camargo Silva",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -299,6 +312,12 @@
    [
     1793027739.7912812,
     0.09
+   ]
+  ],
+  "aec-wta-leygor-julsil-2026-10-26": [
+   [
+    1793028639.8402252,
+    0.08
    ]
   ]
  },
