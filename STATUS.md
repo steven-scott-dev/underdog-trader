@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 13:15 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-26 13:20 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
 - Bets placed: 24 (main 5/5, bounce 19/50)
@@ -21,4 +21,4 @@ Updated: 2026-10-26 13:15 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-26 11:45 ET: Julia Konishi Camargo Silva [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Salazar@Hu", "market": "aec-wta-vichu-natsal-2026-10-25", "side": "short", "team": "Natalia Sousa Salazar", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
