@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 35,
  "bounce_bets": 30,
- "realized": 2.36,
- "paper_positions": [
-  {
-   "market": "aec-wta-soplle-ameimp-2026-10-25",
-   "game": "wta:Impe@Llewellyn",
-   "side": "long",
-   "team": "Sophie Llewellyn",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 16:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.2933,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -596,6 +582,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-soplle-ameimp-2026-10-25",
+   "game": "wta:Impe@Llewellyn",
+   "side": "long",
+   "team": "Sophie Llewellyn",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 16:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 16:25 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -784,6 +787,7 @@
   "aec-atp-lucdar-matarn-2026-10-25": 1793042735.2392168,
   "aec-wta-dasple-demtra-2026-10-25": 1793044835.446357,
   "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058,
-  "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196
+  "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196,
+  "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332
  }
 }

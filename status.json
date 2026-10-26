@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-26T16:20:37.149698-04:00",
+ "updated": "2026-10-26T16:25:35.272373-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-26",
   "bets": 35,
   "bounce_bets": 30,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.36
+  "realized": 2.2933
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-soplle-ameimp-2026-10-25",
-   "game": "wta:Impe@Llewellyn",
-   "side": "long",
-   "team": "Sophie Llewellyn",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 16:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-vicbos-jazort-2026-10-26",
-   "game": "wta:Ortenzi@Bosio",
-   "side": "long",
-   "team": "Victoria Bosio",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-26 14:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-26 14:05 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-martor-maroli-2026-10-25",
    "game": "wta:Oliva@Murcia",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-soplle-ameimp-2026-10-25",
+   "game": "wta:Impe@Llewellyn",
+   "side": "long",
+   "team": "Sophie Llewellyn",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 16:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 16:25 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sophie Llewellyn",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }
