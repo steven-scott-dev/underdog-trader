@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-26T17:35:37.708235-04:00",
+ "updated": "2026-10-26T17:40:36.809117-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-26",
-  "bets": 36,
-  "bounce_bets": 31,
+  "bets": 37,
+  "bounce_bets": 32,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.2183
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-domstr-casruu-2026-10-25",
+   "game": "atp:Ruud@Stricker",
+   "side": "long",
+   "team": "Dominic Stephan Stricker",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 17:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vichu-natsal-2026-10-25",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Ruud@Stricker",
+   "market": "aec-atp-domstr-casruu-2026-10-25",
+   "side": "long",
+   "team": "Dominic Stephan Stricker",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

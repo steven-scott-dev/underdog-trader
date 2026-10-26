@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 17:35 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-26 17:40 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
-- Bets placed: 36 (main 5/5, bounce 31/50)
+- Bets placed: 37 (main 5/5, bounce 32/50)
 - Realized P&L: +2.22
 
 ## Open paper positions
-- _none_
+- **Dominic Stephan Stricker** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-26 16:50 ET: Maria Fernanda Navarro Oliva [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -20,4 +20,4 @@ Updated: 2026-10-26 17:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-26 14:35 ET: Zongyu Li [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Ruud@Stricker", "market": "aec-atp-domstr-casruu-2026-10-25", "side": "long", "team": "Dominic Stephan Stricker", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`

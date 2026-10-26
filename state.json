@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 36,
- "bounce_bets": 31,
+ "bets": 37,
+ "bounce_bets": 32,
  "realized": 2.2183,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-domstr-casruu-2026-10-25",
+   "game": "atp:Ruud@Stricker",
+   "side": "long",
+   "team": "Dominic Stephan Stricker",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 17:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -788,6 +802,12 @@
    [
     1793047240.0983462,
     0.04
+   ]
+  ],
+  "aec-atp-domstr-casruu-2026-10-25": [
+   [
+    1793050836.4100451,
+    0.05
    ]
   ]
  },
