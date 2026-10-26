@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 16:50 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-26 16:55 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 36 (main 5/5, bounce 31/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 16:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-26 14:35 ET: Zongyu Li [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Fernanda Navarro Oliva", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
