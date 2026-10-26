@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 21:45 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-25 21:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 15 (main 5/5, bounce 10/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-25 21:45 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-25 16:00 ET: 49ers [main] — stop-loss @ 0.0325 → -0.4522
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jets", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
