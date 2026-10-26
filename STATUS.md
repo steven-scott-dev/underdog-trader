@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 23:10 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-25 23:15 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 17 (main 5/5, bounce 12/50)
+- Bets placed: 18 (main 5/5, bounce 13/50)
 - Realized P&L: +0.13
 
 ## Open paper positions
-- _none_
+- **Canucks** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-25 22:55 ET: Chiefs [bounce] — stop-loss @ 0.0150 → -0.0769
@@ -20,4 +20,4 @@ Updated: 2026-10-25 23:10 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-25 18:40 ET: Cardinals [bounce] — stop-loss @ 0.0200 → -0.0636
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:MIN@VAN", "market": "aec-nhl-min-van-2026-10-25", "side": "short", "team": "Canucks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

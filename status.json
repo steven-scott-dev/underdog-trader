@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-25T23:10:36.024831-04:00",
+ "updated": "2026-10-25T23:15:36.432188-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-25",
-  "bets": 17,
-  "bounce_bets": 12,
+  "bets": 18,
+  "bounce_bets": 13,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 0.1316
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-min-van-2026-10-25",
+   "game": "nhl:MIN@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 23:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nfl-cle-ten-2026-10-25",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:MIN@VAN",
+   "market": "aec-nhl-min-van-2026-10-25",
+   "side": "short",
+   "team": "Canucks",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
