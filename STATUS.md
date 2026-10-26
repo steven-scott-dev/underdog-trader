@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 11:15 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-26 11:20 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 14 (main 4/5, bounce 10/50)
 - Realized P&L: +2.25
 
 ## Open paper positions
-- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-26 11:05 ET: Eduarda Gomes [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-10-26 11:15 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-26 07:20 ET: Tatiana Prozorova [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Minaur@Machac", "market": "aec-atp-tommac-alemin-2026-10-26", "side": "short", "team": "Alex de Minaur", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
