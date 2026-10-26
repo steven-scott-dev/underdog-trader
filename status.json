@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:45:48.135681-04:00",
+ "updated": "2026-10-26T11:50:47.929832-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 11.7,
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Julia Konishi Camargo Silva",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }

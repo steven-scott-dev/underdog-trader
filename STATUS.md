@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 11:45 ET · Mode: **PAPER** · Result: OK (11.7s)
+Updated: 2026-10-26 11:50 ET · Mode: **PAPER** · Result: OK (11.7s)
 
 ## Today
 - Bets placed: 16 (main 4/5, bounce 12/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 11:45 ET · Mode: **PAPER** · Result: OK (11.7s)
 - 2026-10-26 09:25 ET: Mika Brunold [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Julia Konishi Camargo Silva", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
