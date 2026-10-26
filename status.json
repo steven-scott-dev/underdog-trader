@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-26T09:55:38.090166-04:00",
+ "updated": "2026-10-26T10:00:39.807479-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-26",
   "bets": 11,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.6161
+  "realized": 0.7161
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-yelkot-aljsen-2026-10-26",
-   "game": "wta:Senica@Kotliar",
-   "side": "short",
-   "team": "Alja Senica",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.02
   },
   {
    "market": "aec-wta-adrnag-daryes-2026-10-26",
@@ -49,7 +36,7 @@
    "sl": 0.084,
    "opened": "2026-10-26 09:55 ET",
    "mode": "main",
-   "last_bid": 0.21
+   "last_bid": 0.43
   }
  ],
  "paper_history": [
@@ -188,20 +175,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "game": "wta:Senica@Kotliar",
+   "side": "short",
+   "team": "Alja Senica",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 10:00 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Yesypchuk@Nagy",
-   "market": "aec-wta-adrnag-daryes-2026-10-26",
-   "side": "short",
-   "team": "Daria Yesypchuk",
-   "ask": 0.21,
-   "qty": 2.381,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Alja Senica",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }

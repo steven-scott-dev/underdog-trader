@@ -2,7 +2,7 @@
  "date": "2026-10-26",
  "bets": 11,
  "bounce_bets": 8,
- "realized": 0.6161,
+ "realized": 0.7161,
  "paper_positions": [
   {
    "market": "aec-atp-matber-tometc-2026-10-25",
@@ -15,20 +15,7 @@
    "sl": 0.02,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-yelkot-aljsen-2026-10-26",
-   "game": "wta:Senica@Kotliar",
-   "side": "short",
-   "team": "Alja Senica",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.02
   },
   {
    "market": "aec-wta-adrnag-daryes-2026-10-26",
@@ -41,7 +28,7 @@
    "sl": 0.084,
    "opened": "2026-10-26 09:55 ET",
    "mode": "main",
-   "last_bid": 0.21
+   "last_bid": 0.43
   }
  ],
  "paper_history": [
@@ -180,6 +167,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "game": "wta:Senica@Kotliar",
+   "side": "short",
+   "team": "Alja Senica",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 10:00 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
