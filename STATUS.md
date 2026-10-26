@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 07:00 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-26 07:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 4 (main 1/5, bounce 3/50)
 - Realized P&L: +0.12
 
 ## Open paper positions
-- **Harriet Dart** (long/main) — 1.5152 @ 0.3300, now ~0.6500, unrealized +0.4849 (TP 0.8250 / SL 0.1320)
+- **Harriet Dart** (long/main) — 1.5152 @ 0.3300, now ~0.7800, unrealized +0.6818 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-10-26 06:00 ET: Carol Young Suh Lee [bounce] — take-profit @ 0.1800 → +0.1000
