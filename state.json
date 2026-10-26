@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 7,
- "bounce_bets": 5,
+ "bets": 8,
+ "bounce_bets": 6,
  "realized": 0.6861,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-mikbru-nunbor-2026-10-26",
+   "game": "atp:Borges@Brunold",
+   "side": "long",
+   "team": "Mika Brunold",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 09:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -153,6 +167,12 @@
    [
     1793019937.0899382,
     0.07
+   ]
+  ],
+  "aec-atp-mikbru-nunbor-2026-10-26": [
+   [
+    1793020840.9175236,
+    0.1
    ]
   ]
  },
