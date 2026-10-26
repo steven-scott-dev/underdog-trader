@@ -2,35 +2,8 @@
  "date": "2026-10-26",
  "bets": 28,
  "bounce_bets": 23,
- "realized": 2.774,
- "paper_positions": [
-  {
-   "market": "aec-wta-vichu-natsal-2026-10-25",
-   "game": "wta:Salazar@Hu",
-   "side": "short",
-   "team": "Natalia Sousa Salazar",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-26 13:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-vicbos-jazort-2026-10-26",
-   "game": "wta:Ortenzi@Bosio",
-   "side": "long",
-   "team": "Victoria Bosio",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-26 14:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.6406,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -473,6 +446,40 @@
    "exit": 0.04,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-vichu-natsal-2026-10-25",
+   "game": "wta:Salazar@Hu",
+   "side": "short",
+   "team": "Natalia Sousa Salazar",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-26 14:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "game": "wta:Ortenzi@Bosio",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 14:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 14:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -612,6 +619,8 @@
   "aec-wta-ferlab-gabce-2026-10-26": 1793035233.937468,
   "aec-atp-jakmen-lukneu-2026-10-26": 1793037634.492962,
   "aec-wta-liszaa-aylaks-2026-10-26": 1793038241.6400576,
-  "aec-wta-martor-maroli-2026-10-25": 1793039740.8542132
+  "aec-wta-martor-maroli-2026-10-25": 1793039740.8542132,
+  "aec-wta-vichu-natsal-2026-10-25": 1793040335.322777,
+  "aec-wta-vicbos-jazort-2026-10-26": 1793040335.34244
  }
 }
