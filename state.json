@@ -1,21 +1,21 @@
 {
  "date": "2026-10-26",
- "bets": 34,
- "bounce_bets": 29,
- "realized": 2.4314,
+ "bets": 35,
+ "bounce_bets": 30,
+ "realized": 2.36,
  "paper_positions": [
   {
-   "market": "aec-atp-lucass-leatie-2026-10-25",
-   "game": "atp:Tien@Assche",
+   "market": "aec-wta-soplle-ameimp-2026-10-25",
+   "game": "wta:Impe@Llewellyn",
    "side": "long",
-   "team": "Luca Van Assche",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-26 16:10 ET",
+   "team": "Sophie Llewellyn",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 16:15 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -579,6 +579,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-lucass-leatie-2026-10-25",
+   "game": "atp:Tien@Assche",
+   "side": "long",
+   "team": "Luca Van Assche",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 16:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-26 16:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -740,6 +757,12 @@
     1793045440.6315138,
     0.07
    ]
+  ],
+  "aec-wta-soplle-ameimp-2026-10-25": [
+   [
+    1793045736.8072743,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
@@ -760,6 +783,7 @@
   "aec-wta-zonli-gaimad-2026-10-26": 1793041534.9722984,
   "aec-atp-lucdar-matarn-2026-10-25": 1793042735.2392168,
   "aec-wta-dasple-demtra-2026-10-25": 1793044835.446357,
-  "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058
+  "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058,
+  "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196
  }
 }
