@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 11,
- "bounce_bets": 8,
+ "bets": 12,
+ "bounce_bets": 9,
  "realized": 0.8161,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.084,
    "opened": "2026-10-26 09:55 ET",
    "mode": "main",
-   "last_bid": 0.44
+   "last_bid": 0.42
+  },
+  {
+   "market": "aec-wta-antver-egd-2026-10-26",
+   "game": "wta:Gomes@Rivera",
+   "side": "short",
+   "team": "Eduarda Gomes",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 10:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -236,6 +249,12 @@
    [
     1793022938.0224366,
     0.21
+   ]
+  ],
+  "aec-wta-antver-egd-2026-10-26": [
+   [
+    1793023836.252134,
+    0.1
    ]
   ]
  },

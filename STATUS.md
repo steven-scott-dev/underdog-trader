@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 10:05 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-26 10:10 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 11 (main 3/5, bounce 8/50)
+- Bets placed: 12 (main 3/5, bounce 9/50)
 - Realized P&L: +0.82
 
 ## Open paper positions
-- **Daria Yesypchuk** (short/main) — 2.381 @ 0.2100, now ~0.4400, unrealized +0.5476 (TP 0.5250 / SL 0.0840)
+- **Daria Yesypchuk** (short/main) — 2.381 @ 0.2100, now ~0.4200, unrealized +0.5000 (TP 0.5250 / SL 0.0840)
+- **Eduarda Gomes** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 10:05 ET: Tomas Etcheverry [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-26 10:05 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-26 06:00 ET: Carol Young Suh Lee [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tomas Etcheverry", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "wta:Gomes@Rivera", "market": "aec-wta-antver-egd-2026-10-26", "side": "short", "team": "Eduarda Gomes", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
