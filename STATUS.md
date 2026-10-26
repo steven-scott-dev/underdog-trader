@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 17:45 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-26 17:50 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 37 (main 5/5, bounce 32/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 17:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-26 14:55 ET: Matteo Arnaldi [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Dominic Stephan Stricker", "reason": "stop-loss", "pnl": -0.06}`
+- _none_

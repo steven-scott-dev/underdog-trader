@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T17:45:40.939910-04:00",
+ "updated": "2026-10-26T17:50:39.113690-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 37,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Dominic Stephan Stricker",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }
