@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 16:15 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-26 16:20 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 35 (main 5/5, bounce 30/50)
 - Realized P&L: +2.36
 
 ## Open paper positions
-- **Sophie Llewellyn** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Sophie Llewellyn** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-26 16:15 ET: Luca Van Assche [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -20,5 +20,4 @@ Updated: 2026-10-26 16:15 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-26 14:15 ET: Natalia Sousa Salazar [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Luca Van Assche", "reason": "stop-loss", "pnl": -0.0714}`
-- `{"type": "buy", "game": "wta:Impe@Llewellyn", "market": "aec-wta-soplle-ameimp-2026-10-25", "side": "long", "team": "Sophie Llewellyn", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_

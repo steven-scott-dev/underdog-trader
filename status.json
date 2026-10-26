@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T16:15:37.138502-04:00",
+ "updated": "2026-10-26T16:20:37.149698-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-26",
   "bets": 35,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-26 16:15 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,23 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Luca Van Assche",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  },
-  {
-   "type": "buy",
-   "game": "wta:Impe@Llewellyn",
-   "market": "aec-wta-soplle-ameimp-2026-10-25",
-   "side": "long",
-   "team": "Sophie Llewellyn",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
