@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T22:10:37.214902-04:00",
+ "updated": "2026-10-25T22:15:35.056700-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-25",
   "bets": 16,
@@ -23,7 +23,7 @@
    "sl": 0.037,
    "opened": "2026-10-25 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1225
+   "last_bid": 0.1325
   },
   {
    "market": "aec-nhl-col-nas-2026-10-25",
@@ -36,7 +36,7 @@
    "sl": 0.016,
    "opened": "2026-10-25 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:COL@NSH",
-   "market": "aec-nhl-col-nas-2026-10-25",
-   "side": "long",
-   "team": "Avalanche",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
