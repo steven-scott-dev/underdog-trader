@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 09:10 ET · Mode: **PAPER** · Result: OK (11.4s)
+Updated: 2026-10-26 09:15 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 7 (main 2/5, bounce 5/50)
@@ -19,4 +19,4 @@ Updated: 2026-10-26 09:10 ET · Mode: **PAPER** · Result: OK (11.4s)
 - 2026-10-26 04:55 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alja Senica", "reason": "take-profit", "pnl": 0.1}`
+- _none_

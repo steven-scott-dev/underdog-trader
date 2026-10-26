@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T09:10:44.934559-04:00",
+ "updated": "2026-10-26T09:15:37.200472-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.4,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-26",
   "bets": 7,
@@ -134,12 +134,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alja Senica",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
