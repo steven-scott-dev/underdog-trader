@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-26T11:10:41.683910-04:00",
+ "updated": "2026-10-26T11:15:40.301181-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-26",
-  "bets": 13,
-  "bounce_bets": 9,
+  "bets": 14,
+  "bounce_bets": 10,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.2461
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "short",
+   "team": "Alex de Minaur",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 11:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-hardar-tatpro-2026-10-26",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Minaur@Machac",
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "side": "short",
+   "team": "Alex de Minaur",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
