@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 37,
  "bounce_bets": 32,
- "realized": 2.2183,
- "paper_positions": [
-  {
-   "market": "aec-atp-domstr-casruu-2026-10-25",
-   "game": "atp:Ruud@Stricker",
-   "side": "long",
-   "team": "Dominic Stephan Stricker",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 17:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 2.1583,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -630,6 +616,23 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-domstr-casruu-2026-10-25",
+   "game": "atp:Ruud@Stricker",
+   "side": "long",
+   "team": "Dominic Stephan Stricker",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 17:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-26 17:45 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -832,6 +835,7 @@
   "aec-wta-aleosb-jeshin-2026-10-25": 1793045737.9256058,
   "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196,
   "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332,
-  "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085
+  "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085,
+  "aec-atp-domstr-casruu-2026-10-25": 1793052939.8110452
  }
 }
