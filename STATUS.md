@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 22:45 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-25 22:50 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 16 (main 5/5, bounce 11/50)
+- Bets placed: 17 (main 5/5, bounce 12/50)
 - Realized P&L: +0.21
 
 ## Open paper positions
-- _none_
+- **Chiefs** (long/bounce) — 1.5385 @ 0.0650, now ~0.0650, unrealized +0.0000 (TP 0.1300 / SL 0.0260)
 
 ## Recent history
 - 2026-10-25 22:45 ET: Chiefs [bounce] — take-profit @ 0.1850 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-25 22:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-25 18:20 ET: Cardinals [bounce] — take-profit @ 0.1150 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Chiefs", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nfl:KC@SEA", "market": "aec-nfl-kc-sea-2026-10-25", "side": "long", "team": "Chiefs", "ask": 0.065, "qty": 1.5385, "stake": 0.1, "mode": "bounce"}`
