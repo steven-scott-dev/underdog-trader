@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T20:50:40.084320-04:00",
+ "updated": "2026-10-25T20:55:38.858825-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-25",
   "bets": 11,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Raptors",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }

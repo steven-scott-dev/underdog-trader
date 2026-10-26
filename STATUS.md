@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 20:50 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-25 20:55 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 11 (main 5/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-25 20:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-25 15:45 ET: 49ers [bounce] — take-profit @ 0.1750 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Raptors", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
