@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T14:05:53.887323-04:00",
+ "updated": "2026-10-26T14:10:38.909555-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.6,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-26",
-  "bets": 27,
-  "bounce_bets": 22,
+  "bets": 28,
+  "bounce_bets": 23,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.774
@@ -24,6 +24,19 @@
    "opened": "2026-10-26 13:15 ET",
    "mode": "bounce",
    "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "game": "wta:Ortenzi@Bosio",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 14:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -201,16 +214,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
+   "type": "buy",
+   "game": "wta:Ortenzi@Bosio",
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "side": "long",
    "team": "Victoria Bosio",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Maria Torres",
-   "reason": "stop-loss",
-   "pnl": -0.06
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
