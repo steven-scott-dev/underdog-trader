@@ -1,9 +1,36 @@
 {
  "date": "2026-10-25",
- "bets": 11,
- "bounce_bets": 6,
+ "bets": 13,
+ "bounce_bets": 8,
  "realized": 0.2435,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-orl-ny-2026-10-25",
+   "game": "nba:ORL@NY",
+   "side": "long",
+   "team": "Magic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-25 21:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-nhl-mon-wpg-2026-10-25",
+   "game": "nhl:MTL@WPG",
+   "side": "short",
+   "team": "Jets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 21:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -244,6 +271,18 @@
   "aec-nba-tor-min-2026-10-25": [
    [
     1792974936.7922378,
+    0.1
+   ]
+  ],
+  "aec-nba-orl-ny-2026-10-25": [
+   [
+    1792976439.0263968,
+    0.07
+   ]
+  ],
+  "aec-nhl-mon-wpg-2026-10-25": [
+   [
+    1792976440.0272,
     0.1
    ]
   ]

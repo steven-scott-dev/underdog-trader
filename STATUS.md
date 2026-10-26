@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 20:55 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-25 21:00 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
-- Bets placed: 11 (main 5/5, bounce 6/50)
+- Bets placed: 13 (main 5/5, bounce 8/50)
 - Realized P&L: +0.24
 
 ## Open paper positions
-- _none_
+- **Magic** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Jets** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-25 20:50 ET: Raptors [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,4 +21,5 @@ Updated: 2026-10-25 20:55 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-25 15:45 ET: 49ers [bounce] — take-profit @ 0.1750 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:ORL@NY", "market": "aec-nba-orl-ny-2026-10-25", "side": "long", "team": "Magic", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "nhl:MTL@WPG", "market": "aec-nhl-mon-wpg-2026-10-25", "side": "short", "team": "Jets", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
