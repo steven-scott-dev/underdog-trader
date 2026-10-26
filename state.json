@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 3,
+ "bets": 4,
  "bounce_bets": 3,
  "realized": 0.125,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-hardar-tatpro-2026-10-26",
+   "game": "wta:Prozorova@Dart",
+   "side": "long",
+   "team": "Harriet Dart",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-26 06:50 ET",
+   "mode": "main",
+   "last_bid": 0.33
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -69,6 +83,12 @@
    [
     1793008537.3709276,
     0.09
+   ]
+  ],
+  "aec-wta-hardar-tatpro-2026-10-26": [
+   [
+    1793011836.861863,
+    0.33
    ]
   ]
  },
