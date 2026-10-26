@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 16:25 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-26 16:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 35 (main 5/5, bounce 30/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 16:25 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-26 14:15 ET: Victoria Bosio [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sophie Llewellyn", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

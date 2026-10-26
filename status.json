@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T16:25:35.272373-04:00",
+ "updated": "2026-10-26T16:30:37.306384-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-26",
   "bets": 35,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sophie Llewellyn",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
