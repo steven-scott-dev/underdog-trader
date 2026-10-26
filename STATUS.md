@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 21:05 ET · Mode: **PAPER** · Result: OK (12.4s)
+Updated: 2026-10-25 21:10 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 13 (main 5/5, bounce 8/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-25 21:05 ET · Mode: **PAPER** · Result: OK (12.4s)
 - 2026-10-25 15:45 ET: Colts [main] — stop-loss @ 0.0025 → -0.4900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Magic", "reason": "take-profit", "pnl": 0.1}`
+- _none_
