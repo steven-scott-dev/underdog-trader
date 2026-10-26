@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-25T22:50:35.657328-04:00",
+ "updated": "2026-10-25T22:55:38.127106-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-25",
   "bets": 17,
   "bounce_bets": 12,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.2085
+  "realized": 0.1316
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-kc-sea-2026-10-25",
-   "game": "nfl:KC@SEA",
-   "side": "long",
-   "team": "Chiefs",
-   "entry": 0.065,
-   "qty": 1.5385,
-   "tp": 0.13,
-   "sl": 0.026,
-   "opened": "2026-10-25 22:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.065
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nfl-sf-atl-2026-10-25",
-   "game": "nfl:SF@ATL",
-   "side": "long",
-   "team": "49ers",
-   "entry": 0.34,
-   "qty": 1.4706,
-   "tp": 0.85,
-   "sl": 0.136,
-   "opened": "2026-10-25 15:55 ET",
-   "mode": "main",
-   "last_bid": 0.34,
-   "closed": "2026-10-25 16:00 ET",
-   "exit": 0.0325,
-   "pnl": -0.4522,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-cle-ten-2026-10-25",
    "game": "nfl:CLE@TEN",
@@ -196,20 +165,32 @@
    "exit": 0.185,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-kc-sea-2026-10-25",
+   "game": "nfl:KC@SEA",
+   "side": "long",
+   "team": "Chiefs",
+   "entry": 0.065,
+   "qty": 1.5385,
+   "tp": 0.13,
+   "sl": 0.026,
+   "opened": "2026-10-25 22:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.065,
+   "closed": "2026-10-25 22:55 ET",
+   "exit": 0.015,
+   "pnl": -0.0769,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nfl:KC@SEA",
-   "market": "aec-nfl-kc-sea-2026-10-25",
-   "side": "long",
+   "type": "paper_close",
    "team": "Chiefs",
-   "ask": 0.065,
-   "qty": 1.5385,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.0769
   }
  ]
 }
