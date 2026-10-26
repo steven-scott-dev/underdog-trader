@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 10:50 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-26 10:55 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 13 (main 4/5, bounce 9/50)
 - Realized P&L: +2.32
 
 ## Open paper positions
-- **Eduarda Gomes** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Eduarda Gomes** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 10:40 ET: Adrienn Nagy [main] — take-profit @ 0.9750 → +0.7500
