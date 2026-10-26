@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 22,
- "bounce_bets": 17,
+ "bets": 23,
+ "bounce_bets": 18,
  "realized": 2.8754,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-jakmen-lukneu-2026-10-26",
+   "game": "atp:Neumayer@Mensik",
+   "side": "short",
+   "team": "Lukas Neumayer",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 13:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -468,6 +482,12 @@
    [
     1793032842.591578,
     0.1
+   ]
+  ],
+  "aec-atp-jakmen-lukneu-2026-10-26": [
+   [
+    1793034650.955686,
+    0.07
    ]
   ]
  },
