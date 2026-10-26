@@ -282,7 +282,11 @@ def espn_tennis_games(sport_key, rules):
         log(f"ESPN {sport_key} fetch failed: {e}")
         return []
     leagues = data.get("leagues", [])
-    events = leagues[0].get("events", []) if leagues else data.get("events", [])
+    # NOTE: tennis "events" live at the TOP level of the feed, as a sibling
+    # of "leagues" — leagues[0] holds only league metadata, no events.
+    events = data.get("events", [])
+    if not events and leagues:
+        events = leagues[0].get("events", [])
     games = []
     for ev in events:
         for grp in ev.get("groupings", []):
