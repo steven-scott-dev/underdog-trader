@@ -2,22 +2,8 @@
  "date": "2026-10-25",
  "bets": 18,
  "bounce_bets": 13,
- "realized": 0.1316,
- "paper_positions": [
-  {
-   "market": "aec-nhl-min-van-2026-10-25",
-   "game": "nhl:MIN@VAN",
-   "side": "short",
-   "team": "Canucks",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-25 23:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": 0.0516,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -307,6 +293,23 @@
    "exit": 0.015,
    "pnl": -0.0769,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-van-2026-10-25",
+   "game": "nhl:MIN@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 23:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-25 23:30 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -404,6 +407,7 @@
   "aec-nba-tor-min-2026-10-25": 1792977639.094107,
   "aec-nhl-col-nas-2026-10-25": 1792983039.6615562,
   "aec-nhl-mon-wpg-2026-10-25": 1792980937.8405201,
-  "aec-nfl-kc-sea-2026-10-25": 1792985137.4068015
+  "aec-nfl-kc-sea-2026-10-25": 1792985137.4068015,
+  "aec-nhl-min-van-2026-10-25": 1792987234.8989146
  }
 }
