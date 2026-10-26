@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-26T09:05:37.090552-04:00",
+ "updated": "2026-10-26T09:10:44.934559-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 11.4,
  "daily": {
   "date": "2026-10-26",
   "bets": 7,
   "bounce_bets": 5,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.5861
+  "realized": 0.6861
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-yelkot-aljsen-2026-10-26",
-   "game": "wta:Senica@Kotliar",
-   "side": "short",
-   "team": "Alja Senica",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-26 09:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -128,20 +114,32 @@
    "exit": 0.04,
    "pnl": -0.3889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "game": "wta:Senica@Kotliar",
+   "side": "short",
+   "team": "Alja Senica",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 09:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-26 09:10 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Senica@Kotliar",
-   "market": "aec-wta-yelkot-aljsen-2026-10-26",
-   "side": "short",
+   "type": "paper_close",
    "team": "Alja Senica",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
