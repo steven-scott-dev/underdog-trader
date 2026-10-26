@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 12:15 ET · Mode: **PAPER** · Result: OK (13.0s)
+Updated: 2026-10-26 12:20 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
-- Bets placed: 19 (main 5/5, bounce 14/50)
+- Bets placed: 20 (main 5/5, bounce 15/50)
 - Realized P&L: +3.04
 
 ## Open paper positions
-- **Tomas Machac** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Tomas Machac** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- **Sapfo Sakellaridi** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-26 12:15 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,5 +21,4 @@ Updated: 2026-10-26 12:15 ET · Mode: **PAPER** · Result: OK (13.0s)
 - 2026-10-26 10:15 ET: Daria Yesypchuk [main] — take-profit @ 0.5250 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Fernanda Herazo Gonzalez", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "atp:Minaur@Machac", "market": "aec-atp-tommac-alemin-2026-10-26", "side": "long", "team": "Tomas Machac", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Chiesa@Sakellaridi", "market": "aec-wta-sapsak-enochi-2026-10-26", "side": "long", "team": "Sapfo Sakellaridi", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

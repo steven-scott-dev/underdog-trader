@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T12:15:48.007145-04:00",
+ "updated": "2026-10-26T12:20:47.453260-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-10-26",
-  "bets": 19,
-  "bounce_bets": 14,
+  "bets": 20,
+  "bounce_bets": 15,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 3.0354
@@ -23,7 +23,20 @@
    "sl": 0.024,
    "opened": "2026-10-26 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-sapsak-enochi-2026-10-26",
+   "game": "wta:Chiesa@Sakellaridi",
+   "side": "long",
+   "team": "Sapfo Sakellaridi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -201,19 +214,13 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
    "type": "buy",
-   "game": "atp:Minaur@Machac",
-   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "wta:Chiesa@Sakellaridi",
+   "market": "aec-wta-sapsak-enochi-2026-10-26",
    "side": "long",
-   "team": "Tomas Machac",
-   "ask": 0.06,
-   "qty": 1.6667,
+   "team": "Sapfo Sakellaridi",
+   "ask": 0.09,
+   "qty": 1.1111,
    "stake": 0.1,
    "mode": "bounce"
   }

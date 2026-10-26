@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 19,
- "bounce_bets": 14,
+ "bets": 20,
+ "bounce_bets": 15,
  "realized": 3.0354,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.024,
    "opened": "2026-10-26 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-sapsak-enochi-2026-10-26",
+   "game": "wta:Chiesa@Sakellaridi",
+   "side": "long",
+   "team": "Sapfo Sakellaridi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -401,6 +414,12 @@
   "aec-wta-vicrod-margon-2026-10-25": [
    [
     1793030437.7372954,
+    0.09
+   ]
+  ],
+  "aec-wta-sapsak-enochi-2026-10-26": [
+   [
+    1793031636.7515118,
     0.09
    ]
   ]
