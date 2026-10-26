@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T04:55:35.783245-04:00",
+ "updated": "2026-10-26T05:00:38.494840-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-26",
   "bets": 1,
@@ -32,12 +32,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Mika Stojsavljevic",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }
