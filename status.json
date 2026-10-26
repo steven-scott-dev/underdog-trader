@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T06:50:36.862908-04:00",
+ "updated": "2026-10-26T06:55:36.888160-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-26",
   "bets": 4,
@@ -23,7 +23,7 @@
    "sl": 0.132,
    "opened": "2026-10-26 06:50 ET",
    "mode": "main",
-   "last_bid": 0.33
+   "last_bid": 0.31
   }
  ],
  "paper_history": [
@@ -80,17 +80,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Prozorova@Dart",
-   "market": "aec-wta-hardar-tatpro-2026-10-26",
-   "side": "long",
-   "team": "Harriet Dart",
-   "ask": 0.33,
-   "qty": 1.5152,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
