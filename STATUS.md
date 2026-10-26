@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 13:45 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-26 13:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 25 (main 5/5, bounce 20/50)
 - Realized P&L: +2.73
 
 ## Open paper positions
-- **Natalia Sousa Salazar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0500, unrealized -0.0167 (TP 0.1200 / SL 0.0240)
+- **Natalia Sousa Salazar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0900, unrealized +0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-26 13:40 ET: Lisa Zaar [bounce] — stop-loss @ 0.0300 → -0.0700
