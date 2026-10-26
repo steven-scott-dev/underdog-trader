@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T20:35:47.700852-04:00",
+ "updated": "2026-10-25T20:40:53.265571-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.0,
+ "duration_s": 13.5,
  "daily": {
   "date": "2026-10-25",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-25 20:35 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:TOR@MIN",
-   "market": "aec-nba-tor-min-2026-10-25",
-   "side": "long",
-   "team": "Raptors",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
