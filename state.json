@@ -2,21 +2,8 @@
  "date": "2026-10-26",
  "bets": 31,
  "bounce_bets": 26,
- "realized": 2.5781,
+ "realized": 2.4981,
  "paper_positions": [
-  {
-   "market": "aec-atp-lucdar-matarn-2026-10-25",
-   "game": "atp:Arnaldi@Darderi",
-   "side": "short",
-   "team": "Matteo Arnaldi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 14:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  },
   {
    "market": "aec-wta-aleosb-jeshin-2026-10-25",
    "game": "wta:Gomez@Osborne",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-26 14:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -524,6 +511,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-lucdar-matarn-2026-10-25",
+   "game": "atp:Arnaldi@Darderi",
+   "side": "short",
+   "team": "Matteo Arnaldi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-26 14:55 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -684,6 +688,7 @@
   "aec-wta-martor-maroli-2026-10-25": 1793039740.8542132,
   "aec-wta-vichu-natsal-2026-10-25": 1793040335.322777,
   "aec-wta-vicbos-jazort-2026-10-26": 1793040335.34244,
-  "aec-wta-zonli-gaimad-2026-10-26": 1793041534.9722984
+  "aec-wta-zonli-gaimad-2026-10-26": 1793041534.9722984,
+  "aec-atp-lucdar-matarn-2026-10-25": 1793042735.2392168
  }
 }
