@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T07:20:33.036152-04:00",
+ "updated": "2026-10-26T07:25:39.217219-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-26",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Tatiana Prozorova",
-   "reason": "stop-loss",
-   "pnl": -0.3889
-  }
- ]
+ "actions": []
 }

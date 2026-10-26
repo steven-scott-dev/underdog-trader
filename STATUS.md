@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 07:20 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-26 07:25 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 6 (main 2/5, bounce 4/50)
@@ -18,4 +18,4 @@ Updated: 2026-10-26 07:20 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-26 04:55 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tatiana Prozorova", "reason": "stop-loss", "pnl": -0.3889}`
+- _none_
