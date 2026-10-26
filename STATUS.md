@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 12:35 ET · Mode: **PAPER** · Result: OK (2.7s)
+Updated: 2026-10-26 12:40 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
-- Bets placed: 21 (main 5/5, bounce 16/50)
+- Bets placed: 22 (main 5/5, bounce 17/50)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- **Abril Cardenas Olivares** (short/bounce) — 2.0 @ 0.0500, now ~0.0300, unrealized -0.0400 (TP 0.1000 / SL 0.0200)
+- **Abril Cardenas Olivares** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
+- **Fernanda Labrana** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 12:30 ET: Sapfo Sakellaridi [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-26 12:35 ET · Mode: **PAPER** · Result: OK (2.7s)
 - 2026-10-26 11:05 ET: Eduarda Gomes [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Ce@Labrana", "market": "aec-wta-ferlab-gabce-2026-10-26", "side": "long", "team": "Fernanda Labrana", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 21,
- "bounce_bets": 16,
+ "bets": 22,
+ "bounce_bets": 17,
  "realized": 2.8354,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.02,
    "opened": "2026-10-26 12:30 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.02
+  },
+  {
+   "market": "aec-wta-ferlab-gabce-2026-10-26",
+   "game": "wta:Ce@Labrana",
+   "side": "long",
+   "team": "Fernanda Labrana",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -442,6 +455,12 @@
    [
     1793031636.7515118,
     0.09
+   ]
+  ],
+  "aec-wta-ferlab-gabce-2026-10-26": [
+   [
+    1793032842.591578,
+    0.1
    ]
   ]
  },
