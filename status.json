@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-26T09:00:39.250790-04:00",
+ "updated": "2026-10-26T09:05:37.090552-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-26",
-  "bets": 6,
-  "bounce_bets": 4,
+  "bets": 7,
+  "bounce_bets": 5,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 0.5861
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "game": "wta:Senica@Kotliar",
+   "side": "short",
+   "team": "Alja Senica",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 09:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -117,5 +131,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Senica@Kotliar",
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "side": "short",
+   "team": "Alja Senica",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
