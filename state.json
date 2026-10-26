@@ -1,32 +1,19 @@
 {
  "date": "2026-10-26",
- "bets": 20,
- "bounce_bets": 15,
- "realized": 3.0354,
+ "bets": 21,
+ "bounce_bets": 16,
+ "realized": 2.8354,
  "paper_positions": [
   {
-   "market": "aec-atp-tommac-alemin-2026-10-26",
-   "game": "atp:Minaur@Machac",
-   "side": "long",
-   "team": "Tomas Machac",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-26 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-wta-sapsak-enochi-2026-10-26",
-   "game": "wta:Chiesa@Sakellaridi",
-   "side": "long",
-   "team": "Sapfo Sakellaridi",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 12:20 ET",
+   "market": "aec-wta-carher-abroli-2026-10-25",
+   "game": "wta:Olivares@Herea",
+   "side": "short",
+   "team": "Abril Cardenas Olivares",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 12:30 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -337,6 +324,40 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "long",
+   "team": "Tomas Machac",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-26 12:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-sapsak-enochi-2026-10-26",
+   "game": "wta:Chiesa@Sakellaridi",
+   "side": "long",
+   "team": "Sapfo Sakellaridi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-26 12:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -407,8 +428,8 @@
   ],
   "aec-wta-carher-abroli-2026-10-25": [
    [
-    1793029252.6031442,
-    0.07
+    1793032235.8423986,
+    0.05
    ]
   ],
   "aec-wta-vicrod-margon-2026-10-25": [
@@ -430,6 +451,8 @@
   "aec-atp-mikbru-nunbor-2026-10-26": 1793022935.6614664,
   "aec-wta-antver-egd-2026-10-26": 1793028937.4470136,
   "aec-wta-leygor-julsil-2026-10-26": 1793031336.682552,
-  "aec-wta-carher-abroli-2026-10-25": 1793032235.6936622
+  "aec-wta-carher-abroli-2026-10-25": 1793032235.6936622,
+  "aec-atp-tommac-alemin-2026-10-26": 1793034034.1767938,
+  "aec-wta-sapsak-enochi-2026-10-26": 1793034034.3175936
  }
 }

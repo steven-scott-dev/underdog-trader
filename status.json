@@ -1,79 +1,32 @@
 {
- "updated": "2026-10-26T12:25:48.468420-04:00",
+ "updated": "2026-10-26T12:30:46.430501-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.6,
+ "duration_s": 12.7,
  "daily": {
   "date": "2026-10-26",
-  "bets": 20,
-  "bounce_bets": 15,
+  "bets": 21,
+  "bounce_bets": 16,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 3.0354
+  "realized": 2.8354
  },
  "paper_positions": [
   {
-   "market": "aec-atp-tommac-alemin-2026-10-26",
-   "game": "atp:Minaur@Machac",
-   "side": "long",
-   "team": "Tomas Machac",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-26 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-wta-sapsak-enochi-2026-10-26",
-   "game": "wta:Chiesa@Sakellaridi",
-   "side": "long",
-   "team": "Sapfo Sakellaridi",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 12:20 ET",
+   "market": "aec-wta-carher-abroli-2026-10-25",
+   "game": "wta:Olivares@Herea",
+   "side": "short",
+   "team": "Abril Cardenas Olivares",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 12:30 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-yelkot-aljsen-2026-10-26",
-   "game": "wta:Senica@Kotliar",
-   "side": "short",
-   "team": "Alja Senica",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-26 10:00 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-atp-matber-tometc-2026-10-25",
-   "game": "atp:Etcheverry@Berrettini",
-   "side": "short",
-   "team": "Tomas Etcheverry",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-10-26 10:05 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-adrnag-daryes-2026-10-26",
    "game": "wta:Yesypchuk@Nagy",
@@ -209,8 +162,66 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "long",
+   "team": "Tomas Machac",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-26 12:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-sapsak-enochi-2026-10-26",
+   "game": "wta:Chiesa@Sakellaridi",
+   "side": "long",
+   "team": "Sapfo Sakellaridi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-26 12:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Tomas Machac",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "paper_close",
+   "team": "Sapfo Sakellaridi",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Olivares@Herea",
+   "market": "aec-wta-carher-abroli-2026-10-25",
+   "side": "short",
+   "team": "Abril Cardenas Olivares",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
