@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 11:30 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-26 11:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 15 (main 4/5, bounce 11/50)
 - Realized P&L: +2.25
 
 ## Open paper positions
-- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Julia Konishi Camargo Silva** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Alex de Minaur** (short/bounce) — 1.1111 @ 0.0900, now ~0.1100, unrealized +0.0222 (TP 0.1800 / SL 0.0360)
+- **Julia Konishi Camargo Silva** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-26 11:05 ET: Eduarda Gomes [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -21,4 +21,4 @@ Updated: 2026-10-26 11:30 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-26 07:20 ET: Tatiana Prozorova [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Silva@Gormaz", "market": "aec-wta-leygor-julsil-2026-10-26", "side": "short", "team": "Julia Konishi Camargo Silva", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
