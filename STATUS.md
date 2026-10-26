@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 20:40 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-10-25 20:45 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Today
 - Bets placed: 11 (main 5/5, bounce 6/50)
 - Realized P&L: +0.32
 
 ## Open paper positions
-- **Raptors** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Raptors** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-25 18:40 ET: Cardinals [bounce] — stop-loss @ 0.0200 → -0.0636
