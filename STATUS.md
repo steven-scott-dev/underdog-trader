@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 15:35 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-26 15:40 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 33 (main 5/5, bounce 28/50)
 - Realized P&L: +2.53
 
 ## Open paper positions
-- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.1200, unrealized +0.0200 (TP 0.2000 / SL 0.0400)
+- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 15:30 ET: Demi Tran [bounce] — stop-loss @ 0.0200 → -0.0667
