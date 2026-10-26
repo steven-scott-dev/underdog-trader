@@ -15,7 +15,7 @@
    "sl": 0.132,
    "opened": "2026-10-26 12:00 ET",
    "mode": "main",
-   "last_bid": 0.33
+   "last_bid": 0.64
   },
   {
    "market": "aec-wta-vicrod-margon-2026-10-25",
@@ -28,7 +28,7 @@
    "sl": 0.036,
    "opened": "2026-10-26 12:00 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
