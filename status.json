@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T12:20:47.453260-04:00",
+ "updated": "2026-10-26T12:25:48.468420-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 11.6,
  "daily": {
   "date": "2026-10-26",
   "bets": 20,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-26 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.08
   },
   {
    "market": "aec-wta-sapsak-enochi-2026-10-26",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-26 12:20 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Chiesa@Sakellaridi",
-   "market": "aec-wta-sapsak-enochi-2026-10-26",
-   "side": "long",
-   "team": "Sapfo Sakellaridi",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
