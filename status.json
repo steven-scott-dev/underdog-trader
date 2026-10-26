@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-25T21:35:47.218595-04:00",
+ "updated": "2026-10-25T21:40:35.874756-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.9,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-25",
-  "bets": 14,
-  "bounce_bets": 9,
+  "bets": 15,
+  "bounce_bets": 10,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.3435
+  "realized": 0.2535
  },
  "paper_positions": [
   {
@@ -23,40 +23,23 @@
    "sl": 0.04,
    "opened": "2026-10-25 21:00 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   },
   {
-   "market": "aec-nhl-col-nas-2026-10-25",
-   "game": "nhl:COL@NSH",
+   "market": "aec-nfl-kc-sea-2026-10-25",
+   "game": "nfl:KC@SEA",
    "side": "long",
-   "team": "Avalanche",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-25 21:30 ET",
+   "team": "Chiefs",
+   "entry": 0.0925,
+   "qty": 1.0811,
+   "tp": 0.185,
+   "sl": 0.037,
+   "opened": "2026-10-25 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.0925
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-tb-car-2026-10-25",
-   "game": "nfl:TB@CAR",
-   "side": "short",
-   "team": "Panthers",
-   "entry": 0.0525,
-   "qty": 1.9048,
-   "tp": 0.105,
-   "sl": 0.021,
-   "opened": "2026-10-25 14:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.0225,
-   "closed": "2026-10-25 14:45 ET",
-   "exit": 0.015,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-sf-atl-2026-10-25",
    "game": "nfl:SF@ATL",
@@ -209,8 +192,43 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-col-nas-2026-10-25",
+   "game": "nhl:COL@NSH",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 21:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-25 21:40 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Avalanche",
+   "reason": "stop-loss",
+   "pnl": -0.09
+  },
+  {
+   "type": "buy",
+   "game": "nfl:KC@SEA",
+   "market": "aec-nfl-kc-sea-2026-10-25",
+   "side": "long",
+   "team": "Chiefs",
+   "ask": 0.0925,
+   "qty": 1.0811,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
