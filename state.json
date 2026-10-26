@@ -2,21 +2,8 @@
  "date": "2026-10-25",
  "bets": 15,
  "bounce_bets": 10,
- "realized": 0.2535,
+ "realized": 0.1835,
  "paper_positions": [
-  {
-   "market": "aec-nhl-mon-wpg-2026-10-25",
-   "game": "nhl:MTL@WPG",
-   "side": "short",
-   "team": "Jets",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-25 21:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-nfl-kc-sea-2026-10-25",
    "game": "nfl:KC@SEA",
@@ -28,7 +15,7 @@
    "sl": 0.037,
    "opened": "2026-10-25 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.1725
   }
  ],
  "paper_history": [
@@ -252,6 +239,23 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-mon-wpg-2026-10-25",
+   "game": "nhl:MTL@WPG",
+   "side": "short",
+   "team": "Jets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 21:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-25 21:45 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -341,6 +345,7 @@
   "aec-nfl-sf-atl-2026-10-25": 1792960240.159021,
   "aec-nfl-den-ari-2026-10-25": 1792969833.7859693,
   "aec-nba-tor-min-2026-10-25": 1792977639.094107,
-  "aec-nhl-col-nas-2026-10-25": 1792980634.0218954
+  "aec-nhl-col-nas-2026-10-25": 1792980634.0218954,
+  "aec-nhl-mon-wpg-2026-10-25": 1792980937.8405201
  }
 }
