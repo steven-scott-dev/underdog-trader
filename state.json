@@ -1,21 +1,21 @@
 {
  "date": "2026-10-26",
- "bets": 4,
- "bounce_bets": 3,
- "realized": 0.125,
+ "bets": 5,
+ "bounce_bets": 4,
+ "realized": 0.875,
  "paper_positions": [
   {
    "market": "aec-wta-hardar-tatpro-2026-10-26",
    "game": "wta:Prozorova@Dart",
-   "side": "long",
-   "team": "Harriet Dart",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-10-26 06:50 ET",
-   "mode": "main",
-   "last_bid": 0.78
+   "side": "short",
+   "team": "Tatiana Prozorova",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 07:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -69,6 +69,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-hardar-tatpro-2026-10-26",
+   "game": "wta:Prozorova@Dart",
+   "side": "long",
+   "team": "Harriet Dart",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-26 06:50 ET",
+   "mode": "main",
+   "last_bid": 0.78,
+   "closed": "2026-10-26 07:10 ET",
+   "exit": 0.825,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -87,8 +104,8 @@
   ],
   "aec-wta-hardar-tatpro-2026-10-26": [
    [
-    1793011836.861863,
-    0.33
+    1793013034.8804858,
+    0.08
    ]
   ]
  },
