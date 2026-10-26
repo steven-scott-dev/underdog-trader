@@ -2,22 +2,8 @@
  "date": "2026-10-25",
  "bets": 11,
  "bounce_bets": 6,
- "realized": 0.3235,
- "paper_positions": [
-  {
-   "market": "aec-nba-tor-min-2026-10-25",
-   "game": "nba:TOR@MIN",
-   "side": "long",
-   "team": "Raptors",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-25 20:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 0.2435,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-det-cgy-2026-10-24",
@@ -188,6 +174,23 @@
    "exit": 0.02,
    "pnl": -0.0636,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-tor-min-2026-10-25",
+   "game": "nba:TOR@MIN",
+   "side": "long",
+   "team": "Raptors",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-25 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-25 20:50 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -251,6 +254,7 @@
   "aec-nfl-tb-car-2026-10-25": 1792955736.903421,
   "aec-nfl-ind-min-2026-10-25": 1792959339.1683943,
   "aec-nfl-sf-atl-2026-10-25": 1792960240.159021,
-  "aec-nfl-den-ari-2026-10-25": 1792969833.7859693
+  "aec-nfl-den-ari-2026-10-25": 1792969833.7859693,
+  "aec-nba-tor-min-2026-10-25": 1792977639.094107
  }
 }

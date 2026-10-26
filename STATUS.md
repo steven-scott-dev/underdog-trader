@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 20:45 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-10-25 20:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 11 (main 5/5, bounce 6/50)
-- Realized P&L: +0.32
+- Realized P&L: +0.24
 
 ## Open paper positions
-- **Raptors** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-10-25 20:50 ET: Raptors [bounce] — stop-loss @ 0.0200 → -0.0800
 - 2026-10-25 18:40 ET: Cardinals [bounce] — stop-loss @ 0.0200 → -0.0636
 - 2026-10-25 18:20 ET: Cardinals [bounce] — take-profit @ 0.1150 → +0.1000
 - 2026-10-25 16:10 ET: Titans [main] — settled @ 0.9975 → +0.8759
@@ -17,7 +18,6 @@ Updated: 2026-10-25 20:45 ET · Mode: **PAPER** · Result: OK (12.0s)
 - 2026-10-25 16:00 ET: Titans [main] — take-profit @ 0.3187 → +0.7498
 - 2026-10-25 15:45 ET: Colts [main] — stop-loss @ 0.0025 → -0.4900
 - 2026-10-25 15:45 ET: 49ers [bounce] — take-profit @ 0.1750 → +0.1000
-- 2026-10-25 14:45 ET: Panthers [bounce] — stop-loss @ 0.0150 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Raptors", "reason": "stop-loss", "pnl": -0.08}`
