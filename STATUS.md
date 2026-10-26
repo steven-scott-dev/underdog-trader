@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 22:00 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-25 22:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 15 (main 5/5, bounce 10/50)
 - Realized P&L: +0.18
 
 ## Open paper positions
-- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1550, unrealized +0.0676 (TP 0.1850 / SL 0.0370)
+- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1275, unrealized +0.0378 (TP 0.1850 / SL 0.0370)
 
 ## Recent history
 - 2026-10-25 21:45 ET: Jets [bounce] — stop-loss @ 0.0300 → -0.0700
