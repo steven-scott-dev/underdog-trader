@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 15:00 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-26 15:05 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 31 (main 5/5, bounce 26/50)
 - Realized P&L: +2.50
 
 ## Open paper positions
-- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
+- **Alexandra Osborne** (long/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 14:55 ET: Matteo Arnaldi [bounce] — stop-loss @ 0.0200 → -0.0800
