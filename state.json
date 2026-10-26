@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "bets": 10,
+ "bets": 11,
  "bounce_bets": 8,
  "realized": 0.6161,
  "paper_positions": [
@@ -15,7 +15,7 @@
    "sl": 0.02,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-wta-yelkot-aljsen-2026-10-26",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "game": "wta:Yesypchuk@Nagy",
+   "side": "short",
+   "team": "Daria Yesypchuk",
+   "entry": 0.21,
+   "qty": 2.381,
+   "tp": 0.525,
+   "sl": 0.084,
+   "opened": "2026-10-26 09:55 ET",
+   "mode": "main",
+   "last_bid": 0.21
   }
  ],
  "paper_history": [
@@ -209,6 +222,12 @@
    [
     1793022337.5961394,
     0.05
+   ]
+  ],
+  "aec-wta-adrnag-daryes-2026-10-26": [
+   [
+    1793022938.0224366,
+    0.21
    ]
   ]
  },

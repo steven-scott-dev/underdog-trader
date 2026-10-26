@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26T09:50:40.502497-04:00",
+ "updated": "2026-10-26T09:55:38.090166-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-26",
-  "bets": 10,
+  "bets": 11,
   "bounce_bets": 8,
   "max_main": 5,
   "max_bounce": 50,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-wta-yelkot-aljsen-2026-10-26",
@@ -36,7 +36,20 @@
    "sl": 0.04,
    "opened": "2026-10-26 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "game": "wta:Yesypchuk@Nagy",
+   "side": "short",
+   "team": "Daria Yesypchuk",
+   "entry": 0.21,
+   "qty": 2.381,
+   "tp": 0.525,
+   "sl": 0.084,
+   "opened": "2026-10-26 09:55 ET",
+   "mode": "main",
+   "last_bid": 0.21
   }
  ],
  "paper_history": [
@@ -178,5 +191,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Yesypchuk@Nagy",
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "side": "short",
+   "team": "Daria Yesypchuk",
+   "ask": 0.21,
+   "qty": 2.381,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

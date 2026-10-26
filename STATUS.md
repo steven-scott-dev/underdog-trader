@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 09:50 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-26 09:55 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 10 (main 2/5, bounce 8/50)
+- Bets placed: 11 (main 3/5, bounce 8/50)
 - Realized P&L: +0.62
 
 ## Open paper positions
-- **Tomas Etcheverry** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
-- **Alja Senica** (short/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
+- **Tomas Etcheverry** (short/bounce) — 2.0 @ 0.0500, now ~0.0300, unrealized -0.0400 (TP 0.1000 / SL 0.0200)
+- **Alja Senica** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Daria Yesypchuk** (short/main) — 2.381 @ 0.2100, now ~0.2100, unrealized +0.0000 (TP 0.5250 / SL 0.0840)
 
 ## Recent history
 - 2026-10-26 09:25 ET: Mika Brunold [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -21,4 +22,4 @@ Updated: 2026-10-26 09:50 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-26 04:55 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Yesypchuk@Nagy", "market": "aec-wta-adrnag-daryes-2026-10-26", "side": "short", "team": "Daria Yesypchuk", "ask": 0.21, "qty": 2.381, "stake": 0.5, "mode": "main"}`
