@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 6,
  "bounce_bets": 4,
- "realized": 0.975,
- "paper_positions": [
-  {
-   "market": "aec-wta-hardar-tatpro-2026-10-26",
-   "game": "wta:Prozorova@Dart",
-   "side": "short",
-   "team": "Tatiana Prozorova",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-10-26 07:15 ET",
-   "mode": "main",
-   "last_bid": 0.18
-  }
- ],
+ "realized": 0.5861,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -103,6 +89,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-hardar-tatpro-2026-10-26",
+   "game": "wta:Prozorova@Dart",
+   "side": "short",
+   "team": "Tatiana Prozorova",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-10-26 07:15 ET",
+   "mode": "main",
+   "last_bid": 0.18,
+   "closed": "2026-10-26 07:20 ET",
+   "exit": 0.04,
+   "pnl": -0.3889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -131,6 +134,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-aleeal-miksto-2026-10-25": 1793006735.1653259
+  "aec-wta-aleeal-miksto-2026-10-25": 1793006735.1653259,
+  "aec-wta-hardar-tatpro-2026-10-26": 1793015432.46127
  }
 }
