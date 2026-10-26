@@ -1,9 +1,36 @@
 {
  "date": "2026-10-26",
- "bets": 29,
- "bounce_bets": 24,
+ "bets": 31,
+ "bounce_bets": 26,
  "realized": 2.5781,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-lucdar-matarn-2026-10-25",
+   "game": "atp:Arnaldi@Darderi",
+   "side": "short",
+   "team": "Matteo Arnaldi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-aleosb-jeshin-2026-10-25",
+   "game": "wta:Gomez@Osborne",
+   "side": "long",
+   "team": "Alexandra Osborne",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -627,6 +654,18 @@
    [
     1793039437.362331,
     0.08
+   ]
+  ],
+  "aec-atp-lucdar-matarn-2026-10-25": [
+   [
+    1793040636.0568914,
+    0.1
+   ]
+  ],
+  "aec-wta-aleosb-jeshin-2026-10-25": [
+   [
+    1793040636.6286023,
+    0.1
    ]
   ]
  },
