@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T13:11:02.477581-04:00",
+ "updated": "2026-10-26T13:15:34.636886-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.0,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-26",
-  "bets": 23,
-  "bounce_bets": 18,
+  "bets": 24,
+  "bounce_bets": 19,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.8754
@@ -23,7 +23,20 @@
    "sl": 0.028,
    "opened": "2026-10-26 13:10 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-vichu-natsal-2026-10-25",
+   "game": "wta:Salazar@Hu",
+   "side": "short",
+   "team": "Natalia Sousa Salazar",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-26 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -202,12 +215,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "atp:Neumayer@Mensik",
-   "market": "aec-atp-jakmen-lukneu-2026-10-26",
+   "game": "wta:Salazar@Hu",
+   "market": "aec-wta-vichu-natsal-2026-10-25",
    "side": "short",
-   "team": "Lukas Neumayer",
-   "ask": 0.07,
-   "qty": 1.4286,
+   "team": "Natalia Sousa Salazar",
+   "ask": 0.06,
+   "qty": 1.6667,
    "stake": 0.1,
    "mode": "bounce"
   }

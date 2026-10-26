@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 13:11 ET · Mode: **PAPER** · Result: OK (14.0s)
+Updated: 2026-10-26 13:15 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
-- Bets placed: 23 (main 5/5, bounce 18/50)
+- Bets placed: 24 (main 5/5, bounce 19/50)
 - Realized P&L: +2.88
 
 ## Open paper positions
-- **Lukas Neumayer** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Lukas Neumayer** (short/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
+- **Natalia Sousa Salazar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-26 12:50 ET: Fernanda Labrana [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -20,4 +21,4 @@ Updated: 2026-10-26 13:11 ET · Mode: **PAPER** · Result: OK (14.0s)
 - 2026-10-26 11:45 ET: Julia Konishi Camargo Silva [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Neumayer@Mensik", "market": "aec-atp-jakmen-lukneu-2026-10-26", "side": "short", "team": "Lukas Neumayer", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Salazar@Hu", "market": "aec-wta-vichu-natsal-2026-10-25", "side": "short", "team": "Natalia Sousa Salazar", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
