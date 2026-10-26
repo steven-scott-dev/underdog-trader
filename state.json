@@ -1,9 +1,36 @@
 {
  "date": "2026-10-26",
- "bets": 8,
- "bounce_bets": 6,
+ "bets": 10,
+ "bounce_bets": 8,
  "realized": 0.6161,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-matber-tometc-2026-10-25",
+   "game": "atp:Etcheverry@Berrettini",
+   "side": "short",
+   "team": "Tomas Etcheverry",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-yelkot-aljsen-2026-10-26",
+   "game": "wta:Senica@Kotliar",
+   "side": "short",
+   "team": "Alja Senica",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -168,14 +195,20 @@
   ],
   "aec-wta-yelkot-aljsen-2026-10-26": [
    [
-    1793019937.0899382,
-    0.07
+    1793022338.5456276,
+    0.1
    ]
   ],
   "aec-atp-mikbru-nunbor-2026-10-26": [
    [
     1793020840.9175236,
     0.1
+   ]
+  ],
+  "aec-atp-matber-tometc-2026-10-25": [
+   [
+    1793022337.5961394,
+    0.05
    ]
   ]
  },

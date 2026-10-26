@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 09:40 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-26 09:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 8 (main 2/5, bounce 6/50)
+- Bets placed: 10 (main 2/5, bounce 8/50)
 - Realized P&L: +0.62
 
 ## Open paper positions
-- _none_
+- **Tomas Etcheverry** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Alja Senica** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 09:25 ET: Mika Brunold [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +21,5 @@ Updated: 2026-10-26 09:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-26 04:55 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Etcheverry@Berrettini", "market": "aec-atp-matber-tometc-2026-10-25", "side": "short", "team": "Tomas Etcheverry", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Senica@Kotliar", "market": "aec-wta-yelkot-aljsen-2026-10-26", "side": "short", "team": "Alja Senica", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
