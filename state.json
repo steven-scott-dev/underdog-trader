@@ -2,21 +2,8 @@
  "date": "2026-10-26",
  "bets": 16,
  "bounce_bets": 12,
- "realized": 2.3461,
+ "realized": 2.2711,
  "paper_positions": [
-  {
-   "market": "aec-wta-leygor-julsil-2026-10-26",
-   "game": "wta:Silva@Gormaz",
-   "side": "short",
-   "team": "Julia Konishi Camargo Silva",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-26 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-carher-abroli-2026-10-25",
    "game": "wta:Olivares@Herea",
@@ -28,7 +15,7 @@
    "sl": 0.028,
    "opened": "2026-10-26 11:40 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-leygor-julsil-2026-10-26",
+   "game": "wta:Silva@Gormaz",
+   "side": "short",
+   "team": "Julia Konishi Camargo Silva",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-26 11:45 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -348,6 +352,7 @@
   "aec-wta-aleeal-miksto-2026-10-25": 1793006735.1653259,
   "aec-wta-hardar-tatpro-2026-10-26": 1793015432.46127,
   "aec-atp-mikbru-nunbor-2026-10-26": 1793022935.6614664,
-  "aec-wta-antver-egd-2026-10-26": 1793028937.4470136
+  "aec-wta-antver-egd-2026-10-26": 1793028937.4470136,
+  "aec-wta-leygor-julsil-2026-10-26": 1793031336.682552
  }
 }
