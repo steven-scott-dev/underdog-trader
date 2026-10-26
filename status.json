@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T12:30:46.430501-04:00",
+ "updated": "2026-10-26T12:35:38.519401-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 21,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-26 12:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -199,29 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Tomas Machac",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Sapfo Sakellaridi",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  },
-  {
-   "type": "buy",
-   "game": "wta:Olivares@Herea",
-   "market": "aec-wta-carher-abroli-2026-10-25",
-   "side": "short",
-   "team": "Abril Cardenas Olivares",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
