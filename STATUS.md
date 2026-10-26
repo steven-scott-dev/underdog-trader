@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 10:10 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-26 10:15 ET · Mode: **PAPER** · Result: OK (12.4s)
 
 ## Today
-- Bets placed: 12 (main 3/5, bounce 9/50)
-- Realized P&L: +0.82
+- Bets placed: 13 (main 4/5, bounce 9/50)
+- Realized P&L: +1.57
 
 ## Open paper positions
-- **Daria Yesypchuk** (short/main) — 2.381 @ 0.2100, now ~0.4200, unrealized +0.5000 (TP 0.5250 / SL 0.0840)
-- **Eduarda Gomes** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Eduarda Gomes** (short/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- **Adrienn Nagy** (long/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
+- 2026-10-26 10:15 ET: Daria Yesypchuk [main] — take-profit @ 0.5250 → +0.7500
 - 2026-10-26 10:05 ET: Tomas Etcheverry [bounce] — take-profit @ 0.1000 → +0.1000
 - 2026-10-26 10:00 ET: Alja Senica [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-26 09:25 ET: Mika Brunold [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -18,7 +19,7 @@ Updated: 2026-10-26 10:10 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-26 07:20 ET: Tatiana Prozorova [main] — stop-loss @ 0.0400 → -0.3889
 - 2026-10-26 07:15 ET: Tatiana Prozorova [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-26 07:10 ET: Harriet Dart [main] — take-profit @ 0.8250 → +0.7500
-- 2026-10-26 06:00 ET: Carol Young Suh Lee [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Gomes@Rivera", "market": "aec-wta-antver-egd-2026-10-26", "side": "short", "team": "Eduarda Gomes", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Daria Yesypchuk", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "buy", "game": "wta:Yesypchuk@Nagy", "market": "aec-wta-adrnag-daryes-2026-10-26", "side": "long", "team": "Adrienn Nagy", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`

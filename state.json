@@ -1,22 +1,9 @@
 {
  "date": "2026-10-26",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 9,
- "realized": 0.8161,
+ "realized": 1.5661,
  "paper_positions": [
-  {
-   "market": "aec-wta-adrnag-daryes-2026-10-26",
-   "game": "wta:Yesypchuk@Nagy",
-   "side": "short",
-   "team": "Daria Yesypchuk",
-   "entry": 0.21,
-   "qty": 2.381,
-   "tp": 0.525,
-   "sl": 0.084,
-   "opened": "2026-10-26 09:55 ET",
-   "mode": "main",
-   "last_bid": 0.42
-  },
   {
    "market": "aec-wta-antver-egd-2026-10-26",
    "game": "wta:Gomes@Rivera",
@@ -28,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-26 10:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "game": "wta:Yesypchuk@Nagy",
+   "side": "long",
+   "team": "Adrienn Nagy",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-10-26 10:15 ET",
+   "mode": "main",
+   "last_bid": 0.39
   }
  ],
  "paper_history": [
@@ -201,6 +201,23 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-adrnag-daryes-2026-10-26",
+   "game": "wta:Yesypchuk@Nagy",
+   "side": "short",
+   "team": "Daria Yesypchuk",
+   "entry": 0.21,
+   "qty": 2.381,
+   "tp": 0.525,
+   "sl": 0.084,
+   "opened": "2026-10-26 09:55 ET",
+   "mode": "main",
+   "last_bid": 0.42,
+   "closed": "2026-10-26 10:15 ET",
+   "exit": 0.525,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -247,8 +264,8 @@
   ],
   "aec-wta-adrnag-daryes-2026-10-26": [
    [
-    1793022938.0224366,
-    0.21
+    1793024152.7973006,
+    0.39
    ]
   ],
   "aec-wta-antver-egd-2026-10-26": [
