@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-26T14:00:54.363541-04:00",
+ "updated": "2026-10-26T14:05:53.887323-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 13.6,
  "daily": {
   "date": "2026-10-26",
   "bets": 27,
   "bounce_bets": 22,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.734
+  "realized": 2.774
  },
  "paper_positions": [
   {
@@ -24,69 +24,9 @@
    "opened": "2026-10-26 13:15 ET",
    "mode": "bounce",
    "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-vicbos-jazort-2026-10-26",
-   "game": "wta:Ortenzi@Bosio",
-   "side": "long",
-   "team": "Victoria Bosio",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-26 14:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
-  {
-   "market": "aec-wta-martor-maroli-2026-10-25",
-   "game": "wta:Oliva@Murcia",
-   "side": "long",
-   "team": "Maria Torres",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 14:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-leygor-julsil-2026-10-26",
-   "game": "wta:Silva@Gormaz",
-   "side": "short",
-   "team": "Julia Konishi Camargo Silva",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-26 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-26 11:45 ET",
-   "exit": 0.02,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-carher-abroli-2026-10-25",
-   "game": "wta:Olivares@Herea",
-   "side": "short",
-   "team": "Abril Cardenas Olivares",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-26 11:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-10-26 12:00 ET",
-   "exit": 0.01,
-   "pnl": -0.0857,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-tommac-alemin-2026-10-26",
    "game": "atp:Minaur@Machac",
@@ -222,31 +162,55 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-vicbos-jazort-2026-10-26",
+   "game": "wta:Ortenzi@Bosio",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-26 14:05 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-martor-maroli-2026-10-25",
+   "game": "wta:Oliva@Murcia",
+   "side": "long",
+   "team": "Maria Torres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-26 14:05 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Ortenzi@Bosio",
-   "market": "aec-wta-vicbos-jazort-2026-10-26",
-   "side": "long",
+   "type": "paper_close",
    "team": "Victoria Bosio",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   },
   {
-   "type": "buy",
-   "game": "wta:Oliva@Murcia",
-   "market": "aec-wta-martor-maroli-2026-10-25",
-   "side": "long",
+   "type": "paper_close",
    "team": "Maria Torres",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.06
   }
  ]
 }
