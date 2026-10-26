@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 22:35 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-25 22:40 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 16 (main 5/5, bounce 11/50)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1300, unrealized +0.0405 (TP 0.1850 / SL 0.0370)
+- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1275, unrealized +0.0378 (TP 0.1850 / SL 0.0370)
 
 ## Recent history
 - 2026-10-25 22:20 ET: Avalanche [bounce] — stop-loss @ 0.0100 → -0.0750
