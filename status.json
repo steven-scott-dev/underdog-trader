@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T09:25:36.938251-04:00",
+ "updated": "2026-10-26T09:30:42.671591-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-26",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Mika Brunold",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }

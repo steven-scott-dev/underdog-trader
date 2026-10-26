@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 09:25 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-26 09:30 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 8 (main 2/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 09:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-26 04:55 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Mika Brunold", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
