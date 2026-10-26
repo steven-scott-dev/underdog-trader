@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 35,
- "bounce_bets": 30,
+ "bets": 36,
+ "bounce_bets": 31,
  "realized": 2.2933,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-carher-maroli-2026-10-27",
+   "game": "wta:Oliva@Herea",
+   "side": "short",
+   "team": "Maria Fernanda Navarro Oliva",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-26 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -765,6 +779,12 @@
    [
     1793045736.8072743,
     0.09
+   ]
+  ],
+  "aec-wta-carher-maroli-2026-10-27": [
+   [
+    1793047240.0983462,
+    0.04
    ]
   ]
  },
