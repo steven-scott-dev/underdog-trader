@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T14:35:47.753178-04:00",
+ "updated": "2026-10-26T14:40:37.316468-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 29,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Zongyu Li",
-   "reason": "stop-loss",
-   "pnl": -0.0625
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 14:35 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-10-26 14:40 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 29 (main 5/5, bounce 24/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 14:35 ET · Mode: **PAPER** · Result: OK (13.1s)
 - 2026-10-26 12:50 ET: Fernanda Labrana [bounce] — stop-loss @ 0.0400 → -0.0600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Zongyu Li", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
