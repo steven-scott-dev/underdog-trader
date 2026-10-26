@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T05:40:35.380017-04:00",
+ "updated": "2026-10-26T05:45:34.657231-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-26",
   "bets": 2,
@@ -49,12 +49,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Carol Young Suh Lee",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
