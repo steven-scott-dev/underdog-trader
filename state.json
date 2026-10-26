@@ -1,9 +1,23 @@
 {
  "date": "2026-10-26",
- "bets": 28,
- "bounce_bets": 23,
+ "bets": 29,
+ "bounce_bets": 24,
  "realized": 2.6406,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-zonli-gaimad-2026-10-26",
+   "game": "wta:Maduzzi@Zongyu",
+   "side": "long",
+   "team": "Zongyu Li",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 14:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -604,6 +618,12 @@
    [
     1793037654.2775867,
     0.1
+   ]
+  ],
+  "aec-wta-zonli-gaimad-2026-10-26": [
+   [
+    1793039437.362331,
+    0.08
    ]
   ]
  },

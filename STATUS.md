@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 14:25 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-26 14:30 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
-- Bets placed: 28 (main 5/5, bounce 23/50)
+- Bets placed: 29 (main 5/5, bounce 24/50)
 - Realized P&L: +2.64
 
 ## Open paper positions
-- _none_
+- **Zongyu Li** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-26 14:15 ET: Victoria Bosio [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-10-26 14:25 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-26 12:45 ET: Abril Cardenas Olivares [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Maduzzi@Zongyu", "market": "aec-wta-zonli-gaimad-2026-10-26", "side": "long", "team": "Zongyu Li", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
