@@ -1,22 +1,9 @@
 {
  "date": "2026-10-26",
- "bets": 15,
- "bounce_bets": 11,
- "realized": 2.2461,
+ "bets": 16,
+ "bounce_bets": 12,
+ "realized": 2.3461,
  "paper_positions": [
-  {
-   "market": "aec-atp-tommac-alemin-2026-10-26",
-   "game": "atp:Minaur@Machac",
-   "side": "short",
-   "team": "Alex de Minaur",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-26 11:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-wta-leygor-julsil-2026-10-26",
    "game": "wta:Silva@Gormaz",
@@ -28,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-26 11:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-carher-abroli-2026-10-25",
+   "game": "wta:Olivares@Herea",
+   "side": "short",
+   "team": "Abril Cardenas Olivares",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-26 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -252,6 +252,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tommac-alemin-2026-10-26",
+   "game": "atp:Minaur@Machac",
+   "side": "short",
+   "team": "Alex de Minaur",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 11:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-26 11:40 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -318,6 +335,12 @@
    [
     1793028639.8402252,
     0.08
+   ]
+  ],
+  "aec-wta-carher-abroli-2026-10-25": [
+   [
+    1793029252.6031442,
+    0.07
    ]
   ]
  },
