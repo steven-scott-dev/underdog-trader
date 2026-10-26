@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 31,
- "bounce_bets": 26,
+ "bets": 32,
+ "bounce_bets": 27,
  "realized": 2.4981,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-26 14:50 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.14
+  },
+  {
+   "market": "aec-wta-rosden-gabknu-2026-10-26",
+   "game": "wta:Knutson@Dencheva",
+   "side": "long",
+   "team": "Rositsa Dencheva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-26 15:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -670,6 +683,12 @@
    [
     1793040636.6286023,
     0.1
+   ]
+  ],
+  "aec-wta-rosden-gabknu-2026-10-26": [
+   [
+    1793041835.8542585,
+    0.09
    ]
   ]
  },
