@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T15:45:38.992172-04:00",
+ "updated": "2026-10-26T15:50:42.599586-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-26",
   "bets": 33,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alexandra Osborne",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }

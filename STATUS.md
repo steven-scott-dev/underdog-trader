@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 15:45 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-26 15:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 33 (main 5/5, bounce 28/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 15:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-26 14:05 ET: Maria Torres [bounce] — stop-loss @ 0.0400 → -0.0600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alexandra Osborne", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
