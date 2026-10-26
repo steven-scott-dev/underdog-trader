@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-25 22:40 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-25 22:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 16 (main 5/5, bounce 11/50)
-- Realized P&L: +0.11
+- Realized P&L: +0.21
 
 ## Open paper positions
-- **Chiefs** (long/bounce) — 1.0811 @ 0.0925, now ~0.1275, unrealized +0.0378 (TP 0.1850 / SL 0.0370)
+- _none_
 
 ## Recent history
+- 2026-10-25 22:45 ET: Chiefs [bounce] — take-profit @ 0.1850 → +0.1000
 - 2026-10-25 22:20 ET: Avalanche [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-10-25 21:45 ET: Jets [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-25 21:40 ET: Avalanche [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -17,7 +18,6 @@ Updated: 2026-10-25 22:40 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-25 20:50 ET: Raptors [bounce] — stop-loss @ 0.0200 → -0.0800
 - 2026-10-25 18:40 ET: Cardinals [bounce] — stop-loss @ 0.0200 → -0.0636
 - 2026-10-25 18:20 ET: Cardinals [bounce] — take-profit @ 0.1150 → +0.1000
-- 2026-10-25 16:10 ET: Titans [main] — settled @ 0.9975 → +0.8759
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Chiefs", "reason": "take-profit", "pnl": 0.1}`
