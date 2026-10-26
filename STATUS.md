@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 14:15 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-26 14:20 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 28 (main 5/5, bounce 23/50)
@@ -20,5 +20,4 @@ Updated: 2026-10-26 14:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-26 12:45 ET: Abril Cardenas Olivares [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Natalia Sousa Salazar", "reason": "stop-loss", "pnl": -0.0667}`
-- `{"type": "paper_close", "team": "Victoria Bosio", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

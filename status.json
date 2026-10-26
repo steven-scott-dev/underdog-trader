@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T14:15:36.155041-04:00",
+ "updated": "2026-10-26T14:20:35.689318-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-26",
   "bets": 28,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Natalia Sousa Salazar",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  },
-  {
-   "type": "paper_close",
-   "team": "Victoria Bosio",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
