@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 22,
  "bounce_bets": 17,
- "realized": 2.9354,
- "paper_positions": [
-  {
-   "market": "aec-wta-ferlab-gabce-2026-10-26",
-   "game": "wta:Ce@Labrana",
-   "side": "long",
-   "team": "Fernanda Labrana",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.8754,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -375,6 +361,23 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-ferlab-gabce-2026-10-26",
+   "game": "wta:Ce@Labrana",
+   "side": "long",
+   "team": "Fernanda Labrana",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 12:50 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -476,6 +479,7 @@
   "aec-wta-leygor-julsil-2026-10-26": 1793031336.682552,
   "aec-wta-carher-abroli-2026-10-25": 1793032235.6936622,
   "aec-atp-tommac-alemin-2026-10-26": 1793034034.1767938,
-  "aec-wta-sapsak-enochi-2026-10-26": 1793034034.3175936
+  "aec-wta-sapsak-enochi-2026-10-26": 1793034034.3175936,
+  "aec-wta-ferlab-gabce-2026-10-26": 1793035233.937468
  }
 }

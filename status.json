@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-26T12:45:46.336268-04:00",
+ "updated": "2026-10-26T12:50:46.159838-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.7,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-10-26",
   "bets": 22,
   "bounce_bets": 17,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.9354
+  "realized": 2.8754
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-ferlab-gabce-2026-10-26",
-   "game": "wta:Ce@Labrana",
-   "side": "long",
-   "team": "Fernanda Labrana",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-adrnag-daryes-2026-10-26",
-   "game": "wta:Yesypchuk@Nagy",
-   "side": "long",
-   "team": "Adrienn Nagy",
-   "entry": 0.39,
-   "qty": 1.2821,
-   "tp": 0.975,
-   "sl": 0.156,
-   "opened": "2026-10-26 10:15 ET",
-   "mode": "main",
-   "last_bid": 0.28,
-   "closed": "2026-10-26 10:40 ET",
-   "exit": 0.975,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-antver-egd-2026-10-26",
    "game": "wta:Gomes@Rivera",
@@ -196,15 +165,32 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-ferlab-gabce-2026-10-26",
+   "game": "wta:Ce@Labrana",
+   "side": "long",
+   "team": "Fernanda Labrana",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 12:50 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Abril Cardenas Olivares",
-   "reason": "take-profit",
-   "pnl": 0.1
+   "team": "Fernanda Labrana",
+   "reason": "stop-loss",
+   "pnl": -0.06
   }
  ]
 }
