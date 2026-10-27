@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 59,
  "bounce_bets": 49,
- "realized": 4.8481,
- "paper_positions": [
-  {
-   "market": "aec-wta-fiofer-sofjoh-2026-10-26",
-   "game": "wta:Johnson@Ferro",
-   "side": "short",
-   "team": "Sofia Johnson",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-27 16:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 4.7648,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -1004,6 +990,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-fiofer-sofjoh-2026-10-26",
+   "game": "wta:Johnson@Ferro",
+   "side": "short",
+   "team": "Sofia Johnson",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 16:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-27 16:20 ET",
+   "exit": 0.01,
+   "pnl": -0.0833,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -1316,6 +1319,7 @@
   "aec-wta-jusdan-solsie-2026-10-27": 1793122537.3758235,
   "aec-wta-susban-anasob-2026-10-26": 1793125236.8593965,
   "aec-wta-eliman-emiara-2026-10-26": 1793125538.2976584,
-  "aec-wta-marcan-carher-2026-10-27": 1793131234.1361518
+  "aec-wta-marcan-carher-2026-10-27": 1793131234.1361518,
+  "aec-wta-fiofer-sofjoh-2026-10-26": 1793134237.551375
  }
 }
