@@ -2,7 +2,7 @@
  "date": "2026-10-27",
  "bets": 36,
  "bounce_bets": 28,
- "realized": 3.0111,
+ "realized": 3.1111,
  "paper_positions": [
   {
    "market": "aec-wta-gaimad-linkli-2026-10-27",
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 11:20 ET",
    "mode": "bounce",
-   "last_bid": 0.15
+   "last_bid": 0.08
   },
   {
    "market": "aec-atp-karkha-caralc-2026-10-25",
@@ -26,19 +26,6 @@
    "qty": 1.6667,
    "tp": 0.12,
    "sl": 0.024,
-   "opened": "2026-10-27 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
-  {
-   "market": "aec-wta-frajon-mfu-2026-10-27",
-   "game": "wta:Urrutia@Jones",
-   "side": "short",
-   "team": "Maria Florencia Urrutia",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
    "opened": "2026-10-27 11:30 ET",
    "mode": "bounce",
    "last_bid": 0.06
@@ -605,6 +592,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-frajon-mfu-2026-10-27",
+   "game": "wta:Urrutia@Jones",
+   "side": "short",
+   "team": "Maria Florencia Urrutia",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 11:40 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
