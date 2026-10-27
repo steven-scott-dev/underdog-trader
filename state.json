@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "bets": 23,
+ "bets": 24,
  "bounce_bets": 16,
  "realized": 1.6275,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-27 08:30 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-atp-hubhur-zizber-2026-10-26",
+   "game": "atp:Bergs@Hurkacz",
+   "side": "short",
+   "team": "Zizou Bergs",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-10-27 08:35 ET",
+   "mode": "main",
+   "last_bid": 0.39
   }
  ],
  "paper_history": [
@@ -502,6 +515,12 @@
    [
     1793104236.2971146,
     0.08
+   ]
+  ],
+  "aec-atp-hubhur-zizber-2026-10-26": [
+   [
+    1793104536.1914792,
+    0.39
    ]
   ]
  },

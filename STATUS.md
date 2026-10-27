@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 08:30 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-27 08:35 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 23 (main 7/10, bounce 16/50)
+- Bets placed: 24 (main 8/10, bounce 16/50)
 - Realized P&L: +1.63
 
 ## Open paper positions
-- **Jessica Pieri** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Jessica Pieri** (long/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- **Zizou Bergs** (short/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
 - 2026-10-27 07:35 ET: Isabella Maria Serban [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -20,4 +21,4 @@ Updated: 2026-10-27 08:30 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-27 05:45 ET: Polina Kudermetova [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Yaneva@Pieri", "market": "aec-wta-jespie-eliyan-2026-10-26", "side": "long", "team": "Jessica Pieri", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Bergs@Hurkacz", "market": "aec-atp-hubhur-zizber-2026-10-26", "side": "short", "team": "Zizou Bergs", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
