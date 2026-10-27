@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 59,
- "bounce_bets": 49,
+ "bets": 60,
+ "bounce_bets": 50,
  "realized": 4.7648,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-berbon-marsou-2026-10-27",
+   "game": "wta:Souza@Bonardi",
+   "side": "long",
+   "team": "Berta Bonardi",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -1283,7 +1297,7 @@
   ],
   "aec-wta-berbon-marsou-2026-10-27": [
    [
-    1793130941.3781126,
+    1793132736.3864818,
     0.08
    ]
   ]

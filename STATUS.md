@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 16:20 ET · Mode: **PAPER** · Result: OK (11.0s)
+Updated: 2026-10-27 16:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 59 (main 10/10, bounce 49/50)
+- Bets placed: 60 (main 10/10, bounce 50/50)
 - Realized P&L: +4.76
 
 ## Open paper positions
-- _none_
+- **Berta Bonardi** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-27 16:20 ET: Sofia Johnson [bounce] — stop-loss @ 0.0100 → -0.0833
@@ -20,4 +20,4 @@ Updated: 2026-10-27 16:20 ET · Mode: **PAPER** · Result: OK (11.0s)
 - 2026-10-27 14:40 ET: Marian Gomez Pezuela Cano [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sofia Johnson", "reason": "stop-loss", "pnl": -0.0833}`
+- `{"type": "buy", "game": "wta:Souza@Bonardi", "market": "aec-wta-berbon-marsou-2026-10-27", "side": "long", "team": "Berta Bonardi", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
