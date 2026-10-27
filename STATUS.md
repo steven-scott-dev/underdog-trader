@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 07:35 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-27 07:40 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 22 (main 7/10, bounce 15/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 07:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-27 05:45 ET: Polina Kudermetova [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Isabella Maria Serban", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
