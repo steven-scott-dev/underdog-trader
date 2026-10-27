@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-27T12:20:50.467296-04:00",
+ "updated": "2026-10-27T12:25:57.392193-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.2,
+ "duration_s": 22.9,
  "daily": {
   "date": "2026-10-27",
-  "bets": 38,
-  "bounce_bets": 28,
+  "bets": 40,
+  "bounce_bets": 30,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.5982
+  "realized": 2.6982
  },
  "paper_positions": [
-  {
-   "market": "aec-atp-karkha-caralc-2026-10-25",
-   "game": "atp:Alcaraz@Khachanov",
-   "side": "long",
-   "team": "Karen Khachanov",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-27 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-atp-adrman-ignbus-2026-10-27",
    "game": "atp:Buse@Mannarino",
@@ -36,27 +23,36 @@
    "sl": 0.088,
    "opened": "2026-10-27 12:05 ET",
    "mode": "main",
-   "last_bid": 0.45
+   "last_bid": 0.18
+  },
+  {
+   "market": "aec-wta-miaris-markub-2026-10-26",
+   "game": "wta:Kubka@Ristic",
+   "side": "long",
+   "team": "Mia Ristic",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-adrrea-lanmi-2026-10-27",
+   "game": "wta:Mi@Reami",
+   "side": "short",
+   "team": "Lan Mi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-enochi-alicha-2026-10-27",
-   "game": "wta:Charaeva@Chiesa",
-   "side": "long",
-   "team": "Enola Chiesa",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-27 09:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-10-27 09:55 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-tompau-andrub-2026-10-25",
    "game": "atp:Rublev@Paul",
@@ -209,8 +205,54 @@
    "exit": 0.04,
    "pnl": -0.4429,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "game": "atp:Alcaraz@Khachanov",
+   "side": "long",
+   "team": "Karen Khachanov",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 12:25 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Karen Khachanov",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Kubka@Ristic",
+   "market": "aec-wta-miaris-markub-2026-10-26",
+   "side": "long",
+   "team": "Mia Ristic",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Mi@Reami",
+   "market": "aec-wta-adrrea-lanmi-2026-10-27",
+   "side": "short",
+   "team": "Lan Mi",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
