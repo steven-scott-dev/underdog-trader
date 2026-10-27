@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 54,
- "bounce_bets": 44,
+ "bets": 55,
+ "bounce_bets": 45,
  "realized": 4.5231,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-27 15:05 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-polher-marcap-2026-10-26",
+   "game": "wta:Taborda@Hercog",
+   "side": "short",
+   "team": "Martina Capurro",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-27 15:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -1171,8 +1184,8 @@
   ],
   "aec-wta-polher-marcap-2026-10-26": [
    [
-    1793124937.5386496,
-    0.1
+    1793128239.2129319,
+    0.04
    ]
   ],
   "aec-wta-marcan-carher-2026-10-27": [
