@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 07:15 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-27 07:20 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 21 (main 7/10, bounce 14/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 07:15 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-27 05:40 ET: Tereza Valentova [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Danka Kovinic", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_

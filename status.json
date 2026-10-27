@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T07:15:35.797508-04:00",
+ "updated": "2026-10-27T07:20:37.325095-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-27",
   "bets": 21,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Danka Kovinic",
-   "reason": "stop-loss",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
