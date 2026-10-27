@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 7,
- "bounce_bets": 4,
+ "bets": 8,
+ "bounce_bets": 5,
  "realized": 0.2197,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.16,
    "opened": "2026-10-27 01:10 ET",
    "mode": "main",
-   "last_bid": 0.78
+   "last_bid": 0.71
+  },
+  {
+   "market": "aec-wta-sartor-zeyson-2026-10-25",
+   "game": "wta:Sonmez@Tormo",
+   "side": "long",
+   "team": "Sara Sorribes Tormo",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 01:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -158,6 +171,12 @@
    [
     1793079034.798871,
     0.18
+   ]
+  ],
+  "aec-wta-sartor-zeyson-2026-10-25": [
+   [
+    1793079934.252599,
+    0.09
    ]
   ]
  },
