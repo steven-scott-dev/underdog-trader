@@ -1,49 +1,32 @@
 {
- "updated": "2026-10-27T14:35:48.931326-04:00",
+ "updated": "2026-10-27T14:40:46.441205-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 12.6,
  "daily": {
   "date": "2026-10-27",
-  "bets": 52,
-  "bounce_bets": 42,
+  "bets": 53,
+  "bounce_bets": 43,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.0481
+  "realized": 2.1481
  },
  "paper_positions": [
   {
-   "market": "aec-wta-marcan-carher-2026-10-27",
-   "game": "wta:Herea@Cano",
-   "side": "long",
-   "team": "Marian Gomez Pezuela Cano",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 14:25 ET",
+   "market": "aec-atp-camnor-fracer-2026-10-25",
+   "game": "atp:Cerundolo@Norrie",
+   "side": "short",
+   "team": "Francisco Cerundolo",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-27 14:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-gioper-artfil-2026-10-27",
-   "game": "atp:Fils@Perricard",
-   "side": "long",
-   "team": "Giovanni Mpetshi Perricard",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-27 12:40 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-anacan-luncin-2026-10-27",
    "game": "wta:Cinalli@Candiotto",
@@ -196,8 +179,43 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marcan-carher-2026-10-27",
+   "game": "wta:Herea@Cano",
+   "side": "long",
+   "team": "Marian Gomez Pezuela Cano",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 14:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-27 14:40 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Marian Gomez Pezuela Cano",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "atp:Cerundolo@Norrie",
+   "market": "aec-atp-camnor-fracer-2026-10-25",
+   "side": "short",
+   "team": "Francisco Cerundolo",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
