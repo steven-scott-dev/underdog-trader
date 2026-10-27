@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 28,
- "bounce_bets": 20,
+ "bets": 29,
+ "bounce_bets": 21,
  "realized": 1.3935,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.024,
    "opened": "2026-10-27 09:30 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.03
   },
   {
    "market": "aec-atp-aletab-rafjod-2026-10-25",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-27 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-atp-tompau-andrub-2026-10-25",
+   "game": "atp:Rublev@Paul",
+   "side": "short",
+   "team": "Andrey Rublev",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 09:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -613,6 +626,12 @@
    [
     1793108736.7435284,
     0.1
+   ]
+  ],
+  "aec-atp-tompau-andrub-2026-10-25": [
+   [
+    1793109035.1421864,
+    0.07
    ]
   ]
  },
