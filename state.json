@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 51,
- "bounce_bets": 41,
+ "bets": 52,
+ "bounce_bets": 42,
  "realized": 1.9481,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-27 14:15 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-wta-marcan-carher-2026-10-27",
+   "game": "wta:Herea@Cano",
+   "side": "long",
+   "team": "Marian Gomez Pezuela Cano",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 14:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -1122,6 +1135,12 @@
    [
     1793124937.5386496,
     0.1
+   ]
+  ],
+  "aec-wta-marcan-carher-2026-10-27": [
+   [
+    1793125549.923983,
+    0.05
    ]
   ]
  },

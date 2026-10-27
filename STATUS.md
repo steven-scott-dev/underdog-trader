@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:20 ET · Mode: **PAPER** · Result: OK (13.2s)
+Updated: 2026-10-27 14:25 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
-- Bets placed: 51 (main 10/10, bounce 41/50)
+- Bets placed: 52 (main 10/10, bounce 42/50)
 - Realized P&L: +1.95
 
 ## Open paper positions
-- **Martina Capurro** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Martina Capurro** (short/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
+- **Marian Gomez Pezuela Cano** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-27 14:00 ET: Martin Landaluce [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-27 14:20 ET · Mode: **PAPER** · Result: OK (13.2s)
 - 2026-10-27 12:50 ET: Ana Candiotto [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Herea@Cano", "market": "aec-wta-marcan-carher-2026-10-27", "side": "long", "team": "Marian Gomez Pezuela Cano", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
