@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 22:50 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-10-26 22:55 ET · Mode: **PAPER** · Result: OK (13.7s)
 
 ## Today
 - Bets placed: 42 (main 5/5, bounce 37/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 22:50 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-10-26 16:25 ET: Sophie Llewellyn [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maple Leafs", "reason": "take-profit", "pnl": 0.1}`
+- _none_
