@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T06:45:37.426961-04:00",
+ "updated": "2026-10-27T06:50:34.776575-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-27",
   "bets": 20,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-27 06:20 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-wta-lucste-isabse-2026-10-26",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-27 06:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
