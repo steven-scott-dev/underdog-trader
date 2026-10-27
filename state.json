@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 27,
- "bounce_bets": 19,
+ "bets": 28,
+ "bounce_bets": 20,
  "realized": 1.3935,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.024,
    "opened": "2026-10-27 09:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-atp-aletab-rafjod-2026-10-25",
+   "game": "atp:Jodar@Tabilo",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -594,6 +607,12 @@
    [
     1793107837.8144267,
     0.06
+   ]
+  ],
+  "aec-atp-aletab-rafjod-2026-10-25": [
+   [
+    1793108736.7435284,
+    0.1
    ]
   ]
  },
