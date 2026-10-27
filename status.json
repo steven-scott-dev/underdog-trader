@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-27T14:45:49.608636-04:00",
+ "updated": "2026-10-27T14:50:47.663487-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.6,
+ "duration_s": 12.5,
  "daily": {
   "date": "2026-10-27",
   "bets": 53,
   "bounce_bets": 43,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.1481
+  "realized": 4.5231
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-camnor-fracer-2026-10-25",
-   "game": "atp:Cerundolo@Norrie",
-   "side": "short",
-   "team": "Francisco Cerundolo",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-27 14:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-anacan-luncin-2026-10-27",
-   "game": "wta:Cinalli@Candiotto",
-   "side": "long",
-   "team": "Ana Candiotto",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.09,
-   "closed": "2026-10-27 12:50 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-annbli-dalgal-2026-10-26",
    "game": "wta:Galfi@Blinkova",
@@ -196,8 +165,32 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-camnor-fracer-2026-10-25",
+   "game": "atp:Cerundolo@Norrie",
+   "side": "short",
+   "team": "Francisco Cerundolo",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-27 14:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-27 14:50 ET",
+   "exit": 0.99,
+   "pnl": 2.375,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Francisco Cerundolo",
+   "reason": "settled",
+   "pnl": 2.375
+  }
+ ]
 }
