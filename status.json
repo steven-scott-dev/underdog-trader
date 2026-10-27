@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-27T15:50:36.561745-04:00",
+ "updated": "2026-10-27T15:55:42.047705-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-27",
-  "bets": 56,
-  "bounce_bets": 46,
+  "bets": 57,
+  "bounce_bets": 47,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 4.6481
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-berbon-marsou-2026-10-27",
+   "game": "wta:Souza@Bonardi",
+   "side": "long",
+   "team": "Berta Bonardi",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 15:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-marcol-zuzpaw-2026-10-26",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Souza@Bonardi",
+   "market": "aec-wta-berbon-marsou-2026-10-27",
+   "side": "long",
+   "team": "Berta Bonardi",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
