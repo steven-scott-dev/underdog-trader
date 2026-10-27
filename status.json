@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T12:50:48.766277-04:00",
+ "updated": "2026-10-27T12:55:46.549376-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 11.1,
  "daily": {
   "date": "2026-10-27",
   "bets": 45,
   "bounce_bets": 35,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.9348
+  "realized": 1.8681
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
-  },
-  {
-   "market": "aec-wta-annbli-dalgal-2026-10-26",
-   "game": "wta:Galfi@Blinkova",
-   "side": "short",
-   "team": "Dalma Galfi",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 12:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-frajon-mfu-2026-10-27",
-   "game": "wta:Urrutia@Jones",
-   "side": "short",
-   "team": "Maria Florencia Urrutia",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-27 11:40 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-gaimad-linkli-2026-10-27",
    "game": "wta:Klimovicova@Maduzzi",
@@ -209,15 +179,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-annbli-dalgal-2026-10-26",
+   "game": "wta:Galfi@Blinkova",
+   "side": "short",
+   "team": "Dalma Galfi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 12:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 12:55 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Ana Candiotto",
+   "team": "Dalma Galfi",
    "reason": "stop-loss",
-   "pnl": -0.07
+   "pnl": -0.0667
   }
  ]
 }
