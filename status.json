@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T16:05:38.001281-04:00",
+ "updated": "2026-10-27T16:10:48.507370-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-10-27",
-  "bets": 58,
-  "bounce_bets": 48,
+  "bets": 59,
+  "bounce_bets": 49,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 4.6481
+  "realized": 4.7481
  },
  "paper_positions": [
   {
@@ -23,40 +23,23 @@
    "sl": 0.032,
    "opened": "2026-10-27 15:55 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.15
   },
   {
-   "market": "aec-wta-marcan-carher-2026-10-27",
-   "game": "wta:Herea@Cano",
-   "side": "long",
-   "team": "Marian Gomez Pezuela Cano",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 16:05 ET",
+   "market": "aec-wta-fiofer-sofjoh-2026-10-26",
+   "game": "wta:Johnson@Ferro",
+   "side": "short",
+   "team": "Sofia Johnson",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 16:10 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-marcol-zuzpaw-2026-10-26",
-   "game": "wta:Pawlikowska@Colmegna",
-   "side": "short",
-   "team": "Zuzanna Pawlikowska",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-27 13:45 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-susban-anasob-2026-10-26",
    "game": "wta:Sobolieva@Bandecchi",
@@ -209,18 +192,41 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-marcan-carher-2026-10-27",
+   "game": "wta:Herea@Cano",
+   "side": "long",
+   "team": "Marian Gomez Pezuela Cano",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 16:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-27 16:10 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Herea@Cano",
-   "market": "aec-wta-marcan-carher-2026-10-27",
-   "side": "long",
+   "type": "paper_close",
    "team": "Marian Gomez Pezuela Cano",
-   "ask": 0.09,
-   "qty": 1.1111,
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Johnson@Ferro",
+   "market": "aec-wta-fiofer-sofjoh-2026-10-26",
+   "side": "short",
+   "team": "Sofia Johnson",
+   "ask": 0.06,
+   "qty": 1.6667,
    "stake": 0.1,
    "mode": "bounce"
   }
