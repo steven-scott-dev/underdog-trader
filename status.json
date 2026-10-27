@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T23:35:54.843246-04:00",
+ "updated": "2026-10-26T23:40:46.506206-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 13.2,
  "daily": {
   "date": "2026-10-26",
   "bets": 43,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Ann Li",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }

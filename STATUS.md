@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 23:35 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-10-26 23:40 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Today
 - Bets placed: 43 (main 5/5, bounce 38/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 23:35 ET · Mode: **PAPER** · Result: OK (13.1s)
 - 2026-10-26 16:50 ET: Maria Fernanda Navarro Oliva [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ann Li", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
