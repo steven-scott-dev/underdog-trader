@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 03:35 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-10-27 03:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 12 (main 6/5, bounce 6/50)
 - Realized P&L: +0.64
 
 ## Open paper positions
-- **Dayana Yastremska** (long/main) — 1.4286 @ 0.3500, now ~0.3500, unrealized +0.0000 (TP 0.8750 / SL 0.1400)
-- **Nikola Bartunkova** (short/main) — 1.7857 @ 0.2800, now ~0.2800, unrealized +0.0000 (TP 0.7000 / SL 0.1120)
+- **Dayana Yastremska** (long/main) — 1.4286 @ 0.3500, now ~0.4000, unrealized +0.0714 (TP 0.8750 / SL 0.1400)
+- **Nikola Bartunkova** (short/main) — 1.7857 @ 0.2800, now ~0.5100, unrealized +0.4107 (TP 0.7000 / SL 0.1120)
 
 ## Recent history
 - 2026-10-27 03:20 ET: Himeno Sakatsume [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -21,5 +21,4 @@ Updated: 2026-10-27 03:35 ET · Mode: **PAPER** · Result: OK (0.7s)
 - 2026-10-27 00:55 ET: Sofia Kenin [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Volynets@Yastremska", "market": "aec-wta-dayyas-katvol-2026-10-26", "side": "long", "team": "Dayana Yastremska", "ask": 0.35, "qty": 1.4286, "stake": 0.5, "mode": "main"}`
-- `{"type": "buy", "game": "wta:Bartunkova@Sasnovich", "market": "aec-wta-alisas-nikbar-2026-10-25", "side": "short", "team": "Nikola Bartunkova", "ask": 0.28, "qty": 1.7857, "stake": 0.5, "mode": "main"}`
+- _none_
