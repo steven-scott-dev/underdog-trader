@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:55 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-27 06:00 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 17 (main 7/10, bounce 10/50)
 - Realized P&L: +1.10
 
 ## Open paper positions
-- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.4400, unrealized +0.0500 (TP 0.9900 / SL 0.1600)
+- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.6500, unrealized +0.3125 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-27 05:50 ET: Jasmine Paolini [bounce] — take-profit @ 0.2000 → +0.1000
