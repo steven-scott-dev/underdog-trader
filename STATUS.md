@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 13:15 ET · Mode: **PAPER** · Result: OK (13.8s)
+Updated: 2026-10-27 13:20 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Today
 - Bets placed: 46 (main 10/10, bounce 36/50)
 - Realized P&L: +1.81
 
 ## Open paper positions
-- **Martin Landaluce** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
+- **Martin Landaluce** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-27 13:05 ET: Justina Maria Gonzalez Daniele [bounce] — stop-loss @ 0.0400 → -0.0600
