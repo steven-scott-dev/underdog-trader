@@ -2,35 +2,8 @@
  "date": "2026-10-27",
  "bets": 26,
  "bounce_bets": 18,
- "realized": 1.1935,
- "paper_positions": [
-  {
-   "market": "aec-wta-xinsun-mansaw-2026-10-25",
-   "game": "wta:Sawangkaew@Sun",
-   "side": "short",
-   "team": "Mananchaya Sawangkaew",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 08:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
-  {
-   "market": "aec-wta-marrib-vickas-2026-10-26",
-   "game": "wta:Kasintseva@Ribera",
-   "side": "short",
-   "team": "Victoria Jimenez Kasintseva",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-27 09:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 1.3935,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -439,6 +412,40 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-xinsun-mansaw-2026-10-25",
+   "game": "wta:Sawangkaew@Sun",
+   "side": "short",
+   "team": "Mananchaya Sawangkaew",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 08:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 09:10 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marrib-vickas-2026-10-26",
+   "game": "wta:Kasintseva@Ribera",
+   "side": "short",
+   "team": "Victoria Jimenez Kasintseva",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-27 09:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-27 09:10 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
