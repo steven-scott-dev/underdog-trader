@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 09:35 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-27 09:40 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 27 (main 8/10, bounce 19/50)
 - Realized P&L: +1.39
 
 ## Open paper positions
-- **Enola Chiesa** (long/bounce) — 1.6667 @ 0.0600, now ~0.0700, unrealized +0.0167 (TP 0.1200 / SL 0.0240)
+- **Enola Chiesa** (long/bounce) — 1.6667 @ 0.0600, now ~0.0500, unrealized -0.0167 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-27 09:10 ET: Victoria Jimenez Kasintseva [bounce] — take-profit @ 0.0800 → +0.1000
