@@ -1,21 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 29,
- "bounce_bets": 21,
- "realized": 1.2411,
+ "bets": 30,
+ "bounce_bets": 22,
+ "realized": 1.1611,
  "paper_positions": [
   {
-   "market": "aec-atp-aletab-rafjod-2026-10-25",
-   "game": "atp:Jodar@Tabilo",
+   "market": "aec-wta-adrnag-okssel-2026-10-27",
+   "game": "wta:Selekhmeteva@Nagy",
    "side": "long",
-   "team": "Alejandro Tabilo",
+   "team": "Adrienn Nagy",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-10-27 09:45 ET",
+   "opened": "2026-10-27 10:10 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -494,6 +494,23 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-aletab-rafjod-2026-10-25",
+   "game": "atp:Jodar@Tabilo",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 09:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-27 10:10 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -641,6 +658,12 @@
     1793109035.1421864,
     0.07
    ]
+  ],
+  "aec-wta-adrnag-okssel-2026-10-27": [
+   [
+    1793110235.687571,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -659,6 +682,7 @@
   "aec-atp-hubhur-zizber-2026-10-26": 1793106633.0579915,
   "aec-wta-jespie-eliyan-2026-10-26": 1793107232.6712193,
   "aec-wta-enochi-alicha-2026-10-27": 1793111136.0951831,
-  "aec-atp-tompau-andrub-2026-10-25": 1793111136.1298492
+  "aec-atp-tompau-andrub-2026-10-25": 1793111136.1298492,
+  "aec-atp-aletab-rafjod-2026-10-25": 1793112034.4783502
  }
 }
