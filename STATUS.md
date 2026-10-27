@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 11:20 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-10-27 11:25 ET · Mode: **PAPER** · Result: OK (11.9s)
 
 ## Today
 - Bets placed: 34 (main 8/10, bounce 26/50)
 - Realized P&L: +3.01
 
 ## Open paper positions
-- **Gaia Maduzzi** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Gaia Maduzzi** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 11:20 ET: Julia Riera [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,5 +20,4 @@ Updated: 2026-10-27 11:20 ET · Mode: **PAPER** · Result: OK (13.1s)
 - 2026-10-27 09:10 ET: Victoria Jimenez Kasintseva [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Julia Riera", "reason": "stop-loss", "pnl": -0.07}`
-- `{"type": "buy", "game": "wta:Klimovicova@Maduzzi", "market": "aec-wta-gaimad-linkli-2026-10-27", "side": "long", "team": "Gaia Maduzzi", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
