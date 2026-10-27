@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T10:50:49.523110-04:00",
+ "updated": "2026-10-27T10:55:49.039300-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.8,
+ "duration_s": 13.5,
  "daily": {
   "date": "2026-10-27",
   "bets": 31,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maria Florencia Urrutia",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

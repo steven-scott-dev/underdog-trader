@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 10:50 ET · Mode: **PAPER** · Result: OK (11.8s)
+Updated: 2026-10-27 10:55 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
 - Bets placed: 31 (main 8/10, bounce 23/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 10:50 ET · Mode: **PAPER** · Result: OK (11.8s)
 - 2026-10-27 08:50 ET: Jessica Pieri [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Florencia Urrutia", "reason": "take-profit", "pnl": 0.1}`
+- _none_
