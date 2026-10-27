@@ -1,49 +1,32 @@
 {
- "updated": "2026-10-27T05:45:34.810955-04:00",
+ "updated": "2026-10-27T05:50:33.902445-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-27",
-  "bets": 16,
+  "bets": 17,
   "bounce_bets": 10,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.0024
+  "realized": 1.1024
  },
  "paper_positions": [
   {
-   "market": "aec-wta-naoosa-jaspao-2026-10-25",
-   "game": "wta:Paolini@Osaka",
+   "market": "aec-wta-antruz-claliu-2026-10-25",
+   "game": "wta:Liu@Ruzic",
    "side": "short",
-   "team": "Jasmine Paolini",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 05:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.16
+   "team": "Claire Liu",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-27 05:50 ET",
+   "mode": "main",
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-yulput-marsak-2026-10-26",
-   "game": "wta:Sakkari@Putintseva",
-   "side": "short",
-   "team": "Maria Sakkari",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-10-27 01:30 ET",
-   "mode": "main",
-   "last_bid": 0.15,
-   "closed": "2026-10-27 01:37 ET",
-   "exit": 0.04,
-   "pnl": -0.3889,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-kaique-sofken-2026-10-25",
    "game": "wta:Kenin@Quevedo",
@@ -196,15 +179,43 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-naoosa-jaspao-2026-10-25",
+   "game": "wta:Paolini@Osaka",
+   "side": "short",
+   "team": "Jasmine Paolini",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 05:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.16,
+   "closed": "2026-10-27 05:50 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Polina Kudermetova",
-   "reason": "stop-loss",
-   "pnl": -0.09
+   "team": "Jasmine Paolini",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Liu@Ruzic",
+   "market": "aec-wta-antruz-claliu-2026-10-25",
+   "side": "short",
+   "team": "Claire Liu",
+   "ask": 0.4,
+   "qty": 1.25,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
