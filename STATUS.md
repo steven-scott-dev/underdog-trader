@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 01:20 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-27 01:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 6 (main 2/5, bounce 4/50)
 - Realized P&L: +0.61
 
 ## Open paper positions
-- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.3400, unrealized -0.0750 (TP 0.9900 / SL 0.1600)
+- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.2800, unrealized -0.1500 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-27 01:05 ET: Diane Parry [bounce] — stop-loss @ 0.0300 → -0.0700
