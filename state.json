@@ -2,21 +2,8 @@
  "date": "2026-10-26",
  "bets": 39,
  "bounce_bets": 34,
- "realized": 2.1583,
+ "realized": 2.2583,
  "paper_positions": [
-  {
-   "market": "aec-wta-nausil-despap-2026-10-26",
-   "game": "wta:Papamichail@Silva",
-   "side": "short",
-   "team": "Despina Papamichail",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-26 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-wta-seljan-anagru-2026-10-26",
    "game": "wta:Grubor@Janicijevic",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-26 20:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -660,6 +647,23 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-nausil-despap-2026-10-26",
+   "game": "wta:Papamichail@Silva",
+   "side": "short",
+   "team": "Despina Papamichail",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-26 20:15 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
