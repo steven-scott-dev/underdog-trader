@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 04:10 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-27 04:15 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 12 (main 6/5, bounce 6/50)
-- Realized P&L: +0.34
+- Realized P&L: +1.09
 
 ## Open paper positions
-- **Nikola Bartunkova** (short/main) — 1.7857 @ 0.2800, now ~0.1700, unrealized -0.1964 (TP 0.7000 / SL 0.1120)
+- _none_
 
 ## Recent history
+- 2026-10-27 04:15 ET: Nikola Bartunkova [main] — take-profit @ 0.7000 → +0.7500
 - 2026-10-27 03:50 ET: Dayana Yastremska [main] — stop-loss @ 0.1400 → -0.3000
 - 2026-10-27 03:20 ET: Himeno Sakatsume [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-27 02:55 ET: Sara Sorribes Tormo [main] — stop-loss @ 0.0900 → -0.3448
@@ -17,7 +18,6 @@ Updated: 2026-10-27 04:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-27 01:50 ET: Kaitlin Quevedo [main] — take-profit @ 0.9900 → +0.7375
 - 2026-10-27 01:37 ET: Maria Sakkari [main] — stop-loss @ 0.0400 → -0.3889
 - 2026-10-27 01:05 ET: Diane Parry [bounce] — stop-loss @ 0.0300 → -0.0700
-- 2026-10-27 01:00 ET: Anastasia Zakharova [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Nikola Bartunkova", "reason": "take-profit", "pnl": 0.75}`

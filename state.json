@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 12,
  "bounce_bets": 6,
- "realized": 0.3424,
- "paper_positions": [
-  {
-   "market": "aec-wta-alisas-nikbar-2026-10-25",
-   "game": "wta:Bartunkova@Sasnovich",
-   "side": "short",
-   "team": "Nikola Bartunkova",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-10-27 03:35 ET",
-   "mode": "main",
-   "last_bid": 0.17
-  }
- ],
+ "realized": 1.0924,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -205,6 +191,23 @@
    "exit": 0.14,
    "pnl": -0.3,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alisas-nikbar-2026-10-25",
+   "game": "wta:Bartunkova@Sasnovich",
+   "side": "short",
+   "team": "Nikola Bartunkova",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-10-27 03:35 ET",
+   "mode": "main",
+   "last_bid": 0.17,
+   "closed": "2026-10-27 04:15 ET",
+   "exit": 0.7,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
