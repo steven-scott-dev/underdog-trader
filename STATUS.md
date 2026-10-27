@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 10:35 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-10-27 10:40 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 31 (main 8/10, bounce 23/50)
 - Realized P&L: +1.10
 
 ## Open paper positions
-- **Maria Florencia Urrutia** (short/bounce) — 1.25 @ 0.0800, now ~0.1200, unrealized +0.0500 (TP 0.1600 / SL 0.0320)
+- **Maria Florencia Urrutia** (short/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-27 10:20 ET: Adrienn Nagy [bounce] — stop-loss @ 0.0400 → -0.0600
