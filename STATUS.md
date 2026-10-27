@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 13:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-27 13:15 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Today
 - Bets placed: 46 (main 10/10, bounce 36/50)
 - Realized P&L: +1.81
 
 ## Open paper positions
-- **Martin Landaluce** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Martin Landaluce** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-27 13:05 ET: Justina Maria Gonzalez Daniele [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -20,4 +20,4 @@ Updated: 2026-10-27 13:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-27 12:30 ET: Mia Ristic [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Landaluce@Zverev", "market": "aec-atp-alezve-marlan-2026-10-25", "side": "short", "team": "Martin Landaluce", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
