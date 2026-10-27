@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:15 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-27 05:20 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 14 (main 6/5, bounce 8/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
-- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
+- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 05:05 ET: Jasmine Paolini [bounce] — take-profit @ 0.1800 → +0.1000
