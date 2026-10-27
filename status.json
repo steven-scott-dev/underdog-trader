@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T13:40:46.506182-04:00",
+ "updated": "2026-10-27T13:45:47.960325-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.3,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-27",
   "bets": 49,
   "bounce_bets": 39,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.9081
+  "realized": 2.0081
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 13:25 ET",
    "mode": "bounce",
-   "last_bid": 0.11
-  },
-  {
-   "market": "aec-wta-marcol-zuzpaw-2026-10-26",
-   "game": "wta:Pawlikowska@Colmegna",
-   "side": "short",
-   "team": "Zuzanna Pawlikowska",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-eliman-emiara-2026-10-26",
@@ -49,27 +36,10 @@
    "sl": 0.04,
    "opened": "2026-10-27 13:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-karkha-caralc-2026-10-25",
-   "game": "atp:Alcaraz@Khachanov",
-   "side": "long",
-   "team": "Karen Khachanov",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-27 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-27 12:25 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-miaris-markub-2026-10-26",
    "game": "wta:Kubka@Ristic",
@@ -222,31 +192,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marcol-zuzpaw-2026-10-26",
+   "game": "wta:Pawlikowska@Colmegna",
+   "side": "short",
+   "team": "Zuzanna Pawlikowska",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-27 13:45 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Pawlikowska@Colmegna",
-   "market": "aec-wta-marcol-zuzpaw-2026-10-26",
-   "side": "short",
+   "type": "paper_close",
    "team": "Zuzanna Pawlikowska",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  },
-  {
-   "type": "buy",
-   "game": "wta:Arango@Mandlik",
-   "market": "aec-wta-eliman-emiara-2026-10-26",
-   "side": "short",
-   "team": "Emiliana Arango",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
