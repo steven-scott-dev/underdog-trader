@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 09:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-27 10:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 29 (main 8/10, bounce 21/50)
 - Realized P&L: +1.24
 
 ## Open paper positions
-- **Alejandro Tabilo** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Alejandro Tabilo** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 09:55 ET: Andrey Rublev [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -20,5 +20,4 @@ Updated: 2026-10-27 09:55 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-27 07:15 ET: Danka Kovinic [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Enola Chiesa", "reason": "stop-loss", "pnl": -0.0667}`
-- `{"type": "paper_close", "team": "Andrey Rublev", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_

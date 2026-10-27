@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T09:55:36.943428-04:00",
+ "updated": "2026-10-27T10:00:43.285796-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-27",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -199,18 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Enola Chiesa",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  },
-  {
-   "type": "paper_close",
-   "team": "Andrey Rublev",
-   "reason": "stop-loss",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
