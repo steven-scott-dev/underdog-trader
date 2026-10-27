@@ -1,11 +1,68 @@
 {
- "updated": "2026-10-27T00:00:39.686586-04:00",
- "mode": null,
- "ok": false,
- "duration_s": null,
- "daily": null,
- "paper_positions": null,
- "paper_history": null,
- "live_positions": null,
- "actions": null
+ "updated": "2026-10-27T00:05:46.712565-04:00",
+ "mode": "paper",
+ "ok": true,
+ "duration_s": 12.9,
+ "daily": {
+  "date": "2026-10-27",
+  "bets": 2,
+  "bounce_bets": 1,
+  "max_main": 5,
+  "max_bounce": 50,
+  "realized": 0.0
+ },
+ "paper_positions": [
+  {
+   "market": "aec-nba-gs-den-2026-10-26",
+   "game": "nba:GS@DEN",
+   "side": "short",
+   "team": "Nuggets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-nhl-det-edm-2026-10-26",
+   "game": "nhl:DET@EDM",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.09,
+   "qty": 5.5556,
+   "tp": 0.225,
+   "sl": 0.036,
+   "opened": "2026-10-27 00:05 ET",
+   "mode": "main",
+   "last_bid": 0.09
+  }
+ ],
+ "paper_history": [],
+ "live_positions": {},
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:GS@DEN",
+   "market": "aec-nba-gs-den-2026-10-26",
+   "side": "short",
+   "team": "Nuggets",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "nhl:DET@EDM",
+   "market": "aec-nhl-det-edm-2026-10-26",
+   "side": "long",
+   "team": "Red Wings",
+   "ask": 0.09,
+   "qty": 5.5556,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
