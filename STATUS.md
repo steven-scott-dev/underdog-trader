@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:50 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-27 05:55 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 17 (main 7/10, bounce 10/50)
 - Realized P&L: +1.10
 
 ## Open paper positions
-- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.4000, unrealized +0.0000 (TP 0.9900 / SL 0.1600)
+- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.4400, unrealized +0.0500 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-27 05:50 ET: Jasmine Paolini [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,5 +20,4 @@ Updated: 2026-10-27 05:50 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-27 02:55 ET: Sara Sorribes Tormo [main] — stop-loss @ 0.0900 → -0.3448
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jasmine Paolini", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "wta:Liu@Ruzic", "market": "aec-wta-antruz-claliu-2026-10-25", "side": "short", "team": "Claire Liu", "ask": 0.4, "qty": 1.25, "stake": 0.5, "mode": "main"}`
+- _none_
