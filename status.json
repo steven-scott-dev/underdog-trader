@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T02:00:37.536301-04:00",
+ "updated": "2026-10-27T02:05:34.727505-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 5.3,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-27",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sara Sorribes Tormo",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

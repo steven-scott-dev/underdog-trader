@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 02:00 ET · Mode: **PAPER** · Result: OK (5.3s)
+Updated: 2026-10-27 02:05 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 8 (main 3/5, bounce 5/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 02:00 ET · Mode: **PAPER** · Result: OK (5.3s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sara Sorribes Tormo", "reason": "take-profit", "pnl": 0.1}`
+- _none_
