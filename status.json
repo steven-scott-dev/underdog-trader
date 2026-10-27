@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-27T13:00:39.219392-04:00",
+ "updated": "2026-10-27T13:05:49.429030-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 12.4,
  "daily": {
   "date": "2026-10-27",
   "bets": 45,
   "bounce_bets": 35,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.8681
+  "realized": 1.8081
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jusdan-solsie-2026-10-27",
-   "game": "wta:Sierra@Daniele",
-   "side": "long",
-   "team": "Justina Maria Gonzalez Daniele",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-gaimad-linkli-2026-10-27",
-   "game": "wta:Klimovicova@Maduzzi",
-   "side": "long",
-   "team": "Gaia Maduzzi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 11:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-27 11:46 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-julrie-rebmas-2026-10-26",
    "game": "wta:Masarova@Riera",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jusdan-solsie-2026-10-27",
+   "game": "wta:Sierra@Daniele",
+   "side": "long",
+   "team": "Justina Maria Gonzalez Daniele",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-27 13:05 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Justina Maria Gonzalez Daniele",
+   "reason": "stop-loss",
+   "pnl": -0.06
+  }
+ ]
 }
