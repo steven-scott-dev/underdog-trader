@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:30 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-27 05:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 15 (main 6/10, bounce 9/50)
+- Bets placed: 16 (main 6/10, bounce 10/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
 - **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.2000, unrealized +0.1000 (TP 0.2000 / SL 0.0400)
-- **Tereza Valentova** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Tereza Valentova** (long/bounce) — 1.6667 @ 0.0600, now ~0.0800, unrealized +0.0333 (TP 0.1200 / SL 0.0240)
+- **Polina Kudermetova** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 05:05 ET: Jasmine Paolini [bounce] — take-profit @ 0.1800 → +0.1000
@@ -21,4 +22,4 @@ Updated: 2026-10-27 05:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-27 01:37 ET: Maria Sakkari [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Pohankova@Valentova", "market": "aec-wta-terval-miapoh-2026-10-26", "side": "long", "team": "Tereza Valentova", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Tjen@Kudermetova", "market": "aec-wta-polkud-jantje-2026-10-25", "side": "long", "team": "Polina Kudermetova", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

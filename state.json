@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 15,
- "bounce_bets": 9,
+ "bets": 16,
+ "bounce_bets": 10,
  "realized": 1.1924,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.024,
    "opened": "2026-10-27 05:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-polkud-jantje-2026-10-25",
+   "game": "wta:Tjen@Kudermetova",
+   "side": "long",
+   "team": "Polina Kudermetova",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -326,6 +339,12 @@
    [
     1793093438.8466918,
     0.06
+   ]
+  ],
+  "aec-wta-polkud-jantje-2026-10-25": [
+   [
+    1793093738.0386295,
+    0.1
    ]
   ]
  },
