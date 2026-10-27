@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 06:30 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-27 06:35 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 20 (main 7/10, bounce 13/50)
@@ -8,7 +8,7 @@ Updated: 2026-10-27 06:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Open paper positions
 - **Venus Williams** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
-- **Danka Kovinic** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
+- **Danka Kovinic** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 - **Isabella Maria Serban** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
@@ -22,5 +22,4 @@ Updated: 2026-10-27 06:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-27 03:20 ET: Himeno Sakatsume [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Claire Liu", "reason": "take-profit", "pnl": 0.7375}`
-- `{"type": "buy", "game": "wta:Serban@Stefanini", "market": "aec-wta-lucste-isabse-2026-10-26", "side": "short", "team": "Isabella Maria Serban", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
