@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T03:20:34.582946-04:00",
+ "updated": "2026-10-27T03:25:39.393254-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-27",
   "bets": 10,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Himeno Sakatsume",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }

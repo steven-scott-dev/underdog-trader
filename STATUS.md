@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 03:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-27 03:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 10 (main 4/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 03:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-27 00:55 ET: Sofia Kenin [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Himeno Sakatsume", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
