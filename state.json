@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 5,
  "bounce_bets": 4,
- "realized": 0.6786,
- "paper_positions": [
-  {
-   "market": "aec-wta-diapar-cribuc-2026-10-25",
-   "game": "wta:Bucsa@Parry",
-   "side": "long",
-   "team": "Diane Parry",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 01:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "realized": 0.6086,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -86,6 +72,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-diapar-cribuc-2026-10-25",
+   "game": "wta:Bucsa@Parry",
+   "side": "long",
+   "team": "Diane Parry",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 01:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-27 01:05 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -123,6 +126,7 @@
  },
  "cooldowns": {
   "aec-nba-gs-den-2026-10-26": 1793076036.6094816,
-  "aec-wta-anazak-maglin-2026-10-26": 1793079036.0712516
+  "aec-wta-anazak-maglin-2026-10-26": 1793079036.0712516,
+  "aec-wta-diapar-cribuc-2026-10-25": 1793079336.2457654
  }
 }
