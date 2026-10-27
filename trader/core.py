@@ -622,8 +622,16 @@ def run_pass():
             log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} mode={mode}")
             if not mode:
                 continue
-            mode_ok = can_bet_main if mode == "main" else can_bet_bounce
-            if not (can_bet and mode_ok):
+            # re-check caps per bet, not just per run: a busy pass with
+            # many triggering games must not overshoot a daily cap
+            if mode == "main":
+                mode_ok = (state["bets"] - state.get("bounce_bets", 0)
+                           < MAX_BETS_PER_DAY)
+            else:
+                mode_ok = (state.get("bounce_bets", 0)
+                           < cfg["bounce"]["max_bets_per_day"])
+            loss_ok = state["realized"] > -MAX_DAILY_LOSS
+            if not (mode_ok and loss_ok):
                 log(f"  {mode} daily cap reached, skipping")
                 continue
             try:
