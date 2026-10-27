@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:10 ET · Mode: **PAPER** · Result: OK (12.5s)
+Updated: 2026-10-27 14:15 ET · Mode: **PAPER** · Result: OK (12.2s)
 
 ## Today
-- Bets placed: 50 (main 10/10, bounce 40/50)
+- Bets placed: 51 (main 10/10, bounce 41/50)
 - Realized P&L: +1.95
 
 ## Open paper positions
-- _none_
+- **Martina Capurro** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 14:00 ET: Martin Landaluce [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 14:10 ET · Mode: **PAPER** · Result: OK (12.5s)
 - 2026-10-27 12:50 ET: Ana Candiotto [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Taborda@Hercog", "market": "aec-wta-polher-marcap-2026-10-26", "side": "short", "team": "Martina Capurro", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
