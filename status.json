@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T14:50:47.663487-04:00",
+ "updated": "2026-10-27T14:55:38.450352-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-27",
   "bets": 53,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Francisco Cerundolo",
-   "reason": "settled",
-   "pnl": 2.375
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:50 ET · Mode: **PAPER** · Result: OK (12.5s)
+Updated: 2026-10-27 14:55 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 53 (main 10/10, bounce 43/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 14:50 ET · Mode: **PAPER** · Result: OK (12.5s)
 - 2026-10-27 13:30 ET: Martin Landaluce [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Francisco Cerundolo", "reason": "settled", "pnl": 2.375}`
+- _none_
