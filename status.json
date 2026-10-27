@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T01:35:35.793356-04:00",
+ "updated": "2026-10-27T01:37:12.697473-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-27",
   "bets": 7,
   "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.6086
+  "realized": 0.2197
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.16,
    "opened": "2026-10-27 01:10 ET",
    "mode": "main",
-   "last_bid": 0.83
-  },
-  {
-   "market": "aec-wta-yulput-marsak-2026-10-26",
-   "game": "wta:Sakkari@Putintseva",
-   "side": "short",
-   "team": "Maria Sakkari",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-10-27 01:30 ET",
-   "mode": "main",
-   "last_bid": 0.15
+   "last_bid": 0.84
   }
  ],
  "paper_history": [
@@ -124,8 +111,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-yulput-marsak-2026-10-26",
+   "game": "wta:Sakkari@Putintseva",
+   "side": "short",
+   "team": "Maria Sakkari",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-10-27 01:30 ET",
+   "mode": "main",
+   "last_bid": 0.15,
+   "closed": "2026-10-27 01:37 ET",
+   "exit": 0.04,
+   "pnl": -0.3889,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Maria Sakkari",
+   "reason": "stop-loss",
+   "pnl": -0.3889
+  }
+ ]
 }

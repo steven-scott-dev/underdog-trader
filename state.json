@@ -2,7 +2,7 @@
  "date": "2026-10-27",
  "bets": 7,
  "bounce_bets": 4,
- "realized": 0.6086,
+ "realized": 0.2197,
  "paper_positions": [
   {
    "market": "aec-wta-kaique-sofken-2026-10-25",
@@ -15,20 +15,7 @@
    "sl": 0.16,
    "opened": "2026-10-27 01:10 ET",
    "mode": "main",
-   "last_bid": 0.83
-  },
-  {
-   "market": "aec-wta-yulput-marsak-2026-10-26",
-   "game": "wta:Sakkari@Putintseva",
-   "side": "short",
-   "team": "Maria Sakkari",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-10-27 01:30 ET",
-   "mode": "main",
-   "last_bid": 0.15
+   "last_bid": 0.84
   }
  ],
  "paper_history": [
@@ -116,6 +103,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-yulput-marsak-2026-10-26",
+   "game": "wta:Sakkari@Putintseva",
+   "side": "short",
+   "team": "Maria Sakkari",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-10-27 01:30 ET",
+   "mode": "main",
+   "last_bid": 0.15,
+   "closed": "2026-10-27 01:37 ET",
+   "exit": 0.04,
+   "pnl": -0.3889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -160,6 +164,7 @@
  "cooldowns": {
   "aec-nba-gs-den-2026-10-26": 1793076036.6094816,
   "aec-wta-anazak-maglin-2026-10-26": 1793079036.0712516,
-  "aec-wta-diapar-cribuc-2026-10-25": 1793079336.2457654
+  "aec-wta-diapar-cribuc-2026-10-25": 1793079336.2457654,
+  "aec-wta-yulput-marsak-2026-10-26": 1793081231.3851418
  }
 }
