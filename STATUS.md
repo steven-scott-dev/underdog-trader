@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 13:30 ET · Mode: **PAPER** · Result: OK (12.6s)
+Updated: 2026-10-27 13:35 ET · Mode: **PAPER** · Result: OK (11.8s)
 
 ## Today
 - Bets placed: 47 (main 10/10, bounce 37/50)
 - Realized P&L: +1.91
 
 ## Open paper positions
-- **Anastasiia Sobolieva** (short/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
+- **Anastasiia Sobolieva** (short/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 13:30 ET: Martin Landaluce [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 13:30 ET · Mode: **PAPER** · Result: OK (12.6s)
 - 2026-10-27 12:35 ET: Karen Khachanov [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Martin Landaluce", "reason": "take-profit", "pnl": 0.1}`
+- _none_
