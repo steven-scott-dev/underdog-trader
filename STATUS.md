@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 22:05 ET · Mode: **PAPER** · Result: OK (13.6s)
+Updated: 2026-10-26 22:10 ET · Mode: **PAPER** · Result: OK (14.6s)
 
 ## Today
 - Bets placed: 41 (main 5/5, bounce 36/50)
 - Realized P&L: +2.29
 
 ## Open paper positions
-- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 21:00 ET: Ana Grubor [bounce] — take-profit @ 0.0800 → +0.1000
