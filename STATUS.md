@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 06:15 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 06:20 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 17 (main 7/10, bounce 10/50)
+- Bets placed: 18 (main 7/10, bounce 11/50)
 - Realized P&L: +1.10
 
 ## Open paper positions
-- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.6500, unrealized +0.3125 (TP 0.9900 / SL 0.1600)
+- **Claire Liu** (short/main) — 1.25 @ 0.4000, now ~0.7800, unrealized +0.4750 (TP 0.9900 / SL 0.1600)
+- **Venus Williams** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-27 05:50 ET: Jasmine Paolini [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-27 06:15 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 02:55 ET: Sara Sorribes Tormo [main] — stop-loss @ 0.0900 → -0.3448
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Williams@Tagger", "market": "aec-wta-liltag-venwil-2026-10-25", "side": "short", "team": "Venus Williams", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`

@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T06:15:35.423014-04:00",
+ "updated": "2026-10-27T06:20:42.758025-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-27",
-  "bets": 17,
-  "bounce_bets": 10,
+  "bets": 18,
+  "bounce_bets": 11,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 1.1024
@@ -23,7 +23,20 @@
    "sl": 0.16,
    "opened": "2026-10-27 05:50 ET",
    "mode": "main",
-   "last_bid": 0.65
+   "last_bid": 0.78
+  },
+  {
+   "market": "aec-wta-liltag-venwil-2026-10-25",
+   "game": "wta:Williams@Tagger",
+   "side": "short",
+   "team": "Venus Williams",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 06:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Williams@Tagger",
+   "market": "aec-wta-liltag-venwil-2026-10-25",
+   "side": "short",
+   "team": "Venus Williams",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
