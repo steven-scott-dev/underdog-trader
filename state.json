@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 44,
- "bounce_bets": 34,
+ "bets": 45,
+ "bounce_bets": 35,
  "realized": 2.0048,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   },
   {
    "market": "aec-wta-jusdan-solsie-2026-10-27",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.14
+  },
+  {
+   "market": "aec-wta-annbli-dalgal-2026-10-26",
+   "game": "wta:Galfi@Blinkova",
+   "side": "short",
+   "team": "Dalma Galfi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 12:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -963,6 +976,12 @@
    [
     1793119255.8130705,
     0.1
+   ]
+  ],
+  "aec-wta-annbli-dalgal-2026-10-26": [
+   [
+    1793119539.730732,
+    0.09
    ]
   ]
  },
