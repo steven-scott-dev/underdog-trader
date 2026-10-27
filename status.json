@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-26T21:45:53.070198-04:00",
+ "updated": "2026-10-26T21:50:48.817721-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.7,
+ "duration_s": 14.2,
  "daily": {
   "date": "2026-10-26",
-  "bets": 40,
-  "bounce_bets": 35,
+  "bets": 41,
+  "bounce_bets": 36,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.2883
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-tor-cgy-2026-10-26",
+   "game": "nhl:TOR@CGY",
+   "side": "long",
+   "team": "Maple Leafs",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-rosden-gabknu-2026-10-26",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:TOR@CGY",
+   "market": "aec-nhl-tor-cgy-2026-10-26",
+   "side": "long",
+   "team": "Maple Leafs",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

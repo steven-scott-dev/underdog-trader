@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 21:45 ET · Mode: **PAPER** · Result: OK (14.7s)
+Updated: 2026-10-26 21:50 ET · Mode: **PAPER** · Result: OK (14.2s)
 
 ## Today
-- Bets placed: 40 (main 5/5, bounce 35/50)
+- Bets placed: 41 (main 5/5, bounce 36/50)
 - Realized P&L: +2.29
 
 ## Open paper positions
-- _none_
+- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 21:00 ET: Ana Grubor [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-26 21:45 ET · Mode: **PAPER** · Result: OK (14.7s)
 - 2026-10-26 15:45 ET: Alexandra Osborne [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:TOR@CGY", "market": "aec-nhl-tor-cgy-2026-10-26", "side": "long", "team": "Maple Leafs", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
