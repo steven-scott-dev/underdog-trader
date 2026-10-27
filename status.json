@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-27T07:10:50.442418-04:00",
+ "updated": "2026-10-27T07:15:35.797508-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-27",
   "bets": 21,
   "bounce_bets": 14,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.7932
+  "realized": 1.7075
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-dankov-nomaku-2026-10-26",
-   "game": "wta:Akugue@Kovinic",
-   "side": "long",
-   "team": "Danka Kovinic",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 06:59 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-dayyas-katvol-2026-10-26",
-   "game": "wta:Volynets@Yastremska",
-   "side": "long",
-   "team": "Dayana Yastremska",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-27 03:35 ET",
-   "mode": "main",
-   "last_bid": 0.28,
-   "closed": "2026-10-27 03:50 ET",
-   "exit": 0.14,
-   "pnl": -0.3,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-alisas-nikbar-2026-10-25",
    "game": "wta:Bartunkova@Sasnovich",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-dankov-nomaku-2026-10-26",
+   "game": "wta:Akugue@Kovinic",
+   "side": "long",
+   "team": "Danka Kovinic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 06:59 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 07:15 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Danka Kovinic",
+   "reason": "stop-loss",
+   "pnl": -0.0857
+  }
+ ]
 }

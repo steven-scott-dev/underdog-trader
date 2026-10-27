@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 21,
  "bounce_bets": 14,
- "realized": 1.7932,
- "paper_positions": [
-  {
-   "market": "aec-wta-dankov-nomaku-2026-10-26",
-   "game": "wta:Akugue@Kovinic",
-   "side": "long",
-   "team": "Danka Kovinic",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 06:59 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 1.7075,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -358,6 +344,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-dankov-nomaku-2026-10-26",
+   "game": "wta:Akugue@Kovinic",
+   "side": "long",
+   "team": "Danka Kovinic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 06:59 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 07:15 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -476,6 +479,7 @@
   "aec-wta-terval-miapoh-2026-10-26": 1793095833.7973254,
   "aec-wta-polkud-jantje-2026-10-25": 1793096134.0553493,
   "aec-wta-liltag-venwil-2026-10-25": 1793100568.683911,
-  "aec-wta-lucste-isabse-2026-10-26": 1793100568.7011998
+  "aec-wta-lucste-isabse-2026-10-26": 1793100568.7011998,
+  "aec-wta-dankov-nomaku-2026-10-26": 1793101534.3276494
  }
 }
