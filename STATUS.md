@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 12:55 ET · Mode: **PAPER** · Result: OK (11.1s)
+Updated: 2026-10-27 13:00 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 45 (main 10/10, bounce 35/50)
 - Realized P&L: +1.87
 
 ## Open paper positions
-- **Justina Maria Gonzalez Daniele** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Justina Maria Gonzalez Daniele** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 12:55 ET: Dalma Galfi [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-10-27 12:55 ET · Mode: **PAPER** · Result: OK (11.1s)
 - 2026-10-27 12:25 ET: Karen Khachanov [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Dalma Galfi", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
