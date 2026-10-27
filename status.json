@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-27T03:15:35.917021-04:00",
+ "updated": "2026-10-27T03:20:34.582946-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-27",
   "bets": 10,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.7124
+  "realized": 0.6424
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-leyfer-himsak-2026-10-25",
-   "game": "wta:Sakatsume@Fernandez",
-   "side": "short",
-   "team": "Himeno Sakatsume",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 02:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -179,8 +165,32 @@
    "exit": 0.09,
    "pnl": -0.3448,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leyfer-himsak-2026-10-25",
+   "game": "wta:Sakatsume@Fernandez",
+   "side": "short",
+   "team": "Himeno Sakatsume",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 02:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-27 03:20 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Himeno Sakatsume",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }
