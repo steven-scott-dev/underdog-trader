@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 03:40 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-27 03:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 12 (main 6/5, bounce 6/50)
 - Realized P&L: +0.64
 
 ## Open paper positions
-- **Dayana Yastremska** (long/main) — 1.4286 @ 0.3500, now ~0.4000, unrealized +0.0714 (TP 0.8750 / SL 0.1400)
-- **Nikola Bartunkova** (short/main) — 1.7857 @ 0.2800, now ~0.5100, unrealized +0.4107 (TP 0.7000 / SL 0.1120)
+- **Dayana Yastremska** (long/main) — 1.4286 @ 0.3500, now ~0.2800, unrealized -0.1000 (TP 0.8750 / SL 0.1400)
+- **Nikola Bartunkova** (short/main) — 1.7857 @ 0.2800, now ~0.2300, unrealized -0.0893 (TP 0.7000 / SL 0.1120)
 
 ## Recent history
 - 2026-10-27 03:20 ET: Himeno Sakatsume [bounce] — stop-loss @ 0.0300 → -0.0700
