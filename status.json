@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T22:40:49.040756-04:00",
+ "updated": "2026-10-26T22:45:51.216447-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.2,
+ "duration_s": 14.1,
  "daily": {
   "date": "2026-10-26",
   "bets": 42,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-26 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Hawks",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }

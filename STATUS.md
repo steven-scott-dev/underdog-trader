@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 22:40 ET · Mode: **PAPER** · Result: OK (13.2s)
+Updated: 2026-10-26 22:45 ET · Mode: **PAPER** · Result: OK (14.1s)
 
 ## Today
 - Bets placed: 42 (main 5/5, bounce 37/50)
 - Realized P&L: +2.21
 
 ## Open paper positions
-- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-26 22:40 ET: Hawks [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-10-26 22:40 ET · Mode: **PAPER** · Result: OK (13.2s)
 - 2026-10-26 16:15 ET: Luca Van Assche [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hawks", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
