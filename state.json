@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 43,
  "bounce_bets": 38,
- "realized": 2.3083,
- "paper_positions": [
-  {
-   "market": "aec-wta-annli-ekaale-2026-10-25",
-   "game": "wta:Alexandrova@Li",
-   "side": "long",
-   "team": "Ann Li",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 23:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": 2.2083,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -732,6 +718,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-annli-ekaale-2026-10-25",
+   "game": "wta:Alexandrova@Li",
+   "side": "long",
+   "team": "Ann Li",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-26 23:35 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -967,6 +970,7 @@
   "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085,
   "aec-atp-domstr-casruu-2026-10-25": 1793052939.8110452,
   "aec-wta-seljan-anagru-2026-10-26": 1793062240.0694246,
-  "aec-nba-atl-hou-2026-10-26": 1793070636.2594533
+  "aec-nba-atl-hou-2026-10-26": 1793070636.2594533,
+  "aec-wta-annli-ekaale-2026-10-25": 1793073942.5177233
  }
 }

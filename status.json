@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-26T23:30:51.740074-04:00",
+ "updated": "2026-10-26T23:35:54.843246-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.9,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-10-26",
   "bets": 43,
   "bounce_bets": 38,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.3083
+  "realized": 2.2083
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-annli-ekaale-2026-10-25",
-   "game": "wta:Alexandrova@Li",
-   "side": "long",
-   "team": "Ann Li",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 23:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-aleosb-jeshin-2026-10-25",
-   "game": "wta:Gomez@Osborne",
-   "side": "long",
-   "team": "Alexandra Osborne",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 14:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.09,
-   "closed": "2026-10-26 15:45 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-lucass-leatie-2026-10-25",
    "game": "atp:Tien@Assche",
@@ -196,8 +165,32 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-annli-ekaale-2026-10-25",
+   "game": "wta:Alexandrova@Li",
+   "side": "long",
+   "team": "Ann Li",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-26 23:35 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Ann Li",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }
