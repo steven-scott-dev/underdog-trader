@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 11:46 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-10-27 11:50 ET · Mode: **PAPER** · Result: OK (13.4s)
 
 ## Today
 - Bets placed: 36 (main 8/10, bounce 28/50)
 - Realized P&L: +3.04
 
 ## Open paper positions
-- **Karen Khachanov** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Karen Khachanov** (long/bounce) — 1.6667 @ 0.0600, now ~0.0700, unrealized +0.0167 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-27 11:46 ET: Gaia Maduzzi [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-10-27 11:46 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-10-27 09:55 ET: Andrey Rublev [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Gaia Maduzzi", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
