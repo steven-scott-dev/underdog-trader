@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T12:05:55.724841-04:00",
+ "updated": "2026-10-27T12:10:59.805566-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 21.4,
+ "duration_s": 22.7,
  "daily": {
   "date": "2026-10-27",
   "bets": 38,
   "bounce_bets": 28,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 3.0411
+  "realized": 2.5982
  },
  "paper_positions": [
   {
@@ -26,19 +26,6 @@
    "last_bid": 0.06
   },
   {
-   "market": "aec-wta-julrie-rebmas-2026-10-26",
-   "game": "wta:Masarova@Riera",
-   "side": "short",
-   "team": "Rebeka Masarova",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-27 12:00 ET",
-   "mode": "main",
-   "last_bid": 0.17
-  },
-  {
    "market": "aec-atp-adrman-ignbus-2026-10-27",
    "game": "atp:Buse@Mannarino",
    "side": "short",
@@ -49,27 +36,10 @@
    "sl": 0.088,
    "opened": "2026-10-27 12:05 ET",
    "mode": "main",
-   "last_bid": 0.22
+   "last_bid": 0.49
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-marrib-vickas-2026-10-26",
-   "game": "wta:Kasintseva@Ribera",
-   "side": "short",
-   "team": "Victoria Jimenez Kasintseva",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-27 09:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-27 09:10 ET",
-   "exit": 0.08,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-enochi-alicha-2026-10-27",
    "game": "wta:Charaeva@Chiesa",
@@ -222,20 +192,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "short",
+   "team": "Rebeka Masarova",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 12:00 ET",
+   "mode": "main",
+   "last_bid": 0.17,
+   "closed": "2026-10-27 12:10 ET",
+   "exit": 0.04,
+   "pnl": -0.4429,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Buse@Mannarino",
-   "market": "aec-atp-adrman-ignbus-2026-10-27",
-   "side": "short",
-   "team": "Ignacio Buse",
-   "ask": 0.22,
-   "qty": 2.2727,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Rebeka Masarova",
+   "reason": "stop-loss",
+   "pnl": -0.4429
   }
  ]
 }
