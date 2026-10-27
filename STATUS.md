@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:25 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-27 05:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 14 (main 6/10, bounce 8/50)
+- Bets placed: 15 (main 6/10, bounce 9/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
-- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
+- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.2000, unrealized +0.1000 (TP 0.2000 / SL 0.0400)
+- **Tereza Valentova** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-27 05:05 ET: Jasmine Paolini [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-27 05:25 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-27 01:37 ET: Maria Sakkari [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Pohankova@Valentova", "market": "aec-wta-terval-miapoh-2026-10-26", "side": "long", "team": "Tereza Valentova", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`

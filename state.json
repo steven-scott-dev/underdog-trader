@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 14,
- "bounce_bets": 8,
+ "bets": 15,
+ "bounce_bets": 9,
  "realized": 1.1924,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-27 05:10 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.2
+  },
+  {
+   "market": "aec-wta-terval-miapoh-2026-10-26",
+   "game": "wta:Pohankova@Valentova",
+   "side": "long",
+   "team": "Tereza Valentova",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 05:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -307,6 +320,12 @@
    [
     1793092236.6953177,
     0.1
+   ]
+  ],
+  "aec-wta-terval-miapoh-2026-10-26": [
+   [
+    1793093438.8466918,
+    0.06
    ]
   ]
  },
