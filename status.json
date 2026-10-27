@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-26T20:55:48.084993-04:00",
+ "updated": "2026-10-26T21:00:38.398670-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.7,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-10-26",
   "bets": 40,
   "bounce_bets": 35,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.1883
+  "realized": 2.2883
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-seljan-anagru-2026-10-26",
-   "game": "wta:Grubor@Janicijevic",
-   "side": "short",
-   "team": "Ana Grubor",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-26 20:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-lucdar-matarn-2026-10-25",
-   "game": "atp:Arnaldi@Darderi",
-   "side": "short",
-   "team": "Matteo Arnaldi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 14:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-26 14:55 ET",
-   "exit": 0.02,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-rosden-gabknu-2026-10-26",
    "game": "wta:Knutson@Dencheva",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-seljan-anagru-2026-10-26",
+   "game": "wta:Grubor@Janicijevic",
+   "side": "short",
+   "team": "Ana Grubor",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-26 20:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-26 21:00 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Ana Grubor",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 40,
  "bounce_bets": 35,
- "realized": 2.1883,
- "paper_positions": [
-  {
-   "market": "aec-wta-seljan-anagru-2026-10-26",
-   "game": "wta:Grubor@Janicijevic",
-   "side": "short",
-   "team": "Ana Grubor",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-26 20:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "realized": 2.2883,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -681,6 +667,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-seljan-anagru-2026-10-26",
+   "game": "wta:Grubor@Janicijevic",
+   "side": "short",
+   "team": "Ana Grubor",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-26 20:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-26 21:00 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
