@@ -1,34 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 20,
- "bounce_bets": 13,
- "realized": 1.9399,
+ "bets": 21,
+ "bounce_bets": 14,
+ "realized": 1.7932,
  "paper_positions": [
   {
-   "market": "aec-wta-liltag-venwil-2026-10-25",
-   "game": "wta:Williams@Tagger",
-   "side": "short",
-   "team": "Venus Williams",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 06:20 ET",
+   "market": "aec-wta-dankov-nomaku-2026-10-26",
+   "game": "wta:Akugue@Kovinic",
+   "side": "long",
+   "team": "Danka Kovinic",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 06:59 ET",
    "mode": "bounce",
-   "last_bid": 0.02
-  },
-  {
-   "market": "aec-wta-lucste-isabse-2026-10-26",
-   "game": "wta:Serban@Stefanini",
-   "side": "short",
-   "team": "Isabella Maria Serban",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 06:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -337,6 +324,40 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-liltag-venwil-2026-10-25",
+   "game": "wta:Williams@Tagger",
+   "side": "short",
+   "team": "Venus Williams",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 06:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-27 06:59 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lucste-isabse-2026-10-26",
+   "game": "wta:Serban@Stefanini",
+   "side": "short",
+   "team": "Isabella Maria Serban",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 06:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 06:59 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -433,8 +454,8 @@
   ],
   "aec-wta-dankov-nomaku-2026-10-26": [
    [
-    1793096734.8257236,
-    0.1
+    1793098769.4702969,
+    0.07
    ]
   ],
   "aec-wta-lucste-isabse-2026-10-26": [
@@ -453,6 +474,8 @@
   "aec-wta-leyfer-himsak-2026-10-25": 1793087433.4445577,
   "aec-wta-dayyas-katvol-2026-10-26": 1793089236.192207,
   "aec-wta-terval-miapoh-2026-10-26": 1793095833.7973254,
-  "aec-wta-polkud-jantje-2026-10-25": 1793096134.0553493
+  "aec-wta-polkud-jantje-2026-10-25": 1793096134.0553493,
+  "aec-wta-liltag-venwil-2026-10-25": 1793100568.683911,
+  "aec-wta-lucste-isabse-2026-10-26": 1793100568.7011998
  }
 }
