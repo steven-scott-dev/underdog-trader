@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T12:31:02.979663-04:00",
+ "updated": "2026-10-27T12:35:49.102670-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 23.1,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-10-27",
-  "bets": 41,
-  "bounce_bets": 31,
+  "bets": 42,
+  "bounce_bets": 32,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.5982
+  "realized": 2.5357
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.088,
    "opened": "2026-10-27 12:05 ET",
    "mode": "main",
-   "last_bid": 0.11
+   "last_bid": 0.13
   },
   {
    "market": "aec-wta-adrrea-lanmi-2026-10-27",
@@ -36,40 +36,23 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.04
   },
   {
-   "market": "aec-atp-karkha-caralc-2026-10-25",
-   "game": "atp:Alcaraz@Khachanov",
+   "market": "aec-atp-gioper-artfil-2026-10-27",
+   "game": "atp:Fils@Perricard",
    "side": "long",
-   "team": "Karen Khachanov",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 12:30 ET",
+   "team": "Giovanni Mpetshi Perricard",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-aletab-rafjod-2026-10-25",
-   "game": "atp:Jodar@Tabilo",
-   "side": "long",
-   "team": "Alejandro Tabilo",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 09:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.09,
-   "closed": "2026-10-27 10:10 ET",
-   "exit": 0.02,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-adrnag-okssel-2026-10-27",
    "game": "wta:Selekhmeteva@Nagy",
@@ -222,24 +205,41 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "game": "atp:Alcaraz@Khachanov",
+   "side": "long",
+   "team": "Karen Khachanov",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 12:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-27 12:35 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Mia Ristic",
+   "team": "Karen Khachanov",
    "reason": "stop-loss",
-   "pnl": -0.1
+   "pnl": -0.0625
   },
   {
    "type": "buy",
-   "game": "atp:Alcaraz@Khachanov",
-   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "game": "atp:Fils@Perricard",
+   "market": "aec-atp-gioper-artfil-2026-10-27",
    "side": "long",
-   "team": "Karen Khachanov",
-   "ask": 0.08,
-   "qty": 1.25,
+   "team": "Giovanni Mpetshi Perricard",
+   "ask": 0.07,
+   "qty": 1.4286,
    "stake": 0.1,
    "mode": "bounce"
   }

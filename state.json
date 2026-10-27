@@ -1,8 +1,8 @@
 {
  "date": "2026-10-27",
- "bets": 41,
- "bounce_bets": 31,
- "realized": 2.5982,
+ "bets": 42,
+ "bounce_bets": 32,
+ "realized": 2.5357,
  "paper_positions": [
   {
    "market": "aec-atp-adrman-ignbus-2026-10-27",
@@ -15,7 +15,7 @@
    "sl": 0.088,
    "opened": "2026-10-27 12:05 ET",
    "mode": "main",
-   "last_bid": 0.11
+   "last_bid": 0.13
   },
   {
    "market": "aec-wta-adrrea-lanmi-2026-10-27",
@@ -28,20 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.04
   },
   {
-   "market": "aec-atp-karkha-caralc-2026-10-25",
-   "game": "atp:Alcaraz@Khachanov",
+   "market": "aec-atp-gioper-artfil-2026-10-27",
+   "game": "atp:Fils@Perricard",
    "side": "long",
-   "team": "Karen Khachanov",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 12:30 ET",
+   "team": "Giovanni Mpetshi Perricard",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -690,6 +690,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "game": "atp:Alcaraz@Khachanov",
+   "side": "long",
+   "team": "Karen Khachanov",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 12:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-27 12:35 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -891,6 +908,12 @@
     1793118357.390626,
     0.1
    ]
+  ],
+  "aec-atp-gioper-artfil-2026-10-27": [
+   [
+    1793118938.4597692,
+    0.07
+   ]
   ]
  },
  "cooldowns": {
@@ -914,6 +937,7 @@
   "aec-wta-adrnag-okssel-2026-10-27": 1793112636.2089527,
   "aec-wta-julrie-rebmas-2026-10-26": 1793119237.3984334,
   "aec-wta-gaimad-linkli-2026-10-27": 1793117768.5556834,
-  "aec-wta-miaris-markub-2026-10-26": 1793120440.5934725
+  "aec-wta-miaris-markub-2026-10-26": 1793120440.5934725,
+  "aec-atp-karkha-caralc-2026-10-25": 1793120737.3531742
  }
 }
