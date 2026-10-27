@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 20:45 ET · Mode: **PAPER** · Result: OK (14.1s)
+Updated: 2026-10-26 20:50 ET · Mode: **PAPER** · Result: OK (14.2s)
 
 ## Today
-- Bets placed: 39 (main 5/5, bounce 34/50)
+- Bets placed: 40 (main 5/5, bounce 35/50)
 - Realized P&L: +2.19
 
 ## Open paper positions
-- _none_
+- **Ana Grubor** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-26 20:20 ET: Ana Grubor [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-10-26 20:45 ET · Mode: **PAPER** · Result: OK (14.1s)
 - 2026-10-26 15:30 ET: Demi Tran [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Grubor@Janicijevic", "market": "aec-wta-seljan-anagru-2026-10-26", "side": "short", "team": "Ana Grubor", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
