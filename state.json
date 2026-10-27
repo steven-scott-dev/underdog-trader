@@ -1,22 +1,9 @@
 {
  "date": "2026-10-27",
- "bets": 49,
- "bounce_bets": 39,
- "realized": 2.0081,
+ "bets": 50,
+ "bounce_bets": 40,
+ "realized": 1.9181,
  "paper_positions": [
-  {
-   "market": "aec-wta-susban-anasob-2026-10-26",
-   "game": "wta:Sobolieva@Bandecchi",
-   "side": "short",
-   "team": "Anastasiia Sobolieva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 13:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-eliman-emiara-2026-10-26",
    "game": "wta:Arango@Mandlik",
@@ -29,6 +16,19 @@
    "opened": "2026-10-27 13:40 ET",
    "mode": "bounce",
    "last_bid": 0.06
+  },
+  {
+   "market": "aec-atp-alezve-marlan-2026-10-25",
+   "game": "atp:Landaluce@Zverev",
+   "side": "short",
+   "team": "Martin Landaluce",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -830,6 +830,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-susban-anasob-2026-10-26",
+   "game": "wta:Sobolieva@Bandecchi",
+   "side": "short",
+   "team": "Anastasiia Sobolieva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 13:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-27 13:50 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -1058,8 +1075,8 @@
   ],
   "aec-atp-alezve-marlan-2026-10-25": [
    [
-    1793121041.2883542,
-    0.07
+    1793123438.0972967,
+    0.05
    ]
   ],
   "aec-wta-susban-anasob-2026-10-26": [
@@ -1109,6 +1126,7 @@
   "aec-atp-gioper-artfil-2026-10-27": 1793121044.0356386,
   "aec-wta-anacan-luncin-2026-10-27": 1793121636.606187,
   "aec-wta-annbli-dalgal-2026-10-26": 1793121935.686986,
-  "aec-wta-jusdan-solsie-2026-10-27": 1793122537.3758235
+  "aec-wta-jusdan-solsie-2026-10-27": 1793122537.3758235,
+  "aec-wta-susban-anasob-2026-10-26": 1793125236.8593965
  }
 }

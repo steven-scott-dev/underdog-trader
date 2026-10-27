@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-27T13:45:47.960325-04:00",
+ "updated": "2026-10-27T13:50:49.463325-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.7,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-10-27",
-  "bets": 49,
-  "bounce_bets": 39,
+  "bets": 50,
+  "bounce_bets": 40,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.0081
+  "realized": 1.9181
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-susban-anasob-2026-10-26",
-   "game": "wta:Sobolieva@Bandecchi",
-   "side": "short",
-   "team": "Anastasiia Sobolieva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 13:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-eliman-emiara-2026-10-26",
    "game": "wta:Arango@Mandlik",
@@ -37,26 +24,22 @@
    "opened": "2026-10-27 13:40 ET",
    "mode": "bounce",
    "last_bid": 0.06
+  },
+  {
+   "market": "aec-atp-alezve-marlan-2026-10-25",
+   "game": "atp:Landaluce@Zverev",
+   "side": "short",
+   "team": "Martin Landaluce",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-miaris-markub-2026-10-26",
-   "game": "wta:Kubka@Ristic",
-   "side": "long",
-   "team": "Mia Ristic",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 12:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-27 12:30 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-karkha-caralc-2026-10-25",
    "game": "atp:Alcaraz@Khachanov",
@@ -209,15 +192,43 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-susban-anasob-2026-10-26",
+   "game": "wta:Sobolieva@Bandecchi",
+   "side": "short",
+   "team": "Anastasiia Sobolieva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 13:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-27 13:50 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Zuzanna Pawlikowska",
-   "reason": "take-profit",
-   "pnl": 0.1
+   "team": "Anastasiia Sobolieva",
+   "reason": "stop-loss",
+   "pnl": -0.09
+  },
+  {
+   "type": "buy",
+   "game": "atp:Landaluce@Zverev",
+   "market": "aec-atp-alezve-marlan-2026-10-25",
+   "side": "short",
+   "team": "Martin Landaluce",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
