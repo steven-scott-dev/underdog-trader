@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-27T03:45:35.604409-04:00",
+ "updated": "2026-10-27T03:50:37.259293-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-27",
   "bets": 12,
   "bounce_bets": 6,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.6424
+  "realized": 0.3424
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-dayyas-katvol-2026-10-26",
-   "game": "wta:Volynets@Yastremska",
-   "side": "long",
-   "team": "Dayana Yastremska",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-27 03:35 ET",
-   "mode": "main",
-   "last_bid": 0.28
-  },
   {
    "market": "aec-wta-alisas-nikbar-2026-10-25",
    "game": "wta:Bartunkova@Sasnovich",
@@ -36,27 +23,10 @@
    "sl": 0.112,
    "opened": "2026-10-27 03:35 ET",
    "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.44
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-gs-den-2026-10-26",
-   "game": "nba:GS@DEN",
-   "side": "short",
-   "team": "Nuggets",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-27 00:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-27 00:10 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nhl-det-edm-2026-10-26",
    "game": "nhl:DET@EDM",
@@ -209,8 +179,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-dayyas-katvol-2026-10-26",
+   "game": "wta:Volynets@Yastremska",
+   "side": "long",
+   "team": "Dayana Yastremska",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 03:35 ET",
+   "mode": "main",
+   "last_bid": 0.28,
+   "closed": "2026-10-27 03:50 ET",
+   "exit": 0.14,
+   "pnl": -0.3,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Dayana Yastremska",
+   "reason": "stop-loss",
+   "pnl": -0.3
+  }
+ ]
 }

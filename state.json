@@ -2,21 +2,8 @@
  "date": "2026-10-27",
  "bets": 12,
  "bounce_bets": 6,
- "realized": 0.6424,
+ "realized": 0.3424,
  "paper_positions": [
-  {
-   "market": "aec-wta-dayyas-katvol-2026-10-26",
-   "game": "wta:Volynets@Yastremska",
-   "side": "long",
-   "team": "Dayana Yastremska",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-27 03:35 ET",
-   "mode": "main",
-   "last_bid": 0.28
-  },
   {
    "market": "aec-wta-alisas-nikbar-2026-10-25",
    "game": "wta:Bartunkova@Sasnovich",
@@ -28,7 +15,7 @@
    "sl": 0.112,
    "opened": "2026-10-27 03:35 ET",
    "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.44
   }
  ],
  "paper_history": [
@@ -201,6 +188,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-dayyas-katvol-2026-10-26",
+   "game": "wta:Volynets@Yastremska",
+   "side": "long",
+   "team": "Dayana Yastremska",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 03:35 ET",
+   "mode": "main",
+   "last_bid": 0.28,
+   "closed": "2026-10-27 03:50 ET",
+   "exit": 0.14,
+   "pnl": -0.3,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -272,6 +276,7 @@
   "aec-wta-diapar-cribuc-2026-10-25": 1793079336.2457654,
   "aec-wta-yulput-marsak-2026-10-26": 1793081231.3851418,
   "aec-wta-sartor-zeyson-2026-10-25": 1793085933.4454315,
-  "aec-wta-leyfer-himsak-2026-10-25": 1793087433.4445577
+  "aec-wta-leyfer-himsak-2026-10-25": 1793087433.4445577,
+  "aec-wta-dayyas-katvol-2026-10-26": 1793089236.192207
  }
 }
