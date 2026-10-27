@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:00 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-27 14:05 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
 - Bets placed: 50 (main 10/10, bounce 40/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 14:00 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-10-27 12:50 ET: Ana Candiotto [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Martin Landaluce", "reason": "take-profit", "pnl": 0.1}`
+- _none_
