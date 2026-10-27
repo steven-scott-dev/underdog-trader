@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 16:25 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-27 16:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 60 (main 10/10, bounce 50/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 16:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-27 14:40 ET: Marian Gomez Pezuela Cano [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Souza@Bonardi", "market": "aec-wta-berbon-marsou-2026-10-27", "side": "long", "team": "Berta Bonardi", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
