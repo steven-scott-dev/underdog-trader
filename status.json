@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T08:35:36.999017-04:00",
+ "updated": "2026-10-27T08:40:33.897848-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-27",
   "bets": 24,
   "bounce_bets": 16,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.6275
+  "realized": 1.2685
  },
  "paper_positions": [
   {
@@ -24,39 +24,9 @@
    "opened": "2026-10-27 08:30 ET",
    "mode": "bounce",
    "last_bid": 0.05
-  },
-  {
-   "market": "aec-atp-hubhur-zizber-2026-10-26",
-   "game": "atp:Bergs@Hurkacz",
-   "side": "short",
-   "team": "Zizou Bergs",
-   "entry": 0.39,
-   "qty": 1.2821,
-   "tp": 0.975,
-   "sl": 0.156,
-   "opened": "2026-10-27 08:35 ET",
-   "mode": "main",
-   "last_bid": 0.39
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-naoosa-jaspao-2026-10-25",
-   "game": "wta:Paolini@Osaka",
-   "side": "short",
-   "team": "Jasmine Paolini",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 04:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-27 05:05 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-terval-miapoh-2026-10-26",
    "game": "wta:Pohankova@Valentova",
@@ -209,20 +179,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-hubhur-zizber-2026-10-26",
+   "game": "atp:Bergs@Hurkacz",
+   "side": "short",
+   "team": "Zizou Bergs",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-10-27 08:35 ET",
+   "mode": "main",
+   "last_bid": 0.39,
+   "closed": "2026-10-27 08:40 ET",
+   "exit": 0.11,
+   "pnl": -0.359,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Bergs@Hurkacz",
-   "market": "aec-atp-hubhur-zizber-2026-10-26",
-   "side": "short",
+   "type": "paper_close",
    "team": "Zizou Bergs",
-   "ask": 0.39,
-   "qty": 1.2821,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.359
   }
  ]
 }
