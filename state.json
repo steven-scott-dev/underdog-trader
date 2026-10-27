@@ -1,9 +1,36 @@
 {
  "date": "2026-10-27",
- "bets": 10,
+ "bets": 12,
  "bounce_bets": 6,
  "realized": 0.6424,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-dayyas-katvol-2026-10-26",
+   "game": "wta:Volynets@Yastremska",
+   "side": "long",
+   "team": "Dayana Yastremska",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 03:35 ET",
+   "mode": "main",
+   "last_bid": 0.35
+  },
+  {
+   "market": "aec-wta-alisas-nikbar-2026-10-25",
+   "game": "wta:Bartunkova@Sasnovich",
+   "side": "short",
+   "team": "Nikola Bartunkova",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-10-27 03:35 ET",
+   "mode": "main",
+   "last_bid": 0.28
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -224,6 +251,18 @@
    [
     1793082034.4048347,
     0.1
+   ]
+  ],
+  "aec-wta-dayyas-katvol-2026-10-26": [
+   [
+    1793086533.2147453,
+    0.35
+   ]
+  ],
+  "aec-wta-alisas-nikbar-2026-10-25": [
+   [
+    1793086533.2715402,
+    0.28
    ]
   ]
  },
