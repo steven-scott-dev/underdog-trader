@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 09:00 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-27 09:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 25 (main 8/10, bounce 17/50)
+- Bets placed: 26 (main 8/10, bounce 18/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
-- **Mananchaya Sawangkaew** (short/bounce) — 1.4286 @ 0.0700, now ~0.0900, unrealized +0.0286 (TP 0.1400 / SL 0.0280)
+- **Mananchaya Sawangkaew** (short/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Victoria Jimenez Kasintseva** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-27 08:50 ET: Jessica Pieri [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -20,4 +21,4 @@ Updated: 2026-10-27 09:00 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-27 06:30 ET: Claire Liu [main] — take-profit @ 0.9900 → +0.7375
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Kasintseva@Ribera", "market": "aec-wta-marrib-vickas-2026-10-26", "side": "short", "team": "Victoria Jimenez Kasintseva", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
