@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-26T23:15:49.390053-04:00",
+ "updated": "2026-10-26T23:20:37.600316-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-26",
-  "bets": 42,
-  "bounce_bets": 37,
+  "bets": 43,
+  "bounce_bets": 38,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 2.3083
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-annli-ekaale-2026-10-25",
+   "game": "wta:Alexandrova@Li",
+   "side": "long",
+   "team": "Ann Li",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleosb-jeshin-2026-10-25",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Alexandrova@Li",
+   "market": "aec-wta-annli-ekaale-2026-10-25",
+   "side": "long",
+   "team": "Ann Li",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
