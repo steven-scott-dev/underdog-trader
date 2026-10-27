@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-27T13:50:49.463325-04:00",
+ "updated": "2026-10-27T13:55:50.823083-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-10-27",
   "bets": 50,
   "bounce_bets": 40,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.9181
+  "realized": 1.8481
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-eliman-emiara-2026-10-26",
-   "game": "wta:Arango@Mandlik",
-   "side": "short",
-   "team": "Emiliana Arango",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-atp-alezve-marlan-2026-10-25",
    "game": "atp:Landaluce@Zverev",
@@ -40,23 +27,6 @@
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-karkha-caralc-2026-10-25",
-   "game": "atp:Alcaraz@Khachanov",
-   "side": "long",
-   "team": "Karen Khachanov",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 12:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-27 12:35 ET",
-   "exit": 0.03,
-   "pnl": -0.0625,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-adrman-ignbus-2026-10-27",
    "game": "atp:Buse@Mannarino",
@@ -209,26 +179,32 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eliman-emiara-2026-10-26",
+   "game": "wta:Arango@Mandlik",
+   "side": "short",
+   "team": "Emiliana Arango",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 13:55 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Anastasiia Sobolieva",
+   "team": "Emiliana Arango",
    "reason": "stop-loss",
-   "pnl": -0.09
-  },
-  {
-   "type": "buy",
-   "game": "atp:Landaluce@Zverev",
-   "market": "aec-atp-alezve-marlan-2026-10-25",
-   "side": "short",
-   "team": "Martin Landaluce",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "pnl": -0.07
   }
  ]
 }

@@ -2,21 +2,8 @@
  "date": "2026-10-27",
  "bets": 50,
  "bounce_bets": 40,
- "realized": 1.9181,
+ "realized": 1.8481,
  "paper_positions": [
-  {
-   "market": "aec-wta-eliman-emiara-2026-10-26",
-   "game": "wta:Arango@Mandlik",
-   "side": "short",
-   "team": "Emiliana Arango",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-atp-alezve-marlan-2026-10-25",
    "game": "atp:Landaluce@Zverev",
@@ -847,6 +834,23 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eliman-emiara-2026-10-26",
+   "game": "wta:Arango@Mandlik",
+   "side": "short",
+   "team": "Emiliana Arango",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 13:55 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -1127,6 +1131,7 @@
   "aec-wta-anacan-luncin-2026-10-27": 1793121636.606187,
   "aec-wta-annbli-dalgal-2026-10-26": 1793121935.686986,
   "aec-wta-jusdan-solsie-2026-10-27": 1793122537.3758235,
-  "aec-wta-susban-anasob-2026-10-26": 1793125236.8593965
+  "aec-wta-susban-anasob-2026-10-26": 1793125236.8593965,
+  "aec-wta-eliman-emiara-2026-10-26": 1793125538.2976584
  }
 }
