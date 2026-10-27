@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 22:45 ET · Mode: **PAPER** · Result: OK (14.1s)
+Updated: 2026-10-26 22:50 ET · Mode: **PAPER** · Result: OK (12.7s)
 
 ## Today
 - Bets placed: 42 (main 5/5, bounce 37/50)
-- Realized P&L: +2.21
+- Realized P&L: +2.31
 
 ## Open paper positions
-- **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-10-26 22:50 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-26 22:40 ET: Hawks [bounce] — stop-loss @ 0.0100 → -0.0800
 - 2026-10-26 21:00 ET: Ana Grubor [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-10-26 20:20 ET: Ana Grubor [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -17,7 +18,6 @@ Updated: 2026-10-26 22:45 ET · Mode: **PAPER** · Result: OK (14.1s)
 - 2026-10-26 17:45 ET: Dominic Stephan Stricker [bounce] — stop-loss @ 0.0200 → -0.0600
 - 2026-10-26 16:50 ET: Maria Fernanda Navarro Oliva [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-10-26 16:25 ET: Sophie Llewellyn [bounce] — stop-loss @ 0.0300 → -0.0667
-- 2026-10-26 16:15 ET: Luca Van Assche [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Maple Leafs", "reason": "take-profit", "pnl": 0.1}`

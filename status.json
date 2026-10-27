@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-26T22:45:51.216447-04:00",
+ "updated": "2026-10-26T22:50:46.489110-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.1,
+ "duration_s": 12.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 42,
   "bounce_bets": 37,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 2.2083
+  "realized": 2.3083
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-tor-cgy-2026-10-26",
-   "game": "nhl:TOR@CGY",
-   "side": "long",
-   "team": "Maple Leafs",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-dasple-demtra-2026-10-25",
-   "game": "wta:Tran@Plekhanova",
-   "side": "short",
-   "team": "Demi Tran",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-26 15:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-26 15:30 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-aleosb-jeshin-2026-10-25",
    "game": "wta:Gomez@Osborne",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-cgy-2026-10-26",
+   "game": "nhl:TOR@CGY",
+   "side": "long",
+   "team": "Maple Leafs",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-26 22:50 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Maple Leafs",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 42,
  "bounce_bets": 37,
- "realized": 2.2083,
- "paper_positions": [
-  {
-   "market": "aec-nhl-tor-cgy-2026-10-26",
-   "game": "nhl:TOR@CGY",
-   "side": "long",
-   "team": "Maple Leafs",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "realized": 2.3083,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -715,6 +701,23 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-cgy-2026-10-26",
+   "game": "nhl:TOR@CGY",
+   "side": "long",
+   "team": "Maple Leafs",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-26 22:50 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
