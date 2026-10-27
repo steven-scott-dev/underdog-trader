@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 02:15 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-27 02:20 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
-- Bets placed: 8 (main 3/5, bounce 5/50)
+- Bets placed: 9 (main 3/5, bounce 6/50)
 - Realized P&L: +1.06
 
 ## Open paper positions
-- _none_
+- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 02:00 ET: Sara Sorribes Tormo [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 02:15 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Sakatsume@Fernandez", "market": "aec-wta-leyfer-himsak-2026-10-25", "side": "short", "team": "Himeno Sakatsume", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

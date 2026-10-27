@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 8,
- "bounce_bets": 5,
+ "bets": 9,
+ "bounce_bets": 6,
  "realized": 1.0572,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leyfer-himsak-2026-10-25",
+   "game": "wta:Sakatsume@Fernandez",
+   "side": "short",
+   "team": "Himeno Sakatsume",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 02:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -184,6 +198,12 @@
    [
     1793079934.252599,
     0.09
+   ]
+  ],
+  "aec-wta-leyfer-himsak-2026-10-25": [
+   [
+    1793082034.4048347,
+    0.1
    ]
   ]
  },
