@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 15:00 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-27 15:05 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 53 (main 10/10, bounce 43/50)
+- Bets placed: 54 (main 10/10, bounce 44/50)
 - Realized P&L: +4.52
 
 ## Open paper positions
-- _none_
+- **Sofia Johnson** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-27 14:50 ET: Francisco Cerundolo [bounce] — settled @ 0.9900 → +2.3750
@@ -20,4 +20,4 @@ Updated: 2026-10-27 15:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-27 13:30 ET: Martin Landaluce [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Johnson@Ferro", "market": "aec-wta-fiofer-sofjoh-2026-10-26", "side": "short", "team": "Sofia Johnson", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`

@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 53,
- "bounce_bets": 43,
+ "bets": 54,
+ "bounce_bets": 44,
  "realized": 4.5231,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-fiofer-sofjoh-2026-10-26",
+   "game": "wta:Johnson@Ferro",
+   "side": "short",
+   "team": "Sofia Johnson",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 15:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -1171,6 +1185,12 @@
    [
     1793126435.2396243,
     0.04
+   ]
+  ],
+  "aec-wta-fiofer-sofjoh-2026-10-26": [
+   [
+    1793127937.7889228,
+    0.08
    ]
   ]
  },
