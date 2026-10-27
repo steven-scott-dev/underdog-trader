@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 02:45 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-27 02:50 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 9 (main 3/5, bounce 6/50)
+- Bets placed: 10 (main 4/5, bounce 6/50)
 - Realized P&L: +1.06
 
 ## Open paper positions
-- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
+- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Sara Sorribes Tormo** (long/main) — 1.7241 @ 0.2900, now ~0.2900, unrealized +0.0000 (TP 0.7250 / SL 0.1160)
 
 ## Recent history
 - 2026-10-27 02:00 ET: Sara Sorribes Tormo [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-27 02:45 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Sonmez@Tormo", "market": "aec-wta-sartor-zeyson-2026-10-25", "side": "long", "team": "Sara Sorribes Tormo", "ask": 0.29, "qty": 1.7241, "stake": 0.5, "mode": "main"}`
