@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 07:05 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-27 07:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 21 (main 7/10, bounce 14/50)
 - Realized P&L: +1.79
 
 ## Open paper positions
-- **Danka Kovinic** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Danka Kovinic** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-27 06:59 ET: Isabella Maria Serban [bounce] — stop-loss @ 0.0300 → -0.0667
