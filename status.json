@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T03:50:37.259293-04:00",
+ "updated": "2026-10-27T03:55:35.485907-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-27",
   "bets": 12,
@@ -23,7 +23,7 @@
    "sl": 0.112,
    "opened": "2026-10-27 03:35 ET",
    "mode": "main",
-   "last_bid": 0.44
+   "last_bid": 0.32
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Dayana Yastremska",
-   "reason": "stop-loss",
-   "pnl": -0.3
-  }
- ]
+ "actions": []
 }
