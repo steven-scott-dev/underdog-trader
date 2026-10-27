@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 50,
  "bounce_bets": 40,
- "realized": 1.8481,
- "paper_positions": [
-  {
-   "market": "aec-atp-alezve-marlan-2026-10-25",
-   "game": "atp:Landaluce@Zverev",
-   "side": "short",
-   "team": "Martin Landaluce",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 13:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 1.9481,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -851,6 +837,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alezve-marlan-2026-10-25",
+   "game": "atp:Landaluce@Zverev",
+   "side": "short",
+   "team": "Martin Landaluce",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 14:00 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:55:50.823083-04:00",
+ "updated": "2026-10-27T14:00:47.471728-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 12.8,
@@ -9,41 +9,10 @@
   "bounce_bets": 40,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.8481
+  "realized": 1.9481
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-alezve-marlan-2026-10-25",
-   "game": "atp:Landaluce@Zverev",
-   "side": "short",
-   "team": "Martin Landaluce",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 13:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-adrman-ignbus-2026-10-27",
-   "game": "atp:Buse@Mannarino",
-   "side": "short",
-   "team": "Ignacio Buse",
-   "entry": 0.22,
-   "qty": 2.2727,
-   "tp": 0.55,
-   "sl": 0.088,
-   "opened": "2026-10-27 12:05 ET",
-   "mode": "main",
-   "last_bid": 0.13,
-   "closed": "2026-10-27 12:40 ET",
-   "exit": 0.07,
-   "pnl": -0.3409,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-adrrea-lanmi-2026-10-27",
    "game": "wta:Mi@Reami",
@@ -196,15 +165,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alezve-marlan-2026-10-25",
+   "game": "atp:Landaluce@Zverev",
+   "side": "short",
+   "team": "Martin Landaluce",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 14:00 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Emiliana Arango",
-   "reason": "stop-loss",
-   "pnl": -0.07
+   "team": "Martin Landaluce",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
