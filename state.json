@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "bets": 41,
- "bounce_bets": 36,
+ "bets": 42,
+ "bounce_bets": 37,
  "realized": 2.2883,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-10-26 21:50 ET",
    "mode": "bounce",
    "last_bid": 0.12
+  },
+  {
+   "market": "aec-nba-atl-hou-2026-10-26",
+   "game": "nba:ATL@HOU",
+   "side": "long",
+   "team": "Hawks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 22:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -894,6 +907,12 @@
    [
     1793065837.8909802,
     0.1
+   ]
+  ],
+  "aec-nba-atl-hou-2026-10-26": [
+   [
+    1793068536.2775242,
+    0.05
    ]
   ]
  },

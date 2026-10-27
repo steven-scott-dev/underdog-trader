@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 22:31 ET · Mode: **PAPER** · Result: OK (22.0s)
+Updated: 2026-10-26 22:35 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Today
-- Bets placed: 41 (main 5/5, bounce 36/50)
+- Bets placed: 42 (main 5/5, bounce 37/50)
 - Realized P&L: +2.29
 
 ## Open paper positions
 - **Maple Leafs** (long/bounce) — 1.0 @ 0.1000, now ~0.1200, unrealized +0.0200 (TP 0.2000 / SL 0.0400)
+- **Hawks** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-26 21:00 ET: Ana Grubor [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-26 22:31 ET · Mode: **PAPER** · Result: OK (22.0s)
 - 2026-10-26 15:45 ET: Alexandra Osborne [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:ATL@HOU", "market": "aec-nba-atl-hou-2026-10-26", "side": "long", "team": "Hawks", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
