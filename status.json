@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-27T06:25:34.916934-04:00",
+ "updated": "2026-10-27T06:30:38.730272-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-27",
-  "bets": 19,
-  "bounce_bets": 12,
+  "bets": 20,
+  "bounce_bets": 13,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.1024
+  "realized": 1.8399
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-antruz-claliu-2026-10-25",
-   "game": "wta:Liu@Ruzic",
-   "side": "short",
-   "team": "Claire Liu",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-27 05:50 ET",
-   "mode": "main",
-   "last_bid": 0.74
-  },
   {
    "market": "aec-wta-liltag-venwil-2026-10-25",
    "game": "wta:Williams@Tagger",
@@ -36,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-27 06:20 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-dankov-nomaku-2026-10-26",
@@ -49,27 +36,23 @@
    "sl": 0.04,
    "opened": "2026-10-27 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.15
+  },
+  {
+   "market": "aec-wta-lucste-isabse-2026-10-26",
+   "game": "wta:Serban@Stefanini",
+   "side": "short",
+   "team": "Isabella Maria Serban",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 06:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-kaique-sofken-2026-10-25",
-   "game": "wta:Kenin@Quevedo",
-   "side": "long",
-   "team": "Kaitlin Quevedo",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-27 01:10 ET",
-   "mode": "main",
-   "last_bid": 0.71,
-   "closed": "2026-10-27 01:50 ET",
-   "exit": 0.99,
-   "pnl": 0.7375,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-sartor-zeyson-2026-10-25",
    "game": "wta:Sonmez@Tormo",
@@ -222,18 +205,41 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-antruz-claliu-2026-10-25",
+   "game": "wta:Liu@Ruzic",
+   "side": "short",
+   "team": "Claire Liu",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-27 05:50 ET",
+   "mode": "main",
+   "last_bid": 0.74,
+   "closed": "2026-10-27 06:30 ET",
+   "exit": 0.99,
+   "pnl": 0.7375,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Claire Liu",
+   "reason": "take-profit",
+   "pnl": 0.7375
+  },
+  {
    "type": "buy",
-   "game": "wta:Akugue@Kovinic",
-   "market": "aec-wta-dankov-nomaku-2026-10-26",
-   "side": "long",
-   "team": "Danka Kovinic",
-   "ask": 0.1,
-   "qty": 1.0,
+   "game": "wta:Serban@Stefanini",
+   "market": "aec-wta-lucste-isabse-2026-10-26",
+   "side": "short",
+   "team": "Isabella Maria Serban",
+   "ask": 0.09,
+   "qty": 1.1111,
    "stake": 0.1,
    "mode": "bounce"
   }
