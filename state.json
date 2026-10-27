@@ -2,22 +2,8 @@
  "date": "2026-10-26",
  "bets": 39,
  "bounce_bets": 34,
- "realized": 2.2583,
- "paper_positions": [
-  {
-   "market": "aec-wta-seljan-anagru-2026-10-26",
-   "game": "wta:Grubor@Janicijevic",
-   "side": "short",
-   "team": "Ana Grubor",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-26 20:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.1883,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -664,6 +650,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-seljan-anagru-2026-10-26",
+   "game": "wta:Grubor@Janicijevic",
+   "side": "short",
+   "team": "Ana Grubor",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-26 20:20 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -879,6 +882,7 @@
   "aec-atp-lucass-leatie-2026-10-25": 1793047535.1391196,
   "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332,
   "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085,
-  "aec-atp-domstr-casruu-2026-10-25": 1793052939.8110452
+  "aec-atp-domstr-casruu-2026-10-25": 1793052939.8110452,
+  "aec-wta-seljan-anagru-2026-10-26": 1793062240.0694246
  }
 }
