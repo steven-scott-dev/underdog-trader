@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 15:30 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-27 15:35 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 56 (main 10/10, bounce 46/50)
@@ -20,5 +20,4 @@ Updated: 2026-10-27 15:30 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-27 13:55 ET: Emiliana Arango [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sofia Johnson", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Marian Gomez Pezuela Cano", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
