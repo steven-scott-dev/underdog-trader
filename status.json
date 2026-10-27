@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-27T04:45:39.017583-04:00",
+ "updated": "2026-10-27T04:50:35.517535-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-27",
-  "bets": 12,
-  "bounce_bets": 6,
+  "bets": 13,
+  "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 1.0924
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-naoosa-jaspao-2026-10-25",
+   "game": "wta:Paolini@Osaka",
+   "side": "short",
+   "team": "Jasmine Paolini",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 04:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-kaique-sofken-2026-10-25",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Paolini@Osaka",
+   "market": "aec-wta-naoosa-jaspao-2026-10-25",
+   "side": "short",
+   "team": "Jasmine Paolini",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

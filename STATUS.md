@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 04:45 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-27 04:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 12 (main 6/5, bounce 6/50)
+- Bets placed: 13 (main 6/5, bounce 7/50)
 - Realized P&L: +1.09
 
 ## Open paper positions
-- _none_
+- **Jasmine Paolini** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-27 04:15 ET: Nikola Bartunkova [main] — take-profit @ 0.7000 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-10-27 04:45 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-27 01:05 ET: Diane Parry [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Paolini@Osaka", "market": "aec-wta-naoosa-jaspao-2026-10-25", "side": "short", "team": "Jasmine Paolini", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
