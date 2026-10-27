@@ -1,21 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 30,
- "bounce_bets": 22,
- "realized": 1.1611,
+ "bets": 31,
+ "bounce_bets": 23,
+ "realized": 1.1011,
  "paper_positions": [
   {
-   "market": "aec-wta-adrnag-okssel-2026-10-27",
-   "game": "wta:Selekhmeteva@Nagy",
-   "side": "long",
-   "team": "Adrienn Nagy",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 10:10 ET",
+   "market": "aec-wta-frajon-mfu-2026-10-27",
+   "game": "wta:Urrutia@Jones",
+   "side": "short",
+   "team": "Maria Florencia Urrutia",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 10:20 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -511,6 +511,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-adrnag-okssel-2026-10-27",
+   "game": "wta:Selekhmeteva@Nagy",
+   "side": "long",
+   "team": "Adrienn Nagy",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 10:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 10:20 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -664,6 +681,12 @@
     1793110235.687571,
     0.1
    ]
+  ],
+  "aec-wta-frajon-mfu-2026-10-27": [
+   [
+    1793110838.1030316,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -683,6 +706,7 @@
   "aec-wta-jespie-eliyan-2026-10-26": 1793107232.6712193,
   "aec-wta-enochi-alicha-2026-10-27": 1793111136.0951831,
   "aec-atp-tompau-andrub-2026-10-25": 1793111136.1298492,
-  "aec-atp-aletab-rafjod-2026-10-25": 1793112034.4783502
+  "aec-atp-aletab-rafjod-2026-10-25": 1793112034.4783502,
+  "aec-wta-adrnag-okssel-2026-10-27": 1793112636.2089527
  }
 }
