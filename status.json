@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-27T05:00:35.797805-04:00",
+ "updated": "2026-10-27T05:05:37.731165-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-27",
   "bets": 13,
   "bounce_bets": 7,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 1.0924
+  "realized": 1.1924
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-naoosa-jaspao-2026-10-25",
-   "game": "wta:Paolini@Osaka",
-   "side": "short",
-   "team": "Jasmine Paolini",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 04:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-kaique-sofken-2026-10-25",
-   "game": "wta:Kenin@Quevedo",
-   "side": "short",
-   "team": "Sofia Kenin",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 00:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-27 00:55 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-anazak-maglin-2026-10-26",
    "game": "wta:Linette@Zakharova",
@@ -196,8 +165,32 @@
    "exit": 0.7,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-naoosa-jaspao-2026-10-25",
+   "game": "wta:Paolini@Osaka",
+   "side": "short",
+   "team": "Jasmine Paolini",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 04:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-27 05:05 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jasmine Paolini",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
