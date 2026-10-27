@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-27T08:45:37.032453-04:00",
+ "updated": "2026-10-27T08:50:34.558121-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-27",
   "bets": 24,
   "bounce_bets": 16,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.2685
+  "realized": 1.1935
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jespie-eliyan-2026-10-26",
-   "game": "wta:Yaneva@Pieri",
-   "side": "long",
-   "team": "Jessica Pieri",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 08:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-terval-miapoh-2026-10-26",
-   "game": "wta:Pohankova@Valentova",
-   "side": "long",
-   "team": "Tereza Valentova",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-27 05:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-27 05:40 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-polkud-jantje-2026-10-25",
    "game": "wta:Tjen@Kudermetova",
@@ -196,8 +165,32 @@
    "exit": 0.11,
    "pnl": -0.359,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jespie-eliyan-2026-10-26",
+   "game": "wta:Yaneva@Pieri",
+   "side": "long",
+   "team": "Jessica Pieri",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 08:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 08:50 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jessica Pieri",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }

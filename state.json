@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 24,
  "bounce_bets": 16,
- "realized": 1.2685,
- "paper_positions": [
-  {
-   "market": "aec-wta-jespie-eliyan-2026-10-26",
-   "game": "wta:Yaneva@Pieri",
-   "side": "long",
-   "team": "Jessica Pieri",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 08:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 1.1935,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -409,6 +395,23 @@
    "exit": 0.11,
    "pnl": -0.359,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jespie-eliyan-2026-10-26",
+   "game": "wta:Yaneva@Pieri",
+   "side": "long",
+   "team": "Jessica Pieri",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 08:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 08:50 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -541,6 +544,7 @@
   "aec-wta-liltag-venwil-2026-10-25": 1793100568.683911,
   "aec-wta-lucste-isabse-2026-10-26": 1793102736.251919,
   "aec-wta-dankov-nomaku-2026-10-26": 1793101534.3276494,
-  "aec-atp-hubhur-zizber-2026-10-26": 1793106633.0579915
+  "aec-atp-hubhur-zizber-2026-10-26": 1793106633.0579915,
+  "aec-wta-jespie-eliyan-2026-10-26": 1793107232.6712193
  }
 }
