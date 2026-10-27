@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 09:25 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-27 09:30 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 26 (main 8/10, bounce 18/50)
+- Bets placed: 27 (main 8/10, bounce 19/50)
 - Realized P&L: +1.39
 
 ## Open paper positions
-- _none_
+- **Enola Chiesa** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-27 09:10 ET: Victoria Jimenez Kasintseva [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 09:25 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-27 06:59 ET: Venus Williams [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Charaeva@Chiesa", "market": "aec-wta-enochi-alicha-2026-10-27", "side": "long", "team": "Enola Chiesa", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`

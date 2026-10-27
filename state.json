@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 26,
- "bounce_bets": 18,
+ "bets": 27,
+ "bounce_bets": 19,
  "realized": 1.3935,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-enochi-alicha-2026-10-27",
+   "game": "wta:Charaeva@Chiesa",
+   "side": "long",
+   "team": "Enola Chiesa",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 09:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -574,6 +588,12 @@
    [
     1793106337.6211548,
     0.04
+   ]
+  ],
+  "aec-wta-enochi-alicha-2026-10-27": [
+   [
+    1793107837.8144267,
+    0.06
    ]
   ]
  },
