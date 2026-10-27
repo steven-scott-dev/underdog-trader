@@ -2,7 +2,7 @@
  "date": "2026-10-27",
  "bets": 20,
  "bounce_bets": 13,
- "realized": 1.8399,
+ "realized": 1.9399,
  "paper_positions": [
   {
    "market": "aec-wta-liltag-venwil-2026-10-25",
@@ -15,20 +15,7 @@
    "sl": 0.02,
    "opened": "2026-10-27 06:20 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-dankov-nomaku-2026-10-26",
-   "game": "wta:Akugue@Kovinic",
-   "side": "long",
-   "team": "Danka Kovinic",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.05
   },
   {
    "market": "aec-wta-lucste-isabse-2026-10-26",
@@ -332,6 +319,23 @@
    "closed": "2026-10-27 06:30 ET",
    "exit": 0.99,
    "pnl": 0.7375,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-dankov-nomaku-2026-10-26",
+   "game": "wta:Akugue@Kovinic",
+   "side": "long",
+   "team": "Danka Kovinic",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-27 06:40 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
    "reason": "take-profit"
   }
  ],
