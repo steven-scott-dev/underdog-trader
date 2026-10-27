@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 08:55 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-27 09:00 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 25 (main 8/10, bounce 17/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
-- **Mananchaya Sawangkaew** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Mananchaya Sawangkaew** (short/bounce) — 1.4286 @ 0.0700, now ~0.0900, unrealized +0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-27 08:50 ET: Jessica Pieri [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -20,4 +20,4 @@ Updated: 2026-10-27 08:55 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-27 06:30 ET: Claire Liu [main] — take-profit @ 0.9900 → +0.7375
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Sawangkaew@Sun", "market": "aec-wta-xinsun-mansaw-2026-10-25", "side": "short", "team": "Mananchaya Sawangkaew", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
