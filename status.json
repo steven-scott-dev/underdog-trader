@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-27T01:55:35.544146-04:00",
+ "updated": "2026-10-27T02:00:37.536301-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 5.3,
  "daily": {
   "date": "2026-10-27",
   "bets": 8,
   "bounce_bets": 5,
   "max_main": 5,
   "max_bounce": 50,
-  "realized": 0.9572
+  "realized": 1.0572
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-sartor-zeyson-2026-10-25",
-   "game": "wta:Sonmez@Tormo",
-   "side": "long",
-   "team": "Sara Sorribes Tormo",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-27 01:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -145,8 +131,32 @@
    "exit": 0.99,
    "pnl": 0.7375,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-sartor-zeyson-2026-10-25",
+   "game": "wta:Sonmez@Tormo",
+   "side": "long",
+   "team": "Sara Sorribes Tormo",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-27 01:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-27 02:00 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sara Sorribes Tormo",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
