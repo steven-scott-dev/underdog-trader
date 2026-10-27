@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:15 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-10-27 14:20 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Today
 - Bets placed: 51 (main 10/10, bounce 41/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 14:15 ET · Mode: **PAPER** · Result: OK (12.2s)
 - 2026-10-27 12:50 ET: Ana Candiotto [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Taborda@Hercog", "market": "aec-wta-polher-marcap-2026-10-26", "side": "short", "team": "Martina Capurro", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
