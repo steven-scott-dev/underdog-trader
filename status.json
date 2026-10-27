@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T00:10:48.869624-04:00",
+ "updated": "2026-10-27T00:15:52.279483-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-10-27",
   "bets": 2,
@@ -49,18 +49,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Nuggets",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  },
-  {
-   "type": "paper_close",
-   "team": "Red Wings",
-   "reason": "take-profit",
-   "pnl": 0.75
-  }
- ]
+ "actions": []
 }
