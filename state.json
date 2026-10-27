@@ -1,9 +1,36 @@
 {
  "date": "2026-10-26",
- "bets": 37,
- "bounce_bets": 32,
+ "bets": 39,
+ "bounce_bets": 34,
  "realized": 2.1583,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-nausil-despap-2026-10-26",
+   "game": "wta:Papamichail@Silva",
+   "side": "short",
+   "team": "Despina Papamichail",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-26 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-seljan-anagru-2026-10-26",
+   "game": "wta:Grubor@Janicijevic",
+   "side": "short",
+   "team": "Ana Grubor",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-26 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-aleeal-miksto-2026-10-25",
@@ -811,6 +838,18 @@
    [
     1793050836.4100451,
     0.05
+   ]
+  ],
+  "aec-wta-nausil-despap-2026-10-26": [
+   [
+    1793059848.9443953,
+    0.08
+   ]
+  ],
+  "aec-wta-seljan-anagru-2026-10-26": [
+   [
+    1793059849.4497013,
+    0.1
    ]
   ]
  },
