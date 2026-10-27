@@ -2,22 +2,8 @@
  "date": "2026-10-27",
  "bets": 60,
  "bounce_bets": 50,
- "realized": 4.7648,
- "paper_positions": [
-  {
-   "market": "aec-wta-berbon-marsou-2026-10-27",
-   "game": "wta:Souza@Bonardi",
-   "side": "long",
-   "team": "Berta Bonardi",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-27 16:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": 4.6773,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -1021,6 +1007,23 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-berbon-marsou-2026-10-27",
+   "game": "wta:Souza@Bonardi",
+   "side": "long",
+   "team": "Berta Bonardi",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-27 16:35 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -1334,6 +1337,7 @@
   "aec-wta-susban-anasob-2026-10-26": 1793125236.8593965,
   "aec-wta-eliman-emiara-2026-10-26": 1793125538.2976584,
   "aec-wta-marcan-carher-2026-10-27": 1793131234.1361518,
-  "aec-wta-fiofer-sofjoh-2026-10-26": 1793134237.551375
+  "aec-wta-fiofer-sofjoh-2026-10-26": 1793134237.551375,
+  "aec-wta-berbon-marsou-2026-10-27": 1793135137.0348933
  }
 }
