@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 01:50 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 01:55 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 8 (main 3/5, bounce 5/50)
 - Realized P&L: +0.96
 
 ## Open paper positions
-- **Sara Sorribes Tormo** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Sara Sorribes Tormo** (long/bounce) — 1.1111 @ 0.0900, now ~0.1100, unrealized +0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-27 01:50 ET: Kaitlin Quevedo [main] — take-profit @ 0.9900 → +0.7375
@@ -19,4 +19,4 @@ Updated: 2026-10-27 01:50 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kaitlin Quevedo", "reason": "take-profit", "pnl": 0.7375}`
+- _none_
