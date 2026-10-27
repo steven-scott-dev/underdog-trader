@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T05:40:34.691320-04:00",
+ "updated": "2026-10-27T05:45:34.810955-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-27",
   "bets": 16,
   "bounce_bets": 10,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.0924
+  "realized": 1.0024
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.04,
    "opened": "2026-10-27 05:10 ET",
    "mode": "bounce",
-   "last_bid": 0.19
-  },
-  {
-   "market": "aec-wta-polkud-jantje-2026-10-25",
-   "game": "wta:Tjen@Kudermetova",
-   "side": "long",
-   "team": "Polina Kudermetova",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-diapar-cribuc-2026-10-25",
-   "game": "wta:Bucsa@Parry",
-   "side": "long",
-   "team": "Diane Parry",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 01:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-27 01:05 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-yulput-marsak-2026-10-26",
    "game": "wta:Sakkari@Putintseva",
@@ -209,15 +179,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-polkud-jantje-2026-10-25",
+   "game": "wta:Tjen@Kudermetova",
+   "side": "long",
+   "team": "Polina Kudermetova",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 05:45 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Tereza Valentova",
+   "team": "Polina Kudermetova",
    "reason": "stop-loss",
-   "pnl": -0.1
+   "pnl": -0.09
   }
  ]
 }

@@ -2,7 +2,7 @@
  "date": "2026-10-27",
  "bets": 16,
  "bounce_bets": 10,
- "realized": 1.0924,
+ "realized": 1.0024,
  "paper_positions": [
   {
    "market": "aec-wta-naoosa-jaspao-2026-10-25",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 05:10 ET",
    "mode": "bounce",
-   "last_bid": 0.19
-  },
-  {
-   "market": "aec-wta-polkud-jantje-2026-10-25",
-   "game": "wta:Tjen@Kudermetova",
-   "side": "long",
-   "team": "Polina Kudermetova",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-polkud-jantje-2026-10-25",
+   "game": "wta:Tjen@Kudermetova",
+   "side": "long",
+   "team": "Polina Kudermetova",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-27 05:45 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -360,6 +364,7 @@
   "aec-wta-sartor-zeyson-2026-10-25": 1793085933.4454315,
   "aec-wta-leyfer-himsak-2026-10-25": 1793087433.4445577,
   "aec-wta-dayyas-katvol-2026-10-26": 1793089236.192207,
-  "aec-wta-terval-miapoh-2026-10-26": 1793095833.7973254
+  "aec-wta-terval-miapoh-2026-10-26": 1793095833.7973254,
+  "aec-wta-polkud-jantje-2026-10-25": 1793096134.0553493
  }
 }
