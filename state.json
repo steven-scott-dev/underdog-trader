@@ -2,21 +2,8 @@
  "date": "2026-10-27",
  "bets": 45,
  "bounce_bets": 35,
- "realized": 2.0048,
+ "realized": 1.9348,
  "paper_positions": [
-  {
-   "market": "aec-wta-anacan-luncin-2026-10-27",
-   "game": "wta:Cinalli@Candiotto",
-   "side": "long",
-   "team": "Ana Candiotto",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  },
   {
    "market": "aec-wta-jusdan-solsie-2026-10-27",
    "game": "wta:Sierra@Daniele",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-27 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.09
   },
   {
    "market": "aec-wta-annbli-dalgal-2026-10-26",
@@ -41,7 +28,7 @@
    "sl": 0.036,
    "opened": "2026-10-27 12:45 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -758,6 +745,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-anacan-luncin-2026-10-27",
+   "game": "wta:Cinalli@Candiotto",
+   "side": "long",
+   "team": "Ana Candiotto",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-27 12:50 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -1010,6 +1014,7 @@
   "aec-atp-karkha-caralc-2026-10-25": 1793120737.3531742,
   "aec-atp-adrman-ignbus-2026-10-27": 1793121043.893464,
   "aec-wta-adrrea-lanmi-2026-10-27": 1793121043.958833,
-  "aec-atp-gioper-artfil-2026-10-27": 1793121044.0356386
+  "aec-atp-gioper-artfil-2026-10-27": 1793121044.0356386,
+  "aec-wta-anacan-luncin-2026-10-27": 1793121636.606187
  }
 }
