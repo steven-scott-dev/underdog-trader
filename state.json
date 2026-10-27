@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 21,
- "bounce_bets": 14,
+ "bets": 22,
+ "bounce_bets": 15,
  "realized": 1.7075,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-lucste-isabse-2026-10-26",
+   "game": "wta:Serban@Stefanini",
+   "side": "short",
+   "team": "Isabella Maria Serban",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 07:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -463,8 +477,8 @@
   ],
   "aec-wta-lucste-isabse-2026-10-26": [
    [
-    1793097038.7288957,
-    0.09
+    1793100637.1017694,
+    0.05
    ]
   ]
  },
