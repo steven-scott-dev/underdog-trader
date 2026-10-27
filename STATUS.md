@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 10:55 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-10-27 11:00 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
-- Bets placed: 31 (main 8/10, bounce 23/50)
+- Bets placed: 32 (main 8/10, bounce 24/50)
 - Realized P&L: +1.20
 
 ## Open paper positions
-- _none_
+- **Arthur Rinderknech** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-27 10:50 ET: Maria Florencia Urrutia [bounce] — take-profit @ 0.1600 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 10:55 ET · Mode: **PAPER** · Result: OK (13.5s)
 - 2026-10-27 08:50 ET: Jessica Pieri [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Rinderknech@Kym", "market": "aec-atp-jerkym-artrin-2026-10-25", "side": "short", "team": "Arthur Rinderknech", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`

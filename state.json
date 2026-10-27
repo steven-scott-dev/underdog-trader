@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 31,
- "bounce_bets": 23,
+ "bets": 32,
+ "bounce_bets": 24,
  "realized": 1.2011,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-jerkym-artrin-2026-10-25",
+   "game": "atp:Rinderknech@Kym",
+   "side": "short",
+   "team": "Arthur Rinderknech",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -689,6 +703,12 @@
    [
     1793110838.1030316,
     0.08
+   ]
+  ],
+  "aec-atp-jerkym-artrin-2026-10-25": [
+   [
+    1793113236.30641,
+    0.05
    ]
   ]
  },
