@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 06:40 ET · Mode: **PAPER** · Result: OK (2.7s)
+Updated: 2026-10-27 06:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 20 (main 7/10, bounce 13/50)
 - Realized P&L: +1.94
 
 ## Open paper positions
-- **Venus Williams** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
-- **Isabella Maria Serban** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Venus Williams** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
+- **Isabella Maria Serban** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-27 06:40 ET: Danka Kovinic [bounce] — take-profit @ 0.2000 → +0.1000
@@ -21,4 +21,4 @@ Updated: 2026-10-27 06:40 ET · Mode: **PAPER** · Result: OK (2.7s)
 - 2026-10-27 03:50 ET: Dayana Yastremska [main] — stop-loss @ 0.1400 → -0.3000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Danka Kovinic", "reason": "take-profit", "pnl": 0.1}`
+- _none_
