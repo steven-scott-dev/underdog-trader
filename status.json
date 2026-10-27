@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T20:50:52.933525-04:00",
+ "updated": "2026-10-26T20:55:48.084993-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.2,
+ "duration_s": 13.7,
  "daily": {
   "date": "2026-10-26",
   "bets": 40,
@@ -23,7 +23,7 @@
    "sl": 0.016,
    "opened": "2026-10-26 20:50 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.02
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Grubor@Janicijevic",
-   "market": "aec-wta-seljan-anagru-2026-10-26",
-   "side": "short",
-   "team": "Ana Grubor",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
