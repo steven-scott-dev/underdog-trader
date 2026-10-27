@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "bets": 47,
- "bounce_bets": 37,
+ "bets": 49,
+ "bounce_bets": 39,
  "realized": 1.9081,
  "paper_positions": [
   {
@@ -15,7 +15,33 @@
    "sl": 0.04,
    "opened": "2026-10-27 13:25 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-wta-marcol-zuzpaw-2026-10-26",
+   "game": "wta:Pawlikowska@Colmegna",
+   "side": "short",
+   "team": "Zuzanna Pawlikowska",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-eliman-emiara-2026-10-26",
+   "game": "wta:Arango@Mandlik",
+   "side": "short",
+   "team": "Emiliana Arango",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -1035,6 +1061,18 @@
   "aec-wta-susban-anasob-2026-10-26": [
    [
     1793121952.5692945,
+    0.1
+   ]
+  ],
+  "aec-wta-marcol-zuzpaw-2026-10-26": [
+   [
+    1793122836.2862718,
+    0.07
+   ]
+  ],
+  "aec-wta-eliman-emiara-2026-10-26": [
+   [
+    1793122846.4041836,
     0.1
    ]
   ]
