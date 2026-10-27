@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 15:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-27 15:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 56 (main 10/10, bounce 46/50)
 - Realized P&L: +4.62
 
 ## Open paper positions
-- **Sofia Johnson** (short/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
+- **Sofia Johnson** (short/bounce) — 1.25 @ 0.0800, now ~0.1500, unrealized +0.0875 (TP 0.1600 / SL 0.0320)
 - **Marian Gomez Pezuela Cano** (long/bounce) — 1.25 @ 0.0800, now ~0.0700, unrealized -0.0125 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
