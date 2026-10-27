@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T11:25:46.647469-04:00",
+ "updated": "2026-10-27T11:30:46.148003-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.9,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-27",
-  "bets": 34,
-  "bounce_bets": 26,
+  "bets": 36,
+  "bounce_bets": 28,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 3.0111
@@ -24,6 +24,32 @@
    "opened": "2026-10-27 11:20 ET",
    "mode": "bounce",
    "last_bid": 0.11
+  },
+  {
+   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "game": "atp:Alcaraz@Khachanov",
+   "side": "long",
+   "team": "Karen Khachanov",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-27 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-frajon-mfu-2026-10-27",
+   "game": "wta:Urrutia@Jones",
+   "side": "short",
+   "team": "Maria Florencia Urrutia",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -199,5 +225,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Alcaraz@Khachanov",
+   "market": "aec-atp-karkha-caralc-2026-10-25",
+   "side": "long",
+   "team": "Karen Khachanov",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Urrutia@Jones",
+   "market": "aec-wta-frajon-mfu-2026-10-27",
+   "side": "short",
+   "team": "Maria Florencia Urrutia",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
