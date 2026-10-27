@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 01:37 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-27 01:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 7 (main 3/5, bounce 4/50)
 - Realized P&L: +0.22
 
 ## Open paper positions
-- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.8400, unrealized +0.5500 (TP 0.9900 / SL 0.1600)
+- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.7800, unrealized +0.4750 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-27 01:37 ET: Maria Sakkari [main] — stop-loss @ 0.0400 → -0.3889
@@ -18,4 +18,4 @@ Updated: 2026-10-27 01:37 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Sakkari", "reason": "stop-loss", "pnl": -0.3889}`
+- _none_

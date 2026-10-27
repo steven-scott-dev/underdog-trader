@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T01:37:12.697473-04:00",
+ "updated": "2026-10-27T01:40:37.936010-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-27",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.16,
    "opened": "2026-10-27 01:10 ET",
    "mode": "main",
-   "last_bid": 0.84
+   "last_bid": 0.78
   }
  ],
  "paper_history": [
@@ -131,12 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maria Sakkari",
-   "reason": "stop-loss",
-   "pnl": -0.3889
-  }
- ]
+ "actions": []
 }
