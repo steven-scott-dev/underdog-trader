@@ -115,7 +115,7 @@ def log(msg):
 # real to show. Counters reset on a new day (ET).
 
 ET = ZoneInfo("America/New_York")
-MAX_BETS_PER_DAY = 5
+MAX_BETS_PER_DAY = 10
 MAX_DAILY_LOSS = 2.50
 
 
