@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 05:10 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-27 05:15 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 14 (main 6/5, bounce 8/50)
 - Realized P&L: +1.19
 
 ## Open paper positions
-- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Jasmine Paolini** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 05:05 ET: Jasmine Paolini [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 05:10 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-27 01:37 ET: Maria Sakkari [main] — stop-loss @ 0.0400 → -0.3889
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Paolini@Osaka", "market": "aec-wta-naoosa-jaspao-2026-10-25", "side": "short", "team": "Jasmine Paolini", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
