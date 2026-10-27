@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 04:15 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 04:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 12 (main 6/5, bounce 6/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 04:15 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 01:05 ET: Diane Parry [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Nikola Bartunkova", "reason": "take-profit", "pnl": 0.75}`
+- _none_
