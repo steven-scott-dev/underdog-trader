@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 24,
- "bounce_bets": 16,
+ "bets": 25,
+ "bounce_bets": 17,
  "realized": 1.1935,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-xinsun-mansaw-2026-10-25",
+   "game": "wta:Sawangkaew@Sun",
+   "side": "short",
+   "team": "Mananchaya Sawangkaew",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-27 08:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -528,6 +542,12 @@
    [
     1793104536.1914792,
     0.39
+   ]
+  ],
+  "aec-wta-xinsun-mansaw-2026-10-25": [
+   [
+    1793105736.0309489,
+    0.07
    ]
   ]
  },
