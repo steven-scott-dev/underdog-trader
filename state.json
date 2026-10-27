@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "bets": 37,
+ "bets": 38,
  "bounce_bets": 28,
  "realized": 3.0411,
  "paper_positions": [
@@ -15,7 +15,7 @@
    "sl": 0.024,
    "opened": "2026-10-27 11:30 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-julrie-rebmas-2026-10-26",
@@ -28,7 +28,20 @@
    "sl": 0.14,
    "opened": "2026-10-27 12:00 ET",
    "mode": "main",
-   "last_bid": 0.35
+   "last_bid": 0.17
+  },
+  {
+   "market": "aec-atp-adrman-ignbus-2026-10-27",
+   "game": "atp:Buse@Mannarino",
+   "side": "short",
+   "team": "Ignacio Buse",
+   "entry": 0.22,
+   "qty": 2.2727,
+   "tp": 0.55,
+   "sl": 0.088,
+   "opened": "2026-10-27 12:05 ET",
+   "mode": "main",
+   "last_bid": 0.22
   }
  ],
  "paper_history": [
@@ -808,6 +821,12 @@
    [
     1793115035.507207,
     0.06
+   ]
+  ],
+  "aec-atp-adrman-ignbus-2026-10-27": [
+   [
+    1793117135.372971,
+    0.22
    ]
   ]
  },
