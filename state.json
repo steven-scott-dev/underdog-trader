@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "bets": 6,
+ "bets": 7,
  "bounce_bets": 4,
  "realized": 0.6086,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.16,
    "opened": "2026-10-27 01:10 ET",
    "mode": "main",
-   "last_bid": 0.28
+   "last_bid": 0.66
+  },
+  {
+   "market": "aec-wta-yulput-marsak-2026-10-26",
+   "game": "wta:Sakkari@Putintseva",
+   "side": "short",
+   "team": "Maria Sakkari",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-10-27 01:30 ET",
+   "mode": "main",
+   "last_bid": 0.18
   }
  ],
  "paper_history": [
@@ -135,6 +148,12 @@
    [
     1793077237.7871673,
     0.1
+   ]
+  ],
+  "aec-wta-yulput-marsak-2026-10-26": [
+   [
+    1793079034.798871,
+    0.18
    ]
   ]
  },

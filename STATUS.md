@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 01:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 01:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 6 (main 2/5, bounce 4/50)
+- Bets placed: 7 (main 3/5, bounce 4/50)
 - Realized P&L: +0.61
 
 ## Open paper positions
-- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.2800, unrealized -0.1500 (TP 0.9900 / SL 0.1600)
+- **Kaitlin Quevedo** (long/main) — 1.25 @ 0.4000, now ~0.6600, unrealized +0.3250 (TP 0.9900 / SL 0.1600)
+- **Maria Sakkari** (short/main) — 2.7778 @ 0.1800, now ~0.1800, unrealized +0.0000 (TP 0.4500 / SL 0.0720)
 
 ## Recent history
 - 2026-10-27 01:05 ET: Diane Parry [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -17,4 +18,4 @@ Updated: 2026-10-27 01:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 00:10 ET: Nuggets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Sakkari@Putintseva", "market": "aec-wta-yulput-marsak-2026-10-26", "side": "short", "team": "Maria Sakkari", "ask": 0.18, "qty": 2.7778, "stake": 0.5, "mode": "main"}`
