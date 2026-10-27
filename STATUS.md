@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 14:30 ET · Mode: **PAPER** · Result: OK (11.9s)
+Updated: 2026-10-27 14:35 ET · Mode: **PAPER** · Result: OK (12.6s)
 
 ## Today
 - Bets placed: 52 (main 10/10, bounce 42/50)
 - Realized P&L: +2.05
 
 ## Open paper positions
-- **Marian Gomez Pezuela Cano** (long/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
+- **Marian Gomez Pezuela Cano** (long/bounce) — 2.0 @ 0.0500, now ~0.0900, unrealized +0.0800 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-27 14:30 ET: Martina Capurro [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-27 14:30 ET · Mode: **PAPER** · Result: OK (11.9s)
 - 2026-10-27 12:55 ET: Dalma Galfi [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Martina Capurro", "reason": "take-profit", "pnl": 0.1}`
+- _none_
