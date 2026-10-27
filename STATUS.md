@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 21:00 ET · Mode: **PAPER** · Result: OK (3.2s)
+Updated: 2026-10-26 21:05 ET · Mode: **PAPER** · Result: OK (14.2s)
 
 ## Today
 - Bets placed: 40 (main 5/5, bounce 35/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 21:00 ET · Mode: **PAPER** · Result: OK (3.2s)
 - 2026-10-26 15:45 ET: Alexandra Osborne [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ana Grubor", "reason": "take-profit", "pnl": 0.1}`
+- _none_
