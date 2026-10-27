@@ -1,49 +1,32 @@
 {
- "updated": "2026-10-27T11:00:47.761475-04:00",
+ "updated": "2026-10-27T11:05:47.576647-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-10-27",
-  "bets": 32,
-  "bounce_bets": 24,
+  "bets": 33,
+  "bounce_bets": 25,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.2011
+  "realized": 3.0811
  },
  "paper_positions": [
   {
-   "market": "aec-atp-jerkym-artrin-2026-10-25",
-   "game": "atp:Rinderknech@Kym",
-   "side": "short",
-   "team": "Arthur Rinderknech",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 11:00 ET",
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "long",
+   "team": "Julia Riera",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-lucste-isabse-2026-10-26",
-   "game": "wta:Serban@Stefanini",
-   "side": "short",
-   "team": "Isabella Maria Serban",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 07:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-27 07:35 ET",
-   "exit": 0.01,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-hubhur-zizber-2026-10-26",
    "game": "atp:Bergs@Hurkacz",
@@ -196,18 +179,41 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-jerkym-artrin-2026-10-25",
+   "game": "atp:Rinderknech@Kym",
+   "side": "short",
+   "team": "Arthur Rinderknech",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 11:05 ET",
+   "exit": 0.99,
+   "pnl": 1.88,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Rinderknech@Kym",
-   "market": "aec-atp-jerkym-artrin-2026-10-25",
-   "side": "short",
+   "type": "paper_close",
    "team": "Arthur Rinderknech",
-   "ask": 0.05,
-   "qty": 2.0,
+   "reason": "settled",
+   "pnl": 1.88
+  },
+  {
+   "type": "buy",
+   "game": "wta:Masarova@Riera",
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "side": "long",
+   "team": "Julia Riera",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }

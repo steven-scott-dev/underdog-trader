@@ -1,21 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 32,
- "bounce_bets": 24,
- "realized": 1.2011,
+ "bets": 33,
+ "bounce_bets": 25,
+ "realized": 3.0811,
  "paper_positions": [
   {
-   "market": "aec-atp-jerkym-artrin-2026-10-25",
-   "game": "atp:Rinderknech@Kym",
-   "side": "short",
-   "team": "Arthur Rinderknech",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 11:00 ET",
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "long",
+   "team": "Julia Riera",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -545,6 +545,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-jerkym-artrin-2026-10-25",
+   "game": "atp:Rinderknech@Kym",
+   "side": "short",
+   "team": "Arthur Rinderknech",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 11:05 ET",
+   "exit": 0.99,
+   "pnl": 1.88,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -709,6 +726,12 @@
    [
     1793113236.30641,
     0.05
+   ]
+  ],
+  "aec-wta-julrie-rebmas-2026-10-26": [
+   [
+    1793113536.8874967,
+    0.1
    ]
   ]
  },
