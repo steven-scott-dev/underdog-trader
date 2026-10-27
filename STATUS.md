@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 02:55 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 03:00 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 10 (main 4/5, bounce 6/50)
 - Realized P&L: +0.71
 
 ## Open paper positions
-- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 02:55 ET: Sara Sorribes Tormo [main] — stop-loss @ 0.0900 → -0.3448
@@ -20,4 +20,4 @@ Updated: 2026-10-27 02:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 00:10 ET: Red Wings [main] — take-profit @ 0.2250 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sara Sorribes Tormo", "reason": "stop-loss", "pnl": -0.3448}`
+- _none_
