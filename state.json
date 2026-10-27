@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 22,
- "bounce_bets": 15,
+ "bets": 23,
+ "bounce_bets": 16,
  "realized": 1.6275,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jespie-eliyan-2026-10-26",
+   "game": "wta:Yaneva@Pieri",
+   "side": "long",
+   "team": "Jessica Pieri",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-27 08:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -482,6 +496,12 @@
    [
     1793100637.1017694,
     0.05
+   ]
+  ],
+  "aec-wta-jespie-eliyan-2026-10-26": [
+   [
+    1793104236.2971146,
+    0.08
    ]
   ]
  },

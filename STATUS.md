@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 08:25 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-27 08:30 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
-- Bets placed: 22 (main 7/10, bounce 15/50)
+- Bets placed: 23 (main 7/10, bounce 16/50)
 - Realized P&L: +1.63
 
 ## Open paper positions
-- _none_
+- **Jessica Pieri** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-27 07:35 ET: Isabella Maria Serban [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-10-27 08:25 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-27 05:45 ET: Polina Kudermetova [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Yaneva@Pieri", "market": "aec-wta-jespie-eliyan-2026-10-26", "side": "long", "team": "Jessica Pieri", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
