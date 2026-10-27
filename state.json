@@ -1,21 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 33,
- "bounce_bets": 25,
- "realized": 3.0811,
+ "bets": 34,
+ "bounce_bets": 26,
+ "realized": 3.0111,
  "paper_positions": [
   {
-   "market": "aec-wta-julrie-rebmas-2026-10-26",
-   "game": "wta:Masarova@Riera",
+   "market": "aec-wta-gaimad-linkli-2026-10-27",
+   "game": "wta:Klimovicova@Maduzzi",
    "side": "long",
-   "team": "Julia Riera",
+   "team": "Gaia Maduzzi",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-10-27 11:05 ET",
+   "opened": "2026-10-27 11:20 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -562,6 +562,23 @@
    "exit": 0.99,
    "pnl": 1.88,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "long",
+   "team": "Julia Riera",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 11:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 11:20 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -733,6 +750,12 @@
     1793113536.8874967,
     0.1
    ]
+  ],
+  "aec-wta-gaimad-linkli-2026-10-27": [
+   [
+    1793114446.7924097,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -753,6 +776,7 @@
   "aec-wta-enochi-alicha-2026-10-27": 1793111136.0951831,
   "aec-atp-tompau-andrub-2026-10-25": 1793111136.1298492,
   "aec-atp-aletab-rafjod-2026-10-25": 1793112034.4783502,
-  "aec-wta-adrnag-okssel-2026-10-27": 1793112636.2089527
+  "aec-wta-adrnag-okssel-2026-10-27": 1793112636.2089527,
+  "aec-wta-julrie-rebmas-2026-10-26": 1793116234.284724
  }
 }
