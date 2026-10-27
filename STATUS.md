@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-26 20:20 ET · Mode: **PAPER** · Result: OK (21.2s)
+Updated: 2026-10-26 20:25 ET · Mode: **PAPER** · Result: OK (3.8s)
 
 ## Today
 - Bets placed: 39 (main 5/5, bounce 34/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-26 20:20 ET · Mode: **PAPER** · Result: OK (21.2s)
 - 2026-10-26 15:30 ET: Demi Tran [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ana Grubor", "reason": "stop-loss", "pnl": -0.07}`
+- _none_

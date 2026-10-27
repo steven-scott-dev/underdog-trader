@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T20:20:59.650627-04:00",
+ "updated": "2026-10-26T20:25:41.731979-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 21.2,
+ "duration_s": 3.8,
  "daily": {
   "date": "2026-10-26",
   "bets": 39,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Ana Grubor",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }
