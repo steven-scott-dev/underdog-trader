@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 09:10 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-27 09:15 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 26 (main 8/10, bounce 18/50)
@@ -20,5 +20,4 @@ Updated: 2026-10-27 09:10 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-27 06:59 ET: Venus Williams [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Mananchaya Sawangkaew", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Victoria Jimenez Kasintseva", "reason": "take-profit", "pnl": 0.1}`
+- _none_

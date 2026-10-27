@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T09:10:37.677770-04:00",
+ "updated": "2026-10-27T09:15:37.343241-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-27",
   "bets": 26,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Mananchaya Sawangkaew",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Victoria Jimenez Kasintseva",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
