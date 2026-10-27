@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 10:10 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-27 10:15 ET · Mode: **PAPER** · Result: OK (3.1s)
 
 ## Today
 - Bets placed: 30 (main 8/10, bounce 22/50)
 - Realized P&L: +1.16
 
 ## Open paper positions
-- **Adrienn Nagy** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Adrienn Nagy** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 10:10 ET: Alejandro Tabilo [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,5 +20,4 @@ Updated: 2026-10-27 10:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-27 07:35 ET: Isabella Maria Serban [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alejandro Tabilo", "reason": "stop-loss", "pnl": -0.08}`
-- `{"type": "buy", "game": "wta:Selekhmeteva@Nagy", "market": "aec-wta-adrnag-okssel-2026-10-27", "side": "long", "team": "Adrienn Nagy", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
