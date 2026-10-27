@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 08:40 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-27 08:45 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 24 (main 8/10, bounce 16/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 08:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-27 05:50 ET: Jasmine Paolini [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Zizou Bergs", "reason": "stop-loss", "pnl": -0.359}`
+- _none_
