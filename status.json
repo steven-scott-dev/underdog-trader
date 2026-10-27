@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-27T01:05:37.706622-04:00",
+ "updated": "2026-10-27T01:10:37.428677-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-27",
-  "bets": 5,
+  "bets": 6,
   "bounce_bets": 4,
   "max_main": 5,
   "max_bounce": 50,
   "realized": 0.6086
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kaique-sofken-2026-10-25",
+   "game": "wta:Kenin@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-27 01:10 ET",
+   "mode": "main",
+   "last_bid": 0.4
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -102,10 +116,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Diane Parry",
-   "reason": "stop-loss",
-   "pnl": -0.07
+   "type": "buy",
+   "game": "wta:Kenin@Quevedo",
+   "market": "aec-wta-kaique-sofken-2026-10-25",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "ask": 0.4,
+   "qty": 1.25,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }

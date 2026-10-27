@@ -1,9 +1,23 @@
 {
  "date": "2026-10-27",
- "bets": 5,
+ "bets": 6,
  "bounce_bets": 4,
  "realized": 0.6086,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kaique-sofken-2026-10-25",
+   "game": "wta:Kenin@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-27 01:10 ET",
+   "mode": "main",
+   "last_bid": 0.4
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-gs-den-2026-10-26",
@@ -107,8 +121,8 @@
   ],
   "aec-wta-kaique-sofken-2026-10-25": [
    [
-    1793076633.0489256,
-    0.08
+    1793077837.0287452,
+    0.4
    ]
   ],
   "aec-wta-anazak-maglin-2026-10-26": [
