@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T16:35:37.528911-04:00",
+ "updated": "2026-10-27T16:40:38.402505-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-27",
   "bets": 60,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Berta Bonardi",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  }
- ]
+ "actions": []
 }

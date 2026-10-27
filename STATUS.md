@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 16:35 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-27 16:40 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 60 (main 10/10, bounce 50/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-27 16:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-27 14:50 ET: Francisco Cerundolo [bounce] — settled @ 0.9900 → +2.3750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Berta Bonardi", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_
