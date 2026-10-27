@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T06:59:29.524413-04:00",
+ "updated": "2026-10-27T07:00:39.588664-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-27",
   "bets": 21,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-27 06:59 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,29 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Venus Williams",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  },
-  {
-   "type": "paper_close",
-   "team": "Isabella Maria Serban",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  },
-  {
-   "type": "buy",
-   "game": "wta:Akugue@Kovinic",
-   "market": "aec-wta-dankov-nomaku-2026-10-26",
-   "side": "long",
-   "team": "Danka Kovinic",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
