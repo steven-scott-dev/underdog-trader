@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 02:25 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-27 02:30 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 9 (main 3/5, bounce 6/50)
 - Realized P&L: +1.06
 
 ## Open paper positions
-- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Himeno Sakatsume** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-27 02:00 ET: Sara Sorribes Tormo [bounce] — take-profit @ 0.1800 → +0.1000
