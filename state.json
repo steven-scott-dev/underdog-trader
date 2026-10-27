@@ -2,7 +2,7 @@
  "date": "2026-10-26",
  "bets": 42,
  "bounce_bets": 37,
- "realized": 2.2883,
+ "realized": 2.2083,
  "paper_positions": [
   {
    "market": "aec-nhl-tor-cgy-2026-10-26",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-26 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.12
-  },
-  {
-   "market": "aec-nba-atl-hou-2026-10-26",
-   "game": "nba:ATL@HOU",
-   "side": "long",
-   "team": "Hawks",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-26 22:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -711,6 +698,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-atl-hou-2026-10-26",
+   "game": "nba:ATL@HOU",
+   "side": "long",
+   "team": "Hawks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-26 22:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-26 22:40 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -939,6 +943,7 @@
   "aec-wta-soplle-ameimp-2026-10-25": 1793048134.060332,
   "aec-wta-carher-maroli-2026-10-27": 1793049634.4799085,
   "aec-atp-domstr-casruu-2026-10-25": 1793052939.8110452,
-  "aec-wta-seljan-anagru-2026-10-26": 1793062240.0694246
+  "aec-wta-seljan-anagru-2026-10-26": 1793062240.0694246,
+  "aec-nba-atl-hou-2026-10-26": 1793070636.2594533
  }
 }
