@@ -2,21 +2,8 @@
  "date": "2026-10-27",
  "bets": 52,
  "bounce_bets": 42,
- "realized": 1.9481,
+ "realized": 2.0481,
  "paper_positions": [
-  {
-   "market": "aec-wta-polher-marcap-2026-10-26",
-   "game": "wta:Taborda@Hercog",
-   "side": "short",
-   "team": "Martina Capurro",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-27 14:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  },
   {
    "market": "aec-wta-marcan-carher-2026-10-27",
    "game": "wta:Herea@Cano",
@@ -28,7 +15,7 @@
    "sl": 0.02,
    "opened": "2026-10-27 14:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -879,6 +866,23 @@
    "last_bid": 0.05,
    "closed": "2026-10-27 14:00 ET",
    "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-polher-marcap-2026-10-26",
+   "game": "wta:Taborda@Hercog",
+   "side": "short",
+   "team": "Martina Capurro",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 14:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-10-27 14:30 ET",
+   "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
   }
