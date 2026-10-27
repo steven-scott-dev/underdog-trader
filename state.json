@@ -1,21 +1,21 @@
 {
  "date": "2026-10-27",
- "bets": 4,
- "bounce_bets": 3,
- "realized": 0.7786,
+ "bets": 5,
+ "bounce_bets": 4,
+ "realized": 0.6786,
  "paper_positions": [
   {
-   "market": "aec-wta-anazak-maglin-2026-10-26",
-   "game": "wta:Linette@Zakharova",
+   "market": "aec-wta-diapar-cribuc-2026-10-25",
+   "game": "wta:Bucsa@Parry",
    "side": "long",
-   "team": "Anastasia Zakharova",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-27 00:55 ET",
+   "team": "Diane Parry",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-27 01:00 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -69,6 +69,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-anazak-maglin-2026-10-26",
+   "game": "wta:Linette@Zakharova",
+   "side": "long",
+   "team": "Anastasia Zakharova",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-27 00:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-27 01:00 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -96,9 +113,16 @@
     1793076935.2463024,
     0.05
    ]
+  ],
+  "aec-wta-diapar-cribuc-2026-10-25": [
+   [
+    1793077237.7871673,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
-  "aec-nba-gs-den-2026-10-26": 1793076036.6094816
+  "aec-nba-gs-den-2026-10-26": 1793076036.6094816,
+  "aec-wta-anazak-maglin-2026-10-26": 1793079036.0712516
  }
 }
