@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-27T11:55:48.419088-04:00",
+ "updated": "2026-10-27T12:00:56.960765-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 22.4,
  "daily": {
   "date": "2026-10-27",
-  "bets": 36,
+  "bets": 37,
   "bounce_bets": 28,
   "max_main": 10,
   "max_bounce": 50,
@@ -24,6 +24,19 @@
    "opened": "2026-10-27 11:30 ET",
    "mode": "bounce",
    "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "short",
+   "team": "Rebeka Masarova",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 12:00 ET",
+   "mode": "main",
+   "last_bid": 0.35
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Masarova@Riera",
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "side": "short",
+   "team": "Rebeka Masarova",
+   "ask": 0.35,
+   "qty": 1.4286,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

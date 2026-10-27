@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "bets": 36,
+ "bets": 37,
  "bounce_bets": 28,
  "realized": 3.0411,
  "paper_positions": [
@@ -16,6 +16,19 @@
    "opened": "2026-10-27 11:30 ET",
    "mode": "bounce",
    "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-julrie-rebmas-2026-10-26",
+   "game": "wta:Masarova@Riera",
+   "side": "short",
+   "team": "Rebeka Masarova",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-27 12:00 ET",
+   "mode": "main",
+   "last_bid": 0.35
   }
  ],
  "paper_history": [
@@ -781,8 +794,8 @@
   ],
   "aec-wta-julrie-rebmas-2026-10-26": [
    [
-    1793113536.8874967,
-    0.1
+    1793116835.9544659,
+    0.35
    ]
   ],
   "aec-wta-gaimad-linkli-2026-10-27": [
