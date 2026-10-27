@@ -2,21 +2,8 @@
  "date": "2026-10-27",
  "bets": 8,
  "bounce_bets": 5,
- "realized": 0.2197,
+ "realized": 0.9572,
  "paper_positions": [
-  {
-   "market": "aec-wta-kaique-sofken-2026-10-25",
-   "game": "wta:Kenin@Quevedo",
-   "side": "long",
-   "team": "Kaitlin Quevedo",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-27 01:10 ET",
-   "mode": "main",
-   "last_bid": 0.71
-  },
   {
    "market": "aec-wta-sartor-zeyson-2026-10-25",
    "game": "wta:Sonmez@Tormo",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-27 01:45 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -133,6 +120,23 @@
    "exit": 0.04,
    "pnl": -0.3889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kaique-sofken-2026-10-25",
+   "game": "wta:Kenin@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-27 01:10 ET",
+   "mode": "main",
+   "last_bid": 0.71,
+   "closed": "2026-10-27 01:50 ET",
+   "exit": 0.99,
+   "pnl": 0.7375,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
