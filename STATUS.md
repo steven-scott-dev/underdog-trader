@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-27 12:10 ET · Mode: **PAPER** · Result: OK (22.7s)
+Updated: 2026-10-27 12:16 ET · Mode: **PAPER** · Result: OK (22.6s)
 
 ## Today
 - Bets placed: 38 (main 10/10, bounce 28/50)
 - Realized P&L: +2.60
 
 ## Open paper positions
-- **Karen Khachanov** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
-- **Ignacio Buse** (short/main) — 2.2727 @ 0.2200, now ~0.4900, unrealized +0.6136 (TP 0.5500 / SL 0.0880)
+- **Karen Khachanov** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- **Ignacio Buse** (short/main) — 2.2727 @ 0.2200, now ~0.5300, unrealized +0.7045 (TP 0.5500 / SL 0.0880)
 
 ## Recent history
 - 2026-10-27 12:10 ET: Rebeka Masarova [main] — stop-loss @ 0.0400 → -0.4429
@@ -21,4 +21,4 @@ Updated: 2026-10-27 12:10 ET · Mode: **PAPER** · Result: OK (22.7s)
 - 2026-10-27 10:10 ET: Alejandro Tabilo [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rebeka Masarova", "reason": "stop-loss", "pnl": -0.4429}`
+- _none_
