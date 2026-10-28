@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 08:35 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-28 08:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 17 (main 10/10, bounce 7/50)
-- Realized P&L: +2.94
+- Realized P&L: +2.86
 
 ## Open paper positions
-- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
-- **Dayana Yastremska** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Dayana Yastremska** (short/bounce) — 1.1111 @ 0.0900, now ~0.1100, unrealized +0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
+- 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-28 07:10 ET: Janice Tjen [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-10-28 07:00 ET: Harriet Dart [main] — take-profit @ 0.8500 → +0.7500
@@ -18,7 +18,6 @@ Updated: 2026-10-28 08:35 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-28 04:15 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
 - 2026-10-28 03:30 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.1200 → +0.1000
-- 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Yastremska@Han", "market": "aec-wta-hanshi-dayyas-2026-10-28", "side": "short", "team": "Dayana Yastremska", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Yelyzaveta Kotliar", "reason": "stop-loss", "pnl": -0.0778}`

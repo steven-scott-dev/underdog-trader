@@ -2,21 +2,8 @@
  "date": "2026-10-28",
  "bets": 17,
  "bounce_bets": 7,
- "realized": 2.9413,
+ "realized": 2.8635,
  "paper_positions": [
-  {
-   "market": "aec-wta-yelkot-eriand-2026-10-28",
-   "game": "wta:Andreeva@Kotliar",
-   "side": "long",
-   "team": "Yelyzaveta Kotliar",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 08:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-hanshi-dayyas-2026-10-28",
    "game": "wta:Yastremska@Han",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 08:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -286,6 +273,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-yelkot-eriand-2026-10-28",
+   "game": "wta:Andreeva@Kotliar",
+   "side": "long",
+   "team": "Yelyzaveta Kotliar",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-28 08:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -368,6 +372,7 @@
   "aec-wta-katsin-lantar-2026-10-25": 1793171435.3542225,
   "aec-wta-paubad-sinkra-2026-10-28": 1793176547.6231468,
   "aec-wta-alisas-diashn-2026-10-27": 1793180435.6041188,
-  "aec-wta-hardar-jantje-2026-10-28": 1793187633.5557
+  "aec-wta-hardar-jantje-2026-10-28": 1793187633.5557,
+  "aec-wta-yelkot-eriand-2026-10-28": 1793193033.342095
  }
 }
