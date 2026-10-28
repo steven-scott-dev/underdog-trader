@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 04:15 ET · Mode: **PAPER** · Result: OK (4.1s)
+Updated: 2026-10-28 04:20 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 11 (main 8/10, bounce 3/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 04:15 ET · Mode: **PAPER** · Result: OK (4.1s)
 - 2026-10-28 00:40 ET: Senators [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Aliaksandra Sasnovich", "reason": "take-profit", "pnl": 0.1}`
+- _none_
