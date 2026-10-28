@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T12:25:36.776627-04:00",
+ "updated": "2026-10-28T12:30:35.052294-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 23,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Antonia Vergara",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 12:25 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-28 12:30 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 23 (main 10/10, bounce 13/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 12:25 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Antonia Vergara", "reason": "take-profit", "pnl": 0.1}`
+- _none_
