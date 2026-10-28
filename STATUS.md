@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 09:00 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-28 09:05 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 17 (main 10/10, bounce 7/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 09:00 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Dayana Yastremska", "reason": "take-profit", "pnl": 0.1}`
+- _none_
