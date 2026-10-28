@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 13:36 ET · Mode: **PAPER** · Result: OK (3.1s)
+Updated: 2026-10-28 13:40 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 27 (main 10/10, bounce 17/50)
 - Realized P&L: +2.97
 
 ## Open paper positions
-- **Oksana Selekhmeteva** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Oksana Selekhmeteva** (short/bounce) — 1.1111 @ 0.0900, now ~0.1700, unrealized +0.0889 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 13:25 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1200 → +0.1000
