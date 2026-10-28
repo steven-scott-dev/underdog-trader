@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 04:55 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 05:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 12 (main 9/10, bounce 3/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 04:55 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-28 00:40 ET: Senators [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Shnaider@Sasnovich", "market": "aec-wta-alisas-diashn-2026-10-27", "side": "long", "team": "Aliaksandra Sasnovich", "ask": 0.4, "qty": 1.25, "stake": 0.5, "mode": "main"}`
+- _none_

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:55:40.013127-04:00",
+ "updated": "2026-10-28T05:00:48.122480-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.5,
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Shnaider@Sasnovich",
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "ask": 0.4,
-   "qty": 1.25,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
