@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 07:10 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-28 07:15 ET · Mode: **PAPER** · Result: OK (3.9s)
 
 ## Today
 - Bets placed: 14 (main 10/10, bounce 4/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 07:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-28 02:40 ET: Maya Joint [main] — take-profit @ 0.9000 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Janice Tjen", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
