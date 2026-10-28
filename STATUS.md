@@ -1,17 +1,18 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 00:20 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-28 00:25 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
-- Bets placed: 2 (main 2/10, bounce 0/50)
-- Realized P&L: +0.00
+- Bets placed: 3 (main 3/10, bounce 0/50)
+- Realized P&L: +0.75
 
 ## Open paper positions
-- **Tampa Bay Rays** (short/main) — 3.7037 @ 0.1350, now ~0.2600, unrealized +0.4630 (TP 0.3375 / SL 0.0540)
-- **Ekaterina Alexandrova** (short/main) — 1.5152 @ 0.3300, now ~0.5400, unrealized +0.3182 (TP 0.8250 / SL 0.1320)
+- **Ekaterina Alexandrova** (short/main) — 1.5152 @ 0.3300, now ~0.5300, unrealized +0.3030 (TP 0.8250 / SL 0.1320)
+- **Milwaukee Brewers** (long/main) — 2.3256 @ 0.2150, now ~0.2150, unrealized +0.0000 (TP 0.5375 / SL 0.0860)
 
 ## Recent history
-- _none yet_
+- 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Tampa Bay Rays", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "buy", "game": "mlb:MIL@TB", "market": "aec-mlb-mil-tb-2026-10-27", "side": "long", "team": "Milwaukee Brewers", "ask": 0.215, "qty": 2.3256, "stake": 0.5, "mode": "main"}`
