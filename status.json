@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T14:30:40.997695-04:00",
+ "updated": "2026-10-28T14:35:44.743570-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-28",
   "bets": 29,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jurij Rodionov",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }

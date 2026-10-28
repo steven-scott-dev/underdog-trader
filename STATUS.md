@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 14:30 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 14:35 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 29 (main 10/10, bounce 19/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 14:30 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-28 11:15 ET: Luna Cinalli [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jurij Rodionov", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
