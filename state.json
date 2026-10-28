@@ -2,22 +2,8 @@
  "date": "2026-10-28",
  "bets": 12,
  "bounce_bets": 3,
- "realized": 2.5002,
- "paper_positions": [
-  {
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "game": "wta:Shnaider@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-28 04:55 ET",
-   "mode": "main",
-   "last_bid": 0.27
-  }
- ],
+ "realized": 2.1627,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -205,6 +191,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-alisas-diashn-2026-10-27",
+   "game": "wta:Shnaider@Sasnovich",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-28 04:55 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-10-28 05:10 ET",
+   "exit": 0.13,
+   "pnl": -0.3375,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -267,6 +270,7 @@
  "cooldowns": {
   "aec-nhl-ott-veg-2026-10-27": 1793164236.3033342,
   "aec-wta-katsin-lantar-2026-10-25": 1793171435.3542225,
-  "aec-wta-paubad-sinkra-2026-10-28": 1793176547.6231468
+  "aec-wta-paubad-sinkra-2026-10-28": 1793176547.6231468,
+  "aec-wta-alisas-diashn-2026-10-27": 1793180435.6041188
  }
 }

@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T05:05:58.466811-04:00",
+ "updated": "2026-10-28T05:10:36.645157-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-28",
   "bets": 12,
   "bounce_bets": 3,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.5002
+  "realized": 2.1627
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "game": "wta:Shnaider@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-28 04:55 ET",
-   "mode": "main",
-   "last_bid": 0.27
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-kamrak-ekaale-2026-10-27",
-   "game": "wta:Alexandrova@Rakhimova",
-   "side": "short",
-   "team": "Ekaterina Alexandrova",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-10-28 00:05 ET",
-   "mode": "main",
-   "last_bid": 0.53,
-   "closed": "2026-10-28 00:30 ET",
-   "exit": 0.825,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
    "game": "mlb:MIL@TB",
@@ -196,8 +165,32 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-alisas-diashn-2026-10-27",
+   "game": "wta:Shnaider@Sasnovich",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-28 04:55 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-10-28 05:10 ET",
+   "exit": 0.13,
+   "pnl": -0.3375,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Aliaksandra Sasnovich",
+   "reason": "stop-loss",
+   "pnl": -0.3375
+  }
+ ]
 }

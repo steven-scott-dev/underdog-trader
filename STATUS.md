@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 05:05 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-28 05:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 12 (main 9/10, bounce 3/50)
-- Realized P&L: +2.50
+- Realized P&L: +2.16
 
 ## Open paper positions
-- **Aliaksandra Sasnovich** (long/main) — 1.25 @ 0.4000, now ~0.2700, unrealized -0.1625 (TP 0.9900 / SL 0.1600)
+- _none_
 
 ## Recent history
+- 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
 - 2026-10-28 04:15 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
 - 2026-10-28 03:30 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.1200 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-10-28 05:05 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-28 02:40 ET: Maya Joint [main] — take-profit @ 0.9000 → +0.7500
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
 - 2026-10-28 00:50 ET: Canucks [main] — take-profit @ 0.9750 → +0.7500
-- 2026-10-28 00:40 ET: Senators [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Aliaksandra Sasnovich", "reason": "stop-loss", "pnl": -0.3375}`
