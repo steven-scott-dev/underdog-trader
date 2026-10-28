@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T09:45:46.006230-04:00",
+ "updated": "2026-10-28T09:50:38.963060-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.8,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-28",
   "bets": 19,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Laura Mair",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Daniel Merida Aguilar",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 09:45 ET · Mode: **PAPER** · Result: OK (11.8s)
+Updated: 2026-10-28 09:50 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 19 (main 10/10, bounce 9/50)
@@ -20,5 +20,4 @@ Updated: 2026-10-28 09:45 ET · Mode: **PAPER** · Result: OK (11.8s)
 - 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Mair", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Daniel Merida Aguilar", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_
