@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 01:50 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 01:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 6 (main 6/10, bounce 0/50)
+- Bets placed: 7 (main 7/10, bounce 0/50)
 - Realized P&L: +2.01
 
 ## Open paper positions
-- _none_
+- **Maya Joint** (short/main) — 1.3889 @ 0.3600, now ~0.3600, unrealized +0.0000 (TP 0.9000 / SL 0.1440)
 
 ## Recent history
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
@@ -18,4 +18,4 @@ Updated: 2026-10-28 01:50 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Joint@Bucsa", "market": "aec-wta-cribuc-mayjoi-2026-10-27", "side": "short", "team": "Maya Joint", "ask": 0.36, "qty": 1.3889, "stake": 0.5, "mode": "main"}`
