@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 25,
- "bounce_bets": 15,
+ "bets": 26,
+ "bounce_bets": 16,
  "realized": 2.8385,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   },
   {
    "market": "aec-atp-jakmen-adrman-2026-10-28",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-10-28 13:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.17
+  },
+  {
+   "market": "aec-wta-eliyan-okssel-2026-10-28",
+   "game": "wta:Selekhmeteva@Yaneva",
+   "side": "short",
+   "team": "Oksana Selekhmeteva",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-28 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -532,6 +545,12 @@
    [
     1793207440.3143742,
     0.1
+   ]
+  ],
+  "aec-wta-eliyan-okssel-2026-10-28": [
+   [
+    1793207740.4637957,
+    0.06
    ]
   ]
  },

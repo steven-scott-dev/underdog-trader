@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 13:10 ET · Mode: **PAPER** · Result: OK (3.3s)
+Updated: 2026-10-28 13:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 25 (main 10/10, bounce 15/50)
+- Bets placed: 26 (main 10/10, bounce 16/50)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
-- **Adrian Mannarino** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Adrian Mannarino** (short/bounce) — 1.0 @ 0.1000, now ~0.1700, unrealized +0.0700 (TP 0.2000 / SL 0.0400)
+- **Oksana Selekhmeteva** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-28 12:25 ET: Antonia Vergara [bounce] — take-profit @ 0.1000 → +0.1000
@@ -21,4 +22,4 @@ Updated: 2026-10-28 13:10 ET · Mode: **PAPER** · Result: OK (3.3s)
 - 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Mannarino@Mensik", "market": "aec-atp-jakmen-adrman-2026-10-28", "side": "short", "team": "Adrian Mannarino", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Selekhmeteva@Yaneva", "market": "aec-wta-eliyan-okssel-2026-10-28", "side": "short", "team": "Oksana Selekhmeteva", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
