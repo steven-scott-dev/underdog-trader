@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 11:10 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-28 11:15 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 22 (main 10/10, bounce 12/50)
-- Realized P&L: +2.80
+- Realized P&L: +2.74
 
 ## Open paper positions
-- **Luna Cinalli** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
+- _none_
 
 ## Recent history
+- 2026-10-28 11:15 ET: Luna Cinalli [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-10-28 10:55 ET: Lourdes Ayala [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-10-28 10:20 ET: Laura Mair [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-28 09:45 ET: Daniel Merida Aguilar [bounce] — stop-loss @ 0.0100 → -0.0875
@@ -17,7 +18,6 @@ Updated: 2026-10-28 11:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-28 09:00 ET: Dayana Yastremska [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
-- 2026-10-28 07:10 ET: Janice Tjen [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Luna Cinalli", "reason": "stop-loss", "pnl": -0.0625}`

@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T11:10:34.625441-04:00",
+ "updated": "2026-10-28T11:15:38.815888-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 22,
   "bounce_bets": 12,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.801
+  "realized": 2.7385
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-alitub-luncin-2026-10-28",
-   "game": "wta:Cinalli@Tubello",
-   "side": "short",
-   "team": "Luna Cinalli",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 10:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "game": "wta:Shnaider@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-28 04:55 ET",
-   "mode": "main",
-   "last_bid": 0.27,
-   "closed": "2026-10-28 05:10 ET",
-   "exit": 0.13,
-   "pnl": -0.3375,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-hardar-jantje-2026-10-28",
    "game": "wta:Tjen@Dart",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alitub-luncin-2026-10-28",
+   "game": "wta:Cinalli@Tubello",
+   "side": "short",
+   "team": "Luna Cinalli",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 10:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 11:15 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Luna Cinalli",
+   "reason": "stop-loss",
+   "pnl": -0.0625
+  }
+ ]
 }
