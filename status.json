@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T07:30:35.853300-04:00",
+ "updated": "2026-10-28T07:35:36.506277-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 15,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 07:30 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.12
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Andreeva@Kotliar",
-   "market": "aec-wta-yelkot-eriand-2026-10-28",
-   "side": "long",
-   "team": "Yelyzaveta Kotliar",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
