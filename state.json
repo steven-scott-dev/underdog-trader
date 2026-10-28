@@ -1,9 +1,23 @@
 {
  "date": "2026-10-28",
- "bets": 23,
- "bounce_bets": 13,
+ "bets": 24,
+ "bounce_bets": 14,
  "realized": 2.8385,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leygor-antver-2026-10-28",
+   "game": "wta:Rivera@Gormaz",
+   "side": "short",
+   "team": "Antonia Vergara",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -497,8 +511,8 @@
   ],
   "aec-wta-leygor-antver-2026-10-28": [
    [
-    1793204141.6503363,
-    0.05
+    1793205635.4821806,
+    0.09
    ]
   ]
  },
