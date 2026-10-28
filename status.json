@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T01:55:34.269864-04:00",
+ "updated": "2026-10-28T02:00:34.825853-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 7,
@@ -131,17 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Joint@Bucsa",
-   "market": "aec-wta-cribuc-mayjoi-2026-10-27",
-   "side": "short",
-   "team": "Maya Joint",
-   "ask": 0.36,
-   "qty": 1.3889,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
