@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T18:30:40.055220-04:00",
+ "updated": "2026-10-28T18:35:37.399114-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 33,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Carmen Andreea Herea",
-   "reason": "stop-loss",
-   "pnl": -0.0778
-  }
- ]
+ "actions": []
 }

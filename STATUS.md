@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 18:30 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 18:35 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 33 (main 10/10, bounce 23/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 18:30 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 13:25 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Carmen Andreea Herea", "reason": "stop-loss", "pnl": -0.0778}`
+- _none_
