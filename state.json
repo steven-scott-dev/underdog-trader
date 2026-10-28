@@ -2,22 +2,8 @@
  "date": "2026-10-28",
  "bets": 20,
  "bounce_bets": 10,
- "realized": 2.976,
- "paper_positions": [
-  {
-   "market": "aec-wta-laumai-katzav-2026-10-26",
-   "game": "wta:Zavatska@Mair",
-   "side": "long",
-   "team": "Laura Mair",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 10:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.876,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -341,6 +327,23 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-laumai-katzav-2026-10-26",
+   "game": "wta:Zavatska@Mair",
+   "side": "long",
+   "team": "Laura Mair",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-28 10:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 10:20 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -437,6 +440,7 @@
   "aec-wta-alisas-diashn-2026-10-27": 1793180435.6041188,
   "aec-wta-hardar-jantje-2026-10-28": 1793187633.5557,
   "aec-wta-yelkot-eriand-2026-10-28": 1793193033.342095,
-  "aec-atp-danagu-danmed-2026-10-25": 1793196934.463676
+  "aec-atp-danagu-danmed-2026-10-25": 1793196934.463676,
+  "aec-wta-laumai-katzav-2026-10-26": 1793199037.581325
  }
 }
