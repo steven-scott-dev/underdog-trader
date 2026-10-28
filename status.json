@@ -1,79 +1,18 @@
 {
- "updated": "2026-10-28T09:40:50.621310-04:00",
+ "updated": "2026-10-28T09:45:46.006230-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 11.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 19,
   "bounce_bets": 9,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.9635
+  "realized": 2.976
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-laumai-katzav-2026-10-26",
-   "game": "wta:Zavatska@Mair",
-   "side": "long",
-   "team": "Laura Mair",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 09:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.18
-  },
-  {
-   "market": "aec-atp-danagu-danmed-2026-10-25",
-   "game": "atp:Medvedev@Merida",
-   "side": "long",
-   "team": "Daniel Merida Aguilar",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 09:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-katsin-lantar-2026-10-25",
-   "game": "wta:Tararudee@Siniakova",
-   "side": "short",
-   "team": "Lanlana Tararudee",
-   "entry": 0.38,
-   "qty": 1.3158,
-   "tp": 0.95,
-   "sl": 0.152,
-   "opened": "2026-10-28 02:30 ET",
-   "mode": "main",
-   "last_bid": 0.18,
-   "closed": "2026-10-28 02:40 ET",
-   "exit": 0.08,
-   "pnl": -0.3947,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "game": "wta:Shnaider@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 03:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-28 03:30 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-paubad-sinkra-2026-10-28",
    "game": "wta:Kraus@Badosa",
@@ -209,8 +148,55 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-laumai-katzav-2026-10-26",
+   "game": "wta:Zavatska@Mair",
+   "side": "long",
+   "team": "Laura Mair",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 09:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.18,
+   "closed": "2026-10-28 09:45 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-danagu-danmed-2026-10-25",
+   "game": "atp:Medvedev@Merida",
+   "side": "long",
+   "team": "Daniel Merida Aguilar",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 09:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Laura Mair",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "paper_close",
+   "team": "Daniel Merida Aguilar",
+   "reason": "stop-loss",
+   "pnl": -0.0875
+  }
+ ]
 }

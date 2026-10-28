@@ -2,35 +2,8 @@
  "date": "2026-10-28",
  "bets": 19,
  "bounce_bets": 9,
- "realized": 2.9635,
- "paper_positions": [
-  {
-   "market": "aec-wta-laumai-katzav-2026-10-26",
-   "game": "wta:Zavatska@Mair",
-   "side": "long",
-   "team": "Laura Mair",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 09:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.18
-  },
-  {
-   "market": "aec-atp-danagu-danmed-2026-10-25",
-   "game": "atp:Medvedev@Merida",
-   "side": "long",
-   "team": "Daniel Merida Aguilar",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 09:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 2.976,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -320,6 +293,40 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-laumai-katzav-2026-10-26",
+   "game": "wta:Zavatska@Mair",
+   "side": "long",
+   "team": "Laura Mair",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 09:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.18,
+   "closed": "2026-10-28 09:45 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-danagu-danmed-2026-10-25",
+   "game": "atp:Medvedev@Merida",
+   "side": "long",
+   "team": "Daniel Merida Aguilar",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 09:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -415,6 +422,7 @@
   "aec-wta-paubad-sinkra-2026-10-28": 1793176547.6231468,
   "aec-wta-alisas-diashn-2026-10-27": 1793180435.6041188,
   "aec-wta-hardar-jantje-2026-10-28": 1793187633.5557,
-  "aec-wta-yelkot-eriand-2026-10-28": 1793193033.342095
+  "aec-wta-yelkot-eriand-2026-10-28": 1793193033.342095,
+  "aec-atp-danagu-danmed-2026-10-25": 1793196934.463676
  }
 }
