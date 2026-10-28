@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T03:30:40.584201-04:00",
+ "updated": "2026-10-28T03:35:34.294065-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 9,
@@ -168,12 +168,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Aliaksandra Sasnovich",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

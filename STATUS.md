@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 03:30 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 03:35 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 9 (main 8/10, bounce 1/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 03:30 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-28 00:30 ET: Ekaterina Alexandrova [main] — take-profit @ 0.8250 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Aliaksandra Sasnovich", "reason": "take-profit", "pnl": 0.1}`
+- _none_
