@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-28T09:30:54.684192-04:00",
+ "updated": "2026-10-28T09:35:45.765841-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-10-28",
-  "bets": 18,
-  "bounce_bets": 8,
+  "bets": 19,
+  "bounce_bets": 9,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 2.9635
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-10-28 09:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.14
+  },
+  {
+   "market": "aec-atp-danagu-danmed-2026-10-25",
+   "game": "atp:Medvedev@Merida",
+   "side": "long",
+   "team": "Daniel Merida Aguilar",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Medvedev@Merida",
+   "market": "aec-atp-danagu-danmed-2026-10-25",
+   "side": "long",
+   "team": "Daniel Merida Aguilar",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

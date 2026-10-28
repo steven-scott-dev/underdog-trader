@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 18,
- "bounce_bets": 8,
+ "bets": 19,
+ "bounce_bets": 9,
  "realized": 2.9635,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-28 09:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.14
+  },
+  {
+   "market": "aec-atp-danagu-danmed-2026-10-25",
+   "game": "atp:Medvedev@Merida",
+   "side": "long",
+   "team": "Daniel Merida Aguilar",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -387,6 +400,12 @@
    [
     1793193043.0415492,
     0.1
+   ]
+  ],
+  "aec-atp-danagu-danmed-2026-10-25": [
+   [
+    1793194535.31085,
+    0.08
    ]
   ]
  },
