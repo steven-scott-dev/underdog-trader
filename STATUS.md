@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 02:35 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-10-28 02:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 8 (main 8/10, bounce 0/50)
-- Realized P&L: +2.01
+- Realized P&L: +2.37
 
 ## Open paper positions
-- **Maya Joint** (short/main) — 1.3889 @ 0.3600, now ~0.8900, unrealized +0.7361 (TP 0.9000 / SL 0.1440)
-- **Lanlana Tararudee** (short/main) — 1.3158 @ 0.3800, now ~0.1800, unrealized -0.2632 (TP 0.9500 / SL 0.1520)
+- _none_
 
 ## Recent history
+- 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
+- 2026-10-28 02:40 ET: Maya Joint [main] — take-profit @ 0.9000 → +0.7500
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
 - 2026-10-28 00:50 ET: Canucks [main] — take-profit @ 0.9750 → +0.7500
 - 2026-10-28 00:40 ET: Senators [main] — stop-loss @ 0.0000 → -0.5000
@@ -19,4 +20,5 @@ Updated: 2026-10-28 02:35 ET · Mode: **PAPER** · Result: OK (0.7s)
 - 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Maya Joint", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "paper_close", "team": "Lanlana Tararudee", "reason": "stop-loss", "pnl": -0.3947}`

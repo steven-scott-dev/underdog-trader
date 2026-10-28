@@ -1,44 +1,17 @@
 {
- "updated": "2026-10-28T02:35:44.272593-04:00",
+ "updated": "2026-10-28T02:40:36.331910-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 8,
   "bounce_bets": 0,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.0116
+  "realized": 2.3669
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-cribuc-mayjoi-2026-10-27",
-   "game": "wta:Joint@Bucsa",
-   "side": "short",
-   "team": "Maya Joint",
-   "entry": 0.36,
-   "qty": 1.3889,
-   "tp": 0.9,
-   "sl": 0.144,
-   "opened": "2026-10-28 01:55 ET",
-   "mode": "main",
-   "last_bid": 0.89
-  },
-  {
-   "market": "aec-wta-katsin-lantar-2026-10-25",
-   "game": "wta:Tararudee@Siniakova",
-   "side": "short",
-   "team": "Lanlana Tararudee",
-   "entry": 0.38,
-   "qty": 1.3158,
-   "tp": 0.95,
-   "sl": 0.152,
-   "opened": "2026-10-28 02:30 ET",
-   "mode": "main",
-   "last_bid": 0.18
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -141,8 +114,55 @@
    "exit": 0.275,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-cribuc-mayjoi-2026-10-27",
+   "game": "wta:Joint@Bucsa",
+   "side": "short",
+   "team": "Maya Joint",
+   "entry": 0.36,
+   "qty": 1.3889,
+   "tp": 0.9,
+   "sl": 0.144,
+   "opened": "2026-10-28 01:55 ET",
+   "mode": "main",
+   "last_bid": 0.89,
+   "closed": "2026-10-28 02:40 ET",
+   "exit": 0.9,
+   "pnl": 0.75,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-katsin-lantar-2026-10-25",
+   "game": "wta:Tararudee@Siniakova",
+   "side": "short",
+   "team": "Lanlana Tararudee",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "tp": 0.95,
+   "sl": 0.152,
+   "opened": "2026-10-28 02:30 ET",
+   "mode": "main",
+   "last_bid": 0.18,
+   "closed": "2026-10-28 02:40 ET",
+   "exit": 0.08,
+   "pnl": -0.3947,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Maya Joint",
+   "reason": "take-profit",
+   "pnl": 0.75
+  },
+  {
+   "type": "paper_close",
+   "team": "Lanlana Tararudee",
+   "reason": "stop-loss",
+   "pnl": -0.3947
+  }
+ ]
 }
