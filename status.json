@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T02:30:37.463640-04:00",
+ "updated": "2026-10-28T02:35:44.272593-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-10-28",
   "bets": 8,
@@ -36,7 +36,7 @@
    "sl": 0.152,
    "opened": "2026-10-28 02:30 ET",
    "mode": "main",
-   "last_bid": 0.38
+   "last_bid": 0.18
   }
  ],
  "paper_history": [
@@ -144,17 +144,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Tararudee@Siniakova",
-   "market": "aec-wta-katsin-lantar-2026-10-25",
-   "side": "short",
-   "team": "Lanlana Tararudee",
-   "ask": 0.38,
-   "qty": 1.3158,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
