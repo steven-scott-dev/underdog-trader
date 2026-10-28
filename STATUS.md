@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 03:10 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 03:15 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
-- Bets placed: 8 (main 8/10, bounce 0/50)
+- Bets placed: 9 (main 8/10, bounce 1/50)
 - Realized P&L: +2.37
 
 ## Open paper positions
-- _none_
+- **Aliaksandra Sasnovich** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
@@ -20,4 +20,4 @@ Updated: 2026-10-28 03:10 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Shnaider@Sasnovich", "market": "aec-wta-alisas-diashn-2026-10-27", "side": "long", "team": "Aliaksandra Sasnovich", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
