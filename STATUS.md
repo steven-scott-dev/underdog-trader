@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 18:15 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-28 18:20 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 33 (main 10/10, bounce 23/50)
 - Realized P&L: +2.65
 
 ## Open paper positions
-- **Carmen Andreea Herea** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Carmen Andreea Herea** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 16:15 ET: Learner Tien [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -20,4 +20,4 @@ Updated: 2026-10-28 18:15 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-28 13:25 ET: Adrian Mannarino [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Monnet@Herea", "market": "aec-wta-carher-carmon-2026-10-28", "side": "long", "team": "Carmen Andreea Herea", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
