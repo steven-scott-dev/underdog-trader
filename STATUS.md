@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 15:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-28 15:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 31 (main 10/10, bounce 21/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 15:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-28 13:20 ET: Antonia Vergara [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Linda Klimovicova", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

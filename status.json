@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T15:45:41.188723-04:00",
+ "updated": "2026-10-28T15:50:38.589056-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-28",
   "bets": 31,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Linda Klimovicova",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
