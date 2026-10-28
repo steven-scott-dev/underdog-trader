@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 04:05 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 04:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 11 (main 8/10, bounce 3/50)
 - Realized P&L: +2.40
 
 ## Open paper positions
-- **Aliaksandra Sasnovich** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Aliaksandra Sasnovich** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-10-28 04:05 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 00:30 ET: Milwaukee Brewers [main] — settled @ 0.0050 → -0.4884
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sinja Kraus", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

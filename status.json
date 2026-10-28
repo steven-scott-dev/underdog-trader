@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T04:05:48.723277-04:00",
+ "updated": "2026-10-28T04:10:45.644219-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 03:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.15
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sinja Kraus",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
