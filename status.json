@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T14:00:36.034128-04:00",
+ "updated": "2026-10-28T14:05:47.702423-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-28",
   "bets": 28,
@@ -23,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-10-28 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Charaeva@Knutson",
-   "market": "aec-wta-gabknu-alicha-2026-10-28",
-   "side": "long",
-   "team": "Gabriela Knutson",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
