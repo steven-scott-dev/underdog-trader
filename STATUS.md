@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 05:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-28 05:15 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 12 (main 9/10, bounce 3/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 05:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-28 00:50 ET: Canucks [main] — take-profit @ 0.9750 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Aliaksandra Sasnovich", "reason": "stop-loss", "pnl": -0.3375}`
+- _none_
