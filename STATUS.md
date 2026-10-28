@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 09:35 ET · Mode: **PAPER** · Result: OK (11.5s)
+Updated: 2026-10-28 09:40 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
 - Bets placed: 19 (main 10/10, bounce 9/50)
 - Realized P&L: +2.96
 
 ## Open paper positions
-- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
-- **Daniel Merida Aguilar** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.1800, unrealized +0.0800 (TP 0.2000 / SL 0.0400)
+- **Daniel Merida Aguilar** (long/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-28 09:00 ET: Dayana Yastremska [bounce] — take-profit @ 0.1800 → +0.1000
@@ -21,4 +21,4 @@ Updated: 2026-10-28 09:35 ET · Mode: **PAPER** · Result: OK (11.5s)
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Medvedev@Merida", "market": "aec-atp-danagu-danmed-2026-10-25", "side": "long", "team": "Daniel Merida Aguilar", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
