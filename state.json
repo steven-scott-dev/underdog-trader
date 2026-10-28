@@ -2,21 +2,8 @@
  "date": "2026-10-28",
  "bets": 11,
  "bounce_bets": 3,
- "realized": 2.4669,
+ "realized": 2.4002,
  "paper_positions": [
-  {
-   "market": "aec-wta-paubad-sinkra-2026-10-28",
-   "game": "wta:Kraus@Badosa",
-   "side": "short",
-   "team": "Sinja Kraus",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 03:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-wta-alisas-diashn-2026-10-27",
    "game": "wta:Shnaider@Sasnovich",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 03:45 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -184,6 +171,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-paubad-sinkra-2026-10-28",
+   "game": "wta:Kraus@Badosa",
+   "side": "short",
+   "team": "Sinja Kraus",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 03:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 04:05 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -245,6 +249,7 @@
  },
  "cooldowns": {
   "aec-nhl-ott-veg-2026-10-27": 1793164236.3033342,
-  "aec-wta-katsin-lantar-2026-10-25": 1793171435.3542225
+  "aec-wta-katsin-lantar-2026-10-25": 1793171435.3542225,
+  "aec-wta-paubad-sinkra-2026-10-28": 1793176547.6231468
  }
 }
