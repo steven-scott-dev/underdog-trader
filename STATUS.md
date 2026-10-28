@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 16:00 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-28 16:05 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 31 (main 10/10, bounce 21/50)
+- Bets placed: 32 (main 10/10, bounce 22/50)
 - Realized P&L: +2.74
 
 ## Open paper positions
-- _none_
+- **Learner Tien** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 15:45 ET: Linda Klimovicova [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-10-28 16:00 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-28 13:20 ET: Antonia Vergara [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Minaur@Tien", "market": "aec-atp-leatie-alemin-2026-10-28", "side": "long", "team": "Learner Tien", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
