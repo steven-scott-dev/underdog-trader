@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T14:25:41.343932-04:00",
+ "updated": "2026-10-28T14:30:40.997695-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 29,
   "bounce_bets": 19,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.9718
+  "realized": 2.8718
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-jurrod-nikbas-2026-10-25",
-   "game": "atp:Basilashvili@Rodionov",
-   "side": "long",
-   "team": "Jurij Rodionov",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 14:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-danagu-danmed-2026-10-25",
-   "game": "atp:Medvedev@Merida",
-   "side": "long",
-   "team": "Daniel Merida Aguilar",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 09:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-28 09:45 ET",
-   "exit": 0.01,
-   "pnl": -0.0875,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-laumai-katzav-2026-10-26",
    "game": "wta:Zavatska@Mair",
@@ -196,8 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-jurrod-nikbas-2026-10-25",
+   "game": "atp:Basilashvili@Rodionov",
+   "side": "long",
+   "team": "Jurij Rodionov",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 14:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-28 14:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jurij Rodionov",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }
