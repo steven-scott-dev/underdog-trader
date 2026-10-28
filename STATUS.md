@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 03:45 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-28 03:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 11 (main 8/10, bounce 3/50)
 - Realized P&L: +2.47
 
 ## Open paper positions
-- **Sinja Kraus** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
-- **Aliaksandra Sasnovich** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Sinja Kraus** (short/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
+- **Aliaksandra Sasnovich** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 03:30 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.1200 → +0.1000
@@ -21,5 +21,4 @@ Updated: 2026-10-28 03:45 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-28 00:30 ET: Ekaterina Alexandrova [main] — take-profit @ 0.8250 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Kraus@Badosa", "market": "aec-wta-paubad-sinkra-2026-10-28", "side": "short", "team": "Sinja Kraus", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
-- `{"type": "buy", "game": "wta:Shnaider@Sasnovich", "market": "aec-wta-alisas-diashn-2026-10-27", "side": "long", "team": "Aliaksandra Sasnovich", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
