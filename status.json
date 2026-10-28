@@ -1,18 +1,68 @@
 {
- "updated": "2026-10-28T00:00:39.945913-04:00",
+ "updated": "2026-10-28T00:05:43.889281-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-28",
-  "bets": 0,
+  "bets": 2,
   "bounce_bets": 0,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-mlb-mil-tb-2026-10-27",
+   "game": "mlb:MIL@TB",
+   "side": "short",
+   "team": "Tampa Bay Rays",
+   "entry": 0.135,
+   "qty": 3.7037,
+   "tp": 0.3375,
+   "sl": 0.054,
+   "opened": "2026-10-28 00:05 ET",
+   "mode": "main",
+   "last_bid": 0.135
+  },
+  {
+   "market": "aec-wta-kamrak-ekaale-2026-10-27",
+   "game": "wta:Alexandrova@Rakhimova",
+   "side": "short",
+   "team": "Ekaterina Alexandrova",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-28 00:05 ET",
+   "mode": "main",
+   "last_bid": 0.33
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "mlb:MIL@TB",
+   "market": "aec-mlb-mil-tb-2026-10-27",
+   "side": "short",
+   "team": "Tampa Bay Rays",
+   "ask": 0.135,
+   "qty": 3.7037,
+   "stake": 0.5,
+   "mode": "main"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Alexandrova@Rakhimova",
+   "market": "aec-wta-kamrak-ekaale-2026-10-27",
+   "side": "short",
+   "team": "Ekaterina Alexandrova",
+   "ask": 0.33,
+   "qty": 1.5152,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
