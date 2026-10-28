@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 02:15 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-28 02:20 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 7 (main 7/10, bounce 0/50)
 - Realized P&L: +2.01
 
 ## Open paper positions
-- **Maya Joint** (short/main) — 1.3889 @ 0.3600, now ~0.2900, unrealized -0.0972 (TP 0.9000 / SL 0.1440)
+- **Maya Joint** (short/main) — 1.3889 @ 0.3600, now ~0.6000, unrealized +0.3333 (TP 0.9000 / SL 0.1440)
 
 ## Recent history
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
