@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 13:30 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-28 13:36 ET · Mode: **PAPER** · Result: OK (3.1s)
 
 ## Today
 - Bets placed: 27 (main 10/10, bounce 17/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 13:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-28 09:45 ET: Daniel Merida Aguilar [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Selekhmeteva@Yaneva", "market": "aec-wta-eliyan-okssel-2026-10-28", "side": "short", "team": "Oksana Selekhmeteva", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
