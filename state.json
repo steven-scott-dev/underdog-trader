@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 21,
- "bounce_bets": 11,
+ "bets": 22,
+ "bounce_bets": 12,
  "realized": 2.876,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-28 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-louaya-jazort-2026-10-28",
+   "game": "wta:Ortenzi@Ayala",
+   "side": "long",
+   "team": "Lourdes Ayala",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 10:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -450,6 +463,12 @@
    [
     1793198142.96653,
     0.08
+   ]
+  ],
+  "aec-wta-louaya-jazort-2026-10-28": [
+   [
+    1793198438.1345577,
+    0.04
    ]
   ]
  },
