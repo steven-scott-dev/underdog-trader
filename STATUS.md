@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 12:40 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-28 12:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 24 (main 10/10, bounce 14/50)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 12:25 ET: Antonia Vergara [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 12:40 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Rivera@Gormaz", "market": "aec-wta-leygor-antver-2026-10-28", "side": "short", "team": "Antonia Vergara", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
