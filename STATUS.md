@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 06:25 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-28 06:30 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 12 (main 9/10, bounce 3/50)
+- Bets placed: 13 (main 10/10, bounce 3/50)
 - Realized P&L: +2.16
 
 ## Open paper positions
-- _none_
+- **Harriet Dart** (long/main) — 1.4706 @ 0.3400, now ~0.3400, unrealized +0.0000 (TP 0.8500 / SL 0.1360)
 
 ## Recent history
 - 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
@@ -20,4 +20,4 @@ Updated: 2026-10-28 06:25 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-28 00:50 ET: Canucks [main] — take-profit @ 0.9750 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Tjen@Dart", "market": "aec-wta-hardar-jantje-2026-10-28", "side": "long", "team": "Harriet Dart", "ask": 0.34, "qty": 1.4706, "stake": 0.5, "mode": "main"}`
