@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 14:55 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 15:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 29 (main 10/10, bounce 19/50)
+- Bets placed: 30 (main 10/10, bounce 20/50)
 - Realized P&L: +2.87
 
 ## Open paper positions
-- _none_
+- **Rinky Hijikata** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 14:30 ET: Jurij Rodionov [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 14:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 11:15 ET: Luna Cinalli [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Hijikata@Fritz", "market": "aec-atp-tayfri-rinhij-2026-10-27", "side": "short", "team": "Rinky Hijikata", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
