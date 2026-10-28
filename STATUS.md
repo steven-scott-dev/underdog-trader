@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 01:20 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-28 01:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 6 (main 6/10, bounce 0/50)
@@ -18,4 +18,4 @@ Updated: 2026-10-28 01:20 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sharks", "reason": "take-profit", "pnl": 0.75}`
+- _none_
