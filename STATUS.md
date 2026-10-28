@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 09:15 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-10-28 09:20 ET · Mode: **PAPER** · Result: OK (11.5s)
 
 ## Today
 - Bets placed: 18 (main 10/10, bounce 8/50)
 - Realized P&L: +2.96
 
 ## Open paper positions
-- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 09:00 ET: Dayana Yastremska [bounce] — take-profit @ 0.1800 → +0.1000
