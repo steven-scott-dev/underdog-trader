@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 15:35 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-28 15:40 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
-- Bets placed: 30 (main 10/10, bounce 20/50)
+- Bets placed: 31 (main 10/10, bounce 21/50)
 - Realized P&L: +2.80
 
 ## Open paper positions
-- _none_
+- **Linda Klimovicova** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-28 15:25 ET: Rinky Hijikata [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-10-28 15:35 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-28 12:25 ET: Antonia Vergara [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Akugue@Klimovicova", "market": "aec-wta-linkli-nomaku-2026-10-28", "side": "long", "team": "Linda Klimovicova", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
