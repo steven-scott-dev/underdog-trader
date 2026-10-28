@@ -1,9 +1,23 @@
 {
  "date": "2026-10-28",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 3,
  "realized": 2.5002,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-alisas-diashn-2026-10-27",
+   "game": "wta:Shnaider@Sasnovich",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-28 04:55 ET",
+   "mode": "main",
+   "last_bid": 0.4
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -239,8 +253,8 @@
   ],
   "aec-wta-alisas-diashn-2026-10-27": [
    [
-    1793173539.6893103,
-    0.1
+    1793177740.0120444,
+    0.4
    ]
   ],
   "aec-wta-paubad-sinkra-2026-10-28": [
