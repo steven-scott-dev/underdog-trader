@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T02:40:36.331910-04:00",
+ "updated": "2026-10-28T02:45:33.927534-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-28",
   "bets": 8,
@@ -151,18 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maya Joint",
-   "reason": "take-profit",
-   "pnl": 0.75
-  },
-  {
-   "type": "paper_close",
-   "team": "Lanlana Tararudee",
-   "reason": "stop-loss",
-   "pnl": -0.3947
-  }
- ]
+ "actions": []
 }

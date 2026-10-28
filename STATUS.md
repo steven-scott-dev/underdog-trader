@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 02:40 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 02:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 8 (main 8/10, bounce 0/50)
@@ -20,5 +20,4 @@ Updated: 2026-10-28 02:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-28 00:25 ET: Tampa Bay Rays [main] — take-profit @ 0.3375 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maya Joint", "reason": "take-profit", "pnl": 0.75}`
-- `{"type": "paper_close", "team": "Lanlana Tararudee", "reason": "stop-loss", "pnl": -0.3947}`
+- _none_
