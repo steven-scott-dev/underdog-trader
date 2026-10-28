@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 07:25 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-28 07:30 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 14 (main 10/10, bounce 4/50)
+- Bets placed: 15 (main 10/10, bounce 5/50)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- _none_
+- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 07:10 ET: Janice Tjen [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -20,4 +20,4 @@ Updated: 2026-10-28 07:25 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-28 02:40 ET: Maya Joint [main] — take-profit @ 0.9000 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Andreeva@Kotliar", "market": "aec-wta-yelkot-eriand-2026-10-28", "side": "long", "team": "Yelyzaveta Kotliar", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
