@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 14:05 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-28 14:10 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 28 (main 10/10, bounce 18/50)
 - Realized P&L: +3.07
 
 ## Open paper positions
-- **Gabriela Knutson** (long/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
+- **Gabriela Knutson** (long/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-28 13:45 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1800 → +0.1000
