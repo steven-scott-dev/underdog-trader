@@ -1,9 +1,23 @@
 {
  "date": "2026-10-28",
- "bets": 28,
- "bounce_bets": 18,
+ "bets": 29,
+ "bounce_bets": 19,
  "realized": 2.9718,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-jurrod-nikbas-2026-10-25",
+   "game": "atp:Basilashvili@Rodionov",
+   "side": "long",
+   "team": "Jurij Rodionov",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 14:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -601,6 +615,12 @@
   "aec-wta-gabknu-alicha-2026-10-28": [
    [
     1793210436.0332813,
+    0.08
+   ]
+  ],
+  "aec-atp-jurrod-nikbas-2026-10-25": [
+   [
+    1793211645.0537567,
     0.08
    ]
   ]

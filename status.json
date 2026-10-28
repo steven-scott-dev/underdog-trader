@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-28T14:15:39.349365-04:00",
+ "updated": "2026-10-28T14:20:45.337674-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-28",
-  "bets": 28,
-  "bounce_bets": 18,
+  "bets": 29,
+  "bounce_bets": 19,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 2.9718
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-jurrod-nikbas-2026-10-25",
+   "game": "atp:Basilashvili@Rodionov",
+   "side": "long",
+   "team": "Jurij Rodionov",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-28 14:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-atp-danagu-danmed-2026-10-25",
@@ -187,10 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Gabriela Knutson",
-   "reason": "stop-loss",
-   "pnl": -0.1
+   "type": "buy",
+   "game": "atp:Basilashvili@Rodionov",
+   "market": "aec-atp-jurrod-nikbas-2026-10-25",
+   "side": "long",
+   "team": "Jurij Rodionov",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
