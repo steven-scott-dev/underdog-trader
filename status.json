@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-28T07:00:39.540283-04:00",
+ "updated": "2026-10-28T07:05:37.411440-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-28",
-  "bets": 13,
-  "bounce_bets": 3,
+  "bets": 14,
+  "bounce_bets": 4,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 2.9127
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-hardar-jantje-2026-10-28",
+   "game": "wta:Tjen@Dart",
+   "side": "short",
+   "team": "Janice Tjen",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-28 07:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-ott-veg-2026-10-27",
@@ -187,10 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Harriet Dart",
-   "reason": "take-profit",
-   "pnl": 0.75
+   "type": "buy",
+   "game": "wta:Tjen@Dart",
+   "market": "aec-wta-hardar-jantje-2026-10-28",
+   "side": "short",
+   "team": "Janice Tjen",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

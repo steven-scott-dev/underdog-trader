@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 07:00 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 07:05 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 13 (main 10/10, bounce 3/50)
+- Bets placed: 14 (main 10/10, bounce 4/50)
 - Realized P&L: +2.91
 
 ## Open paper positions
-- _none_
+- **Janice Tjen** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-28 07:00 ET: Harriet Dart [main] — take-profit @ 0.8500 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-10-28 07:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Harriet Dart", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "buy", "game": "wta:Tjen@Dart", "market": "aec-wta-hardar-jantje-2026-10-28", "side": "short", "team": "Janice Tjen", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`

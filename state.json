@@ -1,9 +1,23 @@
 {
  "date": "2026-10-28",
- "bets": 13,
- "bounce_bets": 3,
+ "bets": 14,
+ "bounce_bets": 4,
  "realized": 2.9127,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-hardar-jantje-2026-10-28",
+   "game": "wta:Tjen@Dart",
+   "side": "short",
+   "team": "Janice Tjen",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-28 07:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -285,8 +299,8 @@
   ],
   "aec-wta-hardar-jantje-2026-10-28": [
    [
-    1793183435.9640749,
-    0.34
+    1793185537.1067677,
+    0.07
    ]
   ]
  },
