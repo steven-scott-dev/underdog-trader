@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 06:35 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 06:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 13 (main 10/10, bounce 3/50)
 - Realized P&L: +2.16
 
 ## Open paper positions
-- **Harriet Dart** (long/main) — 1.4706 @ 0.3400, now ~0.2700, unrealized -0.1029 (TP 0.8500 / SL 0.1360)
+- **Harriet Dart** (long/main) — 1.4706 @ 0.3400, now ~0.3300, unrealized -0.0147 (TP 0.8500 / SL 0.1360)
 
 ## Recent history
 - 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
