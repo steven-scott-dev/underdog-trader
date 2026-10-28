@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 05:00 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-28 05:05 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 12 (main 9/10, bounce 3/50)
 - Realized P&L: +2.50
 
 ## Open paper positions
-- **Aliaksandra Sasnovich** (long/main) — 1.25 @ 0.4000, now ~0.4000, unrealized +0.0000 (TP 0.9900 / SL 0.1600)
+- **Aliaksandra Sasnovich** (long/main) — 1.25 @ 0.4000, now ~0.2700, unrealized -0.1625 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
 - 2026-10-28 04:15 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.2000 → +0.1000
