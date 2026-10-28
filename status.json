@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T09:10:43.042740-04:00",
+ "updated": "2026-10-28T09:15:50.502978-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 18,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 09:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Zavatska@Mair",
-   "market": "aec-wta-laumai-katzav-2026-10-26",
-   "side": "long",
-   "team": "Laura Mair",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

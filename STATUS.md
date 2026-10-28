@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 09:10 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-10-28 09:15 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
 - Bets placed: 18 (main 10/10, bounce 8/50)
 - Realized P&L: +2.96
 
 ## Open paper positions
-- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Laura Mair** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 09:00 ET: Dayana Yastremska [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 09:10 ET · Mode: **PAPER** · Result: OK (2.8s)
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Zavatska@Mair", "market": "aec-wta-laumai-katzav-2026-10-26", "side": "long", "team": "Laura Mair", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
