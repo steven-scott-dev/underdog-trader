@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 08:30 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-28 08:35 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 16 (main 10/10, bounce 6/50)
+- Bets placed: 17 (main 10/10, bounce 7/50)
 - Realized P&L: +2.94
 
 ## Open paper positions
-- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
+- **Dayana Yastremska** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-10-28 08:30 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Yastremska@Han", "market": "aec-wta-hanshi-dayyas-2026-10-28", "side": "short", "team": "Dayana Yastremska", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
