@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 13:45 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-10-28 13:50 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Today
 - Bets placed: 27 (main 10/10, bounce 17/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 13:45 ET · Mode: **PAPER** · Result: OK (2.8s)
 - 2026-10-28 10:20 ET: Laura Mair [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Oksana Selekhmeteva", "reason": "take-profit", "pnl": 0.1}`
+- _none_
