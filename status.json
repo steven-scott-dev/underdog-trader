@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T13:25:25.464577-04:00",
+ "updated": "2026-10-28T13:26:05.077568-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 12.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 26,
   "bounce_bets": 16,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.8718
+  "realized": 2.9718
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-eliyan-okssel-2026-10-28",
-   "game": "wta:Selekhmeteva@Yaneva",
-   "side": "short",
-   "team": "Oksana Selekhmeteva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 13:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-yelkot-eriand-2026-10-28",
-   "game": "wta:Andreeva@Kotliar",
-   "side": "long",
-   "team": "Yelyzaveta Kotliar",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 08:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-28 08:40 ET",
-   "exit": 0.02,
-   "pnl": -0.0778,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-hanshi-dayyas-2026-10-28",
    "game": "wta:Yastremska@Han",
@@ -196,13 +165,30 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-eliyan-okssel-2026-10-28",
+   "game": "wta:Selekhmeteva@Yaneva",
+   "side": "short",
+   "team": "Oksana Selekhmeteva",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-28 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-28 13:25 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Adrian Mannarino",
+   "team": "Oksana Selekhmeteva",
    "reason": "take-profit",
    "pnl": 0.1
   }
