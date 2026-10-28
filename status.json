@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:15:39.575930-04:00",
+ "updated": "2026-10-28T00:20:36.768859-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 2.5,
@@ -23,7 +23,7 @@
    "sl": 0.054,
    "opened": "2026-10-28 00:05 ET",
    "mode": "main",
-   "last_bid": 0.15
+   "last_bid": 0.26
   },
   {
    "market": "aec-wta-kamrak-ekaale-2026-10-27",
@@ -36,7 +36,7 @@
    "sl": 0.132,
    "opened": "2026-10-28 00:05 ET",
    "mode": "main",
-   "last_bid": 0.74
+   "last_bid": 0.54
   }
  ],
  "paper_history": [],
