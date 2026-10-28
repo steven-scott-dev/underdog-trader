@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 11:00 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-28 11:05 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 22 (main 10/10, bounce 12/50)
 - Realized P&L: +2.80
 
 ## Open paper positions
-- **Luna Cinalli** (short/bounce) — 1.25 @ 0.0800, now ~0.1000, unrealized +0.0250 (TP 0.1600 / SL 0.0320)
+- **Luna Cinalli** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-28 10:55 ET: Lourdes Ayala [bounce] — stop-loss @ 0.0100 → -0.0750
