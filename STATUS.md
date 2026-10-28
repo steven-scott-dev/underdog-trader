@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 11:15 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-28 11:20 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 22 (main 10/10, bounce 12/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 11:15 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Luna Cinalli", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_

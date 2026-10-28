@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T11:15:38.815888-04:00",
+ "updated": "2026-10-28T11:20:40.908195-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-28",
   "bets": 22,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Luna Cinalli",
-   "reason": "stop-loss",
-   "pnl": -0.0625
-  }
- ]
+ "actions": []
 }
