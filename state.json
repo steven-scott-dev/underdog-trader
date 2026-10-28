@@ -2,21 +2,8 @@
  "date": "2026-10-28",
  "bets": 5,
  "bounce_bets": 0,
- "realized": 1.0116,
+ "realized": 0.5116,
  "paper_positions": [
-  {
-   "market": "aec-nhl-ott-veg-2026-10-27",
-   "game": "nhl:OTT@VGK",
-   "side": "long",
-   "team": "Senators",
-   "entry": 0.11,
-   "qty": 4.5455,
-   "tp": 0.275,
-   "sl": 0.044,
-   "opened": "2026-10-28 00:35 ET",
-   "mode": "main",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-nhl-van-ana-2026-10-27",
    "game": "nhl:VAN@ANA",
@@ -28,7 +15,7 @@
    "sl": 0.156,
    "opened": "2026-10-28 00:35 ET",
    "mode": "main",
-   "last_bid": 0.39
+   "last_bid": 0.43
   }
  ],
  "paper_history": [
@@ -82,6 +69,23 @@
    "exit": 0.005,
    "pnl": -0.4884,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-ott-veg-2026-10-27",
+   "game": "nhl:OTT@VGK",
+   "side": "long",
+   "team": "Senators",
+   "entry": 0.11,
+   "qty": 4.5455,
+   "tp": 0.275,
+   "sl": 0.044,
+   "opened": "2026-10-28 00:35 ET",
+   "mode": "main",
+   "last_bid": 0.11,
+   "closed": "2026-10-28 00:40 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -110,5 +114,8 @@
     0.39
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-nhl-ott-veg-2026-10-27": 1793164236.3033342
  }
 }
