@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T12:20:46.037634-04:00",
+ "updated": "2026-10-28T12:25:36.776627-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-10-28",
   "bets": 23,
   "bounce_bets": 13,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.7385
+  "realized": 2.8385
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-leygor-antver-2026-10-28",
-   "game": "wta:Rivera@Gormaz",
-   "side": "short",
-   "team": "Antonia Vergara",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-28 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-hardar-jantje-2026-10-28",
-   "game": "wta:Tjen@Dart",
-   "side": "long",
-   "team": "Harriet Dart",
-   "entry": 0.34,
-   "qty": 1.4706,
-   "tp": 0.85,
-   "sl": 0.136,
-   "opened": "2026-10-28 06:30 ET",
-   "mode": "main",
-   "last_bid": 0.84,
-   "closed": "2026-10-28 07:00 ET",
-   "exit": 0.85,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-hardar-jantje-2026-10-28",
    "game": "wta:Tjen@Dart",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leygor-antver-2026-10-28",
+   "game": "wta:Rivera@Gormaz",
+   "side": "short",
+   "team": "Antonia Vergara",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-28 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-28 12:25 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Antonia Vergara",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
