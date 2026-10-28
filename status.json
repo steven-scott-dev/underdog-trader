@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T18:25:44.888220-04:00",
+ "updated": "2026-10-28T18:30:40.055220-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-28",
   "bets": 33,
   "bounce_bets": 23,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.6451
+  "realized": 2.5673
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-carher-carmon-2026-10-28",
-   "game": "wta:Monnet@Herea",
-   "side": "long",
-   "team": "Carmen Andreea Herea",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 18:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-leygor-antver-2026-10-28",
-   "game": "wta:Rivera@Gormaz",
-   "side": "short",
-   "team": "Antonia Vergara",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-28 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-28 12:25 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-leygor-antver-2026-10-28",
    "game": "wta:Rivera@Gormaz",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-carher-carmon-2026-10-28",
+   "game": "wta:Monnet@Herea",
+   "side": "long",
+   "team": "Carmen Andreea Herea",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 18:30 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Carmen Andreea Herea",
+   "reason": "stop-loss",
+   "pnl": -0.0778
+  }
+ ]
 }
