@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T00:40:36.825790-04:00",
+ "updated": "2026-10-28T00:45:37.285978-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-28",
   "bets": 5,
@@ -23,7 +23,7 @@
    "sl": 0.156,
    "opened": "2026-10-28 00:35 ET",
    "mode": "main",
-   "last_bid": 0.43
+   "last_bid": 0.66
   }
  ],
  "paper_history": [
@@ -97,12 +97,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Senators",
-   "reason": "stop-loss",
-   "pnl": -0.5
-  }
- ]
+ "actions": []
 }
