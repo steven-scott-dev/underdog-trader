@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 10:20 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-28 10:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 20 (main 10/10, bounce 10/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 10:20 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-28 07:00 ET: Harriet Dart [main] — take-profit @ 0.8500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Mair", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
