@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 15:15 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-28 15:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 30 (main 10/10, bounce 20/50)
 - Realized P&L: +2.87
 
 ## Open paper positions
-- **Rinky Hijikata** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
+- **Rinky Hijikata** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 14:30 ET: Jurij Rodionov [bounce] — stop-loss @ 0.0000 → -0.1000
