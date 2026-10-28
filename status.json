@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T03:20:37.191135-04:00",
+ "updated": "2026-10-28T03:25:37.208747-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 03:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.1
   }
  ],
  "paper_history": [

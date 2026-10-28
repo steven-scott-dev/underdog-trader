@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 03:20 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-28 03:25 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 9 (main 8/10, bounce 1/50)
 - Realized P&L: +2.37
 
 ## Open paper positions
-- **Aliaksandra Sasnovich** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Aliaksandra Sasnovich** (long/bounce) — 1.6667 @ 0.0600, now ~0.1000, unrealized +0.0667 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
