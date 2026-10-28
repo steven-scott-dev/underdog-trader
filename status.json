@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T16:15:37.144199-04:00",
+ "updated": "2026-10-28T16:20:45.028947-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 32,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Learner Tien",
-   "reason": "stop-loss",
-   "pnl": -0.09
-  }
- ]
+ "actions": []
 }

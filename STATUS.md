@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 16:15 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-28 16:20 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 32 (main 10/10, bounce 22/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 16:15 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-28 13:25 ET: Adrian Mannarino [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Learner Tien", "reason": "stop-loss", "pnl": -0.09}`
+- _none_
