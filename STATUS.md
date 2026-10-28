@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 08:55 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-28 09:00 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 17 (main 10/10, bounce 7/50)
-- Realized P&L: +2.86
+- Realized P&L: +2.96
 
 ## Open paper positions
-- **Dayana Yastremska** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-10-28 09:00 ET: Dayana Yastremska [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-28 08:40 ET: Yelyzaveta Kotliar [bounce] — stop-loss @ 0.0200 → -0.0778
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-28 07:10 ET: Janice Tjen [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -17,7 +18,6 @@ Updated: 2026-10-28 08:55 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
 - 2026-10-28 04:15 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
-- 2026-10-28 03:30 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Dayana Yastremska", "reason": "take-profit", "pnl": 0.1}`

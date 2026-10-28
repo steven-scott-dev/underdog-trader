@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T08:55:36.781638-04:00",
+ "updated": "2026-10-28T09:00:38.105778-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-28",
   "bets": 17,
   "bounce_bets": 7,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.8635
+  "realized": 2.9635
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-hanshi-dayyas-2026-10-28",
-   "game": "wta:Yastremska@Han",
-   "side": "short",
-   "team": "Dayana Yastremska",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 08:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-cribuc-mayjoi-2026-10-27",
-   "game": "wta:Joint@Bucsa",
-   "side": "short",
-   "team": "Maya Joint",
-   "entry": 0.36,
-   "qty": 1.3889,
-   "tp": 0.9,
-   "sl": 0.144,
-   "opened": "2026-10-28 01:55 ET",
-   "mode": "main",
-   "last_bid": 0.89,
-   "closed": "2026-10-28 02:40 ET",
-   "exit": 0.9,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-katsin-lantar-2026-10-25",
    "game": "wta:Tararudee@Siniakova",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-hanshi-dayyas-2026-10-28",
+   "game": "wta:Yastremska@Han",
+   "side": "short",
+   "team": "Dayana Yastremska",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 08:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 09:00 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Dayana Yastremska",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
