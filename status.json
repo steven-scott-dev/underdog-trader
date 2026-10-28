@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T16:05:38.575934-04:00",
+ "updated": "2026-10-28T16:10:39.159051-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 32,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 16:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Minaur@Tien",
-   "market": "aec-atp-leatie-alemin-2026-10-28",
-   "side": "long",
-   "team": "Learner Tien",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
