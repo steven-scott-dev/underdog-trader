@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 24,
- "bounce_bets": 14,
+ "bets": 25,
+ "bounce_bets": 15,
  "realized": 2.8385,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-28 12:40 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-atp-jakmen-adrman-2026-10-28",
+   "game": "atp:Mannarino@Mensik",
+   "side": "short",
+   "team": "Adrian Mannarino",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 13:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -513,6 +526,12 @@
    [
     1793205635.4821806,
     0.09
+   ]
+  ],
+  "aec-atp-jakmen-adrman-2026-10-28": [
+   [
+    1793207440.3143742,
+    0.1
    ]
   ]
  },
