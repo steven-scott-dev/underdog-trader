@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 14:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-28 14:25 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 29 (main 10/10, bounce 19/50)
 - Realized P&L: +2.97
 
 ## Open paper positions
-- **Jurij Rodionov** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Jurij Rodionov** (long/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-28 14:15 ET: Gabriela Knutson [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 14:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-28 10:55 ET: Lourdes Ayala [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Basilashvili@Rodionov", "market": "aec-atp-jurrod-nikbas-2026-10-25", "side": "long", "team": "Jurij Rodionov", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_

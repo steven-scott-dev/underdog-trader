@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T14:20:45.337674-04:00",
+ "updated": "2026-10-28T14:25:41.343932-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-28",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-10-28 14:20 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Basilashvili@Rodionov",
-   "market": "aec-atp-jurrod-nikbas-2026-10-25",
-   "side": "long",
-   "team": "Jurij Rodionov",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
