@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 13:26 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-10-28 13:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 26 (main 10/10, bounce 16/50)
+- Bets placed: 27 (main 10/10, bounce 17/50)
 - Realized P&L: +2.97
 
 ## Open paper positions
-- _none_
+- **Oksana Selekhmeteva** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 13:25 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1200 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 13:26 ET · Mode: **PAPER** · Result: OK (12.0s)
 - 2026-10-28 09:45 ET: Daniel Merida Aguilar [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Oksana Selekhmeteva", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "wta:Selekhmeteva@Yaneva", "market": "aec-wta-eliyan-okssel-2026-10-28", "side": "short", "team": "Oksana Selekhmeteva", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
