@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 15:25 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-28 15:30 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 30 (main 10/10, bounce 20/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 15:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-28 12:25 ET: Antonia Vergara [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rinky Hijikata", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
