@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 18:20 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-28 18:25 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 33 (main 10/10, bounce 23/50)
 - Realized P&L: +2.65
 
 ## Open paper positions
-- **Carmen Andreea Herea** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Carmen Andreea Herea** (long/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 16:15 ET: Learner Tien [bounce] — stop-loss @ 0.0100 → -0.0900
