@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 08:00 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-28 08:05 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 15 (main 10/10, bounce 5/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 08:00 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yelyzaveta Kotliar", "reason": "take-profit", "pnl": 0.1}`
+- _none_

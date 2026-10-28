@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T08:00:40.930400-04:00",
+ "updated": "2026-10-28T08:05:34.608965-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-28",
   "bets": 15,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Yelyzaveta Kotliar",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
