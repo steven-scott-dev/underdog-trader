@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T03:55:37.827706-04:00",
+ "updated": "2026-10-28T04:00:37.474058-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 03:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
   },
   {
    "market": "aec-wta-alisas-diashn-2026-10-27",

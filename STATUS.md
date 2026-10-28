@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 03:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-28 04:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 11 (main 8/10, bounce 3/50)
 - Realized P&L: +2.47
 
 ## Open paper positions
-- **Sinja Kraus** (short/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
+- **Sinja Kraus** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 - **Aliaksandra Sasnovich** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
