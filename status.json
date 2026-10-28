@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T08:40:34.586804-04:00",
+ "updated": "2026-10-28T08:45:39.520147-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-28",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 08:35 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Yelyzaveta Kotliar",
-   "reason": "stop-loss",
-   "pnl": -0.0778
-  }
- ]
+ "actions": []
 }
