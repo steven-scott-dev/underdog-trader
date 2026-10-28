@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-28T10:50:37.275361-04:00",
+ "updated": "2026-10-28T10:55:39.000658-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 22,
   "bounce_bets": 12,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.876
+  "realized": 2.801
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.032,
    "opened": "2026-10-28 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-louaya-jazort-2026-10-28",
-   "game": "wta:Ortenzi@Ayala",
-   "side": "long",
-   "team": "Lourdes Ayala",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-28 10:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-alisas-diashn-2026-10-27",
-   "game": "wta:Shnaider@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 03:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.15,
-   "closed": "2026-10-28 04:15 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-alisas-diashn-2026-10-27",
    "game": "wta:Shnaider@Sasnovich",
@@ -209,8 +179,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-louaya-jazort-2026-10-28",
+   "game": "wta:Ortenzi@Ayala",
+   "side": "long",
+   "team": "Lourdes Ayala",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 10:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-28 10:55 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Lourdes Ayala",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }
