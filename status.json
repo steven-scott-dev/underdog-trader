@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T16:10:39.159051-04:00",
+ "updated": "2026-10-28T16:15:37.144199-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-28",
   "bets": 32,
   "bounce_bets": 22,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.7351
+  "realized": 2.6451
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-leatie-alemin-2026-10-28",
-   "game": "atp:Minaur@Tien",
-   "side": "long",
-   "team": "Learner Tien",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 16:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-alitub-luncin-2026-10-28",
-   "game": "wta:Cinalli@Tubello",
-   "side": "short",
-   "team": "Luna Cinalli",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 10:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-28 11:15 ET",
-   "exit": 0.03,
-   "pnl": -0.0625,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-leygor-antver-2026-10-28",
    "game": "wta:Rivera@Gormaz",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-leatie-alemin-2026-10-28",
+   "game": "atp:Minaur@Tien",
+   "side": "long",
+   "team": "Learner Tien",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 16:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 16:15 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Learner Tien",
+   "reason": "stop-loss",
+   "pnl": -0.09
+  }
+ ]
 }
