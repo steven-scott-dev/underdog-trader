@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 08:10 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-28 08:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 16 (main 10/10, bounce 6/50)
 - Realized P&L: +2.94
 
 ## Open paper positions
-- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Yelyzaveta Kotliar** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 08:10 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Andreeva@Kotliar", "market": "aec-wta-yelkot-eriand-2026-10-28", "side": "long", "team": "Yelyzaveta Kotliar", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
