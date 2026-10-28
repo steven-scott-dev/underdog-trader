@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 12:55 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-28 13:00 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 24 (main 10/10, bounce 14/50)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Antonia Vergara** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-28 12:25 ET: Antonia Vergara [bounce] — take-profit @ 0.1000 → +0.1000
