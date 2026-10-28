@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 06:55 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-28 07:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 13 (main 10/10, bounce 3/50)
-- Realized P&L: +2.16
+- Realized P&L: +2.91
 
 ## Open paper positions
-- **Harriet Dart** (long/main) — 1.4706 @ 0.3400, now ~0.8400, unrealized +0.7353 (TP 0.8500 / SL 0.1360)
+- _none_
 
 ## Recent history
+- 2026-10-28 07:00 ET: Harriet Dart [main] — take-profit @ 0.8500 → +0.7500
 - 2026-10-28 05:10 ET: Aliaksandra Sasnovich [main] — stop-loss @ 0.1300 → -0.3375
 - 2026-10-28 04:15 ET: Aliaksandra Sasnovich [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-28 04:05 ET: Sinja Kraus [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -17,7 +18,6 @@ Updated: 2026-10-28 06:55 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-28 02:40 ET: Lanlana Tararudee [main] — stop-loss @ 0.0800 → -0.3947
 - 2026-10-28 02:40 ET: Maya Joint [main] — take-profit @ 0.9000 → +0.7500
 - 2026-10-28 01:20 ET: Sharks [main] — take-profit @ 0.2750 → +0.7500
-- 2026-10-28 00:50 ET: Canucks [main] — take-profit @ 0.9750 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Harriet Dart", "reason": "take-profit", "pnl": 0.75}`

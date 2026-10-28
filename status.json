@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T06:55:34.719390-04:00",
+ "updated": "2026-10-28T07:00:39.540283-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 13,
   "bounce_bets": 3,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.1627
+  "realized": 2.9127
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-hardar-jantje-2026-10-28",
-   "game": "wta:Tjen@Dart",
-   "side": "long",
-   "team": "Harriet Dart",
-   "entry": 0.34,
-   "qty": 1.4706,
-   "tp": 0.85,
-   "sl": 0.136,
-   "opened": "2026-10-28 06:30 ET",
-   "mode": "main",
-   "last_bid": 0.84
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-mlb-mil-tb-2026-10-27",
-   "game": "mlb:MIL@TB",
-   "side": "long",
-   "team": "Milwaukee Brewers",
-   "entry": 0.215,
-   "qty": 2.3256,
-   "tp": 0.5375,
-   "sl": 0.086,
-   "opened": "2026-10-28 00:25 ET",
-   "mode": "main",
-   "last_bid": 0.215,
-   "closed": "2026-10-28 00:30 ET",
-   "exit": 0.005,
-   "pnl": -0.4884,
-   "reason": "settled"
-  },
   {
    "market": "aec-nhl-ott-veg-2026-10-27",
    "game": "nhl:OTT@VGK",
@@ -196,8 +165,32 @@
    "exit": 0.13,
    "pnl": -0.3375,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-hardar-jantje-2026-10-28",
+   "game": "wta:Tjen@Dart",
+   "side": "long",
+   "team": "Harriet Dart",
+   "entry": 0.34,
+   "qty": 1.4706,
+   "tp": 0.85,
+   "sl": 0.136,
+   "opened": "2026-10-28 06:30 ET",
+   "mode": "main",
+   "last_bid": 0.84,
+   "closed": "2026-10-28 07:00 ET",
+   "exit": 0.85,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Harriet Dart",
+   "reason": "take-profit",
+   "pnl": 0.75
+  }
+ ]
 }
