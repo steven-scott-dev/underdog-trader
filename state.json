@@ -2,21 +2,8 @@
  "date": "2026-10-28",
  "bets": 26,
  "bounce_bets": 16,
- "realized": 2.8385,
+ "realized": 2.7718,
  "paper_positions": [
-  {
-   "market": "aec-wta-leygor-antver-2026-10-28",
-   "game": "wta:Rivera@Gormaz",
-   "side": "short",
-   "team": "Antonia Vergara",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-atp-jakmen-adrman-2026-10-28",
    "game": "atp:Mannarino@Mensik",
@@ -41,7 +28,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 13:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -435,6 +422,23 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-leygor-antver-2026-10-28",
+   "game": "wta:Rivera@Gormaz",
+   "side": "short",
+   "team": "Antonia Vergara",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-28 13:20 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -564,6 +568,7 @@
   "aec-atp-danagu-danmed-2026-10-25": 1793196934.463676,
   "aec-wta-laumai-katzav-2026-10-26": 1793199037.581325,
   "aec-wta-louaya-jazort-2026-10-28": 1793201137.1045175,
-  "aec-wta-alitub-luncin-2026-10-28": 1793202337.1622999
+  "aec-wta-alitub-luncin-2026-10-28": 1793202337.1622999,
+  "aec-wta-leygor-antver-2026-10-28": 1793209835.5870922
  }
 }

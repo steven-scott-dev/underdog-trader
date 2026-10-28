@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-28T13:15:40.549217-04:00",
+ "updated": "2026-10-28T13:20:47.838496-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-10-28",
   "bets": 26,
   "bounce_bets": 16,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.8385
+  "realized": 2.7718
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-leygor-antver-2026-10-28",
-   "game": "wta:Rivera@Gormaz",
-   "side": "short",
-   "team": "Antonia Vergara",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 12:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-atp-jakmen-adrman-2026-10-28",
    "game": "atp:Mannarino@Mensik",
@@ -49,27 +36,10 @@
    "sl": 0.024,
    "opened": "2026-10-28 13:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-hardar-jantje-2026-10-28",
-   "game": "wta:Tjen@Dart",
-   "side": "short",
-   "team": "Janice Tjen",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-28 07:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-28 07:10 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-yelkot-eriand-2026-10-28",
    "game": "wta:Andreeva@Kotliar",
@@ -222,20 +192,32 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-leygor-antver-2026-10-28",
+   "game": "wta:Rivera@Gormaz",
+   "side": "short",
+   "team": "Antonia Vergara",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 12:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-28 13:20 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Selekhmeteva@Yaneva",
-   "market": "aec-wta-eliyan-okssel-2026-10-28",
-   "side": "short",
-   "team": "Oksana Selekhmeteva",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
+   "type": "paper_close",
+   "team": "Antonia Vergara",
+   "reason": "stop-loss",
+   "pnl": -0.0667
   }
  ]
 }
