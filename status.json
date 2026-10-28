@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-28T01:15:41.109358-04:00",
+ "updated": "2026-10-28T01:20:38.457229-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-28",
   "bets": 6,
   "bounce_bets": 0,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.2616
+  "realized": 2.0116
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-buf-sj-2026-10-27",
-   "game": "nhl:BUF@SJ",
-   "side": "short",
-   "team": "Sharks",
-   "entry": 0.11,
-   "qty": 4.5455,
-   "tp": 0.275,
-   "sl": 0.044,
-   "opened": "2026-10-28 01:15 ET",
-   "mode": "main",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -111,20 +97,32 @@
    "exit": 0.975,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-buf-sj-2026-10-27",
+   "game": "nhl:BUF@SJ",
+   "side": "short",
+   "team": "Sharks",
+   "entry": 0.11,
+   "qty": 4.5455,
+   "tp": 0.275,
+   "sl": 0.044,
+   "opened": "2026-10-28 01:15 ET",
+   "mode": "main",
+   "last_bid": 0.11,
+   "closed": "2026-10-28 01:20 ET",
+   "exit": 0.275,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:BUF@SJ",
-   "market": "aec-nhl-buf-sj-2026-10-27",
-   "side": "short",
+   "type": "paper_close",
    "team": "Sharks",
-   "ask": 0.11,
-   "qty": 4.5455,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "take-profit",
+   "pnl": 0.75
   }
  ]
 }
