@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T12:15:41.651379-04:00",
+ "updated": "2026-10-28T12:20:46.037634-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-28",
   "bets": 23,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-28 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Rivera@Gormaz",
-   "market": "aec-wta-leygor-antver-2026-10-28",
-   "side": "short",
-   "team": "Antonia Vergara",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

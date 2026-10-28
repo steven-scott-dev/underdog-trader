@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 12:15 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-28 12:20 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 23 (main 10/10, bounce 13/50)
 - Realized P&L: +2.74
 
 ## Open paper positions
-- **Antonia Vergara** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Antonia Vergara** (short/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-28 11:15 ET: Luna Cinalli [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-10-28 12:15 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-28 08:00 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Rivera@Gormaz", "market": "aec-wta-leygor-antver-2026-10-28", "side": "short", "team": "Antonia Vergara", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
