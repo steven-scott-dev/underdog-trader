@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 03:00 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-29 03:05 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 6 (main 2/10, bounce 4/50)
@@ -18,4 +18,4 @@ Updated: 2026-10-29 03:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Zeynep Sonmez", "reason": "stop-loss", "pnl": -0.4697}`
+- _none_

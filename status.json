@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T03:00:39.242149-04:00",
+ "updated": "2026-10-29T03:05:33.243552-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-29",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Zeynep Sonmez",
-   "reason": "stop-loss",
-   "pnl": -0.4697
-  }
- ]
+ "actions": []
 }
