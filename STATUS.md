@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 19:00 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-29 19:06 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 37 (main 10/10, bounce 27/50)
+- Bets placed: 38 (main 10/10, bounce 28/50)
 - Realized P&L: -0.81
 
 ## Open paper positions
-- _none_
+- **Martina Colmegna** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-29 18:35 ET: Martina Colmegna [bounce] — stop-loss @ 0.0100 → -0.0889
@@ -20,4 +20,4 @@ Updated: 2026-10-29 19:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-29 14:45 ET: Katarina Zavatska [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Colmegna@Maria", "market": "aec-wta-tatmar-marcol-2026-10-28", "side": "short", "team": "Martina Colmegna", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`

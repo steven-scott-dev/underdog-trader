@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 37,
- "bounce_bets": 27,
+ "bets": 38,
+ "bounce_bets": 28,
  "realized": -0.8104,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-tatmar-marcol-2026-10-28",
+   "game": "wta:Colmegna@Maria",
+   "side": "short",
+   "team": "Martina Colmegna",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 19:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -783,8 +797,8 @@
   ],
   "aec-wta-tatmar-marcol-2026-10-28": [
    [
-    1793311243.1088347,
-    0.09
+    1793315165.170016,
+    0.07
    ]
   ]
  },
