@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 09:45 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-29 09:50 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 13 (main 6/10, bounce 7/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 09:45 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Valentin Vacherot", "reason": "take-profit", "pnl": 0.75}`
+- _none_

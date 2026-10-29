@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T09:45:37.418891-04:00",
+ "updated": "2026-10-29T09:50:37.969550-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-29",
   "bets": 13,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Valentin Vacherot",
-   "reason": "take-profit",
-   "pnl": 0.75
-  }
- ]
+ "actions": []
 }
