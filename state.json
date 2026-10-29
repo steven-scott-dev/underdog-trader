@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 38,
- "bounce_bets": 28,
+ "bets": 39,
+ "bounce_bets": 29,
  "realized": 2.5973,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.1
   },
   {
    "market": "aec-nhl-phi-was-2026-10-28",
@@ -28,7 +28,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-wta-fiofer-adrrea-2026-10-28",
@@ -42,6 +42,19 @@
    "opened": "2026-10-28 21:25 ET",
    "mode": "bounce",
    "last_bid": 0.03
+  },
+  {
+   "market": "aec-nba-gs-min-2026-10-28",
+   "game": "nba:GS@MIN",
+   "side": "short",
+   "team": "Timberwolves",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -821,6 +834,12 @@
    [
     1793237148.690544,
     0.06
+   ]
+  ],
+  "aec-nba-gs-min-2026-10-28": [
+   [
+    1793237744.0839283,
+    0.09
    ]
   ]
  },
