@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T16:55:42.900016-04:00",
+ "updated": "2026-10-29T17:00:39.465478-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-29",
-  "bets": 35,
-  "bounce_bets": 25,
+  "bets": 36,
+  "bounce_bets": 26,
   "max_main": 10,
   "max_bounce": 50,
   "realized": -0.7415
@@ -24,6 +24,19 @@
    "opened": "2026-10-29 16:55 ET",
    "mode": "bounce",
    "last_bid": 0.09
+  },
+  {
+   "market": "aec-wta-markub-lispig-2026-10-29",
+   "game": "wta:Pigato@Kubka",
+   "side": "short",
+   "team": "Lisa Pigato",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 17:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -201,25 +214,13 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Miriam Bulgaru",
-   "reason": "stop-loss",
-   "pnl": -0.0889
-  },
-  {
-   "type": "paper_close",
-   "team": "Maria Lourdes Carle",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  },
-  {
    "type": "buy",
-   "game": "wta:Strakhova@Hercog",
-   "market": "aec-wta-polher-valstr-2026-10-28",
+   "game": "wta:Pigato@Kubka",
+   "market": "aec-wta-markub-lispig-2026-10-29",
    "side": "short",
-   "team": "Valeriya Strakhova",
-   "ask": 0.09,
-   "qty": 1.1111,
+   "team": "Lisa Pigato",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }

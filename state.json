@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 35,
- "bounce_bets": 25,
+ "bets": 36,
+ "bounce_bets": 26,
  "realized": -0.7415,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-10-29 16:55 ET",
    "mode": "bounce",
    "last_bid": 0.09
+  },
+  {
+   "market": "aec-wta-markub-lispig-2026-10-29",
+   "game": "wta:Pigato@Kubka",
+   "side": "short",
+   "team": "Lisa Pigato",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 17:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -736,6 +749,12 @@
    [
     1793307342.7099879,
     0.09
+   ]
+  ],
+  "aec-wta-markub-lispig-2026-10-29": [
+   [
+    1793307639.2498095,
+    0.1
    ]
   ]
  },
