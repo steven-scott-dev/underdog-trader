@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 04:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-29 04:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 7 (main 2/10, bounce 5/50)
 - Realized P&L: +0.68
 
 ## Open paper positions
-- **Yulia Putintseva** (short/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
+- **Yulia Putintseva** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
