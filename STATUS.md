@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 20:36 ET · Mode: **PAPER** · Result: OK (21.9s)
+Updated: 2026-10-28 20:41 ET · Mode: **PAPER** · Result: OK (23.7s)
 
 ## Today
-- Bets placed: 33 (main 10/10, bounce 23/50)
+- Bets placed: 34 (main 10/10, bounce 24/50)
 - Realized P&L: +2.57
 
 ## Open paper positions
-- _none_
+- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 18:30 ET: Carmen Andreea Herea [bounce] — stop-loss @ 0.0200 → -0.0778
@@ -20,4 +20,4 @@ Updated: 2026-10-28 20:36 ET · Mode: **PAPER** · Result: OK (21.9s)
 - 2026-10-28 13:25 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:DEN@NO", "market": "aec-nba-den-no-2026-10-28", "side": "short", "team": "Pelicans", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
