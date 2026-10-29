@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T22:20:47.316685-04:00",
+ "updated": "2026-10-28T22:25:43.114186-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.5,
+ "duration_s": 3.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.045
+   "last_bid": 0.035
   },
   {
    "market": "aec-nhl-cgy-edm-2026-10-28",
