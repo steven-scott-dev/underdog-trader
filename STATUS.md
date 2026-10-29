@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 16:35 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-29 16:40 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 33 (main 10/10, bounce 23/50)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- **Miriam Bulgaru** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Miriam Bulgaru** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 15:15 ET: Tallon Griekspoor [bounce] — stop-loss @ 0.0100 → -0.0900
