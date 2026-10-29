@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T05:45:39.565936-04:00",
+ "updated": "2026-10-29T05:50:36.264143-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-29",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.112,
    "opened": "2026-10-29 05:45 ET",
    "mode": "main",
-   "last_bid": 0.28
+   "last_bid": 0.22
   }
  ],
  "paper_history": [
@@ -165,17 +165,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Sun@Timofeeva",
-   "market": "aec-wta-martim-xinsun-2026-10-29",
-   "side": "short",
-   "team": "Xinran Sun",
-   "ask": 0.28,
-   "qty": 1.7857,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
