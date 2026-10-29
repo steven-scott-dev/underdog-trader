@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T09:30:37.796817-04:00",
+ "updated": "2026-10-29T09:35:39.548106-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-29",
   "bets": 13,
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Jodar@Vacherot",
-   "market": "aec-atp-valvac-rafjod-2026-10-29",
-   "side": "long",
-   "team": "Valentin Vacherot",
-   "ask": 0.39,
-   "qty": 1.2821,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }

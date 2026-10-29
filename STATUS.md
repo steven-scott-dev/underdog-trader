@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 09:30 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-29 09:35 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 13 (main 6/10, bounce 7/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 09:30 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Jodar@Vacherot", "market": "aec-atp-valvac-rafjod-2026-10-29", "side": "long", "team": "Valentin Vacherot", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
+- _none_
