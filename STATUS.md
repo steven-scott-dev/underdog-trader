@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 05:05 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-29 05:10 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 8 (main 3/10, bounce 5/50)
-- Realized P&L: +0.61
+- Realized P&L: +0.29
 
 ## Open paper positions
-- **Xinran Sun** (short/main) — 1.4286 @ 0.3500, now ~0.1800, unrealized -0.2429 (TP 0.8750 / SL 0.1400)
+- _none_
 
 ## Recent history
+- 2026-10-29 05:10 ET: Xinran Sun [main] — stop-loss @ 0.1300 → -0.3143
 - 2026-10-29 04:55 ET: Yulia Putintseva [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
@@ -19,4 +20,4 @@ Updated: 2026-10-29 05:05 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Xinran Sun", "reason": "stop-loss", "pnl": -0.3143}`

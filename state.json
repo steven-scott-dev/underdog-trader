@@ -2,22 +2,8 @@
  "date": "2026-10-29",
  "bets": 8,
  "bounce_bets": 5,
- "realized": 0.6053,
- "paper_positions": [
-  {
-   "market": "aec-wta-martim-xinsun-2026-10-29",
-   "game": "wta:Sun@Timofeeva",
-   "side": "short",
-   "team": "Xinran Sun",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-29 05:00 ET",
-   "mode": "main",
-   "last_bid": 0.18
-  }
- ],
+ "realized": 0.291,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -137,6 +123,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-martim-xinsun-2026-10-29",
+   "game": "wta:Sun@Timofeeva",
+   "side": "short",
+   "team": "Xinran Sun",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-29 05:00 ET",
+   "mode": "main",
+   "last_bid": 0.18,
+   "closed": "2026-10-29 05:10 ET",
+   "exit": 0.13,
+   "pnl": -0.3143,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -174,6 +177,7 @@
  },
  "cooldowns": {
   "aec-wta-jiltei-zeyson-2026-10-28": 1793259037.9449353,
-  "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755
+  "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755,
+  "aec-wta-martim-xinsun-2026-10-29": 1793266835.4632237
  }
 }
