@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-29T15:10:42.292045-04:00",
+ "updated": "2026-10-29T15:15:38.385135-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-29",
   "bets": 32,
   "bounce_bets": 22,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.4626
+  "realized": -0.5526
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-alezve-talgri-2026-10-29",
-   "game": "atp:Griekspoor@Zverev",
-   "side": "short",
-   "team": "Tallon Griekspoor",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 14:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-susban-elsjac-2026-10-29",
-   "game": "wta:Jacquemot@Bandecchi",
-   "side": "long",
-   "team": "Susan Bandecchi",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-29 12:15 ET",
-   "mode": "main",
-   "last_bid": 0.27,
-   "closed": "2026-10-29 12:40 ET",
-   "exit": 0.08,
-   "pnl": -0.4,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-frajon-marsou-2026-10-28",
    "game": "wta:Souza@Jones",
@@ -196,15 +165,32 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-alezve-talgri-2026-10-29",
+   "game": "atp:Griekspoor@Zverev",
+   "side": "short",
+   "team": "Tallon Griekspoor",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 14:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-29 15:15 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Katarina Zavatska",
-   "reason": "take-profit",
-   "pnl": 0.1
+   "team": "Tallon Griekspoor",
+   "reason": "stop-loss",
+   "pnl": -0.09
   }
  ]
 }
