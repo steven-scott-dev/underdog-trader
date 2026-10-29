@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-29T12:10:45.403121-04:00",
+ "updated": "2026-10-29T12:15:37.962395-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-29",
-  "bets": 20,
+  "bets": 21,
   "bounce_bets": 12,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.9783
+  "realized": 0.8883
  },
  "paper_positions": [
   {
@@ -23,40 +23,23 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.45
   },
   {
-   "market": "aec-wta-lucste-aylaks-2026-10-28",
-   "game": "wta:Aksu@Stefanini",
-   "side": "short",
-   "team": "Ayla Aksu",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 12:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "market": "aec-wta-susban-elsjac-2026-10-29",
+   "game": "wta:Jacquemot@Bandecchi",
+   "side": "long",
+   "team": "Susan Bandecchi",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-29 12:15 ET",
+   "mode": "main",
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-martim-xinsun-2026-10-29",
-   "game": "wta:Sun@Timofeeva",
-   "side": "short",
-   "team": "Xinran Sun",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-10-29 05:45 ET",
-   "mode": "main",
-   "last_bid": 0.66,
-   "closed": "2026-10-29 06:00 ET",
-   "exit": 0.7,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-valvac-rafjod-2026-10-29",
    "game": "atp:Jodar@Vacherot",
@@ -209,15 +192,43 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "side": "short",
+   "team": "Ayla Aksu",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 12:15 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Yasmine Kabbaj",
-   "reason": "take-profit",
-   "pnl": 0.1
+   "team": "Ayla Aksu",
+   "reason": "stop-loss",
+   "pnl": -0.09
+  },
+  {
+   "type": "buy",
+   "game": "wta:Jacquemot@Bandecchi",
+   "market": "aec-wta-susban-elsjac-2026-10-29",
+   "side": "long",
+   "team": "Susan Bandecchi",
+   "ask": 0.4,
+   "qty": 1.25,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
