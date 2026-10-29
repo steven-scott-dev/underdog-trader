@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "bets": 25,
+ "bets": 26,
  "bounce_bets": 16,
  "realized": -0.0895,
  "paper_positions": [
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.14
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -28,7 +28,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.1
   },
   {
    "market": "aec-wta-frajon-marsou-2026-10-28",
@@ -41,7 +41,20 @@
    "sl": 0.028,
    "opened": "2026-10-29 12:50 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "side": "long",
+   "team": "Lucrezia Stefanini",
+   "entry": 0.25,
+   "qty": 2.0,
+   "tp": 0.625,
+   "sl": 0.1,
+   "opened": "2026-10-29 12:55 ET",
+   "mode": "main",
+   "last_bid": 0.25
   }
  ],
  "paper_history": [
@@ -502,8 +515,8 @@
   ],
   "aec-wta-lucste-aylaks-2026-10-28": [
    [
-    1793289643.3466685,
-    0.1
+    1793292948.6191676,
+    0.25
    ]
   ],
   "aec-wta-susban-elsjac-2026-10-29": [
