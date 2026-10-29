@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 04:55 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-29 05:00 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 7 (main 2/10, bounce 5/50)
+- Bets placed: 8 (main 3/10, bounce 5/50)
 - Realized P&L: +0.61
 
 ## Open paper positions
-- _none_
+- **Xinran Sun** (short/main) — 1.4286 @ 0.3500, now ~0.3500, unrealized +0.0000 (TP 0.8750 / SL 0.1400)
 
 ## Recent history
 - 2026-10-29 04:55 ET: Yulia Putintseva [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -19,4 +19,4 @@ Updated: 2026-10-29 04:55 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yulia Putintseva", "reason": "stop-loss", "pnl": -0.075}`
+- `{"type": "buy", "game": "wta:Sun@Timofeeva", "market": "aec-wta-martim-xinsun-2026-10-29", "side": "short", "team": "Xinran Sun", "ask": 0.35, "qty": 1.4286, "stake": 0.5, "mode": "main"}`
