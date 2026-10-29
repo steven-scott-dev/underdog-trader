@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 10:45 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-29 10:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 15 (main 7/10, bounce 8/50)
 - Realized P&L: +1.34
 
 ## Open paper positions
-- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.7700, unrealized +0.6667 (TP 0.8250 / SL 0.1320)
+- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.3800, unrealized +0.0758 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-10-29 10:45 ET: Erika Andreeva [bounce] — take-profit @ 0.1200 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-29 10:45 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-29 04:55 ET: Yulia Putintseva [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Erika Andreeva", "reason": "take-profit", "pnl": 0.1}`
+- _none_
