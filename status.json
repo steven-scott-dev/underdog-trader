@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T16:45:38.515622-04:00",
+ "updated": "2026-10-29T16:50:41.536012-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-29",
-  "bets": 33,
-  "bounce_bets": 23,
+  "bets": 34,
+  "bounce_bets": 24,
   "max_main": 10,
   "max_bounce": 50,
   "realized": -0.5526
@@ -22,6 +22,19 @@
    "tp": 0.18,
    "sl": 0.036,
    "opened": "2026-10-29 16:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-marcar-julgra-2026-10-28",
+   "game": "wta:Grabher@Carle",
+   "side": "long",
+   "team": "Maria Lourdes Carle",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-29 16:50 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Grabher@Carle",
+   "market": "aec-wta-marcar-julgra-2026-10-28",
+   "side": "long",
+   "team": "Maria Lourdes Carle",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
