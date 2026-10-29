@@ -1,9 +1,23 @@
 {
  "date": "2026-10-28",
- "bets": 44,
- "bounce_bets": 34,
+ "bets": 45,
+ "bounce_bets": 35,
  "realized": 2.6222,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-okc-dal-2026-10-28",
+   "game": "nba:OKC@DAL",
+   "side": "long",
+   "team": "Thunder",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-28 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-mlb-mil-tb-2026-10-27",
@@ -964,6 +978,12 @@
    [
     1793241938.9606311,
     0.04
+   ]
+  ],
+  "aec-nba-okc-dal-2026-10-28": [
+   [
+    1793245537.3379633,
+    0.05
    ]
   ]
  },

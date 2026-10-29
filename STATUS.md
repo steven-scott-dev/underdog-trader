@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 23:40 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-28 23:45 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 44 (main 10/10, bounce 34/50)
+- Bets placed: 45 (main 10/10, bounce 35/50)
 - Realized P&L: +2.62
 
 ## Open paper positions
-- _none_
+- **Thunder** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-28 22:50 ET: Kimberly Birrell [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-28 23:40 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-28 21:50 ET: Flyers [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:OKC@DAL", "market": "aec-nba-okc-dal-2026-10-28", "side": "long", "team": "Thunder", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
