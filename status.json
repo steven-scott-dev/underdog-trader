@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T09:00:37.088844-04:00",
+ "updated": "2026-10-29T09:05:38.522605-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-29",
   "bets": 12,
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 09:00 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.12
   }
  ],
  "paper_history": [
@@ -212,23 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Valentin Vacherot",
-   "reason": "stop-loss",
-   "pnl": -0.3714
-  },
-  {
-   "type": "buy",
-   "game": "wta:Linette@Tagger",
-   "market": "aec-wta-liltag-maglin-2026-10-29",
-   "side": "short",
-   "team": "Magda Linette",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
