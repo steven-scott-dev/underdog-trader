@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 32,
- "bounce_bets": 22,
+ "bets": 33,
+ "bounce_bets": 23,
  "realized": -0.5526,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-nadpod-mirbul-2026-10-29",
+   "game": "wta:Bulgaru@Podoroska",
+   "side": "short",
+   "team": "Miriam Bulgaru",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 16:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -670,6 +684,12 @@
    [
     1793298342.724701,
     0.1
+   ]
+  ],
+  "aec-wta-nadpod-mirbul-2026-10-29": [
+   [
+    1793305839.8995585,
+    0.09
    ]
   ]
  },
