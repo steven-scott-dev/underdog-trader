@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 06:00 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-29 06:05 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 9 (main 4/10, bounce 5/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 06:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-29 00:35 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Xinran Sun", "reason": "take-profit", "pnl": 0.75}`
+- _none_
