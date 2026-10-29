@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 15,
- "bounce_bets": 8,
+ "bets": 16,
+ "bounce_bets": 9,
  "realized": 1.345,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.22
+   "last_bid": 0.34
+  },
+  {
+   "market": "aec-wta-marrib-eriand-2026-10-29",
+   "game": "wta:Andreeva@Ribera",
+   "side": "short",
+   "team": "Erika Andreeva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -316,8 +329,8 @@
   ],
   "aec-wta-marrib-eriand-2026-10-29": [
    [
-    1793284245.0900567,
-    0.06
+    1793286035.7016735,
+    0.1
    ]
   ]
  },
