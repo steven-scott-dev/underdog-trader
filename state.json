@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 16,
+ "bets": 17,
  "bounce_bets": 9,
  "realized": 0.945,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-alemic-artfil-2026-10-29",
+   "game": "atp:Fils@Michelsen",
+   "side": "long",
+   "team": "Alex Michelsen",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "tp": 0.95,
+   "sl": 0.152,
+   "opened": "2026-10-29 11:35 ET",
+   "mode": "main",
+   "last_bid": 0.38
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -338,6 +352,12 @@
    [
     1793286035.7016735,
     0.1
+   ]
+  ],
+  "aec-atp-alemic-artfil-2026-10-29": [
+   [
+    1793288134.5313704,
+    0.38
    ]
   ]
  },

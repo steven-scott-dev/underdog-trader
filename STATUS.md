@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 11:30 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-10-29 11:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 16 (main 7/10, bounce 9/50)
+- Bets placed: 17 (main 8/10, bounce 9/50)
 - Realized P&L: +0.94
 
 ## Open paper positions
-- _none_
+- **Alex Michelsen** (long/main) — 1.3158 @ 0.3800, now ~0.3800, unrealized +0.0000 (TP 0.9500 / SL 0.1520)
 
 ## Recent history
 - 2026-10-29 11:15 ET: Cameron Norrie [main] — stop-loss @ 0.0000 → -0.5000
@@ -20,4 +20,4 @@ Updated: 2026-10-29 11:30 ET · Mode: **PAPER** · Result: OK (3.0s)
 - 2026-10-29 06:00 ET: Xinran Sun [main] — take-profit @ 0.7000 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Fils@Michelsen", "market": "aec-atp-alemic-artfil-2026-10-29", "side": "long", "team": "Alex Michelsen", "ask": 0.38, "qty": 1.3158, "stake": 0.5, "mode": "main"}`
