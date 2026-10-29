@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T17:05:38.625744-04:00",
+ "updated": "2026-10-29T17:10:40.593298-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-29",
   "bets": 36,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 16:55 ET",
    "mode": "bounce",
-   "last_bid": 0.15
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-markub-lispig-2026-10-29",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 17:00 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
