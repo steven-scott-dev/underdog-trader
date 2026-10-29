@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 10:35 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-29 10:40 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 15 (main 7/10, bounce 8/50)
 - Realized P&L: +1.25
 
 ## Open paper positions
-- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.2900, unrealized -0.0606 (TP 0.8250 / SL 0.1320)
-- **Erika Andreeva** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.3400, unrealized +0.0152 (TP 0.8250 / SL 0.1320)
+- **Erika Andreeva** (short/bounce) — 1.6667 @ 0.0600, now ~0.1100, unrealized +0.0833 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-29 09:45 ET: Valentin Vacherot [main] — take-profit @ 0.9750 → +0.7500
