@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 09:35 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-29 09:40 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 13 (main 6/10, bounce 7/50)
 - Realized P&L: +0.49
 
 ## Open paper positions
-- **Valentin Vacherot** (long/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
+- **Valentin Vacherot** (long/main) — 1.2821 @ 0.3900, now ~0.3100, unrealized -0.1026 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
 - 2026-10-29 09:25 ET: Magda Linette [bounce] — stop-loss @ 0.0100 → -0.0889
