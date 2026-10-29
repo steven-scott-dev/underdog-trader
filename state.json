@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 13,
+ "bets": 14,
  "bounce_bets": 7,
  "realized": 1.245,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-camnor-danmed-2026-10-29",
+   "game": "atp:Medvedev@Norrie",
+   "side": "long",
+   "team": "Cameron Norrie",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-29 10:10 ET",
+   "mode": "main",
+   "last_bid": 0.33
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -275,6 +289,12 @@
    [
     1793278837.0878584,
     0.09
+   ]
+  ],
+  "aec-atp-camnor-danmed-2026-10-29": [
+   [
+    1793283040.4646068,
+    0.33
    ]
   ]
  },
