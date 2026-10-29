@@ -1,8 +1,8 @@
 {
  "date": "2026-10-29",
- "bets": 28,
- "bounce_bets": 18,
- "realized": -0.4245,
+ "bets": 29,
+ "bounce_bets": 19,
+ "realized": -0.5023,
  "paper_positions": [
   {
    "market": "aec-wta-frajon-marsou-2026-10-28",
@@ -15,20 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-29 13:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
   },
   {
-   "market": "aec-atp-danalt-jirleh-2026-10-29",
-   "game": "atp:Lehecka@Altmaier",
-   "side": "long",
-   "team": "Daniel Altmaier",
+   "market": "aec-atp-tayfri-densha-2026-10-29",
+   "game": "atp:Shapovalov@Fritz",
+   "side": "short",
+   "team": "Denis Shapovalov",
    "entry": 0.09,
    "qty": 1.1111,
    "tp": 0.18,
    "sl": 0.036,
-   "opened": "2026-10-29 13:15 ET",
+   "opened": "2026-10-29 13:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -473,6 +473,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-danalt-jirleh-2026-10-29",
+   "game": "atp:Lehecka@Altmaier",
+   "side": "long",
+   "team": "Daniel Altmaier",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-29 13:35 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -578,6 +595,12 @@
     1793293549.8036509,
     0.07
    ]
+  ],
+  "aec-atp-tayfri-densha-2026-10-29": [
+   [
+    1793295338.9562654,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
@@ -592,6 +615,7 @@
   "aec-wta-lucste-aylaks-2026-10-28": 1793295637.67161,
   "aec-atp-alemic-artfil-2026-10-29": 1793292938.107727,
   "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022,
-  "aec-wta-susban-elsjac-2026-10-29": 1793293834.2263522
+  "aec-wta-susban-elsjac-2026-10-29": 1793293834.2263522,
+  "aec-atp-danalt-jirleh-2026-10-29": 1793297138.2503145
  }
 }
