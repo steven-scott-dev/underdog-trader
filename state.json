@@ -2,21 +2,8 @@
  "date": "2026-10-29",
  "bets": 29,
  "bounce_bets": 19,
- "realized": -0.5023,
+ "realized": -0.5737,
  "paper_positions": [
-  {
-   "market": "aec-wta-frajon-marsou-2026-10-28",
-   "game": "wta:Souza@Jones",
-   "side": "short",
-   "team": "Marjorie Souza",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 13:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-atp-tayfri-densha-2026-10-29",
    "game": "atp:Shapovalov@Fritz",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 13:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.12
   }
  ],
  "paper_history": [
@@ -490,6 +477,23 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-frajon-marsou-2026-10-28",
+   "game": "wta:Souza@Jones",
+   "side": "short",
+   "team": "Marjorie Souza",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 13:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -616,6 +620,7 @@
   "aec-atp-alemic-artfil-2026-10-29": 1793292938.107727,
   "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022,
   "aec-wta-susban-elsjac-2026-10-29": 1793293834.2263522,
-  "aec-atp-danalt-jirleh-2026-10-29": 1793297138.2503145
+  "aec-atp-danalt-jirleh-2026-10-29": 1793297138.2503145,
+  "aec-wta-frajon-marsou-2026-10-28": 1793297436.5816796
  }
 }
