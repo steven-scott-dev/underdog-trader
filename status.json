@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:30:38.627975-04:00",
+ "updated": "2026-10-29T18:35:43.420411-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
@@ -9,41 +9,10 @@
   "bounce_bets": 27,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.7215
+  "realized": -0.8104
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-tatmar-marcol-2026-10-28",
-   "game": "wta:Colmegna@Maria",
-   "side": "short",
-   "team": "Martina Colmegna",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 18:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-danalt-jirleh-2026-10-29",
-   "game": "atp:Lehecka@Altmaier",
-   "side": "long",
-   "team": "Daniel Altmaier",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 13:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-29 13:35 ET",
-   "exit": 0.02,
-   "pnl": -0.0778,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-frajon-marsou-2026-10-28",
    "game": "wta:Souza@Jones",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tatmar-marcol-2026-10-28",
+   "game": "wta:Colmegna@Maria",
+   "side": "short",
+   "team": "Martina Colmegna",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 18:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 18:35 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Martina Colmegna",
+   "reason": "stop-loss",
+   "pnl": -0.0889
+  }
+ ]
 }

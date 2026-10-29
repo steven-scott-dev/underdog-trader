@@ -2,22 +2,8 @@
  "date": "2026-10-29",
  "bets": 37,
  "bounce_bets": 27,
- "realized": -0.7215,
- "paper_positions": [
-  {
-   "market": "aec-wta-tatmar-marcol-2026-10-28",
-   "game": "wta:Colmegna@Maria",
-   "side": "short",
-   "team": "Martina Colmegna",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 18:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -0.8104,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -630,6 +616,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tatmar-marcol-2026-10-28",
+   "game": "wta:Colmegna@Maria",
+   "side": "short",
+   "team": "Martina Colmegna",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 18:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 18:35 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -804,6 +807,7 @@
   "aec-atp-alezve-talgri-2026-10-29": 1793303137.5586805,
   "aec-wta-nadpod-mirbul-2026-10-29": 1793309141.3673065,
   "aec-wta-marcar-julgra-2026-10-28": 1793309141.4228427,
-  "aec-wta-markub-lispig-2026-10-29": 1793310640.2841809
+  "aec-wta-markub-lispig-2026-10-29": 1793310640.2841809,
+  "aec-wta-tatmar-marcol-2026-10-28": 1793315142.2030883
  }
 }
