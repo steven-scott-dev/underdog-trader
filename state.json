@@ -1,22 +1,9 @@
 {
  "date": "2026-10-29",
- "bets": 11,
- "bounce_bets": 6,
- "realized": 1.041,
+ "bets": 12,
+ "bounce_bets": 7,
+ "realized": 0.6696,
  "paper_positions": [
-  {
-   "market": "aec-atp-valvac-rafjod-2026-10-29",
-   "game": "atp:Jodar@Vacherot",
-   "side": "long",
-   "team": "Valentin Vacherot",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-29 08:50 ET",
-   "mode": "main",
-   "last_bid": 0.26
-  },
   {
    "market": "aec-atp-tompau-lucdar-2026-10-29",
    "game": "atp:Darderi@Paul",
@@ -28,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-29 08:55 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-liltag-maglin-2026-10-29",
+   "game": "wta:Linette@Tagger",
+   "side": "short",
+   "team": "Magda Linette",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 09:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -184,6 +184,23 @@
    "exit": 0.7,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-valvac-rafjod-2026-10-29",
+   "game": "atp:Jodar@Vacherot",
+   "side": "long",
+   "team": "Valentin Vacherot",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-29 08:50 ET",
+   "mode": "main",
+   "last_bid": 0.26,
+   "closed": "2026-10-29 09:00 ET",
+   "exit": 0.09,
+   "pnl": -0.3714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -229,11 +246,18 @@
     1793278537.148609,
     0.07
    ]
+  ],
+  "aec-wta-liltag-maglin-2026-10-29": [
+   [
+    1793278837.0878584,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
   "aec-wta-jiltei-zeyson-2026-10-28": 1793259037.9449353,
   "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755,
-  "aec-wta-martim-xinsun-2026-10-29": 1793266835.4632237
+  "aec-wta-martim-xinsun-2026-10-29": 1793266835.4632237,
+  "aec-atp-valvac-rafjod-2026-10-29": 1793280636.260993
  }
 }

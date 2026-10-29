@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 08:55 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-29 09:00 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 11 (main 5/10, bounce 6/50)
-- Realized P&L: +1.04
+- Bets placed: 12 (main 5/10, bounce 7/50)
+- Realized P&L: +0.67
 
 ## Open paper positions
-- **Valentin Vacherot** (long/main) — 1.4286 @ 0.3500, now ~0.2600, unrealized -0.1286 (TP 0.8750 / SL 0.1400)
-- **Luciano Darderi** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Luciano Darderi** (short/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Magda Linette** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
+- 2026-10-29 09:00 ET: Valentin Vacherot [main] — stop-loss @ 0.0900 → -0.3714
 - 2026-10-29 06:00 ET: Xinran Sun [main] — take-profit @ 0.7000 → +0.7500
 - 2026-10-29 05:10 ET: Xinran Sun [main] — stop-loss @ 0.1300 → -0.3143
 - 2026-10-29 04:55 ET: Yulia Putintseva [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -18,7 +19,7 @@ Updated: 2026-10-29 08:55 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-29 00:50 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-10-29 00:35 ET: Maple Leafs [main] — take-profit @ 0.3500 → +0.7500
-- 2026-10-29 00:35 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Darderi@Paul", "market": "aec-atp-tompau-lucdar-2026-10-29", "side": "short", "team": "Luciano Darderi", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Valentin Vacherot", "reason": "stop-loss", "pnl": -0.3714}`
+- `{"type": "buy", "game": "wta:Linette@Tagger", "market": "aec-wta-liltag-maglin-2026-10-29", "side": "short", "team": "Magda Linette", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
