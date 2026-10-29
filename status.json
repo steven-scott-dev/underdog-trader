@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-29T05:55:40.387579-04:00",
+ "updated": "2026-10-29T06:00:38.806994-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-29",
   "bets": 9,
   "bounce_bets": 5,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.291
+  "realized": 1.041
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-martim-xinsun-2026-10-29",
-   "game": "wta:Sun@Timofeeva",
-   "side": "short",
-   "team": "Xinran Sun",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-10-29 05:45 ET",
-   "mode": "main",
-   "last_bid": 0.66
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -162,8 +148,32 @@
    "exit": 0.13,
    "pnl": -0.3143,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-martim-xinsun-2026-10-29",
+   "game": "wta:Sun@Timofeeva",
+   "side": "short",
+   "team": "Xinran Sun",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-10-29 05:45 ET",
+   "mode": "main",
+   "last_bid": 0.66,
+   "closed": "2026-10-29 06:00 ET",
+   "exit": 0.7,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Xinran Sun",
+   "reason": "take-profit",
+   "pnl": 0.75
+  }
+ ]
 }
