@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-28T21:35:45.242376-04:00",
+ "updated": "2026-10-28T21:40:49.438172-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-10-28",
-  "bets": 39,
-  "bounce_bets": 29,
+  "bets": 40,
+  "bounce_bets": 30,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.5973
+  "realized": 2.5306
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   },
   {
    "market": "aec-nhl-phi-was-2026-10-28",
@@ -39,19 +39,6 @@
    "last_bid": 0.03
   },
   {
-   "market": "aec-wta-fiofer-adrrea-2026-10-28",
-   "game": "wta:Reami@Ferro",
-   "side": "short",
-   "team": "Adriana Reami",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
    "market": "aec-nba-gs-min-2026-10-28",
    "game": "nba:GS@MIN",
    "side": "short",
@@ -62,27 +49,23 @@
    "sl": 0.036,
    "opened": "2026-10-28 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-nba-hou-mil-2026-10-28",
+   "game": "nba:HOU@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-eliyan-okssel-2026-10-28",
-   "game": "wta:Selekhmeteva@Yaneva",
-   "side": "short",
-   "team": "Oksana Selekhmeteva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 13:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.11,
-   "closed": "2026-10-28 13:25 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-eliyan-okssel-2026-10-28",
    "game": "wta:Selekhmeteva@Yaneva",
@@ -235,18 +218,41 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-fiofer-adrrea-2026-10-28",
+   "game": "wta:Reami@Ferro",
+   "side": "short",
+   "team": "Adriana Reami",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-28 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-28 21:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Adriana Reami",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  },
+  {
    "type": "buy",
-   "game": "nba:GS@MIN",
-   "market": "aec-nba-gs-min-2026-10-28",
+   "game": "nba:HOU@MIL",
+   "market": "aec-nba-hou-mil-2026-10-28",
    "side": "short",
-   "team": "Timberwolves",
-   "ask": 0.09,
-   "qty": 1.1111,
+   "team": "Bucks",
+   "ask": 0.04,
+   "qty": 2.5,
    "stake": 0.1,
    "mode": "bounce"
   }

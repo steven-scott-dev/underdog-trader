@@ -1,8 +1,8 @@
 {
  "date": "2026-10-28",
- "bets": 39,
- "bounce_bets": 29,
- "realized": 2.5973,
+ "bets": 40,
+ "bounce_bets": 30,
+ "realized": 2.5306,
  "paper_positions": [
   {
    "market": "aec-nba-den-no-2026-10-28",
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   },
   {
    "market": "aec-nhl-phi-was-2026-10-28",
@@ -31,19 +31,6 @@
    "last_bid": 0.03
   },
   {
-   "market": "aec-wta-fiofer-adrrea-2026-10-28",
-   "game": "wta:Reami@Ferro",
-   "side": "short",
-   "team": "Adriana Reami",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
    "market": "aec-nba-gs-min-2026-10-28",
    "game": "nba:GS@MIN",
    "side": "short",
@@ -54,7 +41,20 @@
    "sl": 0.036,
    "opened": "2026-10-28 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-nba-hou-mil-2026-10-28",
+   "game": "nba:HOU@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -652,6 +652,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-fiofer-adrrea-2026-10-28",
+   "game": "wta:Reami@Ferro",
+   "side": "short",
+   "team": "Adriana Reami",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-28 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-28 21:40 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -820,8 +837,8 @@
   ],
   "aec-nba-hou-mil-2026-10-28": [
    [
-    1793235348.782829,
-    0.1
+    1793238047.3205392,
+    0.04
    ]
   ],
   "aec-nhl-phi-was-2026-10-28": [
@@ -861,6 +878,7 @@
   "aec-wta-linkli-nomaku-2026-10-28": 1793218539.8617244,
   "aec-atp-leatie-alemin-2026-10-28": 1793220335.7775068,
   "aec-wta-carher-carmon-2026-10-28": 1793228439.0277123,
-  "aec-nba-hou-mil-2026-10-28": 1793238037.955688
+  "aec-nba-hou-mil-2026-10-28": 1793238037.955688,
+  "aec-wta-fiofer-adrrea-2026-10-28": 1793239835.926076
  }
 }

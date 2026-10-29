@@ -1,18 +1,19 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 21:35 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-10-28 21:40 ET · Mode: **PAPER** · Result: OK (13.9s)
 
 ## Today
-- Bets placed: 39 (main 10/10, bounce 29/50)
-- Realized P&L: +2.60
+- Bets placed: 40 (main 10/10, bounce 30/50)
+- Realized P&L: +2.53
 
 ## Open paper positions
-- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 - **Flyers** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
-- **Adriana Reami** (short/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
-- **Timberwolves** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Timberwolves** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Bucks** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
+- 2026-10-28 21:40 ET: Adriana Reami [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-10-28 21:10 ET: Bucks [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-28 21:00 ET: Hawks [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-28 18:30 ET: Carmen Andreea Herea [bounce] — stop-loss @ 0.0200 → -0.0778
@@ -20,7 +21,7 @@ Updated: 2026-10-28 21:35 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-10-28 15:45 ET: Linda Klimovicova [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-10-28 15:25 ET: Rinky Hijikata [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-28 14:30 ET: Jurij Rodionov [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-10-28 14:15 ET: Gabriela Knutson [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:GS@MIN", "market": "aec-nba-gs-min-2026-10-28", "side": "short", "team": "Timberwolves", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Adriana Reami", "reason": "stop-loss", "pnl": -0.0667}`
+- `{"type": "buy", "game": "nba:HOU@MIL", "market": "aec-nba-hou-mil-2026-10-28", "side": "short", "team": "Bucks", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
