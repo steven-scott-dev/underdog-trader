@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T17:20:41.131365-04:00",
+ "updated": "2026-10-29T17:25:44.174687-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-10-29",
   "bets": 36,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Lisa Pigato",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 17:20 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-29 17:25 ET · Mode: **PAPER** · Result: OK (2.8s)
 
 ## Today
 - Bets placed: 36 (main 10/10, bounce 26/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 17:20 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-29 13:50 ET: Denis Shapovalov [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Lisa Pigato", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
