@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 34,
- "bounce_bets": 24,
+ "bets": 35,
+ "bounce_bets": 25,
  "realized": 2.5673,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-mia-atl-2026-10-28",
+   "game": "nba:MIA@ATL",
+   "side": "short",
+   "team": "Hawks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-28 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -737,6 +750,12 @@
    [
     1793234485.9785163,
     0.1
+   ]
+  ],
+  "aec-nba-mia-atl-2026-10-28": [
+   [
+    1793234757.9987397,
+    0.07
    ]
   ]
  },
