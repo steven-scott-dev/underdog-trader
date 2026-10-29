@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T22:50:37.171861-04:00",
+ "updated": "2026-10-28T22:55:36.763796-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-28",
   "bets": 44,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kimberly Birrell",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 22:50 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-28 22:55 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 44 (main 10/10, bounce 34/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-28 22:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-28 21:50 ET: Flyers [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kimberly Birrell", "reason": "take-profit", "pnl": 0.1}`
+- _none_
