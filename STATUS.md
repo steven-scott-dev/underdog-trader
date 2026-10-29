@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 13:50 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-29 13:55 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 30 (main 10/10, bounce 20/50)
 - Realized P&L: -0.66
 
 ## Open paper positions
-- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.1200, unrealized +0.0500 (TP 0.1600 / SL 0.0320)
+- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 13:50 ET: Denis Shapovalov [bounce] — stop-loss @ 0.0100 → -0.0889
@@ -20,4 +20,4 @@ Updated: 2026-10-29 13:50 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-29 12:40 ET: Susan Bandecchi [main] — stop-loss @ 0.0800 → -0.4000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Denis Shapovalov", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_

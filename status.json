@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T13:50:37.229859-04:00",
+ "updated": "2026-10-29T13:55:36.827102-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-29",
   "bets": 30,
@@ -23,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 13:45 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Denis Shapovalov",
-   "reason": "stop-loss",
-   "pnl": -0.0889
-  }
- ]
+ "actions": []
 }
