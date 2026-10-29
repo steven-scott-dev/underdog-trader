@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T00:25:45.764940-04:00",
+ "updated": "2026-10-29T00:30:36.069388-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-29",
-  "bets": 2,
+  "bets": 3,
   "bounce_bets": 2,
   "max_main": 10,
   "max_bounce": 50,
@@ -23,7 +23,20 @@
    "sl": 0.024,
    "opened": "2026-10-29 00:25 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nhl-tor-sea-2026-10-28",
+   "game": "nhl:TOR@SEA",
+   "side": "long",
+   "team": "Maple Leafs",
+   "entry": 0.14,
+   "qty": 3.5714,
+   "tp": 0.35,
+   "sl": 0.056,
+   "opened": "2026-10-29 00:30 ET",
+   "mode": "main",
+   "last_bid": 0.14
   }
  ],
  "paper_history": [
@@ -49,14 +62,14 @@
  "actions": [
   {
    "type": "buy",
-   "game": "wta:Mertens@Fernandez",
-   "market": "aec-wta-leyfer-elimer-2026-10-27",
-   "side": "short",
-   "team": "Elise Mertens",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
+   "game": "nhl:TOR@SEA",
+   "market": "aec-nhl-tor-sea-2026-10-28",
+   "side": "long",
+   "team": "Maple Leafs",
+   "ask": 0.14,
+   "qty": 3.5714,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
