@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-29T09:25:44.542688-04:00",
+ "updated": "2026-10-29T09:30:37.796817-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-29",
-  "bets": 12,
+  "bets": 13,
   "bounce_bets": 7,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 0.495
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-valvac-rafjod-2026-10-29",
+   "game": "atp:Jodar@Vacherot",
+   "side": "long",
+   "team": "Valentin Vacherot",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-10-29 09:30 ET",
+   "mode": "main",
+   "last_bid": 0.39
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -187,10 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Magda Linette",
-   "reason": "stop-loss",
-   "pnl": -0.0889
+   "type": "buy",
+   "game": "atp:Jodar@Vacherot",
+   "market": "aec-atp-valvac-rafjod-2026-10-29",
+   "side": "long",
+   "team": "Valentin Vacherot",
+   "ask": 0.39,
+   "qty": 1.2821,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
