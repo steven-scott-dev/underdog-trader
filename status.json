@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-28T21:50:58.637398-04:00",
+ "updated": "2026-10-28T21:55:58.005653-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.1,
+ "duration_s": 24.2,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
   "bounce_bets": 33,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.5556
+  "realized": 2.6556
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.19
+   "last_bid": 0.18
   },
   {
    "market": "aec-nba-gs-min-2026-10-28",
@@ -36,20 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-nba-phi-ind-2026-10-28",
-   "game": "nba:PHI@IND",
-   "side": "short",
-   "team": "Pacers",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-28 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.12
   },
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
@@ -62,7 +49,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   },
   {
    "market": "aec-nhl-cgy-edm-2026-10-28",
@@ -75,27 +62,10 @@
    "sl": 0.04,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-jurrod-nikbas-2026-10-25",
-   "game": "atp:Basilashvili@Rodionov",
-   "side": "long",
-   "team": "Jurij Rodionov",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-28 14:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-28 14:30 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-tayfri-rinhij-2026-10-27",
    "game": "atp:Hijikata@Fritz",
@@ -248,54 +218,32 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-phi-ind-2026-10-28",
+   "game": "nba:PHI@IND",
+   "side": "short",
+   "team": "Pacers",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-28 21:55 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Flyers",
+   "team": "Pacers",
    "reason": "take-profit",
    "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Bucks",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  },
-  {
-   "type": "buy",
-   "game": "nba:PHI@IND",
-   "market": "aec-nba-phi-ind-2026-10-28",
-   "side": "short",
-   "team": "Pacers",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  },
-  {
-   "type": "buy",
-   "game": "mlb:MIL@TB",
-   "market": "aec-mlb-mil-tb-2026-10-28",
-   "side": "short",
-   "team": "Tampa Bay Rays",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  },
-  {
-   "type": "buy",
-   "game": "nhl:CGY@EDM",
-   "market": "aec-nhl-cgy-edm-2026-10-28",
-   "side": "long",
-   "team": "Flames",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
   }
  ]
 }

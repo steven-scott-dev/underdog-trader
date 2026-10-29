@@ -2,7 +2,7 @@
  "date": "2026-10-28",
  "bets": 43,
  "bounce_bets": 33,
- "realized": 2.5556,
+ "realized": 2.6556,
  "paper_positions": [
   {
    "market": "aec-nba-den-no-2026-10-28",
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.19
+   "last_bid": 0.18
   },
   {
    "market": "aec-nba-gs-min-2026-10-28",
@@ -28,20 +28,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-nba-phi-ind-2026-10-28",
-   "game": "nba:PHI@IND",
-   "side": "short",
-   "team": "Pacers",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-28 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.12
   },
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
@@ -54,7 +41,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   },
   {
    "market": "aec-nhl-cgy-edm-2026-10-28",
@@ -67,7 +54,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -716,6 +703,23 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-phi-ind-2026-10-28",
+   "game": "nba:PHI@IND",
+   "side": "short",
+   "team": "Pacers",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-28 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-28 21:55 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
