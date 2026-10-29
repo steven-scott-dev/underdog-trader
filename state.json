@@ -2,7 +2,7 @@
  "date": "2026-10-29",
  "bets": 27,
  "bounce_bets": 17,
- "realized": 0.1105,
+ "realized": -0.3495,
  "paper_positions": [
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -15,20 +15,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.11
-  },
-  {
-   "market": "aec-wta-lucste-aylaks-2026-10-28",
-   "game": "wta:Aksu@Stefanini",
-   "side": "long",
-   "team": "Lucrezia Stefanini",
-   "entry": 0.25,
-   "qty": 2.0,
-   "tp": 0.625,
-   "sl": 0.1,
-   "opened": "2026-10-29 12:55 ET",
-   "mode": "main",
-   "last_bid": 0.13
+   "last_bid": 0.08
   },
   {
    "market": "aec-wta-frajon-marsou-2026-10-28",
@@ -41,7 +28,7 @@
    "sl": 0.028,
    "opened": "2026-10-29 13:05 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -452,6 +439,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "side": "long",
+   "team": "Lucrezia Stefanini",
+   "entry": 0.25,
+   "qty": 2.0,
+   "tp": 0.625,
+   "sl": 0.1,
+   "opened": "2026-10-29 12:55 ET",
+   "mode": "main",
+   "last_bid": 0.13,
+   "closed": "2026-10-29 13:10 ET",
+   "exit": 0.02,
+   "pnl": -0.46,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -568,7 +572,7 @@
   "aec-wta-liltag-maglin-2026-10-29": 1793282142.812059,
   "aec-atp-camnor-danmed-2026-10-29": 1793288736.9871047,
   "aec-atp-nikbas-caralc-2026-10-29": 1793291441.228356,
-  "aec-wta-lucste-aylaks-2026-10-28": 1793292335.489653,
+  "aec-wta-lucste-aylaks-2026-10-28": 1793295637.67161,
   "aec-atp-alemic-artfil-2026-10-29": 1793292938.107727,
   "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022,
   "aec-wta-susban-elsjac-2026-10-29": 1793293834.2263522
