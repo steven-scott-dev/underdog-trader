@@ -2,21 +2,8 @@
  "date": "2026-10-29",
  "bets": 24,
  "bounce_bets": 15,
- "realized": 0.3105,
+ "realized": -0.0895,
  "paper_positions": [
-  {
-   "market": "aec-wta-susban-elsjac-2026-10-29",
-   "game": "wta:Jacquemot@Bandecchi",
-   "side": "long",
-   "team": "Susan Bandecchi",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-10-29 12:15 ET",
-   "mode": "main",
-   "last_bid": 0.27
-  },
   {
    "market": "aec-atp-danalt-jirleh-2026-10-29",
    "game": "atp:Lehecka@Altmaier",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -41,7 +28,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -401,6 +388,23 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-susban-elsjac-2026-10-29",
+   "game": "wta:Jacquemot@Bandecchi",
+   "side": "long",
+   "team": "Susan Bandecchi",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-10-29 12:15 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-10-29 12:40 ET",
+   "exit": 0.08,
+   "pnl": -0.4,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -513,6 +517,7 @@
   "aec-atp-nikbas-caralc-2026-10-29": 1793291441.228356,
   "aec-wta-lucste-aylaks-2026-10-28": 1793292335.489653,
   "aec-atp-alemic-artfil-2026-10-29": 1793292938.107727,
-  "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022
+  "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022,
+  "aec-wta-susban-elsjac-2026-10-29": 1793293834.2263522
  }
 }
