@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T11:45:39.610189-04:00",
+ "updated": "2026-10-29T11:50:35.567578-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-29",
   "bets": 18,
@@ -23,7 +23,7 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.37
+   "last_bid": 0.45
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 11:40 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
