@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 00:50 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-29 00:55 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 4 (main 1/10, bounce 3/50)
@@ -16,4 +16,4 @@ Updated: 2026-10-29 00:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Elise Mertens", "reason": "take-profit", "pnl": 0.1}`
+- _none_
