@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 17,
- "bounce_bets": 9,
+ "bets": 18,
+ "bounce_bets": 10,
  "realized": 0.945,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.38
+   "last_bid": 0.33
+  },
+  {
+   "market": "aec-atp-nikbas-caralc-2026-10-29",
+   "game": "atp:Alcaraz@Basilashvili",
+   "side": "long",
+   "team": "Nikoloz Basilashvili",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -358,6 +371,12 @@
    [
     1793288134.5313704,
     0.38
+   ]
+  ],
+  "aec-atp-nikbas-caralc-2026-10-29": [
+   [
+    1793288434.5427196,
+    0.09
    ]
   ]
  },
