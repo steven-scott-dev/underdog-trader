@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T11:05:37.213330-04:00",
+ "updated": "2026-10-29T11:10:38.100618-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-10-29",
   "bets": 16,
@@ -23,7 +23,7 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.4
+   "last_bid": 0.24
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Erika Andreeva",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
