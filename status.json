@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T00:35:42.692492-04:00",
+ "updated": "2026-10-29T00:40:35.741184-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-29",
   "bets": 3,
@@ -66,18 +66,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Elise Mertens",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Maple Leafs",
-   "reason": "take-profit",
-   "pnl": 0.75
-  }
- ]
+ "actions": []
 }
