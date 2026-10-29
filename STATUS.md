@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 16:30 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-29 16:35 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 33 (main 10/10, bounce 23/50)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- **Miriam Bulgaru** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Miriam Bulgaru** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 15:15 ET: Tallon Griekspoor [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -20,4 +20,4 @@ Updated: 2026-10-29 16:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-29 13:10 ET: Lucrezia Stefanini [main] — stop-loss @ 0.0200 → -0.4600
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Bulgaru@Podoroska", "market": "aec-wta-nadpod-mirbul-2026-10-29", "side": "short", "team": "Miriam Bulgaru", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
