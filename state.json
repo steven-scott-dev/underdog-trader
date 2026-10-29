@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 10,
- "bounce_bets": 5,
+ "bets": 11,
+ "bounce_bets": 6,
  "realized": 1.041,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.14,
    "opened": "2026-10-29 08:50 ET",
    "mode": "main",
-   "last_bid": 0.35
+   "last_bid": 0.26
+  },
+  {
+   "market": "aec-atp-tompau-lucdar-2026-10-29",
+   "game": "atp:Darderi@Paul",
+   "side": "short",
+   "team": "Luciano Darderi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 08:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -209,6 +222,12 @@
    [
     1793278237.0702257,
     0.35
+   ]
+  ],
+  "aec-atp-tompau-lucdar-2026-10-29": [
+   [
+    1793278537.148609,
+    0.07
    ]
   ]
  },

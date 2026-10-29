@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T08:50:37.407530-04:00",
+ "updated": "2026-10-29T08:55:37.653943-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-29",
-  "bets": 10,
-  "bounce_bets": 5,
+  "bets": 11,
+  "bounce_bets": 6,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 1.041
@@ -23,7 +23,20 @@
    "sl": 0.14,
    "opened": "2026-10-29 08:50 ET",
    "mode": "main",
-   "last_bid": 0.35
+   "last_bid": 0.26
+  },
+  {
+   "market": "aec-atp-tompau-lucdar-2026-10-29",
+   "game": "atp:Darderi@Paul",
+   "side": "short",
+   "team": "Luciano Darderi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 08:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -185,14 +198,14 @@
  "actions": [
   {
    "type": "buy",
-   "game": "atp:Jodar@Vacherot",
-   "market": "aec-atp-valvac-rafjod-2026-10-29",
-   "side": "long",
-   "team": "Valentin Vacherot",
-   "ask": 0.35,
+   "game": "atp:Darderi@Paul",
+   "market": "aec-atp-tompau-lucdar-2026-10-29",
+   "side": "short",
+   "team": "Luciano Darderi",
+   "ask": 0.07,
    "qty": 1.4286,
-   "stake": 0.5,
-   "mode": "main"
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
