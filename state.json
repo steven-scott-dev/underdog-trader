@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 18,
- "bounce_bets": 10,
+ "bets": 19,
+ "bounce_bets": 11,
  "realized": 0.945,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.45
+   "last_bid": 0.47
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -28,7 +28,20 @@
    "sl": 0.036,
    "opened": "2026-10-29 11:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-julrie-yaskab-2026-10-28",
+   "game": "wta:Kabbaj@Riera",
+   "side": "short",
+   "team": "Yasmine Kabbaj",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 11:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -377,6 +390,12 @@
    [
     1793288434.5427196,
     0.09
+   ]
+  ],
+  "aec-wta-julrie-yaskab-2026-10-28": [
+   [
+    1793289334.1887457,
+    0.07
    ]
   ]
  },
