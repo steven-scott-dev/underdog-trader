@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T05:10:36.145130-04:00",
+ "updated": "2026-10-29T05:15:35.287069-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-29",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Xinran Sun",
-   "reason": "stop-loss",
-   "pnl": -0.3143
-  }
- ]
+ "actions": []
 }

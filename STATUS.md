@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 05:10 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-29 05:15 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 8 (main 3/10, bounce 5/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 05:10 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Xinran Sun", "reason": "stop-loss", "pnl": -0.3143}`
+- _none_
