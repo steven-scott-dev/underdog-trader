@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 09:05 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-29 09:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 12 (main 5/10, bounce 7/50)
@@ -8,7 +8,7 @@ Updated: 2026-10-29 09:05 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Open paper positions
 - **Luciano Darderi** (short/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
-- **Magda Linette** (short/bounce) — 1.1111 @ 0.0900, now ~0.1200, unrealized +0.0333 (TP 0.1800 / SL 0.0360)
+- **Magda Linette** (short/bounce) — 1.1111 @ 0.0900, now ~0.1400, unrealized +0.0556 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 09:00 ET: Valentin Vacherot [main] — stop-loss @ 0.0900 → -0.3714
