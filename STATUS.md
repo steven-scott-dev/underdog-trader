@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 05:50 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-29 05:55 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 9 (main 4/10, bounce 5/50)
 - Realized P&L: +0.29
 
 ## Open paper positions
-- **Xinran Sun** (short/main) — 1.7857 @ 0.2800, now ~0.2200, unrealized -0.1071 (TP 0.7000 / SL 0.1120)
+- **Xinran Sun** (short/main) — 1.7857 @ 0.2800, now ~0.6600, unrealized +0.6786 (TP 0.7000 / SL 0.1120)
 
 ## Recent history
 - 2026-10-29 05:10 ET: Xinran Sun [main] — stop-loss @ 0.1300 → -0.3143
