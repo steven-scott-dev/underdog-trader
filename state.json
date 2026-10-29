@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 5,
+ "bets": 6,
  "bounce_bets": 4,
  "realized": 1.15,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jiltei-zeyson-2026-10-28",
+   "game": "wta:Sonmez@Teichmann",
+   "side": "short",
+   "team": "Zeynep Sonmez",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-29 02:40 ET",
+   "mode": "main",
+   "last_bid": 0.33
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -107,8 +121,8 @@
   ],
   "aec-wta-jiltei-zeyson-2026-10-28": [
    [
-    1793253934.2454934,
-    0.08
+    1793256036.4374068,
+    0.33
    ]
   ]
  }
