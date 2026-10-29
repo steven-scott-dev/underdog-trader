@@ -2,21 +2,8 @@
  "date": "2026-10-29",
  "bets": 12,
  "bounce_bets": 7,
- "realized": 0.6696,
+ "realized": 0.5839,
  "paper_positions": [
-  {
-   "market": "aec-atp-tompau-lucdar-2026-10-29",
-   "game": "atp:Darderi@Paul",
-   "side": "short",
-   "team": "Luciano Darderi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 08:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-liltag-maglin-2026-10-29",
    "game": "wta:Linette@Tagger",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 09:00 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -201,6 +188,23 @@
    "exit": 0.09,
    "pnl": -0.3714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tompau-lucdar-2026-10-29",
+   "game": "atp:Darderi@Paul",
+   "side": "short",
+   "team": "Luciano Darderi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 08:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 09:20 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -258,6 +262,7 @@
   "aec-wta-jiltei-zeyson-2026-10-28": 1793259037.9449353,
   "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755,
   "aec-wta-martim-xinsun-2026-10-29": 1793266835.4632237,
-  "aec-atp-valvac-rafjod-2026-10-29": 1793280636.260993
+  "aec-atp-valvac-rafjod-2026-10-29": 1793280636.260993,
+  "aec-atp-tompau-lucdar-2026-10-29": 1793281838.0507498
  }
 }
