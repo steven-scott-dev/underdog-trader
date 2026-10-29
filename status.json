@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-29T02:55:36.326818-04:00",
+ "updated": "2026-10-29T03:00:39.242149-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-29",
   "bets": 6,
   "bounce_bets": 4,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.15
+  "realized": 0.6803
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jiltei-zeyson-2026-10-28",
-   "game": "wta:Sonmez@Teichmann",
-   "side": "short",
-   "team": "Zeynep Sonmez",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-10-29 02:40 ET",
-   "mode": "main",
-   "last_bid": 0.14
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -111,8 +97,32 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-jiltei-zeyson-2026-10-28",
+   "game": "wta:Sonmez@Teichmann",
+   "side": "short",
+   "team": "Zeynep Sonmez",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-10-29 02:40 ET",
+   "mode": "main",
+   "last_bid": 0.14,
+   "closed": "2026-10-29 03:00 ET",
+   "exit": 0.02,
+   "pnl": -0.4697,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Zeynep Sonmez",
+   "reason": "stop-loss",
+   "pnl": -0.4697
+  }
+ ]
 }

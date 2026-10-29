@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 02:55 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-29 03:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 6 (main 2/10, bounce 4/50)
-- Realized P&L: +1.15
+- Realized P&L: +0.68
 
 ## Open paper positions
-- **Zeynep Sonmez** (short/main) — 1.5152 @ 0.3300, now ~0.1400, unrealized -0.2879 (TP 0.8250 / SL 0.1320)
+- _none_
 
 ## Recent history
+- 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-29 00:50 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-10-29 00:35 ET: Maple Leafs [main] — take-profit @ 0.3500 → +0.7500
@@ -17,4 +18,4 @@ Updated: 2026-10-29 02:55 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Zeynep Sonmez", "reason": "stop-loss", "pnl": -0.4697}`
