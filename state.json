@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "bets": 35,
- "bounce_bets": 25,
+ "bets": 36,
+ "bounce_bets": 26,
  "realized": 2.5673,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.16
   },
   {
    "market": "aec-nba-mia-atl-2026-10-28",
@@ -28,7 +28,20 @@
    "sl": 0.028,
    "opened": "2026-10-28 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-hou-mil-2026-10-28",
+   "game": "nba:HOU@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -756,6 +769,12 @@
    [
     1793234757.9987397,
     0.07
+   ]
+  ],
+  "aec-nba-hou-mil-2026-10-28": [
+   [
+    1793235348.782829,
+    0.1
    ]
   ]
  },
