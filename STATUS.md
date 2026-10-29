@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 14:05 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-29 14:10 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 30 (main 10/10, bounce 20/50)
 - Realized P&L: -0.66
 
 ## Open paper positions
-- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.1200, unrealized +0.0500 (TP 0.1600 / SL 0.0320)
+- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.0900, unrealized +0.0125 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 13:50 ET: Denis Shapovalov [bounce] — stop-loss @ 0.0100 → -0.0889
