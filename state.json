@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 29,
- "bounce_bets": 19,
+ "bets": 30,
+ "bounce_bets": 20,
  "realized": -0.5737,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-29 13:35 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-annbli-katzav-2026-10-29",
+   "game": "wta:Zavatska@Blinkova",
+   "side": "short",
+   "team": "Katarina Zavatska",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 13:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -604,6 +617,12 @@
    [
     1793295338.9562654,
     0.09
+   ]
+  ],
+  "aec-wta-annbli-katzav-2026-10-29": [
+   [
+    1793295937.35257,
+    0.08
    ]
   ]
  },

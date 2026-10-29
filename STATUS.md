@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 13:40 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-29 13:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 29 (main 10/10, bounce 19/50)
+- Bets placed: 30 (main 10/10, bounce 20/50)
 - Realized P&L: -0.57
 
 ## Open paper positions
-- **Denis Shapovalov** (short/bounce) — 1.1111 @ 0.0900, now ~0.1200, unrealized +0.0333 (TP 0.1800 / SL 0.0360)
+- **Denis Shapovalov** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 13:40 ET: Marjorie Souza [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -20,4 +21,4 @@ Updated: 2026-10-29 13:40 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-29 12:25 ET: Yasmine Kabbaj [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Marjorie Souza", "reason": "stop-loss", "pnl": -0.0714}`
+- `{"type": "buy", "game": "wta:Zavatska@Blinkova", "market": "aec-wta-annbli-katzav-2026-10-29", "side": "short", "team": "Katarina Zavatska", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
