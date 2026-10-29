@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T22:05:48.123275-04:00",
+ "updated": "2026-10-28T22:10:48.732883-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.3,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.05
   },
   {
    "market": "aec-nba-gs-min-2026-10-28",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-28 21:35 ET",
    "mode": "bounce",
-   "last_bid": 0.13
+   "last_bid": 0.07
   },
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
@@ -49,7 +49,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.055
   },
   {
    "market": "aec-nhl-cgy-edm-2026-10-28",
@@ -62,7 +62,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
