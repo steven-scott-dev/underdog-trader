@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T21:00:52.811158-04:00",
+ "updated": "2026-10-28T21:06:02.580393-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.6,
+ "duration_s": 23.9,
  "daily": {
   "date": "2026-10-28",
   "bets": 36,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.15
   },
   {
    "market": "aec-nba-hou-mil-2026-10-28",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -212,12 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Hawks",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

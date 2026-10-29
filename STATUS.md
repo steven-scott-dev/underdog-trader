@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 21:00 ET · Mode: **PAPER** · Result: OK (14.6s)
+Updated: 2026-10-28 21:06 ET · Mode: **PAPER** · Result: OK (23.9s)
 
 ## Today
 - Bets placed: 36 (main 10/10, bounce 26/50)
 - Realized P&L: +2.67
 
 ## Open paper positions
-- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
-- **Bucks** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
+- **Bucks** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-28 21:00 ET: Hawks [bounce] — take-profit @ 0.1400 → +0.1000
@@ -21,4 +21,4 @@ Updated: 2026-10-28 21:00 ET · Mode: **PAPER** · Result: OK (14.6s)
 - 2026-10-28 13:45 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hawks", "reason": "take-profit", "pnl": 0.1}`
+- _none_
