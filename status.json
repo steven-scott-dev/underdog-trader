@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T10:10:40.767967-04:00",
+ "updated": "2026-10-29T10:15:47.684186-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 3.6,
  "daily": {
   "date": "2026-10-29",
   "bets": 14,
@@ -23,7 +23,7 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.33
+   "last_bid": 0.59
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Medvedev@Norrie",
-   "market": "aec-atp-camnor-danmed-2026-10-29",
-   "side": "long",
-   "team": "Cameron Norrie",
-   "ask": 0.33,
-   "qty": 1.5152,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }

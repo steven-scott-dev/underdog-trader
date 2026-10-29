@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 10:10 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-29 10:15 ET · Mode: **PAPER** · Result: OK (3.6s)
 
 ## Today
 - Bets placed: 14 (main 7/10, bounce 7/50)
 - Realized P&L: +1.25
 
 ## Open paper positions
-- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.3300, unrealized +0.0000 (TP 0.8250 / SL 0.1320)
+- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.5900, unrealized +0.3940 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-10-29 09:45 ET: Valentin Vacherot [main] — take-profit @ 0.9750 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-10-29 10:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Medvedev@Norrie", "market": "aec-atp-camnor-danmed-2026-10-29", "side": "long", "team": "Cameron Norrie", "ask": 0.33, "qty": 1.5152, "stake": 0.5, "mode": "main"}`
+- _none_
