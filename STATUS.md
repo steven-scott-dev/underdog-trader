@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 11:40 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-29 11:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 18 (main 8/10, bounce 10/50)
 - Realized P&L: +0.94
 
 ## Open paper positions
-- **Alex Michelsen** (long/main) — 1.3158 @ 0.3800, now ~0.3300, unrealized -0.0658 (TP 0.9500 / SL 0.1520)
-- **Nikoloz Basilashvili** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Alex Michelsen** (long/main) — 1.3158 @ 0.3800, now ~0.3700, unrealized -0.0132 (TP 0.9500 / SL 0.1520)
+- **Nikoloz Basilashvili** (long/bounce) — 1.1111 @ 0.0900, now ~0.1200, unrealized +0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 11:15 ET: Cameron Norrie [main] — stop-loss @ 0.0000 → -0.5000
@@ -21,4 +21,4 @@ Updated: 2026-10-29 11:40 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-29 06:00 ET: Xinran Sun [main] — take-profit @ 0.7000 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Alcaraz@Basilashvili", "market": "aec-atp-nikbas-caralc-2026-10-29", "side": "long", "team": "Nikoloz Basilashvili", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
