@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 14:25 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-29 14:30 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 31 (main 10/10, bounce 21/50)
 - Realized P&L: -0.66
 
 ## Open paper positions
-- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.0900, unrealized +0.0125 (TP 0.1600 / SL 0.0320)
+- **Katarina Zavatska** (short/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
 - **Tallon Griekspoor** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
@@ -21,4 +21,4 @@ Updated: 2026-10-29 14:25 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-29 12:40 ET: Susan Bandecchi [main] — stop-loss @ 0.0800 → -0.4000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Griekspoor@Zverev", "market": "aec-atp-alezve-talgri-2026-10-29", "side": "short", "team": "Tallon Griekspoor", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
