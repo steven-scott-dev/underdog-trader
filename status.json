@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-28T23:45:38.304816-04:00",
+ "updated": "2026-10-28T23:50:40.589221-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 45,
   "bounce_bets": 35,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.6222
+  "realized": 2.5622
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-okc-dal-2026-10-28",
-   "game": "nba:OKC@DAL",
-   "side": "long",
-   "team": "Thunder",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-28 23:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nba-hou-mil-2026-10-28",
-   "game": "nba:HOU@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 20:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-28 21:10 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-fiofer-adrrea-2026-10-28",
    "game": "wta:Reami@Ferro",
@@ -196,20 +165,32 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-okc-dal-2026-10-28",
+   "game": "nba:OKC@DAL",
+   "side": "long",
+   "team": "Thunder",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-28 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 23:50 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nba:OKC@DAL",
-   "market": "aec-nba-okc-dal-2026-10-28",
-   "side": "long",
+   "type": "paper_close",
    "team": "Thunder",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.06
   }
  ]
 }
