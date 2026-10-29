@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-28T22:35:49.403741-04:00",
+ "updated": "2026-10-28T22:40:38.534867-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
   "bounce_bets": 33,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.6889
+  "realized": 2.5889
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.065
-  },
-  {
-   "market": "aec-nhl-cgy-edm-2026-10-28",
-   "game": "nhl:CGY@EDM",
-   "side": "long",
-   "team": "Flames",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.045
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-leatie-alemin-2026-10-28",
-   "game": "atp:Minaur@Tien",
-   "side": "long",
-   "team": "Learner Tien",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 16:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-28 16:15 ET",
-   "exit": 0.01,
-   "pnl": -0.09,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-carher-carmon-2026-10-28",
    "game": "wta:Monnet@Herea",
@@ -209,8 +179,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cgy-edm-2026-10-28",
+   "game": "nhl:CGY@EDM",
+   "side": "long",
+   "team": "Flames",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 22:40 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Flames",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }

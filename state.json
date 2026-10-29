@@ -2,7 +2,7 @@
  "date": "2026-10-28",
  "bets": 43,
  "bounce_bets": 33,
- "realized": 2.6889,
+ "realized": 2.5889,
  "paper_positions": [
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
@@ -15,20 +15,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.065
-  },
-  {
-   "market": "aec-nhl-cgy-edm-2026-10-28",
-   "game": "nhl:CGY@EDM",
-   "side": "long",
-   "team": "Flames",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 21:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.045
   }
  ],
  "paper_history": [
@@ -728,6 +715,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cgy-edm-2026-10-28",
+   "game": "nhl:CGY@EDM",
+   "side": "long",
+   "team": "Flames",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 21:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-28 22:40 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -957,6 +961,7 @@
   "aec-wta-carher-carmon-2026-10-28": 1793228439.0277123,
   "aec-nba-hou-mil-2026-10-28": 1793240434.969641,
   "aec-wta-fiofer-adrrea-2026-10-28": 1793239835.926076,
-  "aec-nba-gs-min-2026-10-28": 1793241933.4958835
+  "aec-nba-gs-min-2026-10-28": 1793241933.4958835,
+  "aec-nhl-cgy-edm-2026-10-28": 1793243437.1146193
  }
 }
