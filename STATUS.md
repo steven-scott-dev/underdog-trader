@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 21:06 ET · Mode: **PAPER** · Result: OK (23.9s)
+Updated: 2026-10-28 21:10 ET · Mode: **PAPER** · Result: OK (13.7s)
 
 ## Today
-- Bets placed: 36 (main 10/10, bounce 26/50)
-- Realized P&L: +2.67
+- Bets placed: 37 (main 10/10, bounce 27/50)
+- Realized P&L: +2.60
 
 ## Open paper positions
 - **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
-- **Bucks** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
+- **Flyers** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
+- 2026-10-28 21:10 ET: Bucks [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-28 21:00 ET: Hawks [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-28 18:30 ET: Carmen Andreea Herea [bounce] — stop-loss @ 0.0200 → -0.0778
 - 2026-10-28 16:15 ET: Learner Tien [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -18,7 +19,7 @@ Updated: 2026-10-28 21:06 ET · Mode: **PAPER** · Result: OK (23.9s)
 - 2026-10-28 15:25 ET: Rinky Hijikata [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-10-28 14:30 ET: Jurij Rodionov [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-28 14:15 ET: Gabriela Knutson [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-10-28 13:45 ET: Oksana Selekhmeteva [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.07}`
+- `{"type": "buy", "game": "nhl:PHI@WSH", "market": "aec-nhl-phi-was-2026-10-28", "side": "long", "team": "Flyers", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
