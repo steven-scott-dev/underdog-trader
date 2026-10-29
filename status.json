@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T11:15:38.610289-04:00",
+ "updated": "2026-10-29T11:20:36.353183-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-10-29",
   "bets": 16,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Cameron Norrie",
-   "reason": "stop-loss",
-   "pnl": -0.5
-  }
- ]
+ "actions": []
 }

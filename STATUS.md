@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 11:15 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-29 11:20 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 16 (main 7/10, bounce 9/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 11:15 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-29 06:00 ET: Xinran Sun [main] — take-profit @ 0.7000 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Cameron Norrie", "reason": "stop-loss", "pnl": -0.5}`
+- _none_
