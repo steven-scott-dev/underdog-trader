@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T21:10:51.211976-04:00",
+ "updated": "2026-10-28T21:15:48.879008-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.7,
+ "duration_s": 13.3,
  "daily": {
   "date": "2026-10-28",
   "bets": 37,
@@ -36,7 +36,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:10 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -212,23 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bucks",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  },
-  {
-   "type": "buy",
-   "game": "nhl:PHI@WSH",
-   "market": "aec-nhl-phi-was-2026-10-28",
-   "side": "long",
-   "team": "Flyers",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
