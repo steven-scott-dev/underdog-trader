@@ -2,8 +2,9 @@
  "date": "2026-10-29",
  "bets": 1,
  "bounce_bets": 1,
- "realized": 0.0,
- "paper_positions": [
+ "realized": 0.1,
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
    "game": "nhl:TOR@SEA",
@@ -15,10 +16,13 @@
    "sl": 0.032,
    "opened": "2026-10-29 00:10 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.08,
+   "closed": "2026-10-29 00:15 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "px_hist": {
   "aec-nhl-tor-sea-2026-10-28": [
