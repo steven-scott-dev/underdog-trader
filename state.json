@@ -2,7 +2,7 @@
  "date": "2026-10-29",
  "bets": 15,
  "bounce_bets": 8,
- "realized": 1.245,
+ "realized": 1.345,
  "paper_positions": [
   {
    "market": "aec-atp-camnor-danmed-2026-10-29",
@@ -15,20 +15,7 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.34
-  },
-  {
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "game": "wta:Andreeva@Ribera",
-   "side": "short",
-   "team": "Erika Andreeva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-29 10:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.77
   }
  ],
  "paper_history": [
@@ -251,6 +238,23 @@
    "closed": "2026-10-29 09:45 ET",
    "exit": 0.975,
    "pnl": 0.75,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marrib-eriand-2026-10-29",
+   "game": "wta:Andreeva@Ribera",
+   "side": "short",
+   "team": "Erika Andreeva",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-29 10:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-29 10:45 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
    "reason": "take-profit"
   }
  ],

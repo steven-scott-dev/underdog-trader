@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-29T10:40:37.428091-04:00",
+ "updated": "2026-10-29T10:45:39.580290-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-29",
   "bets": 15,
   "bounce_bets": 8,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.245
+  "realized": 1.345
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.34
-  },
-  {
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "game": "wta:Andreeva@Ribera",
-   "side": "short",
-   "team": "Erika Andreeva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-29 10:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.77
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-leyfer-elimer-2026-10-27",
-   "game": "wta:Mertens@Fernandez",
-   "side": "short",
-   "team": "Elise Mertens",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-29 00:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-29 00:50 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-jiltei-zeyson-2026-10-28",
    "game": "wta:Sonmez@Teichmann",
@@ -209,8 +179,32 @@
    "exit": 0.975,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marrib-eriand-2026-10-29",
+   "game": "wta:Andreeva@Ribera",
+   "side": "short",
+   "team": "Erika Andreeva",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-29 10:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-29 10:45 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Erika Andreeva",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
