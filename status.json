@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T10:30:45.091114-04:00",
+ "updated": "2026-10-29T10:33:39.745782-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-29",
   "bets": 15,
@@ -36,7 +36,7 @@
    "sl": 0.024,
    "opened": "2026-10-29 10:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Andreeva@Ribera",
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "side": "short",
-   "team": "Erika Andreeva",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
