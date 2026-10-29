@@ -2,22 +2,8 @@
  "date": "2026-10-29",
  "bets": 12,
  "bounce_bets": 7,
- "realized": 0.5839,
- "paper_positions": [
-  {
-   "market": "aec-wta-liltag-maglin-2026-10-29",
-   "game": "wta:Linette@Tagger",
-   "side": "short",
-   "team": "Magda Linette",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 09:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 0.495,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -205,6 +191,23 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-liltag-maglin-2026-10-29",
+   "game": "wta:Linette@Tagger",
+   "side": "short",
+   "team": "Magda Linette",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 09:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 09:25 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -263,6 +266,7 @@
   "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755,
   "aec-wta-martim-xinsun-2026-10-29": 1793266835.4632237,
   "aec-atp-valvac-rafjod-2026-10-29": 1793280636.260993,
-  "aec-atp-tompau-lucdar-2026-10-29": 1793281838.0507498
+  "aec-atp-tompau-lucdar-2026-10-29": 1793281838.0507498,
+  "aec-wta-liltag-maglin-2026-10-29": 1793282142.812059
  }
 }
