@@ -1,79 +1,32 @@
 {
- "updated": "2026-10-29T16:50:41.536012-04:00",
+ "updated": "2026-10-29T16:55:42.900016-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-29",
-  "bets": 34,
-  "bounce_bets": 24,
+  "bets": 35,
+  "bounce_bets": 25,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.5526
+  "realized": -0.7415
  },
  "paper_positions": [
   {
-   "market": "aec-wta-nadpod-mirbul-2026-10-29",
-   "game": "wta:Bulgaru@Podoroska",
+   "market": "aec-wta-polher-valstr-2026-10-28",
+   "game": "wta:Strakhova@Hercog",
    "side": "short",
-   "team": "Miriam Bulgaru",
+   "team": "Valeriya Strakhova",
    "entry": 0.09,
    "qty": 1.1111,
    "tp": 0.18,
    "sl": 0.036,
-   "opened": "2026-10-29 16:30 ET",
+   "opened": "2026-10-29 16:55 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-marcar-julgra-2026-10-28",
-   "game": "wta:Grabher@Carle",
-   "side": "long",
-   "team": "Maria Lourdes Carle",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-29 16:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-frajon-marsou-2026-10-28",
-   "game": "wta:Souza@Jones",
-   "side": "short",
-   "team": "Marjorie Souza",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 12:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-29 13:00 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-atp-danalt-jirleh-2026-10-29",
-   "game": "atp:Lehecka@Altmaier",
-   "side": "long",
-   "team": "Daniel Altmaier",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 12:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.13,
-   "closed": "2026-10-29 13:05 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-lucste-aylaks-2026-10-28",
    "game": "wta:Aksu@Stefanini",
@@ -209,18 +162,64 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-nadpod-mirbul-2026-10-29",
+   "game": "wta:Bulgaru@Podoroska",
+   "side": "short",
+   "team": "Miriam Bulgaru",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 16:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 16:55 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-marcar-julgra-2026-10-28",
+   "game": "wta:Grabher@Carle",
+   "side": "long",
+   "team": "Maria Lourdes Carle",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-29 16:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 16:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Grabher@Carle",
-   "market": "aec-wta-marcar-julgra-2026-10-28",
-   "side": "long",
+   "type": "paper_close",
+   "team": "Miriam Bulgaru",
+   "reason": "stop-loss",
+   "pnl": -0.0889
+  },
+  {
+   "type": "paper_close",
    "team": "Maria Lourdes Carle",
-   "ask": 0.05,
-   "qty": 2.0,
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Strakhova@Hercog",
+   "market": "aec-wta-polher-valstr-2026-10-28",
+   "side": "short",
+   "team": "Valeriya Strakhova",
+   "ask": 0.09,
+   "qty": 1.1111,
    "stake": 0.1,
    "mode": "bounce"
   }

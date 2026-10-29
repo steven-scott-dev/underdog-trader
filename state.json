@@ -1,34 +1,21 @@
 {
  "date": "2026-10-29",
- "bets": 34,
- "bounce_bets": 24,
- "realized": -0.5526,
+ "bets": 35,
+ "bounce_bets": 25,
+ "realized": -0.7415,
  "paper_positions": [
   {
-   "market": "aec-wta-nadpod-mirbul-2026-10-29",
-   "game": "wta:Bulgaru@Podoroska",
+   "market": "aec-wta-polher-valstr-2026-10-28",
+   "game": "wta:Strakhova@Hercog",
    "side": "short",
-   "team": "Miriam Bulgaru",
+   "team": "Valeriya Strakhova",
    "entry": 0.09,
    "qty": 1.1111,
    "tp": 0.18,
    "sl": 0.036,
-   "opened": "2026-10-29 16:30 ET",
+   "opened": "2026-10-29 16:55 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-marcar-julgra-2026-10-28",
-   "game": "wta:Grabher@Carle",
-   "side": "long",
-   "team": "Maria Lourdes Carle",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-29 16:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -575,6 +562,40 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-nadpod-mirbul-2026-10-29",
+   "game": "wta:Bulgaru@Podoroska",
+   "side": "short",
+   "team": "Miriam Bulgaru",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 16:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 16:55 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-marcar-julgra-2026-10-28",
+   "game": "wta:Grabher@Carle",
+   "side": "long",
+   "team": "Maria Lourdes Carle",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-29 16:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 16:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -710,6 +731,12 @@
     1793307041.208212,
     0.05
    ]
+  ],
+  "aec-wta-polher-valstr-2026-10-28": [
+   [
+    1793307342.7099879,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
@@ -728,6 +755,8 @@
   "aec-atp-danalt-jirleh-2026-10-29": 1793297138.2503145,
   "aec-wta-frajon-marsou-2026-10-28": 1793297436.5816796,
   "aec-atp-tayfri-densha-2026-10-29": 1793298035.061942,
-  "aec-atp-alezve-talgri-2026-10-29": 1793303137.5586805
+  "aec-atp-alezve-talgri-2026-10-29": 1793303137.5586805,
+  "aec-wta-nadpod-mirbul-2026-10-29": 1793309141.3673065,
+  "aec-wta-marcar-julgra-2026-10-28": 1793309141.4228427
  }
 }
