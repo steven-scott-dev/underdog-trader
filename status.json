@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T09:10:35.718798-04:00",
+ "updated": "2026-10-29T09:15:37.758052-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-10-29",
   "bets": 12,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-29 08:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-liltag-maglin-2026-10-29",
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 09:00 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
