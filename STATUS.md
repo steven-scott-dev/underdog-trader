@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 13:15 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-10-29 13:20 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 28 (main 10/10, bounce 18/50)
 - Realized P&L: -0.42
 
 ## Open paper positions
-- **Marjorie Souza** (short/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
-- **Daniel Altmaier** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Marjorie Souza** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Daniel Altmaier** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 13:15 ET: Nikoloz Basilashvili [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -21,5 +21,4 @@ Updated: 2026-10-29 13:15 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-10-29 12:15 ET: Ayla Aksu [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Nikoloz Basilashvili", "reason": "stop-loss", "pnl": -0.075}`
-- `{"type": "buy", "game": "atp:Lehecka@Altmaier", "market": "aec-atp-danalt-jirleh-2026-10-29", "side": "long", "team": "Daniel Altmaier", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
