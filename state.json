@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 9,
+ "bets": 10,
  "bounce_bets": 5,
  "realized": 1.041,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-valvac-rafjod-2026-10-29",
+   "game": "atp:Jodar@Vacherot",
+   "side": "long",
+   "team": "Valentin Vacherot",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-10-29 08:50 ET",
+   "mode": "main",
+   "last_bid": 0.35
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -189,6 +203,12 @@
    [
     1793267139.5649266,
     0.28
+   ]
+  ],
+  "aec-atp-valvac-rafjod-2026-10-29": [
+   [
+    1793278237.0702257,
+    0.35
    ]
   ]
  },

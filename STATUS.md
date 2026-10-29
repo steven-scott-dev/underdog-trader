@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 08:45 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-29 08:50 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 9 (main 4/10, bounce 5/50)
+- Bets placed: 10 (main 5/10, bounce 5/50)
 - Realized P&L: +1.04
 
 ## Open paper positions
-- _none_
+- **Valentin Vacherot** (long/main) — 1.4286 @ 0.3500, now ~0.3500, unrealized +0.0000 (TP 0.8750 / SL 0.1400)
 
 ## Recent history
 - 2026-10-29 06:00 ET: Xinran Sun [main] — take-profit @ 0.7000 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-10-29 08:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-29 00:35 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Jodar@Vacherot", "market": "aec-atp-valvac-rafjod-2026-10-29", "side": "long", "team": "Valentin Vacherot", "ask": 0.35, "qty": 1.4286, "stake": 0.5, "mode": "main"}`
