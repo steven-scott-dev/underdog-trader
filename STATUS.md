@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 15:05 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-29 15:10 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 32 (main 10/10, bounce 22/50)
-- Realized P&L: -0.56
+- Realized P&L: -0.46
 
 ## Open paper positions
-- **Tallon Griekspoor** (short/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
-- **Katarina Zavatska** (short/bounce) — 1.0 @ 0.1000, now ~0.1600, unrealized +0.0600 (TP 0.2000 / SL 0.0400)
+- **Tallon Griekspoor** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
+- 2026-10-29 15:10 ET: Katarina Zavatska [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-29 14:45 ET: Katarina Zavatska [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-29 13:50 ET: Denis Shapovalov [bounce] — stop-loss @ 0.0100 → -0.0889
 - 2026-10-29 13:40 ET: Marjorie Souza [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -18,7 +18,6 @@ Updated: 2026-10-29 15:05 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-29 13:15 ET: Nikoloz Basilashvili [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-10-29 13:10 ET: Lucrezia Stefanini [main] — stop-loss @ 0.0200 → -0.4600
 - 2026-10-29 13:05 ET: Daniel Altmaier [bounce] — take-profit @ 0.2000 → +0.1000
-- 2026-10-29 13:00 ET: Marjorie Souza [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Katarina Zavatska", "reason": "take-profit", "pnl": 0.1}`

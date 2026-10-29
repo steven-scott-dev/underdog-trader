@@ -2,7 +2,7 @@
  "date": "2026-10-29",
  "bets": 32,
  "bounce_bets": 22,
- "realized": -0.5626,
+ "realized": -0.4626,
  "paper_positions": [
   {
    "market": "aec-atp-alezve-talgri-2026-10-29",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 14:25 ET",
    "mode": "bounce",
-   "last_bid": 0.13
-  },
-  {
-   "market": "aec-wta-annbli-katzav-2026-10-29",
-   "game": "wta:Zavatska@Blinkova",
-   "side": "short",
-   "team": "Katarina Zavatska",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -539,6 +526,23 @@
    "last_bid": 0.07,
    "closed": "2026-10-29 14:45 ET",
    "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-annbli-katzav-2026-10-29",
+   "game": "wta:Zavatska@Blinkova",
+   "side": "short",
+   "team": "Katarina Zavatska",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 15:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.16,
+   "closed": "2026-10-29 15:10 ET",
+   "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
   }
