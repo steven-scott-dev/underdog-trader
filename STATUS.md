@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 18:35 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-29 18:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 37 (main 10/10, bounce 27/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 18:35 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-29 14:45 ET: Katarina Zavatska [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Martina Colmegna", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_
