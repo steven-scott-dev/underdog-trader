@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 3,
- "bounce_bets": 2,
+ "bets": 4,
+ "bounce_bets": 3,
  "realized": 0.95,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leyfer-elimer-2026-10-27",
+   "game": "wta:Mertens@Fernandez",
+   "side": "short",
+   "team": "Elise Mertens",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-29 00:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -67,7 +81,7 @@
   ],
   "aec-wta-leyfer-elimer-2026-10-27": [
    [
-    1793247945.764035,
+    1793249134.9487839,
     0.06
    ]
   ]
