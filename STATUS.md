@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 17:15 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-29 17:20 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 36 (main 10/10, bounce 26/50)
-- Realized P&L: -0.64
+- Realized P&L: -0.72
 
 ## Open paper positions
-- **Lisa Pigato** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-10-29 17:20 ET: Lisa Pigato [bounce] — stop-loss @ 0.0200 → -0.0800
 - 2026-10-29 17:15 ET: Valeriya Strakhova [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-29 16:55 ET: Maria Lourdes Carle [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-29 16:55 ET: Miriam Bulgaru [bounce] — stop-loss @ 0.0100 → -0.0889
@@ -17,7 +18,6 @@ Updated: 2026-10-29 17:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-29 15:10 ET: Katarina Zavatska [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-29 14:45 ET: Katarina Zavatska [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-29 13:50 ET: Denis Shapovalov [bounce] — stop-loss @ 0.0100 → -0.0889
-- 2026-10-29 13:40 ET: Marjorie Souza [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Valeriya Strakhova", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "paper_close", "team": "Lisa Pigato", "reason": "stop-loss", "pnl": -0.08}`

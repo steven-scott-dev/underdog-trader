@@ -2,22 +2,8 @@
  "date": "2026-10-29",
  "bets": 36,
  "bounce_bets": 26,
- "realized": -0.6415,
- "paper_positions": [
-  {
-   "market": "aec-wta-markub-lispig-2026-10-29",
-   "game": "wta:Pigato@Kubka",
-   "side": "short",
-   "team": "Lisa Pigato",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 17:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": -0.7215,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -613,6 +599,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-markub-lispig-2026-10-29",
+   "game": "wta:Pigato@Kubka",
+   "side": "short",
+   "team": "Lisa Pigato",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 17:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-29 17:20 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -780,6 +783,7 @@
   "aec-atp-tayfri-densha-2026-10-29": 1793298035.061942,
   "aec-atp-alezve-talgri-2026-10-29": 1793303137.5586805,
   "aec-wta-nadpod-mirbul-2026-10-29": 1793309141.3673065,
-  "aec-wta-marcar-julgra-2026-10-28": 1793309141.4228427
+  "aec-wta-marcar-julgra-2026-10-28": 1793309141.4228427,
+  "aec-wta-markub-lispig-2026-10-29": 1793310640.2841809
  }
 }
