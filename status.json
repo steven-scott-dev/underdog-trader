@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T18:00:43.110961-04:00",
+ "updated": "2026-10-29T18:05:39.133640-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-29",
   "bets": 37,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 18:00 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Colmegna@Maria",
-   "market": "aec-wta-tatmar-marcol-2026-10-28",
-   "side": "short",
-   "team": "Martina Colmegna",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
