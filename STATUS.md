@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 00:20 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-29 00:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 1 (main 0/10, bounce 1/50)
+- Bets placed: 2 (main 0/10, bounce 2/50)
 - Realized P&L: +0.10
 
 ## Open paper positions
-- _none_
+- **Elise Mertens** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Mertens@Fernandez", "market": "aec-wta-leyfer-elimer-2026-10-27", "side": "short", "team": "Elise Mertens", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
