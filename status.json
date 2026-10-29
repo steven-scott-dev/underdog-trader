@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-29T19:30:38.731220-04:00",
+ "updated": "2026-10-29T19:35:38.961311-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-29",
   "bets": 38,
   "bounce_bets": 28,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.8104
+  "realized": -0.7104
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-tatmar-marcol-2026-10-28",
-   "game": "wta:Colmegna@Maria",
-   "side": "short",
-   "team": "Martina Colmegna",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 19:06 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-frajon-marsou-2026-10-28",
-   "game": "wta:Souza@Jones",
-   "side": "short",
-   "team": "Marjorie Souza",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 13:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-29 13:40 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-tayfri-densha-2026-10-29",
    "game": "atp:Shapovalov@Fritz",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tatmar-marcol-2026-10-28",
+   "game": "wta:Colmegna@Maria",
+   "side": "short",
+   "team": "Martina Colmegna",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 19:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-29 19:35 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Martina Colmegna",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
