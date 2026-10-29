@@ -1,18 +1,44 @@
 {
- "updated": "2026-10-29T00:05:38.352996-04:00",
+ "updated": "2026-10-29T00:10:42.215727-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-29",
-  "bets": 0,
-  "bounce_bets": 0,
+  "bets": 1,
+  "bounce_bets": 1,
   "max_main": 10,
   "max_bounce": 50,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-tor-sea-2026-10-28",
+   "game": "nhl:TOR@SEA",
+   "side": "long",
+   "team": "Maple Leafs",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 00:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:TOR@SEA",
+   "market": "aec-nhl-tor-sea-2026-10-28",
+   "side": "long",
+   "team": "Maple Leafs",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
