@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 02:45 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-29 02:50 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 6 (main 2/10, bounce 4/50)
 - Realized P&L: +1.15
 
 ## Open paper positions
-- **Zeynep Sonmez** (short/main) — 1.5152 @ 0.3300, now ~0.1800, unrealized -0.2273 (TP 0.8250 / SL 0.1320)
+- **Zeynep Sonmez** (short/main) — 1.5152 @ 0.3300, now ~0.2500, unrealized -0.1212 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
