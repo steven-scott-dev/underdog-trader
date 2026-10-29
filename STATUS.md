@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 22:15 ET · Mode: **PAPER** · Result: OK (14.8s)
+Updated: 2026-10-28 22:20 ET · Mode: **PAPER** · Result: OK (11.5s)
 
 ## Today
 - Bets placed: 43 (main 10/10, bounce 33/50)
 - Realized P&L: +2.69
 
 ## Open paper positions
-- **Tampa Bay Rays** (short/bounce) — 1.6667 @ 0.0600, now ~0.0550, unrealized -0.0083 (TP 0.1200 / SL 0.0240)
+- **Tampa Bay Rays** (short/bounce) — 1.6667 @ 0.0600, now ~0.0450, unrealized -0.0250 (TP 0.1200 / SL 0.0240)
 - **Flames** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
@@ -21,5 +21,4 @@ Updated: 2026-10-28 22:15 ET · Mode: **PAPER** · Result: OK (14.8s)
 - 2026-10-28 21:00 ET: Hawks [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pelicans", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Timberwolves", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

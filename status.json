@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T22:15:47.835221-04:00",
+ "updated": "2026-10-28T22:20:47.316685-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.8,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.055
+   "last_bid": 0.045
   },
   {
    "market": "aec-nhl-cgy-edm-2026-10-28",
@@ -212,18 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Pelicans",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Timberwolves",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
