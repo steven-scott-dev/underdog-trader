@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 14:45 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-29 14:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 31 (main 10/10, bounce 21/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 14:45 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-10-29 13:00 ET: Marjorie Souza [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Katarina Zavatska", "reason": "take-profit", "pnl": 0.1}`
+- _none_
