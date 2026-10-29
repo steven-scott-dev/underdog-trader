@@ -1,43 +1,17 @@
 {
- "updated": "2026-10-28T22:10:48.732883-04:00",
+ "updated": "2026-10-28T22:15:47.835221-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 14.8,
  "daily": {
   "date": "2026-10-28",
   "bets": 43,
   "bounce_bets": 33,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 2.6556
+  "realized": 2.6889
  },
  "paper_positions": [
-  {
-   "market": "aec-nba-den-no-2026-10-28",
-   "game": "nba:DEN@NO",
-   "side": "short",
-   "team": "Pelicans",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 20:41 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-gs-min-2026-10-28",
-   "game": "nba:GS@MIN",
-   "side": "short",
-   "team": "Timberwolves",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 21:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
    "game": "mlb:MIL@TB",
@@ -62,44 +36,10 @@
    "sl": 0.04,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-tayfri-rinhij-2026-10-27",
-   "game": "atp:Hijikata@Fritz",
-   "side": "short",
-   "team": "Rinky Hijikata",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-28 15:25 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-linkli-nomaku-2026-10-28",
-   "game": "wta:Akugue@Klimovicova",
-   "side": "long",
-   "team": "Linda Klimovicova",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-28 15:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-28 15:45 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-leatie-alemin-2026-10-28",
    "game": "atp:Minaur@Tien",
@@ -235,8 +175,55 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-den-no-2026-10-28",
+   "game": "nba:DEN@NO",
+   "side": "short",
+   "team": "Pelicans",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 20:41 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 22:15 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-gs-min-2026-10-28",
+   "game": "nba:GS@MIN",
+   "side": "short",
+   "team": "Timberwolves",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-28 22:15 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Pelicans",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "paper_close",
+   "team": "Timberwolves",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }

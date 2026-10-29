@@ -2,34 +2,8 @@
  "date": "2026-10-28",
  "bets": 43,
  "bounce_bets": 33,
- "realized": 2.6556,
+ "realized": 2.6889,
  "paper_positions": [
-  {
-   "market": "aec-nba-den-no-2026-10-28",
-   "game": "nba:DEN@NO",
-   "side": "short",
-   "team": "Pelicans",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-28 20:41 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-gs-min-2026-10-28",
-   "game": "nba:GS@MIN",
-   "side": "short",
-   "team": "Timberwolves",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-28 21:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-mlb-mil-tb-2026-10-28",
    "game": "mlb:MIL@TB",
@@ -54,7 +28,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 21:50 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -720,6 +694,40 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-den-no-2026-10-28",
+   "game": "nba:DEN@NO",
+   "side": "short",
+   "team": "Pelicans",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-28 20:41 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-28 22:15 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-gs-min-2026-10-28",
+   "game": "nba:GS@MIN",
+   "side": "short",
+   "team": "Timberwolves",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-28 21:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-28 22:15 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -948,6 +956,7 @@
   "aec-atp-leatie-alemin-2026-10-28": 1793220335.7775068,
   "aec-wta-carher-carmon-2026-10-28": 1793228439.0277123,
   "aec-nba-hou-mil-2026-10-28": 1793240434.969641,
-  "aec-wta-fiofer-adrrea-2026-10-28": 1793239835.926076
+  "aec-wta-fiofer-adrrea-2026-10-28": 1793239835.926076,
+  "aec-nba-gs-min-2026-10-28": 1793241933.4958835
  }
 }
