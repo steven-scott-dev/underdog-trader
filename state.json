@@ -1,8 +1,8 @@
 {
  "date": "2026-10-29",
- "bets": 19,
- "bounce_bets": 11,
- "realized": 0.945,
+ "bets": 20,
+ "bounce_bets": 12,
+ "realized": 0.8783,
  "paper_positions": [
   {
    "market": "aec-atp-alemic-artfil-2026-10-29",
@@ -15,20 +15,7 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.47
-  },
-  {
-   "market": "aec-atp-nikbas-caralc-2026-10-29",
-   "game": "atp:Alcaraz@Basilashvili",
-   "side": "long",
-   "team": "Nikoloz Basilashvili",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 11:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.46
   },
   {
    "market": "aec-wta-julrie-yaskab-2026-10-28",
@@ -41,7 +28,20 @@
    "sl": 0.028,
    "opened": "2026-10-29 11:55 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "side": "short",
+   "team": "Ayla Aksu",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -316,6 +316,23 @@
    "exit": 0.0,
    "pnl": -0.5,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-nikbas-caralc-2026-10-29",
+   "game": "atp:Alcaraz@Basilashvili",
+   "side": "long",
+   "team": "Nikoloz Basilashvili",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 12:00 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -397,6 +414,12 @@
     1793289334.1887457,
     0.07
    ]
+  ],
+  "aec-wta-lucste-aylaks-2026-10-28": [
+   [
+    1793289643.3466685,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -406,6 +429,7 @@
   "aec-atp-valvac-rafjod-2026-10-29": 1793280636.260993,
   "aec-atp-tompau-lucdar-2026-10-29": 1793281838.0507498,
   "aec-wta-liltag-maglin-2026-10-29": 1793282142.812059,
-  "aec-atp-camnor-danmed-2026-10-29": 1793288736.9871047
+  "aec-atp-camnor-danmed-2026-10-29": 1793288736.9871047,
+  "aec-atp-nikbas-caralc-2026-10-29": 1793291441.228356
  }
 }

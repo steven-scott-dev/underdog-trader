@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-29T11:55:34.799880-04:00",
+ "updated": "2026-10-29T12:00:43.347969-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-29",
-  "bets": 19,
-  "bounce_bets": 11,
+  "bets": 20,
+  "bounce_bets": 12,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.945
+  "realized": 0.8783
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.152,
    "opened": "2026-10-29 11:35 ET",
    "mode": "main",
-   "last_bid": 0.47
-  },
-  {
-   "market": "aec-atp-nikbas-caralc-2026-10-29",
-   "game": "atp:Alcaraz@Basilashvili",
-   "side": "long",
-   "team": "Nikoloz Basilashvili",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 11:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.46
   },
   {
    "market": "aec-wta-julrie-yaskab-2026-10-28",
@@ -49,27 +36,23 @@
    "sl": 0.028,
    "opened": "2026-10-29 11:55 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "side": "short",
+   "team": "Ayla Aksu",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-eleryb-yulput-2026-10-27",
-   "game": "wta:Putintseva@Rybakina",
-   "side": "short",
-   "team": "Yulia Putintseva",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-29 04:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-29 04:55 ET",
-   "exit": 0.02,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-martim-xinsun-2026-10-29",
    "game": "wta:Sun@Timofeeva",
@@ -222,18 +205,41 @@
    "exit": 0.0,
    "pnl": -0.5,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-nikbas-caralc-2026-10-29",
+   "game": "atp:Alcaraz@Basilashvili",
+   "side": "long",
+   "team": "Nikoloz Basilashvili",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 12:00 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Nikoloz Basilashvili",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  },
+  {
    "type": "buy",
-   "game": "wta:Kabbaj@Riera",
-   "market": "aec-wta-julrie-yaskab-2026-10-28",
+   "game": "wta:Aksu@Stefanini",
+   "market": "aec-wta-lucste-aylaks-2026-10-28",
    "side": "short",
-   "team": "Yasmine Kabbaj",
-   "ask": 0.07,
-   "qty": 1.4286,
+   "team": "Ayla Aksu",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }
