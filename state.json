@@ -2,7 +2,7 @@
  "date": "2026-10-28",
  "bets": 36,
  "bounce_bets": 26,
- "realized": 2.5673,
+ "realized": 2.6673,
  "paper_positions": [
   {
    "market": "aec-nba-den-no-2026-10-28",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:41 ET",
    "mode": "bounce",
-   "last_bid": 0.16
-  },
-  {
-   "market": "aec-nba-mia-atl-2026-10-28",
-   "game": "nba:MIA@ATL",
-   "side": "short",
-   "team": "Hawks",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-28 20:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.14
   },
   {
    "market": "aec-nba-hou-mil-2026-10-28",
@@ -41,7 +28,7 @@
    "sl": 0.04,
    "opened": "2026-10-28 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -605,6 +592,23 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-mia-atl-2026-10-28",
+   "game": "nba:MIA@ATL",
+   "side": "short",
+   "team": "Hawks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-28 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-28 21:00 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
