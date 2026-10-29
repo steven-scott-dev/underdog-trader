@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-29T12:55:48.620487-04:00",
+ "updated": "2026-10-29T13:00:49.393583-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 12.5,
  "daily": {
   "date": "2026-10-29",
   "bets": 26,
   "bounce_bets": 16,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.0895
+  "realized": 0.0105
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.13
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -36,20 +36,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-frajon-marsou-2026-10-28",
-   "game": "wta:Souza@Jones",
-   "side": "short",
-   "team": "Marjorie Souza",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 12:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-lucste-aylaks-2026-10-28",
@@ -62,27 +49,10 @@
    "sl": 0.1,
    "opened": "2026-10-29 12:55 ET",
    "mode": "main",
-   "last_bid": 0.25
+   "last_bid": 0.17
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-valvac-rafjod-2026-10-29",
-   "game": "atp:Jodar@Vacherot",
-   "side": "long",
-   "team": "Valentin Vacherot",
-   "entry": 0.39,
-   "qty": 1.2821,
-   "tp": 0.975,
-   "sl": 0.156,
-   "opened": "2026-10-29 09:30 ET",
-   "mode": "main",
-   "last_bid": 0.31,
-   "closed": "2026-10-29 09:45 ET",
-   "exit": 0.975,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-marrib-eriand-2026-10-29",
    "game": "wta:Andreeva@Ribera",
@@ -235,20 +205,32 @@
    "exit": 0.08,
    "pnl": -0.4,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-frajon-marsou-2026-10-28",
+   "game": "wta:Souza@Jones",
+   "side": "short",
+   "team": "Marjorie Souza",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 12:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-29 13:00 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Aksu@Stefanini",
-   "market": "aec-wta-lucste-aylaks-2026-10-28",
-   "side": "long",
-   "team": "Lucrezia Stefanini",
-   "ask": 0.25,
-   "qty": 2.0,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Marjorie Souza",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }

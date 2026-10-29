@@ -2,7 +2,7 @@
  "date": "2026-10-29",
  "bets": 26,
  "bounce_bets": 16,
- "realized": -0.0895,
+ "realized": 0.0105,
  "paper_positions": [
   {
    "market": "aec-atp-danalt-jirleh-2026-10-29",
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.13
   },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
@@ -28,20 +28,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-frajon-marsou-2026-10-28",
-   "game": "wta:Souza@Jones",
-   "side": "short",
-   "team": "Marjorie Souza",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 12:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-lucste-aylaks-2026-10-28",
@@ -54,7 +41,7 @@
    "sl": 0.1,
    "opened": "2026-10-29 12:55 ET",
    "mode": "main",
-   "last_bid": 0.25
+   "last_bid": 0.17
   }
  ],
  "paper_history": [
@@ -431,6 +418,23 @@
    "exit": 0.08,
    "pnl": -0.4,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-frajon-marsou-2026-10-28",
+   "game": "wta:Souza@Jones",
+   "side": "short",
+   "team": "Marjorie Souza",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 12:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-29 13:00 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
