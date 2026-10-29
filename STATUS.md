@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-28 21:40 ET · Mode: **PAPER** · Result: OK (13.9s)
+Updated: 2026-10-28 21:45 ET · Mode: **PAPER** · Result: OK (14.5s)
 
 ## Today
 - Bets placed: 40 (main 10/10, bounce 30/50)
 - Realized P&L: +2.53
 
 ## Open paper positions
-- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Pelicans** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 - **Flyers** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
-- **Timberwolves** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
-- **Bucks** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Timberwolves** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Bucks** (short/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-28 21:40 ET: Adriana Reami [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -23,5 +23,4 @@ Updated: 2026-10-28 21:40 ET · Mode: **PAPER** · Result: OK (13.9s)
 - 2026-10-28 14:30 ET: Jurij Rodionov [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Adriana Reami", "reason": "stop-loss", "pnl": -0.0667}`
-- `{"type": "buy", "game": "nba:HOU@MIL", "market": "aec-nba-hou-mil-2026-10-28", "side": "short", "team": "Bucks", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
