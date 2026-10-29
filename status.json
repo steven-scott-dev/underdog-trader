@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-29T13:00:49.393583-04:00",
+ "updated": "2026-10-29T13:05:49.858764-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-10-29",
-  "bets": 26,
-  "bounce_bets": 16,
+  "bets": 27,
+  "bounce_bets": 17,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.0105
+  "realized": 0.1105
  },
  "paper_positions": [
-  {
-   "market": "aec-atp-danalt-jirleh-2026-10-29",
-   "game": "atp:Lehecka@Altmaier",
-   "side": "long",
-   "team": "Daniel Altmaier",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 12:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  },
   {
    "market": "aec-atp-nikbas-caralc-2026-10-29",
    "game": "atp:Alcaraz@Basilashvili",
@@ -36,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-lucste-aylaks-2026-10-28",
@@ -49,27 +36,23 @@
    "sl": 0.1,
    "opened": "2026-10-29 12:55 ET",
    "mode": "main",
-   "last_bid": 0.17
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-wta-frajon-marsou-2026-10-28",
+   "game": "wta:Souza@Jones",
+   "side": "short",
+   "team": "Marjorie Souza",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "game": "wta:Andreeva@Ribera",
-   "side": "short",
-   "team": "Erika Andreeva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-29 10:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.11,
-   "closed": "2026-10-29 10:45 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-marrib-eriand-2026-10-29",
    "game": "wta:Andreeva@Ribera",
@@ -222,15 +205,43 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-danalt-jirleh-2026-10-29",
+   "game": "atp:Lehecka@Altmaier",
+   "side": "long",
+   "team": "Daniel Altmaier",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-10-29 13:05 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Marjorie Souza",
+   "team": "Daniel Altmaier",
    "reason": "take-profit",
    "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Souza@Jones",
+   "market": "aec-wta-frajon-marsou-2026-10-28",
+   "side": "short",
+   "team": "Marjorie Souza",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
