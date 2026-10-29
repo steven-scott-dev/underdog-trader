@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 04:25 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-29 04:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 7 (main 2/10, bounce 5/50)
 - Realized P&L: +0.68
 
 ## Open paper positions
-- **Yulia Putintseva** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Yulia Putintseva** (short/bounce) — 1.25 @ 0.0800, now ~0.0700, unrealized -0.0125 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
@@ -18,4 +18,4 @@ Updated: 2026-10-29 04:25 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Putintseva@Rybakina", "market": "aec-wta-eleryb-yulput-2026-10-27", "side": "short", "team": "Yulia Putintseva", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
