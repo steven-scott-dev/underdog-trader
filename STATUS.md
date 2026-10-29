@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 12:15 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-10-29 12:20 ET · Mode: **PAPER** · Result: OK (3.0s)
 
 ## Today
-- Bets placed: 21 (main 9/10, bounce 12/50)
+- Bets placed: 22 (main 9/10, bounce 13/50)
 - Realized P&L: +0.89
 
 ## Open paper positions
-- **Alex Michelsen** (long/main) — 1.3158 @ 0.3800, now ~0.4500, unrealized +0.0921 (TP 0.9500 / SL 0.1520)
-- **Susan Bandecchi** (long/main) — 1.25 @ 0.4000, now ~0.4000, unrealized +0.0000 (TP 0.9900 / SL 0.1600)
+- **Alex Michelsen** (long/main) — 1.3158 @ 0.3800, now ~0.2200, unrealized -0.2105 (TP 0.9500 / SL 0.1520)
+- **Susan Bandecchi** (long/main) — 1.25 @ 0.4000, now ~0.4800, unrealized +0.1000 (TP 0.9900 / SL 0.1600)
+- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 12:15 ET: Ayla Aksu [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -21,5 +22,4 @@ Updated: 2026-10-29 12:15 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-10-29 09:25 ET: Magda Linette [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ayla Aksu", "reason": "stop-loss", "pnl": -0.09}`
-- `{"type": "buy", "game": "wta:Jacquemot@Bandecchi", "market": "aec-wta-susban-elsjac-2026-10-29", "side": "long", "team": "Susan Bandecchi", "ask": 0.4, "qty": 1.25, "stake": 0.5, "mode": "main"}`
+- `{"type": "buy", "game": "wta:Kabbaj@Riera", "market": "aec-wta-julrie-yaskab-2026-10-28", "side": "short", "team": "Yasmine Kabbaj", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
