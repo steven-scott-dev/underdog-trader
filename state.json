@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 23,
- "bounce_bets": 14,
+ "bets": 24,
+ "bounce_bets": 15,
  "realized": 0.3105,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.16,
    "opened": "2026-10-29 12:15 ET",
    "mode": "main",
-   "last_bid": 0.41
+   "last_bid": 0.27
   },
   {
    "market": "aec-atp-danalt-jirleh-2026-10-29",
@@ -27,6 +27,19 @@
    "tp": 0.2,
    "sl": 0.04,
    "opened": "2026-10-29 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-atp-nikbas-caralc-2026-10-29",
+   "game": "atp:Alcaraz@Basilashvili",
+   "side": "long",
+   "team": "Nikoloz Basilashvili",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 12:35 ET",
    "mode": "bounce",
    "last_bid": 0.08
   }
@@ -460,8 +473,8 @@
   ],
   "aec-atp-nikbas-caralc-2026-10-29": [
    [
-    1793288434.5427196,
-    0.09
+    1793291736.5988946,
+    0.08
    ]
   ],
   "aec-wta-julrie-yaskab-2026-10-28": [

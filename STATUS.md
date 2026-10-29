@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 12:30 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-29 12:35 ET · Mode: **PAPER** · Result: OK (2.8s)
 
 ## Today
-- Bets placed: 23 (main 9/10, bounce 14/50)
+- Bets placed: 24 (main 9/10, bounce 15/50)
 - Realized P&L: +0.31
 
 ## Open paper positions
-- **Susan Bandecchi** (long/main) — 1.25 @ 0.4000, now ~0.4100, unrealized +0.0125 (TP 0.9900 / SL 0.1600)
-- **Daniel Altmaier** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Susan Bandecchi** (long/main) — 1.25 @ 0.4000, now ~0.2700, unrealized -0.1625 (TP 0.9900 / SL 0.1600)
+- **Daniel Altmaier** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Nikoloz Basilashvili** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 12:25 ET: Yasmine Kabbaj [bounce] — stop-loss @ 0.0200 → -0.0778
@@ -21,4 +22,4 @@ Updated: 2026-10-29 12:30 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-29 10:45 ET: Erika Andreeva [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Alcaraz@Basilashvili", "market": "aec-atp-nikbas-caralc-2026-10-29", "side": "long", "team": "Nikoloz Basilashvili", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
