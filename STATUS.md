@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 10:25 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-29 10:30 ET · Mode: **PAPER** · Result: OK (2.8s)
 
 ## Today
-- Bets placed: 14 (main 7/10, bounce 7/50)
+- Bets placed: 15 (main 7/10, bounce 8/50)
 - Realized P&L: +1.25
 
 ## Open paper positions
-- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.6900, unrealized +0.5455 (TP 0.8250 / SL 0.1320)
+- **Cameron Norrie** (long/main) — 1.5152 @ 0.3300, now ~0.3300, unrealized +0.0000 (TP 0.8250 / SL 0.1320)
+- **Erika Andreeva** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-29 09:45 ET: Valentin Vacherot [main] — take-profit @ 0.9750 → +0.7500
@@ -20,4 +21,4 @@ Updated: 2026-10-29 10:25 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Andreeva@Ribera", "market": "aec-wta-marrib-eriand-2026-10-29", "side": "short", "team": "Erika Andreeva", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
