@@ -2,22 +2,8 @@
  "date": "2026-10-29",
  "bets": 7,
  "bounce_bets": 5,
- "realized": 0.6803,
- "paper_positions": [
-  {
-   "market": "aec-wta-eleryb-yulput-2026-10-27",
-   "game": "wta:Putintseva@Rybakina",
-   "side": "short",
-   "team": "Yulia Putintseva",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-29 04:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 0.6053,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -120,6 +106,23 @@
    "exit": 0.02,
    "pnl": -0.4697,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eleryb-yulput-2026-10-27",
+   "game": "wta:Putintseva@Rybakina",
+   "side": "short",
+   "team": "Yulia Putintseva",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 04:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 04:55 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -150,6 +153,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-jiltei-zeyson-2026-10-28": 1793259037.9449353
+  "aec-wta-jiltei-zeyson-2026-10-28": 1793259037.9449353,
+  "aec-wta-eleryb-yulput-2026-10-27": 1793265936.524755
  }
 }

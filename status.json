@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-29T04:50:37.469637-04:00",
+ "updated": "2026-10-29T04:55:37.090566-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-10-29",
   "bets": 7,
   "bounce_bets": 5,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.6803
+  "realized": 0.6053
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-eleryb-yulput-2026-10-27",
-   "game": "wta:Putintseva@Rybakina",
-   "side": "short",
-   "team": "Yulia Putintseva",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-29 04:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -128,8 +114,32 @@
    "exit": 0.02,
    "pnl": -0.4697,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eleryb-yulput-2026-10-27",
+   "game": "wta:Putintseva@Rybakina",
+   "side": "short",
+   "team": "Yulia Putintseva",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 04:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 04:55 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Yulia Putintseva",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }

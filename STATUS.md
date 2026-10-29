@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 04:50 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-29 04:55 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 7 (main 2/10, bounce 5/50)
-- Realized P&L: +0.68
+- Realized P&L: +0.61
 
 ## Open paper positions
-- **Yulia Putintseva** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- _none_
 
 ## Recent history
+- 2026-10-29 04:55 ET: Yulia Putintseva [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-10-29 03:00 ET: Zeynep Sonmez [main] — stop-loss @ 0.0200 → -0.4697
 - 2026-10-29 02:10 ET: Jil Teichmann [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-10-29 00:50 ET: Elise Mertens [bounce] — take-profit @ 0.1200 → +0.1000
@@ -18,4 +19,4 @@ Updated: 2026-10-29 04:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-29 00:15 ET: Maple Leafs [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Yulia Putintseva", "reason": "stop-loss", "pnl": -0.075}`
