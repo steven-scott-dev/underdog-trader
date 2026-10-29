@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-29T11:00:35.894310-04:00",
+ "updated": "2026-10-29T11:05:37.213330-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-29",
   "bets": 16,
   "bounce_bets": 9,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 1.345
+  "realized": 1.445
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.132,
    "opened": "2026-10-29 10:10 ET",
    "mode": "main",
-   "last_bid": 0.34
-  },
-  {
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "game": "wta:Andreeva@Ribera",
-   "side": "short",
-   "team": "Erika Andreeva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 11:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-jiltei-zeyson-2026-10-28",
-   "game": "wta:Sonmez@Teichmann",
-   "side": "long",
-   "team": "Jil Teichmann",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-29 02:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-29 02:10 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-jiltei-zeyson-2026-10-28",
    "game": "wta:Sonmez@Teichmann",
@@ -209,20 +179,32 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marrib-eriand-2026-10-29",
+   "game": "wta:Andreeva@Ribera",
+   "side": "short",
+   "team": "Erika Andreeva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-29 11:05 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Andreeva@Ribera",
-   "market": "aec-wta-marrib-eriand-2026-10-29",
-   "side": "short",
+   "type": "paper_close",
    "team": "Erika Andreeva",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
