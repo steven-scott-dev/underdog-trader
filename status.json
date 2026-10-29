@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-29T12:20:39.672182-04:00",
+ "updated": "2026-10-29T12:25:40.138757-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-10-29",
-  "bets": 22,
-  "bounce_bets": 13,
+  "bets": 23,
+  "bounce_bets": 14,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": 0.8883
+  "realized": 0.3105
  },
  "paper_positions": [
-  {
-   "market": "aec-atp-alemic-artfil-2026-10-29",
-   "game": "atp:Fils@Michelsen",
-   "side": "long",
-   "team": "Alex Michelsen",
-   "entry": 0.38,
-   "qty": 1.3158,
-   "tp": 0.95,
-   "sl": 0.152,
-   "opened": "2026-10-29 11:35 ET",
-   "mode": "main",
-   "last_bid": 0.22
-  },
   {
    "market": "aec-wta-susban-elsjac-2026-10-29",
    "game": "wta:Jacquemot@Bandecchi",
@@ -36,57 +23,23 @@
    "sl": 0.16,
    "opened": "2026-10-29 12:15 ET",
    "mode": "main",
-   "last_bid": 0.48
+   "last_bid": 0.36
   },
   {
-   "market": "aec-wta-julrie-yaskab-2026-10-28",
-   "game": "wta:Kabbaj@Riera",
-   "side": "short",
-   "team": "Yasmine Kabbaj",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 12:20 ET",
+   "market": "aec-atp-danalt-jirleh-2026-10-29",
+   "game": "atp:Lehecka@Altmaier",
+   "side": "long",
+   "team": "Daniel Altmaier",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-valvac-rafjod-2026-10-29",
-   "game": "atp:Jodar@Vacherot",
-   "side": "long",
-   "team": "Valentin Vacherot",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-10-29 08:50 ET",
-   "mode": "main",
-   "last_bid": 0.26,
-   "closed": "2026-10-29 09:00 ET",
-   "exit": 0.09,
-   "pnl": -0.3714,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-atp-tompau-lucdar-2026-10-29",
-   "game": "atp:Darderi@Paul",
-   "side": "short",
-   "team": "Luciano Darderi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-29 08:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-29 09:20 ET",
-   "exit": 0.01,
-   "pnl": -0.0857,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-liltag-maglin-2026-10-29",
    "game": "wta:Linette@Tagger",
@@ -222,18 +175,64 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alemic-artfil-2026-10-29",
+   "game": "atp:Fils@Michelsen",
+   "side": "long",
+   "team": "Alex Michelsen",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "tp": 0.95,
+   "sl": 0.152,
+   "opened": "2026-10-29 11:35 ET",
+   "mode": "main",
+   "last_bid": 0.22,
+   "closed": "2026-10-29 12:25 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-julrie-yaskab-2026-10-28",
+   "game": "wta:Kabbaj@Riera",
+   "side": "short",
+   "team": "Yasmine Kabbaj",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-29 12:25 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Kabbaj@Riera",
-   "market": "aec-wta-julrie-yaskab-2026-10-28",
-   "side": "short",
+   "type": "paper_close",
+   "team": "Alex Michelsen",
+   "reason": "stop-loss",
+   "pnl": -0.5
+  },
+  {
+   "type": "paper_close",
    "team": "Yasmine Kabbaj",
-   "ask": 0.09,
-   "qty": 1.1111,
+   "reason": "stop-loss",
+   "pnl": -0.0778
+  },
+  {
+   "type": "buy",
+   "game": "atp:Lehecka@Altmaier",
+   "market": "aec-atp-danalt-jirleh-2026-10-29",
+   "side": "long",
+   "team": "Daniel Altmaier",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }

@@ -1,22 +1,9 @@
 {
  "date": "2026-10-29",
- "bets": 22,
- "bounce_bets": 13,
- "realized": 0.8883,
+ "bets": 23,
+ "bounce_bets": 14,
+ "realized": 0.3105,
  "paper_positions": [
-  {
-   "market": "aec-atp-alemic-artfil-2026-10-29",
-   "game": "atp:Fils@Michelsen",
-   "side": "long",
-   "team": "Alex Michelsen",
-   "entry": 0.38,
-   "qty": 1.3158,
-   "tp": 0.95,
-   "sl": 0.152,
-   "opened": "2026-10-29 11:35 ET",
-   "mode": "main",
-   "last_bid": 0.22
-  },
   {
    "market": "aec-wta-susban-elsjac-2026-10-29",
    "game": "wta:Jacquemot@Bandecchi",
@@ -28,20 +15,20 @@
    "sl": 0.16,
    "opened": "2026-10-29 12:15 ET",
    "mode": "main",
-   "last_bid": 0.48
+   "last_bid": 0.36
   },
   {
-   "market": "aec-wta-julrie-yaskab-2026-10-28",
-   "game": "wta:Kabbaj@Riera",
-   "side": "short",
-   "team": "Yasmine Kabbaj",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 12:20 ET",
+   "market": "aec-atp-danalt-jirleh-2026-10-29",
+   "game": "atp:Lehecka@Altmaier",
+   "side": "long",
+   "team": "Daniel Altmaier",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -367,6 +354,40 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alemic-artfil-2026-10-29",
+   "game": "atp:Fils@Michelsen",
+   "side": "long",
+   "team": "Alex Michelsen",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "tp": 0.95,
+   "sl": 0.152,
+   "opened": "2026-10-29 11:35 ET",
+   "mode": "main",
+   "last_bid": 0.22,
+   "closed": "2026-10-29 12:25 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-julrie-yaskab-2026-10-28",
+   "game": "wta:Kabbaj@Riera",
+   "side": "short",
+   "team": "Yasmine Kabbaj",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-29 12:25 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -460,6 +481,12 @@
     1793290537.757861,
     0.4
    ]
+  ],
+  "aec-atp-danalt-jirleh-2026-10-29": [
+   [
+    1793291139.642542,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -471,6 +498,8 @@
   "aec-wta-liltag-maglin-2026-10-29": 1793282142.812059,
   "aec-atp-camnor-danmed-2026-10-29": 1793288736.9871047,
   "aec-atp-nikbas-caralc-2026-10-29": 1793291441.228356,
-  "aec-wta-lucste-aylaks-2026-10-28": 1793292335.489653
+  "aec-wta-lucste-aylaks-2026-10-28": 1793292335.489653,
+  "aec-atp-alemic-artfil-2026-10-29": 1793292938.107727,
+  "aec-wta-julrie-yaskab-2026-10-28": 1793292938.1877022
  }
 }
