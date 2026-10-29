@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28T23:50:40.589221-04:00",
+ "updated": "2026-10-28T23:55:36.495977-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-10-28",
   "bets": 45,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Thunder",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }
