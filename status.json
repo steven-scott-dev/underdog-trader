@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T19:35:38.961311-04:00",
+ "updated": "2026-10-29T19:40:01.575378-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-29",
   "bets": 38,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Martina Colmegna",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
