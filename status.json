@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T15:15:38.385135-04:00",
+ "updated": "2026-10-29T15:20:44.923696-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-29",
   "bets": 32,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Tallon Griekspoor",
-   "reason": "stop-loss",
-   "pnl": -0.09
-  }
- ]
+ "actions": []
 }

@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 15:15 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-29 15:20 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 32 (main 10/10, bounce 22/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 15:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-29 13:10 ET: Lucrezia Stefanini [main] — stop-loss @ 0.0200 → -0.4600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tallon Griekspoor", "reason": "stop-loss", "pnl": -0.09}`
+- _none_
