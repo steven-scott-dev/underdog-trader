@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-30T16:40:40.999401-04:00",
+ "updated": "2026-10-30T16:45:41.366129-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-10-30",
   "bets": 18,
   "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.5258
+  "realized": 1.6258
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-tatmar-valstr-2026-10-30",
-   "game": "wta:Strakhova@Maria",
-   "side": "short",
-   "team": "Valeriya Strakhova",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 16:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  },
   {
    "market": "aec-atp-matber-alemin-2026-10-30",
    "game": "atp:Minaur@Berrettini",
@@ -36,27 +23,10 @@
    "sl": 0.024,
    "opened": "2026-10-30 16:35 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-kaique-jiltei-2026-10-30",
-   "game": "wta:Teichmann@Quevedo",
-   "side": "short",
-   "team": "Jil Teichmann",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-30 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-30 05:45 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-aleeal-diashn-2026-10-29",
    "game": "wta:Shnaider@Eala",
@@ -209,8 +179,32 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-tatmar-valstr-2026-10-30",
+   "game": "wta:Strakhova@Maria",
+   "side": "short",
+   "team": "Valeriya Strakhova",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 16:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-30 16:45 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Valeriya Strakhova",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
