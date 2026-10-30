@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 15:25 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-30 15:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 16 / 100 (main 4, bounce 12)
 - Realized P&L: +1.43
 
 ## Open paper positions
-- **Nuno Borges** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Nuno Borges** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 14:15 ET: Arthur Fery [bounce] — settled @ 0.9900 → +1.3143
@@ -20,4 +20,4 @@ Updated: 2026-10-30 15:25 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-30 07:05 ET: Alexandra Eala [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Borges@Struff", "market": "aec-atp-janstr-nunbor-2026-10-30", "side": "short", "team": "Nuno Borges", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
