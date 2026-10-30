@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-29T21:00:59.981458-04:00",
+ "updated": "2026-10-29T21:06:00.913892-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 13.7,
  "daily": {
   "date": "2026-10-29",
   "bets": 41,
   "bounce_bets": 31,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.8628
+  "realized": -0.9503
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-cbj-car-2026-10-29",
-   "game": "nhl:CBJ@CAR",
-   "side": "long",
-   "team": "Blue Jackets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-29 20:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-annbli-katzav-2026-10-29",
-   "game": "wta:Zavatska@Blinkova",
-   "side": "short",
-   "team": "Katarina Zavatska",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.16,
-   "closed": "2026-10-29 15:10 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-alezve-talgri-2026-10-29",
    "game": "atp:Griekspoor@Zverev",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cbj-car-2026-10-29",
+   "game": "nhl:CBJ@CAR",
+   "side": "long",
+   "team": "Blue Jackets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 20:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-29 21:05 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Blue Jackets",
+   "reason": "stop-loss",
+   "pnl": -0.0875
+  }
+ ]
 }
