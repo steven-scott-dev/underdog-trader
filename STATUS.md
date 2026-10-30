@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 15:30 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-30 15:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 16 / 100 (main 4, bounce 12)
 - Realized P&L: +1.43
 
 ## Open paper positions
-- **Nuno Borges** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
+- **Nuno Borges** (short/bounce) — 2.0 @ 0.0500, now ~0.0300, unrealized -0.0400 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 14:15 ET: Arthur Fery [bounce] — settled @ 0.9900 → +1.3143
