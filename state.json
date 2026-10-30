@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 14,
  "bounce_bets": 10,
- "realized": 0.1715,
- "paper_positions": [
-  {
-   "market": "aec-wta-elsjac-eliyan-2026-10-30",
-   "game": "wta:Yaneva@Jacquemot",
-   "side": "long",
-   "team": "Elsa Jacquemot",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 12:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": 0.1115,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -239,6 +225,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-elsjac-eliyan-2026-10-30",
+   "game": "wta:Yaneva@Jacquemot",
+   "side": "long",
+   "team": "Elsa Jacquemot",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-30 12:35 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -334,6 +337,7 @@
   "aec-wta-paubad-hardar-2026-10-30": 1793346941.037261,
   "aec-wta-aleeal-diashn-2026-10-29": 1793360136.0377429,
   "aec-atp-holrun-valvac-2026-10-30": 1793375435.6122546,
-  "aec-atp-tompau-caralc-2026-10-30": 1793379635.9599829
+  "aec-atp-tompau-caralc-2026-10-30": 1793379635.9599829,
+  "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296
  }
 }

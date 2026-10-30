@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-30T12:30:37.492589-04:00",
+ "updated": "2026-10-30T12:35:37.598932-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-10-30",
   "bets": 14,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.1715
+  "realized": 0.1115
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-elsjac-eliyan-2026-10-30",
-   "game": "wta:Yaneva@Jacquemot",
-   "side": "long",
-   "team": "Elsa Jacquemot",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 12:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nhl-ott-la-2026-10-29",
-   "game": "nhl:OTT@LA",
-   "side": "long",
-   "team": "Senators",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 00:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-30 00:35 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-miapoh-alypar-2026-10-29",
    "game": "wta:Parks@Pohankova",
@@ -196,15 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-elsjac-eliyan-2026-10-30",
+   "game": "wta:Yaneva@Jacquemot",
+   "side": "long",
+   "team": "Elsa Jacquemot",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-30 12:35 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Tommy Paul",
+   "team": "Elsa Jacquemot",
    "reason": "stop-loss",
-   "pnl": -0.1
+   "pnl": -0.06
   }
  ]
 }
