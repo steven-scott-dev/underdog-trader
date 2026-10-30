@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 8,
  "bounce_bets": 4,
- "realized": -1.0185,
- "paper_positions": [
-  {
-   "market": "aec-wta-aleeal-diashn-2026-10-29",
-   "game": "wta:Shnaider@Eala",
-   "side": "long",
-   "team": "Alexandra Eala",
-   "entry": 0.26,
-   "qty": 1.9231,
-   "tp": 0.65,
-   "sl": 0.104,
-   "opened": "2026-10-30 06:25 ET",
-   "mode": "main",
-   "last_bid": 0.2
-  }
- ],
+ "realized": -1.5185,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -137,6 +123,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-aleeal-diashn-2026-10-29",
+   "game": "wta:Shnaider@Eala",
+   "side": "long",
+   "team": "Alexandra Eala",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "tp": 0.65,
+   "sl": 0.104,
+   "opened": "2026-10-30 06:25 ET",
+   "mode": "main",
+   "last_bid": 0.2,
+   "closed": "2026-10-30 07:05 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -193,6 +196,7 @@
  "cooldowns": {
   "aec-nhl-buf-ana-2026-10-29": 1793335243.3326845,
   "aec-wta-tamzid-alilin-2026-10-29": 1793335541.774561,
-  "aec-wta-paubad-hardar-2026-10-30": 1793346941.037261
+  "aec-wta-paubad-hardar-2026-10-30": 1793346941.037261,
+  "aec-wta-aleeal-diashn-2026-10-29": 1793360136.0377429
  }
 }
