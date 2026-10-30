@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 13:05 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-30 13:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 15 / 100 (main 4, bounce 11)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- **Arthur Fery** (short/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Arthur Fery** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-30 12:35 ET: Elsa Jacquemot [bounce] — stop-loss @ 0.0400 → -0.0600
