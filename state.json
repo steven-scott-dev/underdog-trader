@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 6,
- "bounce_bets": 3,
+ "bets": 7,
+ "bounce_bets": 4,
  "realized": -1.1185,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kaique-jiltei-2026-10-30",
+   "game": "wta:Teichmann@Quevedo",
+   "side": "short",
+   "team": "Jil Teichmann",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-30 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -144,6 +158,12 @@
    [
     1793343934.5359454,
     0.28
+   ]
+  ],
+  "aec-wta-kaique-jiltei-2026-10-30": [
+   [
+    1793352935.5368125,
+    0.06
    ]
   ]
  },
