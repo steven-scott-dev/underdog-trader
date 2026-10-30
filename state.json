@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   },
   {
    "market": "aec-nfl-car-gb-2026-10-29",
@@ -28,7 +28,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 22:05 ET",
    "mode": "bounce",
-   "last_bid": 0.0475
+   "last_bid": 0.065
   },
   {
    "market": "aec-nba-cle-atl-2026-10-29",
@@ -41,7 +41,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.13
+   "last_bid": 0.11
   },
   {
    "market": "aec-nhl-mon-dal-2026-10-29",
@@ -54,7 +54,7 @@
    "sl": 0.032,
    "opened": "2026-10-29 22:15 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   }
  ],
  "paper_history": [

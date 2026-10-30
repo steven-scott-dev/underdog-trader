@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 22:16 ET · Mode: **PAPER** · Result: OK (31.6s)
+Updated: 2026-10-29 22:21 ET · Mode: **PAPER** · Result: OK (24.8s)
 
 ## Today
 - Bets placed: 47 (main 10/10, bounce 37/50)
 - Realized P&L: -1.13
 
 ## Open paper positions
-- **Bruins** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
-- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0475, unrealized -0.0472 (TP 0.1800 / SL 0.0360)
-- **Cavaliers** (long/bounce) — 1.1111 @ 0.0900, now ~0.1300, unrealized +0.0444 (TP 0.1800 / SL 0.0360)
-- **Stars** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Bruins** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0650, unrealized -0.0278 (TP 0.1800 / SL 0.0360)
+- **Cavaliers** (long/bounce) — 1.1111 @ 0.0900, now ~0.1100, unrealized +0.0222 (TP 0.1800 / SL 0.0360)
+- **Stars** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 22:10 ET: Kings [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -23,4 +23,4 @@ Updated: 2026-10-29 22:16 ET · Mode: **PAPER** · Result: OK (31.6s)
 - 2026-10-29 17:20 ET: Lisa Pigato [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:MTL@DAL", "market": "aec-nhl-mon-dal-2026-10-29", "side": "short", "team": "Stars", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
