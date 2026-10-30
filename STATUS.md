@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 21:06 ET · Mode: **PAPER** · Result: OK (13.7s)
+Updated: 2026-10-29 21:10 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
 - Bets placed: 41 (main 10/10, bounce 31/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 21:06 ET · Mode: **PAPER** · Result: OK (13.7s)
 - 2026-10-29 16:55 ET: Maria Lourdes Carle [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blue Jackets", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_
