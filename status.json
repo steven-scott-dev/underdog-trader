@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-30T01:50:40.613860-04:00",
+ "updated": "2026-10-30T01:55:36.229713-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-30",
   "bets": 5,
   "bounce_bets": 3,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -0.7899
+  "realized": -0.6899
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-miapoh-alypar-2026-10-29",
-   "game": "wta:Parks@Pohankova",
-   "side": "short",
-   "team": "Alycia Parks",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-30 01:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -94,8 +80,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-miapoh-alypar-2026-10-29",
+   "game": "wta:Parks@Pohankova",
+   "side": "short",
+   "team": "Alycia Parks",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-30 01:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-30 01:55 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Alycia Parks",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
