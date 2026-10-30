@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T15:40:36.454299-04:00",
+ "updated": "2026-10-30T15:45:39.134891-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-10-30",
   "bets": 16,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Nuno Borges",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

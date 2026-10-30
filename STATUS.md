@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 15:40 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-30 15:45 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 16 / 100 (main 4, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 15:40 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-30 09:20 ET: Han Shi [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Nuno Borges", "reason": "take-profit", "pnl": 0.1}`
+- _none_
