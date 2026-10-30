@@ -1,9 +1,23 @@
 {
  "date": "2026-10-29",
- "bets": 50,
- "bounce_bets": 40,
+ "bets": 51,
+ "bounce_bets": 41,
  "realized": -1.1071,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-buf-ana-2026-10-29",
+   "game": "nhl:BUF@ANA",
+   "side": "short",
+   "team": "Ducks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-tor-sea-2026-10-28",
@@ -1066,6 +1080,12 @@
    [
     1793330740.7841554,
     0.07
+   ]
+  ],
+  "aec-nhl-buf-ana-2026-10-29": [
+   [
+    1793331941.1651654,
+    0.09
    ]
   ]
  },

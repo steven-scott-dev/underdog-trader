@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 23:40 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-29 23:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
-- Bets placed: 50 (main 10/10, bounce 40/50)
+- Bets placed: 51 (main 10/10, bounce 41/50)
 - Realized P&L: -1.11
 
 ## Open paper positions
-- _none_
+- **Ducks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 23:40 ET: Senators [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -20,4 +20,4 @@ Updated: 2026-10-29 23:40 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-29 22:10 ET: Kings [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Senators", "reason": "stop-loss", "pnl": -0.0857}`
+- `{"type": "buy", "game": "nhl:BUF@ANA", "market": "aec-nhl-buf-ana-2026-10-29", "side": "short", "team": "Ducks", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
