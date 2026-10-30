@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 09:30 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-30 09:35 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: -1.42
 
 ## Open paper positions
-- **Adrian Mannarino** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- **Adrian Mannarino** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-30 09:20 ET: Han Shi [bounce] — take-profit @ 0.1000 → +0.1000
