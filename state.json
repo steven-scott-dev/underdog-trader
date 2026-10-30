@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 4,
  "bounce_bets": 2,
- "realized": -0.8899,
- "paper_positions": [
-  {
-   "market": "aec-nhl-ott-la-2026-10-29",
-   "game": "nhl:OTT@LA",
-   "side": "long",
-   "team": "Senators",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 00:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.7899,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -69,6 +55,23 @@
    "exit": 0.01,
    "pnl": -0.45,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-ott-la-2026-10-29",
+   "game": "nhl:OTT@LA",
+   "side": "long",
+   "team": "Senators",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-30 00:35 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
