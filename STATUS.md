@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 23:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-10-29 23:50 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
-- Bets placed: 51 (main 10/10, bounce 41/50)
+- Bets placed: 52 (main 10/10, bounce 42/50)
 - Realized P&L: -1.11
 
 ## Open paper positions
-- **Ducks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Ducks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Maya Joint** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-29 23:40 ET: Senators [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -20,4 +21,4 @@ Updated: 2026-10-29 23:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-10-29 22:10 ET: Kings [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:BUF@ANA", "market": "aec-nhl-buf-ana-2026-10-29", "side": "short", "team": "Ducks", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Joint@Rakhimova", "market": "aec-wta-kamrak-mayjoi-2026-10-29", "side": "short", "team": "Maya Joint", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

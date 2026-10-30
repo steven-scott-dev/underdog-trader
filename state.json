@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 51,
- "bounce_bets": 41,
+ "bets": 52,
+ "bounce_bets": 42,
  "realized": -1.1071,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-29 23:45 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-kamrak-mayjoi-2026-10-29",
+   "game": "wta:Joint@Rakhimova",
+   "side": "short",
+   "team": "Maya Joint",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 23:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -1086,6 +1099,12 @@
    [
     1793331941.1651654,
     0.09
+   ]
+  ],
+  "aec-wta-kamrak-mayjoi-2026-10-29": [
+   [
+    1793332240.5802755,
+    0.1
    ]
   ]
  },
