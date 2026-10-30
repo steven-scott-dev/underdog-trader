@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 40,
- "bounce_bets": 30,
+ "bets": 41,
+ "bounce_bets": 31,
  "realized": -0.7771,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-10-29 20:20 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nhl-wpg-tb-2026-10-29",
+   "game": "nhl:WPG@TB",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-29 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -845,6 +858,12 @@
    [
     1793319656.9216077,
     0.08
+   ]
+  ],
+  "aec-nhl-wpg-tb-2026-10-29": [
+   [
+    1793320854.5368848,
+    0.07
    ]
   ]
  },
