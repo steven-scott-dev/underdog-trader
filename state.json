@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 6,
  "bounce_bets": 3,
- "realized": -0.6899,
- "paper_positions": [
-  {
-   "market": "aec-wta-paubad-hardar-2026-10-30",
-   "game": "wta:Dart@Badosa",
-   "side": "long",
-   "team": "Paula Badosa",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-10-30 03:05 ET",
-   "mode": "main",
-   "last_bid": 0.13
-  }
- ],
+ "realized": -1.1185,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -103,6 +89,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-paubad-hardar-2026-10-30",
+   "game": "wta:Dart@Badosa",
+   "side": "long",
+   "team": "Paula Badosa",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-10-30 03:05 ET",
+   "mode": "main",
+   "last_bid": 0.13,
+   "closed": "2026-10-30 03:25 ET",
+   "exit": 0.04,
+   "pnl": -0.4286,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -146,6 +149,7 @@
  },
  "cooldowns": {
   "aec-nhl-buf-ana-2026-10-29": 1793335243.3326845,
-  "aec-wta-tamzid-alilin-2026-10-29": 1793335541.774561
+  "aec-wta-tamzid-alilin-2026-10-29": 1793335541.774561,
+  "aec-wta-paubad-hardar-2026-10-30": 1793346941.037261
  }
 }

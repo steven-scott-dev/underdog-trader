@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 03:20 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-30 03:25 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 6 (main 3/10, bounce 3/50)
-- Realized P&L: -0.69
+- Realized P&L: -1.12
 
 ## Open paper positions
-- **Paula Badosa** (long/main) — 1.7857 @ 0.2800, now ~0.1300, unrealized -0.2679 (TP 0.7000 / SL 0.1120)
+- _none_
 
 ## Recent history
+- 2026-10-30 03:25 ET: Paula Badosa [main] — stop-loss @ 0.0400 → -0.4286
 - 2026-10-30 01:55 ET: Alycia Parks [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-10-30 00:35 ET: Senators [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-10-30 00:30 ET: Canucks [main] — settled @ 0.0100 → -0.4500
@@ -17,4 +18,4 @@ Updated: 2026-10-30 03:20 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-10-30 00:10 ET: Ducks [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Paula Badosa", "reason": "stop-loss", "pnl": -0.4286}`
