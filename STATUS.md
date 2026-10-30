@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 16:59 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-30 17:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 16:59 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-30 11:20 ET: Holger Rune [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Matteo Berrettini", "reason": "stop-loss", "pnl": -0.0833}`
+- _none_

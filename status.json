@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T16:59:18.574992-04:00",
+ "updated": "2026-10-30T17:00:37.750171-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-30",
   "bets": 18,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Matteo Berrettini",
-   "reason": "stop-loss",
-   "pnl": -0.0833
-  }
- ]
+ "actions": []
 }
