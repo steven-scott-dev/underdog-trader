@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 16,
- "bounce_bets": 12,
+ "bets": 17,
+ "bounce_bets": 13,
  "realized": 1.5258,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-tatmar-valstr-2026-10-30",
+   "game": "wta:Strakhova@Maria",
+   "side": "short",
+   "team": "Valeriya Strakhova",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 16:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -374,6 +388,12 @@
    [
     1793388336.3579261,
     0.05
+   ]
+  ],
+  "aec-wta-tatmar-valstr-2026-10-30": [
+   [
+    1793391635.8175306,
+    0.1
    ]
   ]
  },
