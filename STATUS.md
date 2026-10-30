@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 03:25 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-10-30 03:30 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 6 (main 3/10, bounce 3/50)
@@ -18,4 +18,4 @@ Updated: 2026-10-30 03:25 ET · Mode: **PAPER** · Result: OK (0.7s)
 - 2026-10-30 00:10 ET: Ducks [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Paula Badosa", "reason": "stop-loss", "pnl": -0.4286}`
+- _none_

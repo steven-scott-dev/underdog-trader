@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:25:41.505565-04:00",
+ "updated": "2026-10-30T03:30:35.408221-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 0.7,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Paula Badosa",
-   "reason": "stop-loss",
-   "pnl": -0.4286
-  }
- ]
+ "actions": []
 }
