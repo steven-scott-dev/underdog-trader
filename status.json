@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T05:45:37.893221-04:00",
+ "updated": "2026-10-30T05:50:40.030072-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-30",
   "bets": 7,
@@ -134,12 +134,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jil Teichmann",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

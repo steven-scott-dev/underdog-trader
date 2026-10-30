@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 05:45 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-30 05:50 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 7 (main 3/10, bounce 4/50)
@@ -19,4 +19,4 @@ Updated: 2026-10-30 05:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-30 00:10 ET: Ducks [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jil Teichmann", "reason": "take-profit", "pnl": 0.1}`
+- _none_
