@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T16:45:41.366129-04:00",
+ "updated": "2026-10-30T16:50:36.434769-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-30",
   "bets": 18,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-30 16:35 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Valeriya Strakhova",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
