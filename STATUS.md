@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 12:35 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-10-30 12:40 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 14 / 100 (main 4, bounce 10)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 12:35 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-10-30 05:45 ET: Jil Teichmann [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Elsa Jacquemot", "reason": "stop-loss", "pnl": -0.06}`
+- _none_
