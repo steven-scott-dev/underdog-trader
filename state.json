@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 8,
- "bounce_bets": 4,
+ "bets": 9,
+ "bounce_bets": 5,
  "realized": -1.5185,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-liltag-hanshi-2026-10-30",
+   "game": "wta:Han@Tagger",
+   "side": "short",
+   "team": "Han Shi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 09:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -190,6 +204,12 @@
    [
     1793355937.590871,
     0.26
+   ]
+  ],
+  "aec-wta-liltag-hanshi-2026-10-30": [
+   [
+    1793365837.0210989,
+    0.05
    ]
   ]
  },
