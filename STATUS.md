@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 20:46 ET · Mode: **PAPER** · Result: OK (22.5s)
+Updated: 2026-10-29 20:50 ET · Mode: **PAPER** · Result: OK (12.9s)
 
 ## Today
 - Bets placed: 41 (main 10/10, bounce 31/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 20:46 ET · Mode: **PAPER** · Result: OK (22.5s)
 - 2026-10-29 16:55 ET: Miriam Bulgaru [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jets", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_

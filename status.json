@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T20:46:04.610522-04:00",
+ "updated": "2026-10-29T20:50:54.948723-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.5,
+ "duration_s": 12.9,
  "daily": {
   "date": "2026-10-29",
   "bets": 41,
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jets",
-   "reason": "stop-loss",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
