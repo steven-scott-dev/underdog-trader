@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 22:30 ET · Mode: **PAPER** · Result: OK (12.5s)
+Updated: 2026-10-29 22:35 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
 - Bets placed: 47 (main 10/10, bounce 37/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 22:30 ET · Mode: **PAPER** · Result: OK (12.5s)
 - 2026-10-29 20:45 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Stars", "reason": "stop-loss", "pnl": -0.075}`
+- _none_

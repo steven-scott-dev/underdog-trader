@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T22:30:49.033363-04:00",
+ "updated": "2026-10-29T22:35:50.046800-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-10-29",
   "bets": 47,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Stars",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }
