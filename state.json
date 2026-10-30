@@ -1,21 +1,21 @@
 {
  "date": "2026-10-29",
- "bets": 48,
- "bounce_bets": 38,
- "realized": -1.2214,
+ "bets": 49,
+ "bounce_bets": 39,
+ "realized": -1.1214,
  "paper_positions": [
   {
-   "market": "aec-nfl-car-gb-2026-10-29",
-   "game": "nfl:CAR@GB",
-   "side": "long",
-   "team": "Panthers",
-   "entry": 0.0575,
-   "qty": 1.7391,
-   "tp": 0.115,
-   "sl": 0.023,
-   "opened": "2026-10-29 22:55 ET",
+   "market": "aec-wta-tamzid-alilin-2026-10-29",
+   "game": "wta:Linana@Zidansek",
+   "side": "short",
+   "team": "Alicia Herrero Linana",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-29 23:10 ET",
    "mode": "bounce",
-   "last_bid": 0.095
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -817,6 +817,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-car-gb-2026-10-29",
+   "game": "nfl:CAR@GB",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.0575,
+   "qty": 1.7391,
+   "tp": 0.115,
+   "sl": 0.023,
+   "opened": "2026-10-29 22:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.095,
+   "closed": "2026-10-29 23:10 ET",
+   "exit": 0.115,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -1017,6 +1034,12 @@
    [
     1793326551.0518646,
     0.08
+   ]
+  ],
+  "aec-wta-tamzid-alilin-2026-10-29": [
+   [
+    1793329849.4675627,
+    0.06
    ]
   ]
  },
