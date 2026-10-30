@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 16:50 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-30 16:55 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
 - Realized P&L: +1.63
 
 ## Open paper positions
-- **Matteo Berrettini** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Matteo Berrettini** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-30 16:45 ET: Valeriya Strakhova [bounce] — take-profit @ 0.2000 → +0.1000
