@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 1,
  "realized": -0.4399,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-van-sj-2026-10-29",
+   "game": "nhl:VAN@SJ",
+   "side": "long",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 5.0,
+   "tp": 0.25,
+   "sl": 0.04,
+   "opened": "2026-10-30 00:20 ET",
+   "mode": "main",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -52,6 +66,12 @@
    [
     1793333142.8910284,
     0.37
+   ]
+  ],
+  "aec-nhl-van-sj-2026-10-29": [
+   [
+    1793334038.7005188,
+    0.1
    ]
   ]
  },

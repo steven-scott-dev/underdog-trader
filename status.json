@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-30T00:15:43.661301-04:00",
+ "updated": "2026-10-30T00:20:39.463002-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-30",
-  "bets": 2,
+  "bets": 3,
   "bounce_bets": 1,
   "max_main": 10,
   "max_bounce": 50,
   "realized": -0.4399
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-van-sj-2026-10-29",
+   "game": "nhl:VAN@SJ",
+   "side": "long",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 5.0,
+   "tp": 0.25,
+   "sl": 0.04,
+   "opened": "2026-10-30 00:20 ET",
+   "mode": "main",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -51,10 +65,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Alicia Herrero Linana",
-   "reason": "stop-loss",
-   "pnl": -0.3649
+   "type": "buy",
+   "game": "nhl:VAN@SJ",
+   "market": "aec-nhl-van-sj-2026-10-29",
+   "side": "long",
+   "team": "Canucks",
+   "ask": 0.1,
+   "qty": 5.0,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
