@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "bets": 46,
- "bounce_bets": 36,
+ "bets": 47,
+ "bounce_bets": 37,
  "realized": -1.1253,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   },
   {
    "market": "aec-nfl-car-gb-2026-10-29",
@@ -28,7 +28,7 @@
    "sl": 0.036,
    "opened": "2026-10-29 22:05 ET",
    "mode": "bounce",
-   "last_bid": 0.0625
+   "last_bid": 0.0475
   },
   {
    "market": "aec-nba-cle-atl-2026-10-29",
@@ -41,7 +41,20 @@
    "sl": 0.036,
    "opened": "2026-10-29 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-nhl-mon-dal-2026-10-29",
+   "game": "nhl:MTL@DAL",
+   "side": "short",
+   "team": "Stars",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 22:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -969,6 +982,12 @@
    [
     1793326241.994671,
     0.09
+   ]
+  ],
+  "aec-nhl-mon-dal-2026-10-29": [
+   [
+    1793326551.0518646,
+    0.08
    ]
   ]
  },
