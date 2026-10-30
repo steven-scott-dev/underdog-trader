@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 06:25 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-30 06:30 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 8 / 100 (main 4, bounce 4)
 - Realized P&L: -1.02
 
 ## Open paper positions
-- **Alexandra Eala** (long/main) — 1.9231 @ 0.2600, now ~0.2600, unrealized +0.0000 (TP 0.6500 / SL 0.1040)
+- **Alexandra Eala** (long/main) — 1.9231 @ 0.2600, now ~0.1600, unrealized -0.1923 (TP 0.6500 / SL 0.1040)
 
 ## Recent history
 - 2026-10-30 05:45 ET: Jil Teichmann [bounce] — take-profit @ 0.1200 → +0.1000
@@ -19,4 +19,4 @@ Updated: 2026-10-30 06:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-30 00:10 ET: Ducks [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Shnaider@Eala", "market": "aec-wta-aleeal-diashn-2026-10-29", "side": "long", "team": "Alexandra Eala", "ask": 0.26, "qty": 1.9231, "stake": 0.5, "mode": "main"}`
+- _none_
