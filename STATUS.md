@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 03:10 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-30 03:15 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 6 (main 3/10, bounce 3/50)
 - Realized P&L: -0.69
 
 ## Open paper positions
-- **Paula Badosa** (long/main) — 1.7857 @ 0.2800, now ~0.2500, unrealized -0.0536 (TP 0.7000 / SL 0.1120)
+- **Paula Badosa** (long/main) — 1.7857 @ 0.2800, now ~0.4500, unrealized +0.3036 (TP 0.7000 / SL 0.1120)
 
 ## Recent history
 - 2026-10-30 01:55 ET: Alycia Parks [bounce] — take-profit @ 0.0800 → +0.1000
