@@ -30,9 +30,8 @@ def build_status_md(res):
     a("")
     a("## Today")
     bb = daily.get('bounce_bets', 0)
-    a(f"- Bets placed: {daily.get('bets', 0)} "
-      f"(main {daily.get('bets', 0) - bb}/{daily.get('max_main', 5)}, "
-      f"bounce {bb}/{daily.get('max_bounce', 10)})")
+    a(f"- Bets placed: {daily.get('bets', 0)} / {daily.get('max_total', 100)} "
+      f"(main {daily.get('bets', 0) - bb}, bounce {bb})")
     a(f"- Realized P&L: {daily.get('realized', 0):+.2f}")
     a("")
     if mode == "PAPER":

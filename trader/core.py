@@ -45,6 +45,8 @@ DEFAULT_CONFIG = {
     "waterfall_drop_mult": 0.5,   # skip buy if ask < this × max ask seen recently
     "waterfall_window_sec": 900,  # lookback window for the waterfall check
     "min_bid_ask_ratio": 0.7,     # skip buy if exit bid < this × ask (wide spread = starts underwater)
+    "max_open_positions": 5,      # safety rail: bounds unrealized exposure
+    "max_bets_per_day_total": 100,  # bug-breaker backstop only, not a target
     "bounce": {               # second mode: early + extreme, smaller stake
         "enabled": True,
         "stake_usd": 0.10,
@@ -52,7 +54,6 @@ DEFAULT_CONFIG = {
         "stop_loss_mult": 0.40,
         "min_buy_price": 0.02,
         "max_buy_price": 0.10,
-        "max_bets_per_day": 50,
     },
     "poll_seconds": 20,          # local runs only; Vercel uses cron
     "sports": {
@@ -115,7 +116,6 @@ def log(msg):
 # real to show. Counters reset on a new day (ET).
 
 ET = ZoneInfo("America/New_York")
-MAX_BETS_PER_DAY = 10
 MAX_DAILY_LOSS = 2.50
 
 
@@ -588,17 +588,12 @@ def run_pass():
                 except Exception as e:
                     log(f"  TP ensure failed for {slug}: {e}")
 
-    # daily guardrails (per mode)
+    # daily guardrails: the loss cap governs. Count/open caps below are
+    # backstops only (bug breaker / unrealized-exposure bound).
     can_bet = True
-    main_used = state["bets"] - state.get("bounce_bets", 0)
-    can_bet_main = True
-    if main_used >= MAX_BETS_PER_DAY:
-        log(f"  daily main bet cap reached ({MAX_BETS_PER_DAY}); no new main entries")
-        can_bet_main = False
-    can_bet_bounce = True
-    if state.get("bounce_bets", 0) >= cfg["bounce"]["max_bets_per_day"]:
-        log(f"  daily bounce bet cap reached ({cfg['bounce']['max_bets_per_day']}); no new bounce entries")
-        can_bet_bounce = False
+    if state["bets"] >= cfg["max_bets_per_day_total"]:
+        log(f"  daily bet backstop reached ({cfg['max_bets_per_day_total']}); no new entries")
+        can_bet = False
     if state["realized"] <= -MAX_DAILY_LOSS:
         log(f"  daily loss cap hit ({state['realized']:+.2f}); no new entries today")
         can_bet = False
@@ -622,17 +617,13 @@ def run_pass():
             log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} mode={mode}")
             if not mode:
                 continue
-            # re-check caps per bet, not just per run: a busy pass with
-            # many triggering games must not overshoot a daily cap
-            if mode == "main":
-                mode_ok = (state["bets"] - state.get("bounce_bets", 0)
-                           < MAX_BETS_PER_DAY)
-            else:
-                mode_ok = (state.get("bounce_bets", 0)
-                           < cfg["bounce"]["max_bets_per_day"])
-            loss_ok = state["realized"] > -MAX_DAILY_LOSS
-            if not (mode_ok and loss_ok):
-                log(f"  {mode} daily cap reached, skipping")
+            # per-bet re-check: loss cap governs; total backstop and
+            # open-position cap are safety rails, not targets
+            if (not can_bet
+                    or state["realized"] <= -MAX_DAILY_LOSS
+                    or state["bets"] >= cfg["max_bets_per_day_total"]
+                    or len(held_slugs) >= cfg["max_open_positions"]):
+                log(f"  daily limit reached, skipping")
                 continue
             try:
                 meta = find_market(client, g)
@@ -730,6 +721,6 @@ def run_pass():
             "live_history": state["live_history"][-10:],
             "daily": {"date": state["date"], "bets": state["bets"],
                       "bounce_bets": state.get("bounce_bets", 0),
-                      "max_main": MAX_BETS_PER_DAY,
-                      "max_bounce": cfg["bounce"]["max_bets_per_day"],
+                      "max_total": cfg["max_bets_per_day_total"],
+                      "max_open": cfg["max_open_positions"],
                       "realized": round(state["realized"], 4)}}
