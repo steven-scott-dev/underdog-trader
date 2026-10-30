@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 09:20 ET · Mode: **PAPER** · Result: OK (11.4s)
+Updated: 2026-10-30 09:25 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
-- Bets placed: 9 / 100 (main 4, bounce 5)
+- Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: -1.42
 
 ## Open paper positions
-- _none_
+- **Adrian Mannarino** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-30 09:20 ET: Han Shi [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-30 09:20 ET · Mode: **PAPER** · Result: OK (11.4s)
 - 2026-10-30 00:15 ET: Alicia Herrero Linana [main] — stop-loss @ 0.1000 → -0.3649
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Han Shi", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "atp:Medvedev@Mannarino", "market": "aec-atp-adrman-danmed-2026-10-30", "side": "long", "team": "Adrian Mannarino", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

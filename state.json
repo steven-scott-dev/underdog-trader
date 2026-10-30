@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 9,
- "bounce_bets": 5,
+ "bets": 10,
+ "bounce_bets": 6,
  "realized": -1.4185,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-adrman-danmed-2026-10-30",
+   "game": "atp:Medvedev@Mannarino",
+   "side": "long",
+   "team": "Adrian Mannarino",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -213,6 +227,12 @@
    [
     1793365837.0210989,
     0.05
+   ]
+  ],
+  "aec-atp-adrman-danmed-2026-10-30": [
+   [
+    1793366741.3761523,
+    0.1
    ]
   ]
  },
