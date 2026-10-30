@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 07:05 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-30 07:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 8 / 100 (main 4, bounce 4)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 07:05 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-30 00:10 ET: Ducks [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alexandra Eala", "reason": "stop-loss", "pnl": -0.5}`
+- _none_

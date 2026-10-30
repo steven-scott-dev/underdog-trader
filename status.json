@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T07:05:36.716491-04:00",
+ "updated": "2026-10-30T07:10:39.128860-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-10-30",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alexandra Eala",
-   "reason": "stop-loss",
-   "pnl": -0.5
-  }
- ]
+ "actions": []
 }
