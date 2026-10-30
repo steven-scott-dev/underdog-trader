@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 4,
- "bounce_bets": 2,
+ "bets": 5,
+ "bounce_bets": 3,
  "realized": -0.7899,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-miapoh-alypar-2026-10-29",
+   "game": "wta:Parks@Pohankova",
+   "side": "short",
+   "team": "Alycia Parks",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-30 01:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -98,6 +112,12 @@
    [
     1793334339.0051403,
     0.07
+   ]
+  ],
+  "aec-wta-miapoh-alypar-2026-10-29": [
+   [
+    1793339138.0279317,
+    0.04
    ]
   ]
  },
