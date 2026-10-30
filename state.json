@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 7,
  "bounce_bets": 4,
- "realized": -1.1185,
- "paper_positions": [
-  {
-   "market": "aec-wta-kaique-jiltei-2026-10-30",
-   "game": "wta:Teichmann@Quevedo",
-   "side": "short",
-   "team": "Jil Teichmann",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-30 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -1.0185,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -120,6 +106,23 @@
    "exit": 0.04,
    "pnl": -0.4286,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kaique-jiltei-2026-10-30",
+   "game": "wta:Teichmann@Quevedo",
+   "side": "short",
+   "team": "Jil Teichmann",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-30 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-30 05:45 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
