@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 18,
  "bounce_bets": 14,
- "realized": 1.6258,
- "paper_positions": [
-  {
-   "market": "aec-atp-matber-alemin-2026-10-30",
-   "game": "atp:Minaur@Berrettini",
-   "side": "long",
-   "team": "Matteo Berrettini",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-30 16:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": 1.5425,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -307,6 +293,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-matber-alemin-2026-10-30",
+   "game": "atp:Minaur@Berrettini",
+   "side": "long",
+   "team": "Matteo Berrettini",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-30 16:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-30 16:59 ET",
+   "exit": 0.01,
+   "pnl": -0.0833,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -427,6 +430,7 @@
   "aec-wta-aleeal-diashn-2026-10-29": 1793360136.0377429,
   "aec-atp-holrun-valvac-2026-10-30": 1793375435.6122546,
   "aec-atp-tompau-caralc-2026-10-30": 1793379635.9599829,
-  "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296
+  "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296,
+  "aec-atp-matber-alemin-2026-10-30": 1793395757.909857
  }
 }

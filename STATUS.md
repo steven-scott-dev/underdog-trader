@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 16:55 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-30 16:59 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
-- Realized P&L: +1.63
+- Realized P&L: +1.54
 
 ## Open paper positions
-- **Matteo Berrettini** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- _none_
 
 ## Recent history
+- 2026-10-30 16:59 ET: Matteo Berrettini [bounce] — stop-loss @ 0.0100 → -0.0833
 - 2026-10-30 16:45 ET: Valeriya Strakhova [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-30 15:40 ET: Nuno Borges [bounce] — take-profit @ 0.1000 → +0.1000
 - 2026-10-30 14:15 ET: Arthur Fery [bounce] — settled @ 0.9900 → +1.3143
@@ -17,7 +18,6 @@ Updated: 2026-10-30 16:55 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-30 12:30 ET: Tommy Paul [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-30 12:25 ET: Arthur Fils [bounce] — settled @ 0.9900 → +1.8800
 - 2026-10-30 11:20 ET: Holger Rune [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-10-30 11:10 ET: Adrian Mannarino [bounce] — settled @ 0.0100 → -0.0900
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Matteo Berrettini", "reason": "stop-loss", "pnl": -0.0833}`
