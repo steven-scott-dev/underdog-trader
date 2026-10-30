@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 20:05 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-10-29 20:10 ET · Mode: **PAPER** · Result: OK (4.4s)
 
 ## Today
-- Bets placed: 38 (main 10/10, bounce 28/50)
+- Bets placed: 39 (main 10/10, bounce 29/50)
 - Realized P&L: -0.71
 
 ## Open paper positions
-- _none_
+- **Diletta Cherubini** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 19:35 ET: Martina Colmegna [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-29 20:05 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-10-29 15:10 ET: Katarina Zavatska [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Andreescu@Cherubini", "market": "aec-wta-dilche-biaand-2026-10-28", "side": "long", "team": "Diletta Cherubini", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
