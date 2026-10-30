@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-30T19:00:43.515876-04:00",
+ "updated": "2026-10-30T19:05:35.701682-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-30",
-  "bets": 18,
-  "bounce_bets": 14,
+  "bets": 19,
+  "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.5425
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-nadpod-carmon-2026-10-30",
+   "game": "wta:Monnet@Podoroska",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 19:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-liltag-hanshi-2026-10-30",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Monnet@Podoroska",
+   "market": "aec-wta-nadpod-carmon-2026-10-30",
+   "side": "short",
+   "team": "Carole Monnet",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

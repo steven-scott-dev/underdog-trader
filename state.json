@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 18,
- "bounce_bets": 14,
+ "bets": 19,
+ "bounce_bets": 15,
  "realized": 1.5425,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-nadpod-carmon-2026-10-30",
+   "game": "wta:Monnet@Podoroska",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 19:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -420,6 +434,12 @@
    [
     1793392535.2540703,
     0.06
+   ]
+  ],
+  "aec-wta-nadpod-carmon-2026-10-30": [
+   [
+    1793401535.700727,
+    0.1
    ]
   ]
  },
