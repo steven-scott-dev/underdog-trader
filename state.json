@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 19,
  "bounce_bets": 15,
- "realized": 1.5425,
- "paper_positions": [
-  {
-   "market": "aec-wta-nadpod-carmon-2026-10-30",
-   "game": "wta:Monnet@Podoroska",
-   "side": "short",
-   "team": "Carole Monnet",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 19:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 1.4625,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -324,6 +310,23 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-nadpod-carmon-2026-10-30",
+   "game": "wta:Monnet@Podoroska",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 19:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-30 19:15 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -451,6 +454,7 @@
   "aec-atp-holrun-valvac-2026-10-30": 1793375435.6122546,
   "aec-atp-tompau-caralc-2026-10-30": 1793379635.9599829,
   "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296,
-  "aec-atp-matber-alemin-2026-10-30": 1793395757.909857
+  "aec-atp-matber-alemin-2026-10-30": 1793395757.909857,
+  "aec-wta-nadpod-carmon-2026-10-30": 1793403942.7991526
  }
 }
