@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-29T22:06:01.823993-04:00",
+ "updated": "2026-10-29T22:11:01.409621-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 19.9,
+ "duration_s": 20.2,
  "daily": {
   "date": "2026-10-29",
-  "bets": 45,
-  "bounce_bets": 35,
+  "bets": 46,
+  "bounce_bets": 36,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -1.0253
+  "realized": -1.1253
  },
  "paper_positions": [
-  {
-   "market": "aec-nba-sac-no-2026-10-29",
-   "game": "nba:SAC@NO",
-   "side": "long",
-   "team": "Kings",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-29 21:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-nhl-bos-stl-2026-10-29",
    "game": "nhl:BOS@STL",
@@ -36,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-29 21:40 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   },
   {
    "market": "aec-nfl-car-gb-2026-10-29",
@@ -49,27 +36,23 @@
    "sl": 0.036,
    "opened": "2026-10-29 22:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
- "paper_history": [
+   "last_bid": 0.0625
+  },
   {
-   "market": "aec-wta-nadpod-mirbul-2026-10-29",
-   "game": "wta:Bulgaru@Podoroska",
-   "side": "short",
-   "team": "Miriam Bulgaru",
+   "market": "aec-nba-cle-atl-2026-10-29",
+   "game": "nba:CLE@ATL",
+   "side": "long",
+   "team": "Cavaliers",
    "entry": 0.09,
    "qty": 1.1111,
    "tp": 0.18,
    "sl": 0.036,
-   "opened": "2026-10-29 16:30 ET",
+   "opened": "2026-10-29 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-29 16:55 ET",
-   "exit": 0.01,
-   "pnl": -0.0889,
-   "reason": "stop-loss"
-  },
+   "last_bid": 0.09
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-wta-marcar-julgra-2026-10-28",
    "game": "wta:Grabher@Carle",
@@ -222,16 +205,39 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-sac-no-2026-10-29",
+   "game": "nba:SAC@NO",
+   "side": "long",
+   "team": "Kings",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-29 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-29 22:10 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Kings",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
    "type": "buy",
-   "game": "nfl:CAR@GB",
-   "market": "aec-nfl-car-gb-2026-10-29",
+   "game": "nba:CLE@ATL",
+   "market": "aec-nba-cle-atl-2026-10-29",
    "side": "long",
-   "team": "Panthers",
+   "team": "Cavaliers",
    "ask": 0.09,
    "qty": 1.1111,
    "stake": 0.1,
