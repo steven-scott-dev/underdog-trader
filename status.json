@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-30T15:35:36.358163-04:00",
+ "updated": "2026-10-30T15:40:36.454299-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-30",
   "bets": 16,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.4258
+  "realized": 1.5258
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-janstr-nunbor-2026-10-30",
-   "game": "atp:Borges@Struff",
-   "side": "short",
-   "team": "Nuno Borges",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 15:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-paubad-hardar-2026-10-30",
-   "game": "wta:Dart@Badosa",
-   "side": "long",
-   "team": "Paula Badosa",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-10-30 03:05 ET",
-   "mode": "main",
-   "last_bid": 0.13,
-   "closed": "2026-10-30 03:25 ET",
-   "exit": 0.04,
-   "pnl": -0.4286,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-kaique-jiltei-2026-10-30",
    "game": "wta:Teichmann@Quevedo",
@@ -196,8 +165,32 @@
    "exit": 0.99,
    "pnl": 1.3143,
    "reason": "settled"
+  },
+  {
+   "market": "aec-atp-janstr-nunbor-2026-10-30",
+   "game": "atp:Borges@Struff",
+   "side": "short",
+   "team": "Nuno Borges",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 15:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-30 15:40 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Nuno Borges",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
