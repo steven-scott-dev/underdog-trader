@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T09:10:37.500677-04:00",
+ "updated": "2026-10-30T09:15:38.895472-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-10-30",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-30 09:10 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -165,17 +165,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Han@Tagger",
-   "market": "aec-wta-liltag-hanshi-2026-10-30",
-   "side": "short",
-   "team": "Han Shi",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
