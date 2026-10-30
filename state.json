@@ -1,21 +1,21 @@
 {
  "date": "2026-10-29",
- "bets": 39,
- "bounce_bets": 29,
- "realized": -0.7104,
+ "bets": 40,
+ "bounce_bets": 30,
+ "realized": -0.7771,
  "paper_positions": [
   {
-   "market": "aec-wta-dilche-biaand-2026-10-28",
-   "game": "wta:Andreescu@Cherubini",
+   "market": "aec-nhl-cbj-car-2026-10-29",
+   "game": "nhl:CBJ@CAR",
    "side": "long",
-   "team": "Diletta Cherubini",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 20:10 ET",
+   "team": "Blue Jackets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-29 20:20 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -664,6 +664,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-dilche-biaand-2026-10-28",
+   "game": "wta:Andreescu@Cherubini",
+   "side": "long",
+   "team": "Diletta Cherubini",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 20:20 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -823,6 +840,12 @@
     1793319044.7611797,
     0.09
    ]
+  ],
+  "aec-nhl-cbj-car-2026-10-29": [
+   [
+    1793319656.9216077,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -845,6 +868,7 @@
   "aec-wta-nadpod-mirbul-2026-10-29": 1793309141.3673065,
   "aec-wta-marcar-julgra-2026-10-28": 1793309141.4228427,
   "aec-wta-markub-lispig-2026-10-29": 1793310640.2841809,
-  "aec-wta-tatmar-marcol-2026-10-28": 1793315142.2030883
+  "aec-wta-tatmar-marcol-2026-10-28": 1793315142.2030883,
+  "aec-wta-dilche-biaand-2026-10-28": 1793321444.7118483
  }
 }
