@@ -1,9 +1,50 @@
 {
  "date": "2026-10-30",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 2,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-buf-ana-2026-10-29",
+   "game": "nhl:BUF@ANA",
+   "side": "short",
+   "team": "Ducks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-30 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-tamzid-alilin-2026-10-29",
+   "game": "wta:Linana@Zidansek",
+   "side": "short",
+   "team": "Alicia Herrero Linana",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-10-30 00:05 ET",
+   "mode": "main",
+   "last_bid": 0.37
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nhl-buf-ana-2026-10-29": [
+   [
+    1793333141.6158288,
+    0.08
+   ]
+  ],
+  "aec-wta-tamzid-alilin-2026-10-29": [
+   [
+    1793333142.8910284,
+    0.37
+   ]
+  ]
+ }
 }
