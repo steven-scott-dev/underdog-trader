@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T22:00:52.149699-04:00",
+ "updated": "2026-10-29T22:06:01.823993-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 19.9,
  "daily": {
   "date": "2026-10-29",
-  "bets": 44,
-  "bounce_bets": 34,
+  "bets": 45,
+  "bounce_bets": 35,
   "max_main": 10,
   "max_bounce": 50,
   "realized": -1.0253
@@ -35,6 +35,19 @@
    "tp": 0.2,
    "sl": 0.04,
    "opened": "2026-10-29 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nfl-car-gb-2026-10-29",
+   "game": "nfl:CAR@GB",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 22:05 ET",
    "mode": "bounce",
    "last_bid": 0.09
   }
@@ -212,5 +225,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:CAR@GB",
+   "market": "aec-nfl-car-gb-2026-10-29",
+   "side": "long",
+   "team": "Panthers",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

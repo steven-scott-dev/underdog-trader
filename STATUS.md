@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 22:00 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-10-29 22:06 ET · Mode: **PAPER** · Result: OK (19.9s)
 
 ## Today
-- Bets placed: 44 (main 10/10, bounce 34/50)
+- Bets placed: 45 (main 10/10, bounce 35/50)
 - Realized P&L: -1.03
 
 ## Open paper positions
 - **Kings** (long/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
 - **Bruins** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-29 21:40 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -21,4 +22,4 @@ Updated: 2026-10-29 22:00 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-10-29 17:15 ET: Valeriya Strakhova [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:CAR@GB", "market": "aec-nfl-car-gb-2026-10-29", "side": "long", "team": "Panthers", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
