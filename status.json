@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T19:15:43.989487-04:00",
+ "updated": "2026-10-30T19:20:42.719160-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-10-30",
   "bets": 19,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Carole Monnet",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }

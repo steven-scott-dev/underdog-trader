@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 19:15 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-30 19:20 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 19 / 100 (main 4, bounce 15)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 19:15 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-10-30 12:25 ET: Arthur Fils [bounce] — settled @ 0.9900 → +1.8800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Carole Monnet", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
