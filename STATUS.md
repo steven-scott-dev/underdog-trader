@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 16:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-30 16:30 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
 - Realized P&L: +1.53
 
 ## Open paper positions
-- **Valeriya Strakhova** (short/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
+- **Valeriya Strakhova** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-30 15:40 ET: Nuno Borges [bounce] — take-profit @ 0.1000 → +0.1000
