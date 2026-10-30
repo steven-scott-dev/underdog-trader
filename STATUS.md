@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 21:55 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-10-29 22:00 ET · Mode: **PAPER** · Result: OK (12.7s)
 
 ## Today
 - Bets placed: 44 (main 10/10, bounce 34/50)
 - Realized P&L: -1.03
 
 ## Open paper positions
-- **Kings** (long/bounce) — 2.0 @ 0.0500, now ~0.0600, unrealized +0.0200 (TP 0.1000 / SL 0.0200)
+- **Kings** (long/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
 - **Bruins** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
