@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 14:15 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-10-30 14:40 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 15 / 100 (main 4, bounce 11)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 14:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-10-30 07:05 ET: Alexandra Eala [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Arthur Fery", "reason": "settled", "pnl": 1.3143}`
+- _none_

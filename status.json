@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T14:15:40.581160-04:00",
+ "updated": "2026-10-30T14:40:39.925998-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-30",
   "bets": 15,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Arthur Fery",
-   "reason": "settled",
-   "pnl": 1.3143
-  }
- ]
+ "actions": []
 }
