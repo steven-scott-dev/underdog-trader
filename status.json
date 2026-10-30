@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T05:35:35.816021-04:00",
+ "updated": "2026-10-30T05:40:47.548138-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-30",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-30 05:35 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -131,17 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Teichmann@Quevedo",
-   "market": "aec-wta-kaique-jiltei-2026-10-30",
-   "side": "short",
-   "team": "Jil Teichmann",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
