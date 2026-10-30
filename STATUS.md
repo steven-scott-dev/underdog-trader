@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 22:58 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-10-29 23:00 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 48 (main 10/10, bounce 38/50)
 - Realized P&L: -1.22
 
 ## Open paper positions
-- **Panthers** (long/bounce) — 1.7391 @ 0.0575, now ~0.0350, unrealized -0.0391 (TP 0.1150 / SL 0.0230)
+- **Panthers** (long/bounce) — 1.7391 @ 0.0575, now ~0.0550, unrealized -0.0043 (TP 0.1150 / SL 0.0230)
 
 ## Recent history
 - 2026-10-29 22:30 ET: Stars [bounce] — stop-loss @ 0.0200 → -0.0750
