@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T23:15:54.722099-04:00",
+ "updated": "2026-10-29T23:20:37.920586-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.6,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-10-29",
   "bets": 49,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alicia Herrero Linana",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

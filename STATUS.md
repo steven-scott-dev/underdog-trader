@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 23:15 ET · Mode: **PAPER** · Result: OK (12.6s)
+Updated: 2026-10-29 23:20 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 49 (main 10/10, bounce 39/50)
@@ -20,4 +20,4 @@ Updated: 2026-10-29 23:15 ET · Mode: **PAPER** · Result: OK (12.6s)
 - 2026-10-29 21:40 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alicia Herrero Linana", "reason": "take-profit", "pnl": 0.1}`
+- _none_
