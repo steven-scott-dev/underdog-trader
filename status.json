@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T00:20:39.463002-04:00",
+ "updated": "2026-10-30T00:25:39.908383-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-30",
-  "bets": 3,
-  "bounce_bets": 1,
+  "bets": 4,
+  "bounce_bets": 2,
   "max_main": 10,
   "max_bounce": 50,
   "realized": -0.4399
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-10-30 00:20 ET",
    "mode": "main",
-   "last_bid": 0.1
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nhl-ott-la-2026-10-29",
+   "game": "nhl:OTT@LA",
+   "side": "long",
+   "team": "Senators",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -66,14 +79,14 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nhl:VAN@SJ",
-   "market": "aec-nhl-van-sj-2026-10-29",
+   "game": "nhl:OTT@LA",
+   "market": "aec-nhl-ott-la-2026-10-29",
    "side": "long",
-   "team": "Canucks",
-   "ask": 0.1,
-   "qty": 5.0,
-   "stake": 0.5,
-   "mode": "main"
+   "team": "Senators",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
