@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T16:20:35.818623-04:00",
+ "updated": "2026-10-30T16:25:38.400548-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-30",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-10-30 16:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.13
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Strakhova@Maria",
-   "market": "aec-wta-tatmar-valstr-2026-10-30",
-   "side": "short",
-   "team": "Valeriya Strakhova",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
