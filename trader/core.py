@@ -588,14 +588,31 @@ def run_pass():
                 except Exception as e:
                     log(f"  TP ensure failed for {slug}: {e}")
 
+    # reserve: worst-case additional loss if every open position exits
+    # at its stop. The loss cap is checked against realized MINUS this
+    # reserve, so the day cannot overshoot the cap (modulo gap slippage,
+    # where a price jumps straight through the stop).
+    open_reserves = []
+    if paper:
+        open_reserves = [max(0.0, p["qty"] * (p["entry"] - p["sl"]))
+                         for p in state["paper_positions"]]
+    else:
+        open_reserves = [max(0.0, pos["size"] * pos["avg_price"] * (1 - SL_MULT))
+                         for pos in positions.values()]
+
+    def loss_ok(extra_reserve=0.0):
+        return (state["realized"] - sum(open_reserves) - extra_reserve
+                > -MAX_DAILY_LOSS)
+
     # daily guardrails: the loss cap governs. Count/open caps below are
     # backstops only (bug breaker / unrealized-exposure bound).
     can_bet = True
     if state["bets"] >= cfg["max_bets_per_day_total"]:
         log(f"  daily bet backstop reached ({cfg['max_bets_per_day_total']}); no new entries")
         can_bet = False
-    if state["realized"] <= -MAX_DAILY_LOSS:
-        log(f"  daily loss cap hit ({state['realized']:+.2f}); no new entries today")
+    if not loss_ok():
+        log(f"  daily loss cap hit incl. open reserve "
+            f"({state['realized']:+.2f} - {sum(open_reserves):.2f}); no new entries today")
         can_bet = False
 
     # 2) scan games for new entries
@@ -617,10 +634,14 @@ def run_pass():
             log(f"{gid} Q{g['period']} diff={g['diff']} clock={g['clock']} mode={mode}")
             if not mode:
                 continue
-            # per-bet re-check: loss cap governs; total backstop and
-            # open-position cap are safety rails, not targets
+            # per-bet re-check: loss cap (incl. this bet's own reserve)
+            # governs; total backstop and open-position cap are rails
+            cand_reserve = (cfg["stake_usd"] if mode == "main"
+                            else cfg["bounce"]["stake_usd"]) * (
+                                1 - (SL_MULT if mode == "main"
+                                     else cfg["bounce"]["stop_loss_mult"]))
             if (not can_bet
-                    or state["realized"] <= -MAX_DAILY_LOSS
+                    or not loss_ok(cand_reserve)
                     or state["bets"] >= cfg["max_bets_per_day_total"]
                     or len(held_slugs) >= cfg["max_open_positions"]):
                 log(f"  daily limit reached, skipping")
@@ -691,12 +712,15 @@ def run_pass():
                 if mode == "bounce":
                     state["bounce_bets"] = state.get("bounce_bets", 0) + 1
                 held_slugs.add(meta["market_slug"])
+                open_reserves.append(qty * ask * (1 - bcfg["stop_loss_mult"]))
                 log(f"  PAPER BUY [{mode}] {qty} {desc} @ {ask:.4f} "
                     f"(${(qty*ask):.2f}), TP @ {tp:.4f}, SL @ {sl:.4f}")
             else:
                 buy = place_buy(client, bcfg, meta["market_slug"], dog, ask)
                 if buy:
                     held_slugs.add(meta["market_slug"])
+                    open_reserves.append(buy["qty"] * buy["price"]
+                                         * (1 - bcfg["stop_loss_mult"]))
                     state["bets"] += 1
                     if mode == "bounce":
                         state["bounce_bets"] = state.get("bounce_bets", 0) + 1
