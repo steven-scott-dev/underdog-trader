@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 2,
  "bounce_bets": 1,
- "realized": -0.075,
- "paper_positions": [
-  {
-   "market": "aec-wta-tamzid-alilin-2026-10-29",
-   "game": "wta:Linana@Zidansek",
-   "side": "short",
-   "team": "Alicia Herrero Linana",
-   "entry": 0.37,
-   "qty": 1.3514,
-   "tp": 0.925,
-   "sl": 0.148,
-   "opened": "2026-10-30 00:05 ET",
-   "mode": "main",
-   "last_bid": 0.31
-  }
- ],
+ "realized": -0.4399,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -34,6 +20,23 @@
    "closed": "2026-10-30 00:10 ET",
    "exit": 0.02,
    "pnl": -0.075,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tamzid-alilin-2026-10-29",
+   "game": "wta:Linana@Zidansek",
+   "side": "short",
+   "team": "Alicia Herrero Linana",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-10-30 00:05 ET",
+   "mode": "main",
+   "last_bid": 0.31,
+   "closed": "2026-10-30 00:15 ET",
+   "exit": 0.1,
+   "pnl": -0.3649,
    "reason": "stop-loss"
   }
  ],
@@ -53,6 +56,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nhl-buf-ana-2026-10-29": 1793335243.3326845
+  "aec-nhl-buf-ana-2026-10-29": 1793335243.3326845,
+  "aec-wta-tamzid-alilin-2026-10-29": 1793335541.774561
  }
 }
