@@ -1,9 +1,9 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 06:05 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-10-30 06:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 7 (main 3/10, bounce 4/50)
+- Bets placed: 7 / 100 (main 3, bounce 4)
 - Realized P&L: -1.02
 
 ## Open paper positions
