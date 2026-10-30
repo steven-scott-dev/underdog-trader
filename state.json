@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 11,
- "bounce_bets": 7,
+ "bets": 12,
+ "bounce_bets": 8,
  "realized": -1.6085,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tayfri-artfil-2026-10-30",
+   "game": "atp:Fils@Fritz",
+   "side": "short",
+   "team": "Arthur Fils",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -259,6 +273,12 @@
    [
     1793373036.386708,
     0.07
+   ]
+  ],
+  "aec-atp-tayfri-artfil-2026-10-30": [
+   [
+    1793377235.0152695,
+    0.05
    ]
   ]
  },

@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 12:15 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-30 12:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 11 / 100 (main 4, bounce 7)
+- Bets placed: 12 / 100 (main 4, bounce 8)
 - Realized P&L: -1.61
 
 ## Open paper positions
-- _none_
+- **Arthur Fils** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 11:20 ET: Holger Rune [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-30 12:15 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-30 00:35 ET: Senators [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Fils@Fritz", "market": "aec-atp-tayfri-artfil-2026-10-30", "side": "short", "team": "Arthur Fils", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
