@@ -1,21 +1,21 @@
 {
  "date": "2026-10-30",
- "bets": 12,
- "bounce_bets": 8,
- "realized": -1.6085,
+ "bets": 13,
+ "bounce_bets": 9,
+ "realized": 0.2715,
  "paper_positions": [
   {
-   "market": "aec-atp-tayfri-artfil-2026-10-30",
-   "game": "atp:Fils@Fritz",
-   "side": "short",
-   "team": "Arthur Fils",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 12:20 ET",
+   "market": "aec-wta-elsjac-eliyan-2026-10-30",
+   "game": "wta:Yaneva@Jacquemot",
+   "side": "long",
+   "team": "Elsa Jacquemot",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -205,6 +205,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tayfri-artfil-2026-10-30",
+   "game": "atp:Fils@Fritz",
+   "side": "short",
+   "team": "Arthur Fils",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 12:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-30 12:25 ET",
+   "exit": 0.99,
+   "pnl": 1.88,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -279,6 +296,12 @@
    [
     1793377235.0152695,
     0.05
+   ]
+  ],
+  "aec-wta-elsjac-eliyan-2026-10-30": [
+   [
+    1793377533.2350643,
+    0.1
    ]
   ]
  },
