@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 23:25 ET · Mode: **PAPER** · Result: OK (13.0s)
+Updated: 2026-10-29 23:30 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 50 (main 10/10, bounce 40/50)
 - Realized P&L: -1.02
 
 ## Open paper positions
-- **Senators** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Senators** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-29 23:15 ET: Alicia Herrero Linana [bounce] — take-profit @ 0.1200 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-29 23:25 ET · Mode: **PAPER** · Result: OK (13.0s)
 - 2026-10-29 21:40 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:OTT@LA", "market": "aec-nhl-ott-la-2026-10-29", "side": "long", "team": "Senators", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
