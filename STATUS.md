@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 06:30 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-30 06:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 8 / 100 (main 4, bounce 4)
 - Realized P&L: -1.02
 
 ## Open paper positions
-- **Alexandra Eala** (long/main) — 1.9231 @ 0.2600, now ~0.1600, unrealized -0.1923 (TP 0.6500 / SL 0.1040)
+- **Alexandra Eala** (long/main) — 1.9231 @ 0.2600, now ~0.1800, unrealized -0.1538 (TP 0.6500 / SL 0.1040)
 
 ## Recent history
 - 2026-10-30 05:45 ET: Jil Teichmann [bounce] — take-profit @ 0.1200 → +0.1000
