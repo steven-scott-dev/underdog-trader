@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 12:25 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-30 12:27 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 13 / 100 (main 4, bounce 9)
+- Bets placed: 14 / 100 (main 4, bounce 10)
 - Realized P&L: +0.27
 
 ## Open paper positions
-- **Elsa Jacquemot** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Elsa Jacquemot** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Tommy Paul** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-30 12:25 ET: Arthur Fils [bounce] — settled @ 0.9900 → +1.8800
@@ -20,5 +21,4 @@ Updated: 2026-10-30 12:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-30 01:55 ET: Alycia Parks [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Arthur Fils", "reason": "settled", "pnl": 1.88}`
-- `{"type": "buy", "game": "wta:Yaneva@Jacquemot", "market": "aec-wta-elsjac-eliyan-2026-10-30", "side": "long", "team": "Elsa Jacquemot", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Alcaraz@Paul", "market": "aec-atp-tompau-caralc-2026-10-30", "side": "long", "team": "Tommy Paul", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`

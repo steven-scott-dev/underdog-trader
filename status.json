@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T12:25:33.236042-04:00",
+ "updated": "2026-10-30T12:27:14.069002-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-10-30",
-  "bets": 13,
-  "bounce_bets": 9,
+  "bets": 14,
+  "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.2715
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-10-30 12:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-atp-tompau-caralc-2026-10-30",
+   "game": "atp:Alcaraz@Paul",
+   "side": "long",
+   "team": "Tommy Paul",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 12:27 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -201,19 +214,13 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Arthur Fils",
-   "reason": "settled",
-   "pnl": 1.88
-  },
-  {
    "type": "buy",
-   "game": "wta:Yaneva@Jacquemot",
-   "market": "aec-wta-elsjac-eliyan-2026-10-30",
+   "game": "atp:Alcaraz@Paul",
+   "market": "aec-atp-tompau-caralc-2026-10-30",
    "side": "long",
-   "team": "Elsa Jacquemot",
-   "ask": 0.1,
-   "qty": 1.0,
+   "team": "Tommy Paul",
+   "ask": 0.07,
+   "qty": 1.4286,
    "stake": 0.1,
    "mode": "bounce"
   }
