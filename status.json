@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-30T09:15:38.895472-04:00",
+ "updated": "2026-10-30T09:20:45.513988-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 11.4,
  "daily": {
   "date": "2026-10-30",
   "bets": 9,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.5185
+  "realized": -1.4185
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-liltag-hanshi-2026-10-30",
-   "game": "wta:Han@Tagger",
-   "side": "short",
-   "team": "Han Shi",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 09:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -162,8 +148,32 @@
    "exit": 0.0,
    "pnl": -0.5,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-liltag-hanshi-2026-10-30",
+   "game": "wta:Han@Tagger",
+   "side": "short",
+   "team": "Han Shi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 09:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-30 09:20 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Han Shi",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
