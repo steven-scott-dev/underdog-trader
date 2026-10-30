@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 7,
+ "bets": 8,
  "bounce_bets": 4,
  "realized": -1.0185,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-aleeal-diashn-2026-10-29",
+   "game": "wta:Shnaider@Eala",
+   "side": "long",
+   "team": "Alexandra Eala",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "tp": 0.65,
+   "sl": 0.104,
+   "opened": "2026-10-30 06:25 ET",
+   "mode": "main",
+   "last_bid": 0.26
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -167,6 +181,12 @@
    [
     1793352935.5368125,
     0.06
+   ]
+  ],
+  "aec-wta-aleeal-diashn-2026-10-29": [
+   [
+    1793355937.590871,
+    0.26
    ]
   ]
  },
