@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 23:50 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-29 23:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 52 (main 10/10, bounce 42/50)
@@ -21,4 +21,4 @@ Updated: 2026-10-29 23:50 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-29 22:10 ET: Kings [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Joint@Rakhimova", "market": "aec-wta-kamrak-mayjoi-2026-10-29", "side": "short", "team": "Maya Joint", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
