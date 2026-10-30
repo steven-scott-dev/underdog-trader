@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T03:05:34.536823-04:00",
+ "updated": "2026-10-30T03:10:36.042991-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-30",
   "bets": 6,
@@ -23,7 +23,7 @@
    "sl": 0.112,
    "opened": "2026-10-30 03:05 ET",
    "mode": "main",
-   "last_bid": 0.28
+   "last_bid": 0.25
   }
  ],
  "paper_history": [
@@ -114,17 +114,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Dart@Badosa",
-   "market": "aec-wta-paubad-hardar-2026-10-30",
-   "side": "long",
-   "team": "Paula Badosa",
-   "ask": 0.28,
-   "qty": 1.7857,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
