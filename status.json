@@ -1,56 +1,17 @@
 {
- "updated": "2026-10-29T22:21:01.259262-04:00",
+ "updated": "2026-10-29T22:26:15.466953-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.8,
+ "duration_s": 34.4,
  "daily": {
   "date": "2026-10-29",
   "bets": 47,
   "bounce_bets": 37,
   "max_main": 10,
   "max_bounce": 50,
-  "realized": -1.1253
+  "realized": -1.1464
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-bos-stl-2026-10-29",
-   "game": "nhl:BOS@STL",
-   "side": "long",
-   "team": "Bruins",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 21:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nfl-car-gb-2026-10-29",
-   "game": "nfl:CAR@GB",
-   "side": "long",
-   "team": "Panthers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 22:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.065
-  },
-  {
-   "market": "aec-nba-cle-atl-2026-10-29",
-   "game": "nba:CLE@ATL",
-   "side": "long",
-   "team": "Cavaliers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 22:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-nhl-mon-dal-2026-10-29",
    "game": "nhl:MTL@DAL",
@@ -62,61 +23,10 @@
    "sl": 0.032,
    "opened": "2026-10-29 22:15 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-marcar-julgra-2026-10-28",
-   "game": "wta:Grabher@Carle",
-   "side": "long",
-   "team": "Maria Lourdes Carle",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-29 16:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-29 16:55 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-polher-valstr-2026-10-28",
-   "game": "wta:Strakhova@Hercog",
-   "side": "short",
-   "team": "Valeriya Strakhova",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-29 16:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.11,
-   "closed": "2026-10-29 17:15 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-wta-markub-lispig-2026-10-29",
-   "game": "wta:Pigato@Kubka",
-   "side": "short",
-   "team": "Lisa Pigato",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-29 17:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-10-29 17:20 ET",
-   "exit": 0.02,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-tatmar-marcol-2026-10-28",
    "game": "wta:Colmegna@Maria",
@@ -235,8 +145,78 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-bos-stl-2026-10-29",
+   "game": "nhl:BOS@STL",
+   "side": "long",
+   "team": "Bruins",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-29 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-29 22:25 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-car-gb-2026-10-29",
+   "game": "nfl:CAR@GB",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 22:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.065,
+   "closed": "2026-10-29 22:25 ET",
+   "exit": 0.035,
+   "pnl": -0.0611,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cle-atl-2026-10-29",
+   "game": "nba:CLE@ATL",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-29 22:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-29 22:25 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Bruins",
+   "reason": "stop-loss",
+   "pnl": -0.06
+  },
+  {
+   "type": "paper_close",
+   "team": "Panthers",
+   "reason": "stop-loss",
+   "pnl": -0.0611
+  },
+  {
+   "type": "paper_close",
+   "team": "Cavaliers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
