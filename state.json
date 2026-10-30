@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 14,
- "bounce_bets": 10,
+ "bets": 15,
+ "bounce_bets": 11,
  "realized": 0.1115,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-alezve-artfer-2026-10-30",
+   "game": "atp:Fery@Zverev",
+   "side": "short",
+   "team": "Arthur Fery",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 13:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -327,6 +341,12 @@
   "aec-atp-tompau-caralc-2026-10-30": [
    [
     1793377633.7194152,
+    0.07
+   ]
+  ],
+  "aec-atp-alezve-artfer-2026-10-30": [
+   [
+    1793379637.7028081,
     0.07
    ]
   ]

@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 12:55 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-30 13:00 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 14 / 100 (main 4, bounce 10)
+- Bets placed: 15 / 100 (main 4, bounce 11)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- _none_
+- **Arthur Fery** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-30 12:35 ET: Elsa Jacquemot [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -20,4 +20,4 @@ Updated: 2026-10-30 12:55 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-30 05:45 ET: Jil Teichmann [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Fery@Zverev", "market": "aec-atp-alezve-artfer-2026-10-30", "side": "short", "team": "Arthur Fery", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
