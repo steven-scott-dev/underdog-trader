@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-29 20:21 ET · Mode: **PAPER** · Result: OK (24.1s)
+Updated: 2026-10-29 20:26 ET · Mode: **PAPER** · Result: OK (24.4s)
 
 ## Today
 - Bets placed: 40 (main 10/10, bounce 30/50)
 - Realized P&L: -0.78
 
 ## Open paper positions
-- **Blue Jackets** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Blue Jackets** (long/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-29 20:20 ET: Diletta Cherubini [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -20,5 +20,4 @@ Updated: 2026-10-29 20:21 ET · Mode: **PAPER** · Result: OK (24.1s)
 - 2026-10-29 15:15 ET: Tallon Griekspoor [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Diletta Cherubini", "reason": "stop-loss", "pnl": -0.0667}`
-- `{"type": "buy", "game": "nhl:CBJ@CAR", "market": "aec-nhl-cbj-car-2026-10-29", "side": "long", "team": "Blue Jackets", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
