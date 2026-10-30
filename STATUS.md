@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 11:20 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-30 11:25 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 11 / 100 (main 4, bounce 7)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 11:20 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-30 00:35 ET: Senators [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Holger Rune", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
