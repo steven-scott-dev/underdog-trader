@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 21,
- "bounce_bets": 17,
+ "bets": 23,
+ "bounce_bets": 19,
  "realized": 1.5625,
  "paper_positions": [
   {
@@ -16,6 +16,32 @@
    "opened": "2026-10-30 20:40 ET",
    "mode": "bounce",
    "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-det-bkn-2026-10-30",
+   "game": "nba:DET@BKN",
+   "side": "short",
+   "team": "Nets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-30 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-fiofer-eliman-2026-10-30",
+   "game": "wta:Mandlik@Ferro",
+   "side": "short",
+   "team": "Elizabeth Mandlik",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-30 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -484,6 +510,18 @@
    [
     1793407244.9400702,
     0.07
+   ]
+  ],
+  "aec-nba-det-bkn-2026-10-30": [
+   [
+    1793408736.0755022,
+    0.08
+   ]
+  ],
+  "aec-wta-fiofer-eliman-2026-10-30": [
+   [
+    1793408748.152837,
+    0.08
    ]
   ]
  },
