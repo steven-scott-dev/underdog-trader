@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 02:20 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-31 02:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 6 / 100 (main 0, bounce 6)
+- Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: -0.28
 
 ## Open paper positions
-- _none_
+- **Ying Zhang** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-31 02:10 ET: Ekaterine Gorgodze [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -18,4 +18,4 @@ Updated: 2026-10-31 02:20 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-31 00:20 ET: Heather Watson [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Shubladze@Ying", "market": "aec-wta-yinzha-aleshu-2026-10-30", "side": "long", "team": "Ying Zhang", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
