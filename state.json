@@ -1,8 +1,8 @@
 {
  "date": "2026-10-31",
- "bets": 2,
- "bounce_bets": 2,
- "realized": 0.0,
+ "bets": 3,
+ "bounce_bets": 3,
+ "realized": -0.0833,
  "paper_positions": [
   {
    "market": "aec-wta-alilin-biaand-2026-10-30",
@@ -15,8 +15,23 @@
    "sl": 0.036,
    "opened": "2026-10-31 00:00 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.07
   },
+  {
+   "market": "aec-wta-alisas-cheshe-2026-10-30",
+   "game": "wta:Shek@Sasnovich",
+   "side": "short",
+   "team": "Cheuk Ying Shek",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 00:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
    "game": "wta:Watson@Jones",
@@ -28,10 +43,13 @@
    "sl": 0.024,
    "opened": "2026-10-31 00:05 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.06,
+   "closed": "2026-10-31 00:20 ET",
+   "exit": 0.01,
+   "pnl": -0.0833,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "px_hist": {
   "aec-wta-alilin-biaand-2026-10-30": [
@@ -45,6 +63,15 @@
     1793419548.9318323,
     0.06
    ]
+  ],
+  "aec-wta-alisas-cheshe-2026-10-30": [
+   [
+    1793420439.7109733,
+    0.07
+   ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-emejon-heawat-2026-10-30": 1793422237.9024851
  }
 }
