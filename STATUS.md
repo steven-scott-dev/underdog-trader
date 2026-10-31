@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:55 ET · Mode: **PAPER** · Result: OK (12.1s)
+Updated: 2026-10-31 11:25 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
-- Bets placed: 19 / 100 (main 0, bounce 19)
+- Bets placed: 21 / 100 (main 0, bounce 21)
 - Realized P&L: -0.81
 
 ## Open paper positions
-- _none_
+- **Tallon Griekspoor** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Damir Dzumhur** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-31 10:50 ET: Felix Balshaw [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +21,5 @@ Updated: 2026-10-31 10:55 ET · Mode: **PAPER** · Result: OK (12.1s)
 - 2026-10-31 07:10 ET: Diya Ramesh Ramesh [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Bonzi@Griekspoor", "market": "aec-atp-talgri-benbon-2026-10-31", "side": "long", "team": "Tallon Griekspoor", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Dzumhur@Baez", "market": "aec-atp-sebbae-damdzu-2026-10-31", "side": "short", "team": "Damir Dzumhur", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

@@ -1,9 +1,36 @@
 {
  "date": "2026-10-31",
- "bets": 19,
- "bounce_bets": 19,
+ "bets": 21,
+ "bounce_bets": 21,
  "realized": -0.808,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-talgri-benbon-2026-10-31",
+   "game": "atp:Bonzi@Griekspoor",
+   "side": "long",
+   "team": "Tallon Griekspoor",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 11:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-atp-sebbae-damdzu-2026-10-31",
+   "game": "atp:Dzumhur@Baez",
+   "side": "short",
+   "team": "Damir Dzumhur",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 11:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -425,6 +452,18 @@
    [
     1793457933.8923614,
     0.08
+   ]
+  ],
+  "aec-atp-talgri-benbon-2026-10-31": [
+   [
+    1793460334.0320983,
+    0.05
+   ]
+  ],
+  "aec-atp-sebbae-damdzu-2026-10-31": [
+   [
+    1793460334.299903,
+    0.1
    ]
   ]
  },
