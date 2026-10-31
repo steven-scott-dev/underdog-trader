@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": -0.1722,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-31 00:20 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-leyfer-kamrak-2026-10-30",
+   "game": "wta:Rakhimova@Fernandez",
+   "side": "short",
+   "team": "Kamilla Rakhimova",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 00:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -71,6 +84,12 @@
   "aec-wta-alisas-cheshe-2026-10-30": [
    [
     1793420439.7109733,
+    0.07
+   ]
+  ],
+  "aec-wta-leyfer-kamrak-2026-10-30": [
+   [
+    1793421936.0133588,
     0.07
    ]
   ]
