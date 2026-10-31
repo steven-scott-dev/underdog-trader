@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": -0.1722,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.028,
    "opened": "2026-10-31 00:20 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-leyfer-kamrak-2026-10-30",
@@ -28,7 +28,20 @@
    "sl": 0.028,
    "opened": "2026-10-31 00:45 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-wta-elepri-ekagor-2026-10-30",
+   "game": "wta:Gorgodze@Pridankina",
+   "side": "short",
+   "team": "Ekaterine Gorgodze",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 00:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -91,6 +104,12 @@
    [
     1793421936.0133588,
     0.07
+   ]
+  ],
+  "aec-wta-elepri-ekagor-2026-10-30": [
+   [
+    1793422234.3509405,
+    0.09
    ]
   ]
  },
