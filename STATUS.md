@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 20:30 ET · Mode: **PAPER** · Result: OK (15.0s)
+Updated: 2026-10-30 20:35 ET · Mode: **PAPER** · Result: OK (12.4s)
 
 ## Today
 - Bets placed: 20 / 100 (main 4, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-10-30 20:30 ET · Mode: **PAPER** · Result: OK (15.0s)
 - 2026-10-30 12:30 ET: Tommy Paul [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jets", "reason": "take-profit", "pnl": 0.1}`
+- _none_
