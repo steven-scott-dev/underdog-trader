@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 06:05 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-10-31 06:10 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
 - Realized P&L: -0.43
 
 ## Open paper positions
-- **Diya Ramesh Ramesh** (short/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Diya Ramesh Ramesh** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-31 06:00 ET: Ekaterina Yashina [bounce] — stop-loss @ 0.0100 → -0.0800
