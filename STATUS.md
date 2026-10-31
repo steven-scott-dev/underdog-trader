@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:20 ET · Mode: **PAPER** · Result: OK (12.4s)
+Updated: 2026-10-31 10:25 ET · Mode: **PAPER** · Result: OK (13.3s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 10:20 ET · Mode: **PAPER** · Result: OK (12.4s)
 - 2026-10-31 06:30 ET: Mariia Tkacheva [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yelyzaveta Kotliar", "reason": "take-profit", "pnl": 0.1}`
+- _none_
