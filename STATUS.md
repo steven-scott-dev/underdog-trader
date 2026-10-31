@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 17:35 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-10-31 17:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
 - Realized P&L: -0.79
 
 ## Open paper positions
-- **Sharks** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
+- **Sharks** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-31 11:45 ET: Damir Dzumhur [bounce] — take-profit @ 0.2000 → +0.1000
