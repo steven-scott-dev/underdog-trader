@@ -2,7 +2,7 @@
  "date": "2026-10-30",
  "bets": 23,
  "bounce_bets": 19,
- "realized": 1.5625,
+ "realized": 1.4875,
  "paper_positions": [
   {
    "market": "aec-nhl-wpg-fla-2026-10-30",
@@ -15,20 +15,7 @@
    "sl": 0.028,
    "opened": "2026-10-30 20:40 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-nba-det-bkn-2026-10-30",
-   "game": "nba:DET@BKN",
-   "side": "short",
-   "team": "Nets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-30 21:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.1
   },
   {
    "market": "aec-wta-fiofer-eliman-2026-10-30",
@@ -41,7 +28,7 @@
    "sl": 0.032,
    "opened": "2026-10-30 21:05 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -384,6 +371,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-det-bkn-2026-10-30",
+   "game": "nba:DET@BKN",
+   "side": "short",
+   "team": "Nets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-30 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-30 21:20 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -534,6 +538,7 @@
   "aec-atp-tompau-caralc-2026-10-30": 1793379635.9599829,
   "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296,
   "aec-atp-matber-alemin-2026-10-30": 1793395757.909857,
-  "aec-wta-nadpod-carmon-2026-10-30": 1793403942.7991526
+  "aec-wta-nadpod-carmon-2026-10-30": 1793403942.7991526,
+  "aec-nba-det-bkn-2026-10-30": 1793411439.965181
  }
 }
