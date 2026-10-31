@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 25,
- "bounce_bets": 21,
+ "bets": 26,
+ "bounce_bets": 22,
  "realized": 1.2793,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nba-orl-tor-2026-10-30",
+   "game": "nba:ORL@TOR",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -575,6 +588,12 @@
   "aec-nba-ind-mia-2026-10-30": [
    [
     1793410837.8004706,
+    0.05
+   ]
+  ],
+  "aec-nba-orl-tor-2026-10-30": [
+   [
+    1793412039.0099792,
     0.05
    ]
   ]

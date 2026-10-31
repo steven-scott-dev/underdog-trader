@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T21:45:48.918302-04:00",
+ "updated": "2026-10-30T22:00:40.184022-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 3.4,
  "daily": {
   "date": "2026-10-30",
-  "bets": 25,
-  "bounce_bets": 21,
+  "bets": 26,
+  "bounce_bets": 22,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.2793
@@ -23,7 +23,20 @@
    "sl": 0.028,
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nba-orl-tor-2026-10-30",
+   "game": "nba:ORL@TOR",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -201,10 +214,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Pacers",
-   "reason": "stop-loss",
-   "pnl": -0.06
+   "type": "buy",
+   "game": "nba:ORL@TOR",
+   "market": "aec-nba-orl-tor-2026-10-30",
+   "side": "short",
+   "team": "Raptors",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

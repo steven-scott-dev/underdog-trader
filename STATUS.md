@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 21:45 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-10-30 22:00 ET · Mode: **PAPER** · Result: OK (3.4s)
 
 ## Today
-- Bets placed: 25 / 100 (main 4, bounce 21)
+- Bets placed: 26 / 100 (main 4, bounce 22)
 - Realized P&L: +1.28
 
 ## Open paper positions
-- **Kraken** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
+- **Kraken** (long/bounce) — 1.4286 @ 0.0700, now ~0.0900, unrealized +0.0286 (TP 0.1400 / SL 0.0280)
+- **Raptors** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 21:45 ET: Pacers [bounce] — stop-loss @ 0.0200 → -0.0600
@@ -20,4 +21,4 @@ Updated: 2026-10-30 21:45 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-10-30 16:45 ET: Valeriya Strakhova [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pacers", "reason": "stop-loss", "pnl": -0.06}`
+- `{"type": "buy", "game": "nba:ORL@TOR", "market": "aec-nba-orl-tor-2026-10-30", "side": "short", "team": "Raptors", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
