@@ -2,48 +2,8 @@
  "date": "2026-10-31",
  "bets": 11,
  "bounce_bets": 11,
- "realized": -0.4331,
- "paper_positions": [
-  {
-   "market": "aec-wta-kyooka-diyram-2026-10-31",
-   "game": "wta:Ramesh@Okamura",
-   "side": "short",
-   "team": "Diya Ramesh Ramesh",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-31 06:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-wta-xinsun-hardar-2026-10-31",
-   "game": "wta:Dart@Sun",
-   "side": "short",
-   "team": "Harriet Dart",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-31 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-martka-radzol-2026-10-31",
-   "game": "wta:Zolotareva@Tkacheva",
-   "side": "long",
-   "team": "Mariia Tkacheva",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": -0.3331,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -180,6 +140,57 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
+   "side": "short",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 06:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-31 06:30 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-xinsun-hardar-2026-10-31",
+   "game": "wta:Dart@Sun",
+   "side": "short",
+   "team": "Harriet Dart",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-31 06:30 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-martka-radzol-2026-10-31",
+   "game": "wta:Zolotareva@Tkacheva",
+   "side": "long",
+   "team": "Mariia Tkacheva",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 06:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -252,6 +263,7 @@
   "aec-wta-leyfer-kamrak-2026-10-30": 1793424632.907701,
   "aec-wta-elepri-ekagor-2026-10-30": 1793428835.727035,
   "aec-wta-yinzha-aleshu-2026-10-30": 1793434234.3772328,
-  "aec-wta-alifal-ekayas-2026-10-31": 1793442636.2191393
+  "aec-wta-alifal-ekayas-2026-10-31": 1793442636.2191393,
+  "aec-wta-martka-radzol-2026-10-31": 1793444432.967597
  }
 }
