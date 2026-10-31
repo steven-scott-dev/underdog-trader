@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 08:50 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-10-31 08:52 ET · Mode: **PAPER** · Result: OK (3.0s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: -0.75
 
 ## Open paper positions
-- **Jensi Dipakbhai Kanabar** (long/bounce) — 1.6667 @ 0.0600, now ~0.1100, unrealized +0.0833 (TP 0.1200 / SL 0.0240)
+- **Jensi Dipakbhai Kanabar** (long/bounce) — 1.6667 @ 0.0600, now ~0.0900, unrealized +0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-10-31 08:35 ET: Zeel Desai [bounce] — stop-loss @ 0.0300 → -0.0667
