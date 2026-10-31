@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 08:25 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-31 08:30 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: -0.68
 
 ## Open paper positions
-- **Zeel Desai** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
+- **Zeel Desai** (short/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-31 08:15 ET: Rinko Matsuda [bounce] — stop-loss @ 0.0100 → -0.0857
