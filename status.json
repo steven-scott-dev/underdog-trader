@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T21:20:51.730782-04:00",
+ "updated": "2026-10-30T21:25:50.776412-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.3,
+ "duration_s": 14.4,
  "daily": {
   "date": "2026-10-30",
   "bets": 23,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-30 20:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-fiofer-eliman-2026-10-30",
@@ -36,7 +36,7 @@
    "sl": 0.032,
    "opened": "2026-10-30 21:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -212,12 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Nets",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }
