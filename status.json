@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T21:10:57.423322-04:00",
+ "updated": "2026-10-30T21:15:47.600436-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 23.9,
+ "duration_s": 13.2,
  "daily": {
   "date": "2026-10-30",
   "bets": 23,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-30 20:40 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-nba-det-bkn-2026-10-30",
@@ -36,7 +36,7 @@
    "sl": 0.032,
    "opened": "2026-10-30 21:05 ET",
    "mode": "bounce",
-   "last_bid": 0.15
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-fiofer-eliman-2026-10-30",
@@ -49,7 +49,7 @@
    "sl": 0.032,
    "opened": "2026-10-30 21:05 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
   }
  ],
  "paper_history": [

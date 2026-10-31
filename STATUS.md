@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 21:10 ET · Mode: **PAPER** · Result: OK (23.9s)
+Updated: 2026-10-30 21:15 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Today
 - Bets placed: 23 / 100 (main 4, bounce 19)
 - Realized P&L: +1.56
 
 ## Open paper positions
-- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
-- **Nets** (short/bounce) — 1.25 @ 0.0800, now ~0.1500, unrealized +0.0875 (TP 0.1600 / SL 0.0320)
-- **Elizabeth Mandlik** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
+- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
+- **Nets** (short/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
+- **Elizabeth Mandlik** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-30 20:30 ET: Jets [bounce] — take-profit @ 0.1800 → +0.1000
