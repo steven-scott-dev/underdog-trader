@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:50 ET · Mode: **PAPER** · Result: OK (21.6s)
+Updated: 2026-10-31 10:55 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 10:50 ET · Mode: **PAPER** · Result: OK (21.6s)
 - 2026-10-31 07:10 ET: Diya Ramesh Ramesh [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Felix Balshaw", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
