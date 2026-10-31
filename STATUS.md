@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 06:00 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-10-31 06:05 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
 - Realized P&L: -0.43
 
 ## Open paper positions
-- **Diya Ramesh Ramesh** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Diya Ramesh Ramesh** (short/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-31 06:00 ET: Ekaterina Yashina [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -20,5 +20,4 @@ Updated: 2026-10-31 06:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-10-31 00:20 ET: Heather Watson [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ekaterina Yashina", "reason": "stop-loss", "pnl": -0.08}`
-- `{"type": "buy", "game": "wta:Ramesh@Okamura", "market": "aec-wta-kyooka-diyram-2026-10-31", "side": "short", "team": "Diya Ramesh Ramesh", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
