@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 11:35 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-10-31 11:40 ET · Mode: **PAPER** · Result: OK (12.9s)
 
 ## Today
 - Bets placed: 21 / 100 (main 0, bounce 21)
 - Realized P&L: -0.89
 
 ## Open paper positions
-- **Damir Dzumhur** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
+- **Damir Dzumhur** (short/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-31 11:35 ET: Tallon Griekspoor [bounce] — settled @ 0.0100 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-10-31 11:35 ET · Mode: **PAPER** · Result: OK (12.3s)
 - 2026-10-31 08:10 ET: Kaitlin Quevedo [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tallon Griekspoor", "reason": "settled", "pnl": -0.08}`
+- _none_
