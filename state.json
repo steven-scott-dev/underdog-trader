@@ -1,21 +1,21 @@
 {
  "date": "2026-10-31",
- "bets": 8,
- "bounce_bets": 8,
- "realized": -0.3531,
+ "bets": 9,
+ "bounce_bets": 9,
+ "realized": -0.4331,
  "paper_positions": [
   {
-   "market": "aec-wta-alifal-ekayas-2026-10-31",
-   "game": "wta:Yashina@Falei",
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
    "side": "short",
-   "team": "Ekaterina Yashina",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 05:45 ET",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 06:00 ET",
    "mode": "bounce",
-   "last_bid": 0.02
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -137,6 +137,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alifal-ekayas-2026-10-31",
+   "game": "wta:Yashina@Falei",
+   "side": "short",
+   "team": "Ekaterina Yashina",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 05:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-10-31 06:00 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -182,6 +199,12 @@
     1793439935.147795,
     0.05
    ]
+  ],
+  "aec-wta-kyooka-diyram-2026-10-31": [
+   [
+    1793440837.8482199,
+    0.04
+   ]
   ]
  },
  "cooldowns": {
@@ -190,6 +213,7 @@
   "aec-wta-alisas-cheshe-2026-10-30": 1793424336.938711,
   "aec-wta-leyfer-kamrak-2026-10-30": 1793424632.907701,
   "aec-wta-elepri-ekagor-2026-10-30": 1793428835.727035,
-  "aec-wta-yinzha-aleshu-2026-10-30": 1793434234.3772328
+  "aec-wta-yinzha-aleshu-2026-10-30": 1793434234.3772328,
+  "aec-wta-alifal-ekayas-2026-10-31": 1793442636.2191393
  }
 }
