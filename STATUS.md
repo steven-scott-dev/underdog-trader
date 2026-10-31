@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 03:35 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-10-31 03:40 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
-- Realized P&L: -0.28
+- Realized P&L: -0.35
 
 ## Open paper positions
-- **Ying Zhang** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
+- _none_
 
 ## Recent history
+- 2026-10-31 03:40 ET: Ying Zhang [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-10-31 02:10 ET: Ekaterine Gorgodze [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-10-31 01:05 ET: Ekaterine Gorgodze [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-10-31 01:00 ET: Kamilla Rakhimova [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -18,4 +19,4 @@ Updated: 2026-10-31 03:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-10-31 00:20 ET: Heather Watson [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Ying Zhang", "reason": "stop-loss", "pnl": -0.0714}`
