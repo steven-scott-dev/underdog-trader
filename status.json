@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-30T21:25:50.776412-04:00",
+ "updated": "2026-10-30T21:30:37.966669-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.4,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-30",
   "bets": 23,
   "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.4875
+  "realized": 1.4018
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-wpg-fla-2026-10-30",
-   "game": "nhl:WPG@FLA",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 20:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-wta-fiofer-eliman-2026-10-30",
    "game": "wta:Mandlik@Ferro",
@@ -40,23 +27,6 @@
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-tayfri-artfil-2026-10-30",
-   "game": "atp:Fils@Fritz",
-   "side": "short",
-   "team": "Arthur Fils",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 12:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-30 12:25 ET",
-   "exit": 0.99,
-   "pnl": 1.88,
-   "reason": "settled"
-  },
   {
    "market": "aec-atp-tompau-caralc-2026-10-30",
    "game": "atp:Alcaraz@Paul",
@@ -209,8 +179,32 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-fla-2026-10-30",
+   "game": "nhl:WPG@FLA",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-30 21:30 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jets",
+   "reason": "stop-loss",
+   "pnl": -0.0857
+  }
+ ]
 }

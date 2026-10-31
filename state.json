@@ -2,21 +2,8 @@
  "date": "2026-10-30",
  "bets": 23,
  "bounce_bets": 19,
- "realized": 1.4875,
+ "realized": 1.4018,
  "paper_positions": [
-  {
-   "market": "aec-nhl-wpg-fla-2026-10-30",
-   "game": "nhl:WPG@FLA",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 20:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-wta-fiofer-eliman-2026-10-30",
    "game": "wta:Mandlik@Ferro",
@@ -388,6 +375,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-fla-2026-10-30",
+   "game": "nhl:WPG@FLA",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-30 21:30 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -539,6 +543,7 @@
   "aec-wta-elsjac-eliyan-2026-10-30": 1793379936.682296,
   "aec-atp-matber-alemin-2026-10-30": 1793395757.909857,
   "aec-wta-nadpod-carmon-2026-10-30": 1793403942.7991526,
-  "aec-nba-det-bkn-2026-10-30": 1793411439.965181
+  "aec-nba-det-bkn-2026-10-30": 1793411439.965181,
+  "aec-nhl-wpg-fla-2026-10-30": 1793412036.5959089
  }
 }
