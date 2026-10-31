@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-31T07:05:36.746086-04:00",
+ "updated": "2026-10-31T07:10:43.962835-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-10-31",
   "bets": 12,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3331
+  "realized": -0.4131
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-kyooka-diyram-2026-10-31",
-   "game": "wta:Ramesh@Okamura",
-   "side": "short",
-   "team": "Diya Ramesh Ramesh",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 06:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-alilin-biaand-2026-10-30",
-   "game": "wta:Andreescu@Linana",
-   "side": "long",
-   "team": "Alicia Herrero Linana",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 00:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-31 00:25 ET",
-   "exit": 0.01,
-   "pnl": -0.0889,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-alisas-cheshe-2026-10-30",
    "game": "wta:Shek@Sasnovich",
@@ -196,8 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
+   "side": "short",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 06:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-31 07:10 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Diya Ramesh Ramesh",
+   "reason": "stop-loss",
+   "pnl": -0.08
+  }
+ ]
 }

@@ -2,22 +2,8 @@
  "date": "2026-10-31",
  "bets": 12,
  "bounce_bets": 12,
- "realized": -0.3331,
- "paper_positions": [
-  {
-   "market": "aec-wta-kyooka-diyram-2026-10-31",
-   "game": "wta:Ramesh@Okamura",
-   "side": "short",
-   "team": "Diya Ramesh Ramesh",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 06:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": -0.4131,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -205,6 +191,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
+   "side": "short",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 06:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-31 07:10 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -278,6 +281,7 @@
   "aec-wta-elepri-ekagor-2026-10-30": 1793428835.727035,
   "aec-wta-yinzha-aleshu-2026-10-30": 1793434234.3772328,
   "aec-wta-alifal-ekayas-2026-10-31": 1793442636.2191393,
-  "aec-wta-martka-radzol-2026-10-31": 1793444432.967597
+  "aec-wta-martka-radzol-2026-10-31": 1793444432.967597,
+  "aec-wta-kyooka-diyram-2026-10-31": 1793446832.712177
  }
 }
