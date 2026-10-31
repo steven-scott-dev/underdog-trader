@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 31,
- "bounce_bets": 27,
+ "bets": 32,
+ "bounce_bets": 28,
  "realized": 2.8436,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.02,
    "opened": "2026-10-30 23:50 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-emejon-heawat-2026-10-30",
+   "game": "wta:Watson@Jones",
+   "side": "short",
+   "team": "Heather Watson",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 23:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -704,6 +717,12 @@
    [
     1793418634.9291527,
     0.05
+   ]
+  ],
+  "aec-wta-emejon-heawat-2026-10-30": [
+   [
+    1793418943.0107033,
+    0.07
    ]
   ]
  },
