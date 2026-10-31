@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 02:10 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-31 02:15 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
@@ -18,4 +18,4 @@ Updated: 2026-10-31 02:10 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-31 00:20 ET: Heather Watson [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ekaterine Gorgodze", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

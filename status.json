@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T02:10:36.940175-04:00",
+ "updated": "2026-10-31T02:15:37.536525-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-10-31",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Ekaterine Gorgodze",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
