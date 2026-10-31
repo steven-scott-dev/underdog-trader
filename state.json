@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 17,
- "bounce_bets": 17,
+ "bets": 18,
+ "bounce_bets": 18,
  "realized": -0.8455,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-zhikul-yelkot-2026-10-31",
+   "game": "wta:Kotliar@Kulambayeva",
+   "side": "short",
+   "team": "Yelyzaveta Kotliar",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 10:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -379,6 +393,12 @@
    [
     1793449234.9707465,
     0.09
+   ]
+  ],
+  "aec-wta-zhikul-yelkot-2026-10-31": [
+   [
+    1793455535.1968052,
+    0.04
    ]
   ]
  },

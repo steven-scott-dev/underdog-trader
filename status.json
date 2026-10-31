@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-31T10:00:47.328867-04:00",
+ "updated": "2026-10-31T10:05:35.197876-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-10-31",
-  "bets": 17,
-  "bounce_bets": 17,
+  "bets": 18,
+  "bounce_bets": 18,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.8455
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-zhikul-yelkot-2026-10-31",
+   "game": "wta:Kotliar@Kulambayeva",
+   "side": "short",
+   "team": "Yelyzaveta Kotliar",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 10:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-alifal-ekayas-2026-10-31",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Kotliar@Kulambayeva",
+   "market": "aec-wta-zhikul-yelkot-2026-10-31",
+   "side": "short",
+   "team": "Yelyzaveta Kotliar",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
