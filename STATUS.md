@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:40 ET · Mode: **PAPER** · Result: OK (21.3s)
+Updated: 2026-10-31 10:45 ET · Mode: **PAPER** · Result: OK (11.8s)
 
 ## Today
-- Bets placed: 18 / 100 (main 0, bounce 18)
+- Bets placed: 19 / 100 (main 0, bounce 19)
 - Realized P&L: -0.75
 
 ## Open paper positions
-- _none_
+- **Felix Balshaw** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-10-31 10:20 ET: Yelyzaveta Kotliar [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-31 10:40 ET · Mode: **PAPER** · Result: OK (21.3s)
 - 2026-10-31 06:30 ET: Mariia Tkacheva [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Hanfmann@Balshaw", "market": "aec-atp-felbal-yanhan-2026-10-31", "side": "long", "team": "Felix Balshaw", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
