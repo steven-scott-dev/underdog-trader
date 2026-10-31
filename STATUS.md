@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 03:40 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-10-31 03:45 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
@@ -19,4 +19,4 @@ Updated: 2026-10-31 03:40 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-10-31 00:20 ET: Heather Watson [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ying Zhang", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
