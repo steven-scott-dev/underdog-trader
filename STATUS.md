@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 17:25 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-31 17:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
 - Realized P&L: -0.79
 
 ## Open paper positions
-- **Sharks** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Sharks** (short/bounce) — 2.0 @ 0.0500, now ~0.0300, unrealized -0.0400 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-31 11:45 ET: Damir Dzumhur [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-31 17:25 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-31 08:10 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:OTT@SJ", "market": "aec-nhl-ott-sj-2026-10-31", "side": "short", "team": "Sharks", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_

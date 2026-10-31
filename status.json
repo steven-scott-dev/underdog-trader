@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:25:34.808907-04:00",
+ "updated": "2026-10-31T17:30:35.694358-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.1,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-31 17:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:OTT@SJ",
-   "market": "aec-nhl-ott-sj-2026-10-31",
-   "side": "short",
-   "team": "Sharks",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
