@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 23:20 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-10-30 23:25 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 29 / 100 (main 4, bounce 25)
@@ -20,5 +20,4 @@ Updated: 2026-10-30 23:20 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-10-30 21:30 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hayu Kinoshita", "reason": "settled", "pnl": 1.55}`
-- `{"type": "paper_close", "team": "Rockets", "reason": "settled", "pnl": -0.0857}`
+- _none_

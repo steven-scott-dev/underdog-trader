@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T23:20:40.828899-04:00",
+ "updated": "2026-10-30T23:25:36.101602-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-30",
   "bets": 29,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Hayu Kinoshita",
-   "reason": "settled",
-   "pnl": 1.55
-  },
-  {
-   "type": "paper_close",
-   "team": "Rockets",
-   "reason": "settled",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
