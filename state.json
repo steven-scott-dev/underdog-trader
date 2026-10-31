@@ -2,22 +2,8 @@
  "date": "2026-10-30",
  "bets": 20,
  "bounce_bets": 16,
- "realized": 1.4625,
- "paper_positions": [
-  {
-   "market": "aec-nhl-wpg-fla-2026-10-30",
-   "game": "nhl:WPG@FLA",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-30 20:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "realized": 1.5625,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -341,6 +327,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-fla-2026-10-30",
+   "game": "nhl:WPG@FLA",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-30 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-30 20:30 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
