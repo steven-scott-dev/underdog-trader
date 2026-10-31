@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 20:20 ET · Mode: **PAPER** · Result: OK (12.6s)
+Updated: 2026-10-30 20:25 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
-- Bets placed: 19 / 100 (main 4, bounce 15)
+- Bets placed: 20 / 100 (main 4, bounce 16)
 - Realized P&L: +1.46
 
 ## Open paper positions
-- _none_
+- **Jets** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-30 19:15 ET: Carole Monnet [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-10-30 20:20 ET · Mode: **PAPER** · Result: OK (12.6s)
 - 2026-10-30 12:25 ET: Arthur Fils [bounce] — settled @ 0.9900 → +1.8800
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:WPG@FLA", "market": "aec-nhl-wpg-fla-2026-10-30", "side": "long", "team": "Jets", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
