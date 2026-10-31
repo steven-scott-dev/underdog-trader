@@ -2,22 +2,8 @@
  "date": "2026-10-31",
  "bets": 17,
  "bounce_bets": 17,
- "realized": -0.7455,
- "paper_positions": [
-  {
-   "market": "aec-wta-jenkan-werfal-2026-10-31",
-   "game": "wta:Falkowska@Kanabar",
-   "side": "long",
-   "team": "Jensi Dipakbhai Kanabar",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-31 08:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "realized": -0.8455,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -290,6 +276,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-31 08:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-31 09:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -390,7 +393,7 @@
   "aec-wta-martka-radzol-2026-10-31": 1793444432.967597,
   "aec-wta-kyooka-diyram-2026-10-31": 1793446832.712177,
   "aec-wta-kaique-liltag-2026-10-31": 1793450432.3003528,
-  "aec-wta-jenkan-werfal-2026-10-31": 1793450432.3142152,
+  "aec-wta-jenkan-werfal-2026-10-31": 1793456735.1397183,
   "aec-wta-rinmat-momkob-2026-10-31": 1793450735.8358707,
   "aec-wta-meiyam-zeedes-2026-10-31": 1793451943.2924623
  }

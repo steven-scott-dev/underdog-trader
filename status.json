@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-31T08:52:21.268841-04:00",
+ "updated": "2026-10-31T09:55:35.810899-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-10-31",
   "bets": 17,
   "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.7455
+  "realized": -0.8455
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jenkan-werfal-2026-10-31",
-   "game": "wta:Falkowska@Kanabar",
-   "side": "long",
-   "team": "Jensi Dipakbhai Kanabar",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-10-31 08:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-yinzha-aleshu-2026-10-30",
-   "game": "wta:Shubladze@Ying",
-   "side": "long",
-   "team": "Ying Zhang",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 02:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-10-31 03:40 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-alifal-ekayas-2026-10-31",
    "game": "wta:Yashina@Falei",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-31 08:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-10-31 09:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jensi Dipakbhai Kanabar",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }
