@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 26,
- "bounce_bets": 22,
+ "bets": 27,
+ "bounce_bets": 23,
  "realized": 1.3793,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-fiofer-eliman-2026-10-30",
+   "game": "wta:Mandlik@Ferro",
+   "side": "short",
+   "team": "Elizabeth Mandlik",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 22:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -579,8 +592,8 @@
   ],
   "aec-wta-fiofer-eliman-2026-10-30": [
    [
-    1793408748.152837,
-    0.08
+    1793412634.8116796,
+    0.1
    ]
   ],
   "aec-nhl-sea-cgy-2026-10-30": [
