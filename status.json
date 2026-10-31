@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T05:45:35.427327-04:00",
+ "updated": "2026-10-31T05:50:36.341536-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-10-31",
   "bets": 8,
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-10-31 05:45 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -148,17 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Yashina@Falei",
-   "market": "aec-wta-alifal-ekayas-2026-10-31",
-   "side": "short",
-   "team": "Ekaterina Yashina",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
