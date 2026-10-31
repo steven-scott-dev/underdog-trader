@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 21,
- "bounce_bets": 21,
+ "bets": 22,
+ "bounce_bets": 22,
  "realized": -0.788,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ott-sj-2026-10-31",
+   "game": "nhl:OTT@SJ",
+   "side": "short",
+   "team": "Sharks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 17:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -471,6 +485,12 @@
    [
     1793460334.299903,
     0.1
+   ]
+  ],
+  "aec-nhl-ott-sj-2026-10-31": [
+   [
+    1793481934.5981922,
+    0.05
    ]
   ]
  },
