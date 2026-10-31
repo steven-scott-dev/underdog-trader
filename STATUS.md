@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 06:30 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-31 06:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
-- Bets placed: 11 / 100 (main 0, bounce 11)
+- Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: -0.33
 
 ## Open paper positions
-- _none_
+- **Diya Ramesh Ramesh** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-31 06:30 ET: Mariia Tkacheva [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,6 +20,4 @@ Updated: 2026-10-31 06:30 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-31 01:00 ET: Kamilla Rakhimova [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Diya Ramesh Ramesh", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Harriet Dart", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Mariia Tkacheva", "reason": "stop-loss", "pnl": -0.1}`
+- `{"type": "buy", "game": "wta:Ramesh@Okamura", "market": "aec-wta-kyooka-diyram-2026-10-31", "side": "short", "team": "Diya Ramesh Ramesh", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`

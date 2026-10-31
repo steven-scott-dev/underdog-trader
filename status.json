@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-31T06:30:33.690681-04:00",
+ "updated": "2026-10-31T06:35:37.196637-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-10-31",
-  "bets": 11,
-  "bounce_bets": 11,
+  "bets": 12,
+  "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.3331
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
+   "side": "short",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 06:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-alilin-biaand-2026-10-30",
@@ -187,22 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
+   "type": "buy",
+   "game": "wta:Ramesh@Okamura",
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "side": "short",
    "team": "Diya Ramesh Ramesh",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Harriet Dart",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Mariia Tkacheva",
-   "reason": "stop-loss",
-   "pnl": -0.1
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

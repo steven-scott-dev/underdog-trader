@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 11,
- "bounce_bets": 11,
+ "bets": 12,
+ "bounce_bets": 12,
  "realized": -0.3331,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kyooka-diyram-2026-10-31",
+   "game": "wta:Ramesh@Okamura",
+   "side": "short",
+   "team": "Diya Ramesh Ramesh",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 06:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -239,8 +253,8 @@
   ],
   "aec-wta-kyooka-diyram-2026-10-31": [
    [
-    1793440837.8482199,
-    0.04
+    1793442937.1957536,
+    0.05
    ]
   ],
   "aec-wta-xinsun-hardar-2026-10-31": [
