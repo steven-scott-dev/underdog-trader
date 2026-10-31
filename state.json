@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 16,
- "bounce_bets": 16,
+ "bets": 17,
+ "bounce_bets": 17,
  "realized": -0.7455,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-31 08:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -348,8 +362,8 @@
   ],
   "aec-wta-jenkan-werfal-2026-10-31": [
    [
-    1793448044.095807,
-    0.05
+    1793450435.1373386,
+    0.06
    ]
   ],
   "aec-wta-rinmat-momkob-2026-10-31": [
