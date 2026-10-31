@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 20:40 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-10-30 20:41 ET · Mode: **PAPER** · Result: OK (11.9s)
 
 ## Today
 - Bets placed: 21 / 100 (main 4, bounce 17)
 - Realized P&L: +1.56
 
 ## Open paper positions
-- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-30 20:30 ET: Jets [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-30 20:40 ET · Mode: **PAPER** · Result: OK (12.2s)
 - 2026-10-30 12:30 ET: Tommy Paul [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:WPG@FLA", "market": "aec-nhl-wpg-fla-2026-10-30", "side": "long", "team": "Jets", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
