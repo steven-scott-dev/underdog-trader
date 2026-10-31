@@ -1,17 +1,44 @@
 {
- "updated": "2026-10-31T07:10:43.962835-04:00",
+ "updated": "2026-10-31T08:00:44.096953-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.5,
+ "duration_s": 11.6,
  "daily": {
   "date": "2026-10-31",
-  "bets": 12,
-  "bounce_bets": 12,
+  "bets": 14,
+  "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.4131
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kaique-liltag-2026-10-31",
+   "game": "wta:Tagger@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-alisas-cheshe-2026-10-30",
@@ -187,10 +214,26 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Diya Ramesh Ramesh",
-   "reason": "stop-loss",
-   "pnl": -0.08
+   "type": "buy",
+   "game": "wta:Tagger@Quevedo",
+   "market": "aec-wta-kaique-liltag-2026-10-31",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Falkowska@Kanabar",
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

@@ -1,9 +1,36 @@
 {
  "date": "2026-10-31",
- "bets": 12,
- "bounce_bets": 12,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": -0.4131,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-kaique-liltag-2026-10-31",
+   "game": "wta:Tagger@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -270,6 +297,18 @@
    [
     1793442335.5715344,
     0.07
+   ]
+  ],
+  "aec-wta-kaique-liltag-2026-10-31": [
+   [
+    1793448033.7448995,
+    0.07
+   ]
+  ],
+  "aec-wta-jenkan-werfal-2026-10-31": [
+   [
+    1793448044.095807,
+    0.05
    ]
   ]
  },
