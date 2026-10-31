@@ -1,9 +1,23 @@
 {
  "date": "2026-10-30",
- "bets": 29,
- "bounce_bets": 25,
+ "bets": 30,
+ "bounce_bets": 26,
  "realized": 2.8436,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-alisas-cheshe-2026-10-30",
+   "game": "wta:Shek@Sasnovich",
+   "side": "short",
+   "team": "Cheuk Ying Shek",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-buf-ana-2026-10-29",
@@ -665,6 +679,12 @@
    [
     1793414434.442453,
     0.07
+   ]
+  ],
+  "aec-wta-alisas-cheshe-2026-10-30": [
+   [
+    1793418335.5251963,
+    0.05
    ]
   ]
  },

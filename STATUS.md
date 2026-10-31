@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 23:40 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-10-30 23:45 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
-- Bets placed: 29 / 100 (main 4, bounce 25)
+- Bets placed: 30 / 100 (main 4, bounce 26)
 - Realized P&L: +2.84
 
 ## Open paper positions
-- _none_
+- **Cheuk Ying Shek** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 23:20 ET: Rockets [bounce] — settled @ 0.0100 → -0.0857
@@ -20,4 +20,4 @@ Updated: 2026-10-30 23:40 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-10-30 21:30 ET: Jets [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Shek@Sasnovich", "market": "aec-wta-alisas-cheshe-2026-10-30", "side": "short", "team": "Cheuk Ying Shek", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
