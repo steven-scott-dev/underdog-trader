@@ -2,7 +2,7 @@
  "date": "2026-10-30",
  "bets": 26,
  "bounce_bets": 22,
- "realized": 1.2793,
+ "realized": 1.3793,
  "paper_positions": [
   {
    "market": "aec-nhl-sea-cgy-2026-10-30",
@@ -16,19 +16,6 @@
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
    "last_bid": 0.09
-  },
-  {
-   "market": "aec-nba-orl-tor-2026-10-30",
-   "game": "nba:ORL@TOR",
-   "side": "short",
-   "team": "Raptors",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 22:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -439,6 +426,23 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-orl-tor-2026-10-30",
+   "game": "nba:ORL@TOR",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-30 22:05 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
