@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-31T11:40:49.425526-04:00",
+ "updated": "2026-10-31T11:45:47.717185-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.9,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-10-31",
   "bets": 21,
   "bounce_bets": 21,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.888
+  "realized": -0.788
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-sebbae-damdzu-2026-10-31",
-   "game": "atp:Dzumhur@Baez",
-   "side": "short",
-   "team": "Damir Dzumhur",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-31 11:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-martka-radzol-2026-10-31",
-   "game": "wta:Zolotareva@Tkacheva",
-   "side": "long",
-   "team": "Mariia Tkacheva",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-10-31 06:30 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-kyooka-diyram-2026-10-31",
    "game": "wta:Ramesh@Okamura",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "settled"
+  },
+  {
+   "market": "aec-atp-sebbae-damdzu-2026-10-31",
+   "game": "atp:Dzumhur@Baez",
+   "side": "short",
+   "team": "Damir Dzumhur",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 11:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 11:45 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Damir Dzumhur",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
