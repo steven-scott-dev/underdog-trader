@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 21,
  "bounce_bets": 21,
- "realized": -0.808,
+ "realized": -0.888,
  "paper_positions": [
-  {
-   "market": "aec-atp-talgri-benbon-2026-10-31",
-   "game": "atp:Bonzi@Griekspoor",
-   "side": "long",
-   "team": "Tallon Griekspoor",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 11:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-atp-sebbae-damdzu-2026-10-31",
    "game": "atp:Dzumhur@Baez",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-31 11:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -354,6 +341,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-talgri-benbon-2026-10-31",
+   "game": "atp:Bonzi@Griekspoor",
+   "side": "long",
+   "team": "Tallon Griekspoor",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 11:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-31 11:35 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "settled"
   }
  ],
  "live_history": [],
