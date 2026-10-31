@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T23:45:35.526427-04:00",
+ "updated": "2026-10-30T23:50:35.252147-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-10-30",
-  "bets": 30,
-  "bounce_bets": 26,
+  "bets": 31,
+  "bounce_bets": 27,
   "max_total": 100,
   "max_open": 5,
   "realized": 2.8436
@@ -22,6 +22,19 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-10-30 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.02
+  },
+  {
+   "market": "aec-wta-miksto-aleibr-2026-10-30",
+   "game": "wta:Ibragimova@Stojsavljevic",
+   "side": "short",
+   "team": "Alevtina Ibragimova",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 23:50 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -202,10 +215,10 @@
  "actions": [
   {
    "type": "buy",
-   "game": "wta:Shek@Sasnovich",
-   "market": "aec-wta-alisas-cheshe-2026-10-30",
+   "game": "wta:Ibragimova@Stojsavljevic",
+   "market": "aec-wta-miksto-aleibr-2026-10-30",
    "side": "short",
-   "team": "Cheuk Ying Shek",
+   "team": "Alevtina Ibragimova",
    "ask": 0.05,
    "qty": 2.0,
    "stake": 0.1,

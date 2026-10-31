@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 30,
- "bounce_bets": 26,
+ "bets": 31,
+ "bounce_bets": 27,
  "realized": 2.8436,
  "paper_positions": [
   {
@@ -14,6 +14,19 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-10-30 23:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.02
+  },
+  {
+   "market": "aec-wta-miksto-aleibr-2026-10-30",
+   "game": "wta:Ibragimova@Stojsavljevic",
+   "side": "short",
+   "team": "Alevtina Ibragimova",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 23:50 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -684,6 +697,12 @@
   "aec-wta-alisas-cheshe-2026-10-30": [
    [
     1793418335.5251963,
+    0.05
+   ]
+  ],
+  "aec-wta-miksto-aleibr-2026-10-30": [
+   [
+    1793418634.9291527,
     0.05
    ]
   ]
