@@ -1,30 +1,17 @@
 {
- "updated": "2026-10-31T00:20:39.908465-04:00",
+ "updated": "2026-10-31T00:25:35.030759-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-10-31",
   "bets": 3,
   "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.0833
+  "realized": -0.1722
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-alilin-biaand-2026-10-30",
-   "game": "wta:Andreescu@Linana",
-   "side": "long",
-   "team": "Alicia Herrero Linana",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 00:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-wta-alisas-cheshe-2026-10-30",
    "game": "wta:Shek@Sasnovich",
@@ -36,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-10-31 00:20 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -56,26 +43,32 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alilin-biaand-2026-10-30",
+   "game": "wta:Andreescu@Linana",
+   "side": "long",
+   "team": "Alicia Herrero Linana",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 00:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 00:25 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Heather Watson",
+   "team": "Alicia Herrero Linana",
    "reason": "stop-loss",
-   "pnl": -0.0833
-  },
-  {
-   "type": "buy",
-   "game": "wta:Shek@Sasnovich",
-   "market": "aec-wta-alisas-cheshe-2026-10-30",
-   "side": "short",
-   "team": "Cheuk Ying Shek",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
+   "pnl": -0.0889
   }
  ]
 }

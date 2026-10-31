@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 3,
  "bounce_bets": 3,
- "realized": -0.0833,
+ "realized": -0.1722,
  "paper_positions": [
-  {
-   "market": "aec-wta-alilin-biaand-2026-10-30",
-   "game": "wta:Andreescu@Linana",
-   "side": "long",
-   "team": "Alicia Herrero Linana",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 00:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-wta-alisas-cheshe-2026-10-30",
    "game": "wta:Shek@Sasnovich",
@@ -28,7 +15,7 @@
    "sl": 0.028,
    "opened": "2026-10-31 00:20 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -47,6 +34,23 @@
    "closed": "2026-10-31 00:20 ET",
    "exit": 0.01,
    "pnl": -0.0833,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alilin-biaand-2026-10-30",
+   "game": "wta:Andreescu@Linana",
+   "side": "long",
+   "team": "Alicia Herrero Linana",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 00:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 00:25 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
    "reason": "stop-loss"
   }
  ],
@@ -72,6 +76,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-emejon-heawat-2026-10-30": 1793422237.9024851
+  "aec-wta-emejon-heawat-2026-10-30": 1793422237.9024851,
+  "aec-wta-alilin-biaand-2026-10-30": 1793422533.9610627
  }
 }
