@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 5,
  "bounce_bets": 5,
- "realized": -0.2436,
+ "realized": -0.315,
  "paper_positions": [
-  {
-   "market": "aec-wta-leyfer-kamrak-2026-10-30",
-   "game": "wta:Rakhimova@Fernandez",
-   "side": "short",
-   "team": "Kamilla Rakhimova",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 00:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-wta-elepri-ekagor-2026-10-30",
    "game": "wta:Gorgodze@Pridankina",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-31 00:50 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -82,6 +69,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leyfer-kamrak-2026-10-30",
+   "game": "wta:Rakhimova@Fernandez",
+   "side": "short",
+   "team": "Kamilla Rakhimova",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 00:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-31 01:00 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -120,6 +124,7 @@
  "cooldowns": {
   "aec-wta-emejon-heawat-2026-10-30": 1793422237.9024851,
   "aec-wta-alilin-biaand-2026-10-30": 1793422533.9610627,
-  "aec-wta-alisas-cheshe-2026-10-30": 1793424336.938711
+  "aec-wta-alisas-cheshe-2026-10-30": 1793424336.938711,
+  "aec-wta-leyfer-kamrak-2026-10-30": 1793424632.907701
  }
 }
