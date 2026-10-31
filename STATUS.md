@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 03:05 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-10-31 03:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: -0.28
 
 ## Open paper positions
-- **Ying Zhang** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
+- **Ying Zhang** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-10-31 02:10 ET: Ekaterine Gorgodze [bounce] — stop-loss @ 0.0200 → -0.0667
