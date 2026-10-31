@@ -1,79 +1,32 @@
 {
- "updated": "2026-10-30T22:10:34.812755-04:00",
+ "updated": "2026-10-30T22:30:46.076334-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-10-30",
-  "bets": 27,
-  "bounce_bets": 23,
+  "bets": 28,
+  "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.3793
  },
  "paper_positions": [
   {
-   "market": "aec-nhl-sea-cgy-2026-10-30",
-   "game": "nhl:SEA@CGY",
-   "side": "long",
-   "team": "Kraken",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 21:36 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-fiofer-eliman-2026-10-30",
-   "game": "wta:Mandlik@Ferro",
+   "market": "aec-wta-tatpro-haykin-2026-10-30",
+   "game": "wta:Kinoshita@Prozorova",
    "side": "short",
-   "team": "Elizabeth Mandlik",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 22:10 ET",
+   "team": "Hayu Kinoshita",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-30 22:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-janstr-nunbor-2026-10-30",
-   "game": "atp:Borges@Struff",
-   "side": "short",
-   "team": "Nuno Borges",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 15:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-10-30 15:40 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
-  {
-   "market": "aec-wta-tatmar-valstr-2026-10-30",
-   "game": "wta:Strakhova@Maria",
-   "side": "short",
-   "team": "Valeriya Strakhova",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 16:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-10-30 16:45 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-matber-alemin-2026-10-30",
    "game": "atp:Minaur@Berrettini",
@@ -209,18 +162,64 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-sea-cgy-2026-10-30",
+   "game": "nhl:SEA@CGY",
+   "side": "long",
+   "team": "Kraken",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 21:36 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-30 22:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-fiofer-eliman-2026-10-30",
+   "game": "wta:Mandlik@Ferro",
+   "side": "short",
+   "team": "Elizabeth Mandlik",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 22:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-30 22:30 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Mandlik@Ferro",
-   "market": "aec-wta-fiofer-eliman-2026-10-30",
-   "side": "short",
+   "type": "paper_close",
+   "team": "Kraken",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "paper_close",
    "team": "Elizabeth Mandlik",
-   "ask": 0.1,
-   "qty": 1.0,
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Kinoshita@Prozorova",
+   "market": "aec-wta-tatpro-haykin-2026-10-30",
+   "side": "short",
+   "team": "Hayu Kinoshita",
+   "ask": 0.06,
+   "qty": 1.6667,
    "stake": 0.1,
    "mode": "bounce"
   }

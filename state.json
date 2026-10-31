@@ -1,34 +1,21 @@
 {
  "date": "2026-10-30",
- "bets": 27,
- "bounce_bets": 23,
+ "bets": 28,
+ "bounce_bets": 24,
  "realized": 1.3793,
  "paper_positions": [
   {
-   "market": "aec-nhl-sea-cgy-2026-10-30",
-   "game": "nhl:SEA@CGY",
-   "side": "long",
-   "team": "Kraken",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-30 21:36 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-fiofer-eliman-2026-10-30",
-   "game": "wta:Mandlik@Ferro",
+   "market": "aec-wta-tatpro-haykin-2026-10-30",
+   "game": "wta:Kinoshita@Prozorova",
    "side": "short",
-   "team": "Elizabeth Mandlik",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-30 22:10 ET",
+   "team": "Hayu Kinoshita",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-30 22:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -456,6 +443,40 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-sea-cgy-2026-10-30",
+   "game": "nhl:SEA@CGY",
+   "side": "long",
+   "team": "Kraken",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 21:36 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-30 22:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-fiofer-eliman-2026-10-30",
+   "game": "wta:Mandlik@Ferro",
+   "side": "short",
+   "team": "Elizabeth Mandlik",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-30 22:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-30 22:30 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -613,6 +634,12 @@
     1793412039.0099792,
     0.05
    ]
+  ],
+  "aec-wta-tatpro-haykin-2026-10-30": [
+   [
+    1793413846.0748134,
+    0.06
+   ]
   ]
  },
  "cooldowns": {
@@ -628,6 +655,7 @@
   "aec-nba-det-bkn-2026-10-30": 1793411439.965181,
   "aec-nhl-wpg-fla-2026-10-30": 1793412036.5959089,
   "aec-wta-fiofer-eliman-2026-10-30": 1793412340.9537354,
-  "aec-nba-ind-mia-2026-10-30": 1793412935.9042645
+  "aec-nba-ind-mia-2026-10-30": 1793412935.9042645,
+  "aec-nhl-sea-cgy-2026-10-30": 1793415634.0922592
  }
 }
