@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 18:00 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-10-31 18:05 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
-- Realized P&L: -0.79
+- Realized P&L: -0.87
 
 ## Open paper positions
-- **Sharks** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
+- _none_
 
 ## Recent history
+- 2026-10-31 18:05 ET: Sharks [bounce] — stop-loss @ 0.0100 → -0.0800
 - 2026-10-31 11:45 ET: Damir Dzumhur [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-10-31 11:35 ET: Tallon Griekspoor [bounce] — settled @ 0.0100 → -0.0800
 - 2026-10-31 10:50 ET: Felix Balshaw [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -17,7 +18,6 @@ Updated: 2026-10-31 18:00 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-10-31 09:55 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-10-31 08:35 ET: Zeel Desai [bounce] — stop-loss @ 0.0300 → -0.0667
 - 2026-10-31 08:15 ET: Rinko Matsuda [bounce] — stop-loss @ 0.0100 → -0.0857
-- 2026-10-31 08:10 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Sharks", "reason": "stop-loss", "pnl": -0.08}`
