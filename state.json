@@ -1,34 +1,21 @@
 {
  "date": "2026-10-31",
- "bets": 14,
- "bounce_bets": 14,
- "realized": -0.4131,
+ "bets": 15,
+ "bounce_bets": 15,
+ "realized": -0.5931,
  "paper_positions": [
   {
-   "market": "aec-wta-kaique-liltag-2026-10-31",
-   "game": "wta:Tagger@Quevedo",
+   "market": "aec-wta-rinmat-momkob-2026-10-31",
+   "game": "wta:Kobori@Matsuda",
    "side": "long",
-   "team": "Kaitlin Quevedo",
+   "team": "Rinko Matsuda",
    "entry": 0.07,
    "qty": 1.4286,
    "tp": 0.14,
    "sl": 0.028,
-   "opened": "2026-10-31 08:00 ET",
+   "opened": "2026-10-31 08:10 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-jenkan-werfal-2026-10-31",
-   "game": "wta:Falkowska@Kanabar",
-   "side": "long",
-   "team": "Jensi Dipakbhai Kanabar",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 08:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -235,6 +222,40 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-kaique-liltag-2026-10-31",
+   "game": "wta:Tagger@Quevedo",
+   "side": "long",
+   "team": "Kaitlin Quevedo",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-31 08:10 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jenkan-werfal-2026-10-31",
+   "game": "wta:Falkowska@Kanabar",
+   "side": "long",
+   "team": "Jensi Dipakbhai Kanabar",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-10-31 08:10 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -310,6 +331,12 @@
     1793448044.095807,
     0.05
    ]
+  ],
+  "aec-wta-rinmat-momkob-2026-10-31": [
+   [
+    1793448643.4314444,
+    0.07
+   ]
   ]
  },
  "cooldowns": {
@@ -321,6 +348,8 @@
   "aec-wta-yinzha-aleshu-2026-10-30": 1793434234.3772328,
   "aec-wta-alifal-ekayas-2026-10-31": 1793442636.2191393,
   "aec-wta-martka-radzol-2026-10-31": 1793444432.967597,
-  "aec-wta-kyooka-diyram-2026-10-31": 1793446832.712177
+  "aec-wta-kyooka-diyram-2026-10-31": 1793446832.712177,
+  "aec-wta-kaique-liltag-2026-10-31": 1793450432.3003528,
+  "aec-wta-jenkan-werfal-2026-10-31": 1793450432.3142152
  }
 }
