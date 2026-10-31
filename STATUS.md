@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:05 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-31 10:10 ET · Mode: **PAPER** · Result: OK (12.9s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
 - Realized P&L: -0.85
 
 ## Open paper positions
-- **Yelyzaveta Kotliar** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Yelyzaveta Kotliar** (short/bounce) — 2.5 @ 0.0400, now ~0.0600, unrealized +0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-31 09:55 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-10-31 10:05 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-31 06:30 ET: Harriet Dart [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Kotliar@Kulambayeva", "market": "aec-wta-zhikul-yelkot-2026-10-31", "side": "short", "team": "Yelyzaveta Kotliar", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
