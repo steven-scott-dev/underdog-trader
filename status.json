@@ -1,17 +1,31 @@
 {
- "updated": "2026-10-31T01:45:34.010915-04:00",
+ "updated": "2026-10-31T02:00:37.571766-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-31",
-  "bets": 5,
-  "bounce_bets": 5,
+  "bets": 6,
+  "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.215
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-elepri-ekagor-2026-10-30",
+   "game": "wta:Gorgodze@Pridankina",
+   "side": "short",
+   "team": "Ekaterine Gorgodze",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-31 02:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -100,5 +114,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Gorgodze@Pridankina",
+   "market": "aec-wta-elepri-ekagor-2026-10-30",
+   "side": "short",
+   "team": "Ekaterine Gorgodze",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
