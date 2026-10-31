@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 7,
- "bounce_bets": 7,
+ "bets": 8,
+ "bounce_bets": 8,
  "realized": -0.3531,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-alifal-ekayas-2026-10-31",
+   "game": "wta:Yashina@Falei",
+   "side": "short",
+   "team": "Ekaterina Yashina",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-31 05:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -161,6 +175,12 @@
    [
     1793427935.1343129,
     0.07
+   ]
+  ],
+  "aec-wta-alifal-ekayas-2026-10-31": [
+   [
+    1793439935.147795,
+    0.05
    ]
   ]
  },
