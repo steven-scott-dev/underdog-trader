@@ -1,31 +1,17 @@
 {
- "updated": "2026-10-31T01:00:33.857752-04:00",
+ "updated": "2026-10-31T01:05:35.458244-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-10-31",
   "bets": 5,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.315
+  "realized": -0.215
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-elepri-ekagor-2026-10-30",
-   "game": "wta:Gorgodze@Pridankina",
-   "side": "short",
-   "team": "Ekaterine Gorgodze",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 00:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -94,15 +80,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-elepri-ekagor-2026-10-30",
+   "game": "wta:Gorgodze@Pridankina",
+   "side": "short",
+   "team": "Ekaterine Gorgodze",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 00:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-31 01:05 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Kamilla Rakhimova",
-   "reason": "stop-loss",
-   "pnl": -0.0714
+   "team": "Ekaterine Gorgodze",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
