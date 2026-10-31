@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 11:45 ET · Mode: **PAPER** · Result: OK (12.6s)
+Updated: 2026-10-31 11:50 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 21 / 100 (main 0, bounce 21)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 11:45 ET · Mode: **PAPER** · Result: OK (12.6s)
 - 2026-10-31 08:10 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Damir Dzumhur", "reason": "take-profit", "pnl": 0.1}`
+- _none_
