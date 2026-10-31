@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 09:55 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-10-31 10:00 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 09:55 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-10-31 06:30 ET: Harriet Dart [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jensi Dipakbhai Kanabar", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
