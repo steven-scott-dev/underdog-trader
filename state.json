@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 24,
- "bounce_bets": 20,
+ "bets": 25,
+ "bounce_bets": 21,
  "realized": 1.3393,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-nba-ind-mia-2026-10-30",
+   "game": "nba:IND@MIA",
+   "side": "long",
+   "team": "Pacers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -553,6 +566,12 @@
    [
     1793410560.5055394,
     0.07
+   ]
+  ],
+  "aec-nba-ind-mia-2026-10-30": [
+   [
+    1793410837.8004706,
+    0.05
    ]
   ]
  },

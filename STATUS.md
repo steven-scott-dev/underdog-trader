@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-30 21:36 ET · Mode: **PAPER** · Result: OK (20.2s)
+Updated: 2026-10-30 21:40 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
-- Bets placed: 24 / 100 (main 4, bounce 20)
+- Bets placed: 25 / 100 (main 4, bounce 21)
 - Realized P&L: +1.34
 
 ## Open paper positions
-- **Kraken** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Kraken** (long/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
+- **Pacers** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-10-30 21:35 ET: Elizabeth Mandlik [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,5 +21,4 @@ Updated: 2026-10-30 21:36 ET · Mode: **PAPER** · Result: OK (20.2s)
 - 2026-10-30 15:40 ET: Nuno Borges [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Elizabeth Mandlik", "reason": "stop-loss", "pnl": -0.0625}`
-- `{"type": "buy", "game": "nhl:SEA@CGY", "market": "aec-nhl-sea-cgy-2026-10-30", "side": "long", "team": "Kraken", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "nba:IND@MIA", "market": "aec-nba-ind-mia-2026-10-30", "side": "long", "team": "Pacers", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
