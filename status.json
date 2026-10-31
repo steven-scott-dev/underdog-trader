@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T22:30:46.076334-04:00",
+ "updated": "2026-10-30T22:35:49.530973-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.3,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-10-30",
   "bets": 28,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-10-30 22:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -199,29 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kraken",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Elizabeth Mandlik",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "wta:Kinoshita@Prozorova",
-   "market": "aec-wta-tatpro-haykin-2026-10-30",
-   "side": "short",
-   "team": "Hayu Kinoshita",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
