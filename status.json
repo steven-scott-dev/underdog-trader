@@ -1,49 +1,18 @@
 {
- "updated": "2026-10-31T08:10:43.451864-04:00",
+ "updated": "2026-10-31T08:15:37.810110-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.4,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-10-31",
   "bets": 15,
   "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.5931
+  "realized": -0.6788
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-rinmat-momkob-2026-10-31",
-   "game": "wta:Kobori@Matsuda",
-   "side": "long",
-   "team": "Rinko Matsuda",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 08:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-elepri-ekagor-2026-10-30",
-   "game": "wta:Gorgodze@Pridankina",
-   "side": "short",
-   "team": "Ekaterine Gorgodze",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 00:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.11,
-   "closed": "2026-10-31 01:05 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-elepri-ekagor-2026-10-30",
    "game": "wta:Gorgodze@Pridankina",
@@ -196,32 +165,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-rinmat-momkob-2026-10-31",
+   "game": "wta:Kobori@Matsuda",
+   "side": "long",
+   "team": "Rinko Matsuda",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 08:15 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Kaitlin Quevedo",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Jensi Dipakbhai Kanabar",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  },
-  {
-   "type": "buy",
-   "game": "wta:Kobori@Matsuda",
-   "market": "aec-wta-rinmat-momkob-2026-10-31",
-   "side": "long",
    "team": "Rinko Matsuda",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.0857
   }
  ]
 }

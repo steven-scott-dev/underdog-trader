@@ -2,22 +2,8 @@
  "date": "2026-10-31",
  "bets": 15,
  "bounce_bets": 15,
- "realized": -0.5931,
- "paper_positions": [
-  {
-   "market": "aec-wta-rinmat-momkob-2026-10-31",
-   "game": "wta:Kobori@Matsuda",
-   "side": "long",
-   "team": "Rinko Matsuda",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 08:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": -0.6788,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -256,6 +242,23 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-rinmat-momkob-2026-10-31",
+   "game": "wta:Kobori@Matsuda",
+   "side": "long",
+   "team": "Rinko Matsuda",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 08:15 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -350,6 +353,7 @@
   "aec-wta-martka-radzol-2026-10-31": 1793444432.967597,
   "aec-wta-kyooka-diyram-2026-10-31": 1793446832.712177,
   "aec-wta-kaique-liltag-2026-10-31": 1793450432.3003528,
-  "aec-wta-jenkan-werfal-2026-10-31": 1793450432.3142152
+  "aec-wta-jenkan-werfal-2026-10-31": 1793450432.3142152,
+  "aec-wta-rinmat-momkob-2026-10-31": 1793450735.8358707
  }
 }
