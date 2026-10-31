@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T06:20:48.050795-04:00",
+ "updated": "2026-10-31T06:25:35.773636-04:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
  "daily": {
   "date": "2026-10-31",
-  "bets": 9,
-  "bounce_bets": 9,
+  "bets": 11,
+  "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.4331
@@ -23,7 +23,33 @@
    "sl": 0.016,
    "opened": "2026-10-31 06:00 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-xinsun-hardar-2026-10-31",
+   "game": "wta:Dart@Sun",
+   "side": "short",
+   "team": "Harriet Dart",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-martka-radzol-2026-10-31",
+   "game": "wta:Zolotareva@Tkacheva",
+   "side": "long",
+   "team": "Mariia Tkacheva",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -165,5 +191,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Dart@Sun",
+   "market": "aec-wta-xinsun-hardar-2026-10-31",
+   "side": "short",
+   "team": "Harriet Dart",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Zolotareva@Tkacheva",
+   "market": "aec-wta-martka-radzol-2026-10-31",
+   "side": "long",
+   "team": "Mariia Tkacheva",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

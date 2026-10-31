@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "bets": 9,
- "bounce_bets": 9,
+ "bets": 11,
+ "bounce_bets": 11,
  "realized": -0.4331,
  "paper_positions": [
   {
@@ -15,7 +15,33 @@
    "sl": 0.016,
    "opened": "2026-10-31 06:00 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-xinsun-hardar-2026-10-31",
+   "game": "wta:Dart@Sun",
+   "side": "short",
+   "team": "Harriet Dart",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-martka-radzol-2026-10-31",
+   "game": "wta:Zolotareva@Tkacheva",
+   "side": "long",
+   "team": "Mariia Tkacheva",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -204,6 +230,18 @@
    [
     1793440837.8482199,
     0.04
+   ]
+  ],
+  "aec-wta-xinsun-hardar-2026-10-31": [
+   [
+    1793442335.3154361,
+    0.1
+   ]
+  ],
+  "aec-wta-martka-radzol-2026-10-31": [
+   [
+    1793442335.5715344,
+    0.07
    ]
   ]
  },
