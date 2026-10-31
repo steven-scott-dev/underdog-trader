@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
- "bets": 28,
- "bounce_bets": 24,
+ "bets": 29,
+ "bounce_bets": 25,
  "realized": 1.3793,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-10-30 22:30 ET",
    "mode": "bounce",
    "last_bid": 0.03
+  },
+  {
+   "market": "aec-nba-hou-dal-2026-10-30",
+   "game": "nba:HOU@DAL",
+   "side": "long",
+   "team": "Rockets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-30 22:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -639,6 +652,12 @@
    [
     1793413846.0748134,
     0.06
+   ]
+  ],
+  "aec-nba-hou-dal-2026-10-30": [
+   [
+    1793414434.442453,
+    0.07
    ]
   ]
  },
