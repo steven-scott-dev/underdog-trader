@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 18:05 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-10-31 18:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 18:05 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-10-31 08:15 ET: Rinko Matsuda [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sharks", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
