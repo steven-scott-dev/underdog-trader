@@ -2,7 +2,7 @@
  "date": "2026-10-30",
  "bets": 25,
  "bounce_bets": 21,
- "realized": 1.3393,
+ "realized": 1.2793,
  "paper_positions": [
   {
    "market": "aec-nhl-sea-cgy-2026-10-30",
@@ -15,20 +15,7 @@
    "sl": 0.028,
    "opened": "2026-10-30 21:36 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nba-ind-mia-2026-10-30",
-   "game": "nba:IND@MIA",
-   "side": "long",
-   "team": "Pacers",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-30 21:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -422,6 +409,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-ind-mia-2026-10-30",
+   "game": "nba:IND@MIA",
+   "side": "long",
+   "team": "Pacers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-10-30 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-10-30 21:45 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -587,6 +591,7 @@
   "aec-wta-nadpod-carmon-2026-10-30": 1793403942.7991526,
   "aec-nba-det-bkn-2026-10-30": 1793411439.965181,
   "aec-nhl-wpg-fla-2026-10-30": 1793412036.5959089,
-  "aec-wta-fiofer-eliman-2026-10-30": 1793412340.9537354
+  "aec-wta-fiofer-eliman-2026-10-30": 1793412340.9537354,
+  "aec-nba-ind-mia-2026-10-30": 1793412935.9042645
  }
 }
