@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 10:10 ET · Mode: **PAPER** · Result: OK (12.9s)
+Updated: 2026-10-31 10:15 ET · Mode: **PAPER** · Result: OK (22.9s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
 - Realized P&L: -0.85
 
 ## Open paper positions
-- **Yelyzaveta Kotliar** (short/bounce) — 2.5 @ 0.0400, now ~0.0600, unrealized +0.0500 (TP 0.0800 / SL 0.0160)
+- **Yelyzaveta Kotliar** (short/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-31 09:55 ET: Jensi Dipakbhai Kanabar [bounce] — stop-loss @ 0.0000 → -0.1000
