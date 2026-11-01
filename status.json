@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T22:10:47.830836-04:00",
+ "updated": "2026-10-31T22:15:45.567004-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 12.1,
  "daily": {
   "date": "2026-10-31",
   "bets": 34,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-31 22:00 ET",
    "mode": "bounce",
-   "last_bid": 0.17
+   "last_bid": 0.08
   },
   {
    "market": "aec-nba-okc-hou-2026-10-31",
@@ -36,7 +36,7 @@
    "sl": 0.024,
    "opened": "2026-10-31 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -212,29 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Blue Jackets",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  },
-  {
-   "type": "paper_close",
-   "team": "Fiona Ferro",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "nba:OKC@HOU",
-   "market": "aec-nba-okc-hou-2026-10-31",
-   "side": "long",
-   "team": "Thunder",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
