@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T14:52:15.330788-05:00",
+ "updated": "2026-11-01T14:55:53.361495-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.6,
+ "duration_s": 13.4,
  "daily": {
   "date": "2026-11-01",
-  "bets": 13,
-  "bounce_bets": 13,
+  "bets": 14,
+  "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.3786
@@ -23,7 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.055
+   "last_bid": 0.0425
   },
   {
    "market": "aec-nfl-cle-pit-2026-11-01",
@@ -36,7 +36,20 @@
    "sl": 0.039,
    "opened": "2026-11-01 14:30 ET",
    "mode": "bounce",
-   "last_bid": 0.0675
+   "last_bid": 0.065
+  },
+  {
+   "market": "aec-nfl-ten-cin-2026-11-01",
+   "game": "nfl:TEN@CIN",
+   "side": "long",
+   "team": "Titans",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-01 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -212,5 +225,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:TEN@CIN",
+   "market": "aec-nfl-ten-cin-2026-11-01",
+   "side": "long",
+   "team": "Titans",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
