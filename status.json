@@ -1,18 +1,44 @@
 {
- "updated": "2026-11-01T00:00:41.578400-04:00",
+ "updated": "2026-11-01T00:05:38.709206-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-01",
-  "bets": 0,
-  "bounce_bets": 0,
+  "bets": 1,
+  "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-biaand-carmon-2026-10-31",
+   "game": "wta:Monnet@Andreescu",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-01 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Monnet@Andreescu",
+   "market": "aec-wta-biaand-carmon-2026-10-31",
+   "side": "short",
+   "team": "Carole Monnet",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
