@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 22:55 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-10-31 23:00 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 35 / 100 (main 0, bounce 35)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 22:55 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-10-31 21:25 ET: Fiona Ferro [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Carol Young Suh Lee", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
