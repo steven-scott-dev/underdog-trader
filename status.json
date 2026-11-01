@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T14:05:50.790391-05:00",
+ "updated": "2026-11-01T14:10:49.126476-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.8,
+ "duration_s": 13.7,
  "daily": {
   "date": "2026-11-01",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0725
+   "last_bid": 0.0925
   },
   {
    "market": "aec-nhl-wpg-car-2026-11-01",
@@ -36,7 +36,7 @@
    "sl": 0.028,
    "opened": "2026-11-01 14:05 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -195,17 +195,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:WPG@CAR",
-   "market": "aec-nhl-wpg-car-2026-11-01",
-   "side": "long",
-   "team": "Jets",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

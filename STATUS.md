@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:05 ET · Mode: **PAPER** · Result: OK (13.8s)
+Updated: 2026-11-01 14:10 ET · Mode: **PAPER** · Result: OK (13.7s)
 
 ## Today
 - Bets placed: 11 / 100 (main 0, bounce 11)
 - Realized P&L: +0.35
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0725, unrealized +0.0074 (TP 0.1350 / SL 0.0270)
-- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0925, unrealized +0.0370 (TP 0.1350 / SL 0.0270)
+- **Jets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -21,4 +21,4 @@ Updated: 2026-11-01 14:05 ET · Mode: **PAPER** · Result: OK (13.8s)
 - 2026-11-01 00:40 ET: Emerson Jones [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:WPG@CAR", "market": "aec-nhl-wpg-car-2026-11-01", "side": "long", "team": "Jets", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
