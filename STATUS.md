@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 16:36 ET · Mode: **PAPER** · Result: OK (22.2s)
+Updated: 2026-11-01 16:40 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 16 / 100 (main 0, bounce 16)
+- Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: +0.36
 
 ## Open paper positions
-- _none_
+- **Titans** (long/bounce) — 1.0526 @ 0.0950, now ~0.0950, unrealized +0.0000 (TP 0.1900 / SL 0.0380)
 
 ## Recent history
 - 2026-11-01 16:30 ET: Cardinals [bounce] — take-profit @ 0.1350 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-01 16:36 ET · Mode: **PAPER** · Result: OK (22.2s)
 - 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:TEN@CIN", "market": "aec-nfl-ten-cin-2026-11-01", "side": "long", "team": "Titans", "ask": 0.095, "qty": 1.0526, "stake": 0.1, "mode": "bounce"}`

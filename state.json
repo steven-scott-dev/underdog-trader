@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 16,
- "bounce_bets": 16,
+ "bets": 17,
+ "bounce_bets": 17,
  "realized": 0.3585,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-ten-cin-2026-11-01",
+   "game": "nfl:TEN@CIN",
+   "side": "long",
+   "team": "Titans",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-01 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.095
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -354,8 +368,8 @@
   ],
   "aec-nfl-ten-cin-2026-11-01": [
    [
-    1793562940.9718447,
-    0.1
+    1793569235.6708362,
+    0.095
    ]
   ],
   "aec-nfl-bal-buf-2026-11-01": [
