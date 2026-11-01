@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:20 ET · Mode: **PAPER** · Result: OK (15.2s)
+Updated: 2026-11-01 14:25 ET · Mode: **PAPER** · Result: OK (12.7s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: +0.28
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0700, unrealized +0.0037 (TP 0.1350 / SL 0.0270)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0850, unrealized +0.0259 (TP 0.1350 / SL 0.0270)
 - **Maria Fernanda Herazo Gonzalez** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
@@ -21,4 +21,4 @@ Updated: 2026-11-01 14:20 ET · Mode: **PAPER** · Result: OK (15.2s)
 - 2026-11-01 00:45 ET: Leylah Fernandez [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Scott@Gonzalez", "market": "aec-wta-margon-katsco-2026-11-01", "side": "long", "team": "Maria Fernanda Herazo Gonzalez", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
