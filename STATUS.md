@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 13:55 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-11-01 14:01 ET · Mode: **PAPER** · Result: OK (22.4s)
 
 ## Today
-- Bets placed: 9 / 100 (main 0, bounce 9)
+- Bets placed: 10 / 100 (main 0, bounce 10)
 - Realized P&L: +0.35
 
 ## Open paper positions
-- _none_
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0675, unrealized +0.0000 (TP 0.1350 / SL 0.0270)
 
 ## Recent history
 - 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-01 13:55 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-11-01 00:40 ET: Emerson Jones [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:ARI@DAL", "market": "aec-nfl-ari-dal-2026-11-01", "side": "long", "team": "Cardinals", "ask": 0.0675, "qty": 1.4815, "stake": 0.1, "mode": "bounce"}`
