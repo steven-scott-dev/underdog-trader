@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 00:05 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-01 00:10 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
@@ -13,4 +13,4 @@ Updated: 2026-11-01 00:05 ET · Mode: **PAPER** · Result: OK (1.3s)
 - _none yet_
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Monnet@Andreescu", "market": "aec-wta-biaand-carmon-2026-10-31", "side": "short", "team": "Carole Monnet", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
