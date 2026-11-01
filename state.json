@@ -1,7 +1,7 @@
 {
  "date": "2026-11-01",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.1,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-11-01 00:25 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-emejon-aleshu-2026-10-31",
+   "game": "wta:Shubladze@Jones",
+   "side": "long",
+   "team": "Emerson Jones",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-01 00:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -49,6 +62,12 @@
    [
     1793507135.2156577,
     0.08
+   ]
+  ],
+  "aec-wta-emejon-aleshu-2026-10-31": [
+   [
+    1793507737.4352088,
+    0.06
    ]
   ]
  }
