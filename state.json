@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 17,
  "bounce_bets": 17,
- "realized": 0.3585,
- "paper_positions": [
-  {
-   "market": "aec-nfl-ten-cin-2026-11-01",
-   "game": "nfl:TEN@CIN",
-   "side": "long",
-   "team": "Titans",
-   "entry": 0.095,
-   "qty": 1.0526,
-   "tp": 0.19,
-   "sl": 0.038,
-   "opened": "2026-11-01 16:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.095
-  }
- ],
+ "realized": 0.2585,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -290,6 +276,23 @@
    "exit": 0.135,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-ten-cin-2026-11-01",
+   "game": "nfl:TEN@CIN",
+   "side": "long",
+   "team": "Titans",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-01 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.095,
+   "closed": "2026-11-01 16:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -391,6 +394,7 @@
   "aec-nhl-wpg-car-2026-11-01": 1793562338.1501138,
   "aec-nfl-cle-pit-2026-11-01": 1793565361.083549,
   "aec-nfl-atl-tb-2026-11-01": 1793566257.4946656,
-  "aec-nfl-bal-buf-2026-11-01": 1793566553.1386406
+  "aec-nfl-bal-buf-2026-11-01": 1793566553.1386406,
+  "aec-nfl-ten-cin-2026-11-01": 1793571338.6369634
  }
 }
