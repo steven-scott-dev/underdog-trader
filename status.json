@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-31T20:50:49.646892-04:00",
+ "updated": "2026-10-31T20:55:55.386319-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 12.1,
  "daily": {
   "date": "2026-10-31",
-  "bets": 25,
-  "bounce_bets": 25,
+  "bets": 28,
+  "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.9555
+  "realized": -0.8555
  },
  "paper_positions": [
   {
@@ -23,40 +23,49 @@
    "sl": 0.036,
    "opened": "2026-10-31 20:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   },
   {
-   "market": "aec-nba-min-sa-2026-10-31",
-   "game": "nba:MIN@SA",
+   "market": "aec-nba-atl-no-2026-10-31",
+   "game": "nba:ATL@NO",
    "side": "long",
-   "team": "Timberwolves",
+   "team": "Hawks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-sac-mem-2026-10-31",
+   "game": "nba:SAC@MEM",
+   "side": "long",
+   "team": "Kings",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-10-31 20:45 ET",
+   "opened": "2026-10-31 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-nba-cle-mil-2026-10-31",
+   "game": "nba:CLE@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-jenkan-werfal-2026-10-31",
-   "game": "wta:Falkowska@Kanabar",
-   "side": "long",
-   "team": "Jensi Dipakbhai Kanabar",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-10-31 08:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-10-31 08:10 ET",
-   "exit": 0.01,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-rinmat-momkob-2026-10-31",
    "game": "wta:Kobori@Matsuda",
@@ -209,8 +218,65 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-min-sa-2026-10-31",
+   "game": "nba:MIN@SA",
+   "side": "long",
+   "team": "Timberwolves",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-31 20:55 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Timberwolves",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nba:ATL@NO",
+   "market": "aec-nba-atl-no-2026-10-31",
+   "side": "long",
+   "team": "Hawks",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "nba:SAC@MEM",
+   "market": "aec-nba-sac-mem-2026-10-31",
+   "side": "long",
+   "team": "Kings",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "nba:CLE@MIL",
+   "market": "aec-nba-cle-mil-2026-10-31",
+   "side": "short",
+   "team": "Bucks",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

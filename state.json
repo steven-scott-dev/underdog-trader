@@ -1,8 +1,8 @@
 {
  "date": "2026-10-31",
- "bets": 25,
- "bounce_bets": 25,
- "realized": -0.9555,
+ "bets": 28,
+ "bounce_bets": 28,
+ "realized": -0.8555,
  "paper_positions": [
   {
    "market": "aec-nhl-tor-van-2026-10-31",
@@ -15,20 +15,46 @@
    "sl": 0.036,
    "opened": "2026-10-31 20:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   },
   {
-   "market": "aec-nba-min-sa-2026-10-31",
-   "game": "nba:MIN@SA",
+   "market": "aec-nba-atl-no-2026-10-31",
+   "game": "nba:ATL@NO",
    "side": "long",
-   "team": "Timberwolves",
+   "team": "Hawks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-sac-mem-2026-10-31",
+   "game": "nba:SAC@MEM",
+   "side": "long",
+   "team": "Kings",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-10-31 20:45 ET",
+   "opened": "2026-10-31 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-nba-cle-mil-2026-10-31",
+   "game": "nba:CLE@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -422,6 +448,23 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-min-sa-2026-10-31",
+   "game": "nba:MIN@SA",
+   "side": "long",
+   "team": "Timberwolves",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-10-31 20:55 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -556,6 +599,24 @@
    [
     1793493937.2494736,
     0.1
+   ]
+  ],
+  "aec-nba-atl-no-2026-10-31": [
+   [
+    1793494544.1192439,
+    0.08
+   ]
+  ],
+  "aec-nba-sac-mem-2026-10-31": [
+   [
+    1793494544.2544847,
+    0.1
+   ]
+  ],
+  "aec-nba-cle-mil-2026-10-31": [
+   [
+    1793494544.4138446,
+    0.07
    ]
   ]
  },
