@@ -1,8 +1,8 @@
 {
  "date": "2026-11-01",
- "bets": 15,
- "bounce_bets": 15,
- "realized": 0.3786,
+ "bets": 16,
+ "bounce_bets": 16,
+ "realized": 0.2966,
  "paper_positions": [
   {
    "market": "aec-nfl-ari-dal-2026-11-01",
@@ -15,20 +15,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0425
-  },
-  {
-   "market": "aec-nfl-cle-pit-2026-11-01",
-   "game": "nfl:CLE@PIT",
-   "side": "long",
-   "team": "Browns",
-   "entry": 0.0975,
-   "qty": 1.0256,
-   "tp": 0.195,
-   "sl": 0.039,
-   "opened": "2026-11-01 14:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.0525
+   "last_bid": 0.03
   },
   {
    "market": "aec-nfl-ten-cin-2026-11-01",
@@ -41,7 +28,7 @@
    "sl": 0.04,
    "opened": "2026-11-01 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.1325
   },
   {
    "market": "aec-nfl-bal-buf-2026-11-01",
@@ -54,7 +41,20 @@
    "sl": 0.035,
    "opened": "2026-11-01 15:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0875
+   "last_bid": 0.145
+  },
+  {
+   "market": "aec-nfl-atl-tb-2026-11-01",
+   "game": "nfl:ATL@TB",
+   "side": "long",
+   "team": "Falcons",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-11-01 15:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525
   }
  ],
  "paper_history": [
@@ -244,6 +244,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-cle-pit-2026-11-01",
+   "game": "nfl:CLE@PIT",
+   "side": "long",
+   "team": "Browns",
+   "entry": 0.0975,
+   "qty": 1.0256,
+   "tp": 0.195,
+   "sl": 0.039,
+   "opened": "2026-11-01 14:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525,
+   "closed": "2026-11-01 15:06 ET",
+   "exit": 0.0175,
+   "pnl": -0.082,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -331,11 +348,18 @@
     1793563253.907775,
     0.0875
    ]
+  ],
+  "aec-nfl-atl-tb-2026-11-01": [
+   [
+    1793563572.8892188,
+    0.0525
+   ]
   ]
  },
  "cooldowns": {
   "aec-wta-emejon-aleshu-2026-10-31": 1793509832.371858,
   "aec-atp-alemin-caralc-2026-11-01": 1793545835.673041,
-  "aec-nhl-wpg-car-2026-11-01": 1793562338.1501138
+  "aec-nhl-wpg-car-2026-11-01": 1793562338.1501138,
+  "aec-nfl-cle-pit-2026-11-01": 1793565361.083549
  }
 }

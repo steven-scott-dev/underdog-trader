@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-01T15:01:15.660511-05:00",
+ "updated": "2026-11-01T15:06:24.682462-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.3,
+ "duration_s": 24.0,
  "daily": {
   "date": "2026-11-01",
-  "bets": 15,
-  "bounce_bets": 15,
+  "bets": 16,
+  "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3786
+  "realized": 0.2966
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0425
-  },
-  {
-   "market": "aec-nfl-cle-pit-2026-11-01",
-   "game": "nfl:CLE@PIT",
-   "side": "long",
-   "team": "Browns",
-   "entry": 0.0975,
-   "qty": 1.0256,
-   "tp": 0.195,
-   "sl": 0.039,
-   "opened": "2026-11-01 14:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.0525
+   "last_bid": 0.03
   },
   {
    "market": "aec-nfl-ten-cin-2026-11-01",
@@ -49,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-01 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.1325
   },
   {
    "market": "aec-nfl-bal-buf-2026-11-01",
@@ -62,27 +49,23 @@
    "sl": 0.035,
    "opened": "2026-11-01 15:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0875
+   "last_bid": 0.145
+  },
+  {
+   "market": "aec-nfl-atl-tb-2026-11-01",
+   "game": "nfl:ATL@TB",
+   "side": "long",
+   "team": "Falcons",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-11-01 15:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-emejon-aleshu-2026-10-31",
-   "game": "wta:Shubladze@Jones",
-   "side": "long",
-   "team": "Emerson Jones",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-01 00:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-01 00:40 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-leyfer-diashn-2026-10-31",
    "game": "wta:Shnaider@Fernandez",
@@ -235,18 +218,41 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-cle-pit-2026-11-01",
+   "game": "nfl:CLE@PIT",
+   "side": "long",
+   "team": "Browns",
+   "entry": 0.0975,
+   "qty": 1.0256,
+   "tp": 0.195,
+   "sl": 0.039,
+   "opened": "2026-11-01 14:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525,
+   "closed": "2026-11-01 15:06 ET",
+   "exit": 0.0175,
+   "pnl": -0.082,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Browns",
+   "reason": "stop-loss",
+   "pnl": -0.082
+  },
+  {
    "type": "buy",
-   "game": "nfl:BAL@BUF",
-   "market": "aec-nfl-bal-buf-2026-11-01",
+   "game": "nfl:ATL@TB",
+   "market": "aec-nfl-atl-tb-2026-11-01",
    "side": "long",
-   "team": "Ravens",
-   "ask": 0.0875,
-   "qty": 1.1429,
+   "team": "Falcons",
+   "ask": 0.0525,
+   "qty": 1.9048,
    "stake": 0.1,
    "mode": "bounce"
   }
