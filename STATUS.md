@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 17:55 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-11-01 18:06 ET · Mode: **PAPER** · Result: OK (11.5s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
 - Realized P&L: +0.36
 
 ## Open paper positions
-- **Tatjana Maria** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Tatjana Maria** (long/bounce) — 1.1111 @ 0.0900, now ~0.1300, unrealized +0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-01 17:15 ET: Magic [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-01 17:55 ET · Mode: **PAPER** · Result: OK (3.0s)
 - 2026-11-01 14:35 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Andreescu@Maria", "market": "aec-wta-tatmar-biaand-2026-11-01", "side": "long", "team": "Tatjana Maria", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_

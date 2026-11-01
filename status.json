@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T17:55:41.852527-05:00",
+ "updated": "2026-11-01T18:06:05.511967-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-11-01",
   "bets": 19,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-01 17:55 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.13
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Andreescu@Maria",
-   "market": "aec-wta-tatmar-biaand-2026-11-01",
-   "side": "long",
-   "team": "Tatjana Maria",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
