@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 17,
- "bounce_bets": 17,
+ "bets": 18,
+ "bounce_bets": 18,
  "realized": 0.2585,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-bos-orl-2026-11-01",
+   "game": "nba:BOS@ORL",
+   "side": "short",
+   "team": "Magic",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-01 17:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -385,6 +399,12 @@
    [
     1793563572.8892188,
     0.0525
+   ]
+  ],
+  "aec-nba-bos-orl-2026-11-01": [
+   [
+    1793570739.5359972,
+    0.09
    ]
   ]
  },
