@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 31,
  "bounce_bets": 31,
- "realized": -0.8694,
+ "realized": -0.9583,
  "paper_positions": [
-  {
-   "market": "aec-nhl-pit-mon-2026-10-31",
-   "game": "nhl:PIT@MTL",
-   "side": "long",
-   "team": "Penguins",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 21:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-nhl-cbj-dal-2026-10-31",
    "game": "nhl:CBJ@DAL",
@@ -524,6 +511,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-pit-mon-2026-10-31",
+   "game": "nhl:PIT@MTL",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 21:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-31 21:55 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "settled"
   }
  ],
  "live_history": [],
