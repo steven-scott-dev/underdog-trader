@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T16:45:40.487295-05:00",
+ "updated": "2026-11-01T16:50:44.094815-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-11-01",
   "bets": 17,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Titans",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }
