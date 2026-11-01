@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 8,
- "bounce_bets": 8,
+ "bets": 9,
+ "bounce_bets": 9,
  "realized": 0.45,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-alemin-caralc-2026-11-01",
+   "game": "atp:Alcaraz@Minaur",
+   "side": "long",
+   "team": "Alex de Minaur",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-01 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -188,8 +202,8 @@
   ],
   "aec-atp-alemin-caralc-2026-11-01": [
    [
-    1793542233.7628963,
-    0.05
+    1793543735.8163338,
+    0.07
    ]
   ]
  },
