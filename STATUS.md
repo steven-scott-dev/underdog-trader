@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 15:35 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-01 15:40 ET · Mode: **PAPER** · Result: OK (13.3s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: +0.26
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0950, unrealized +0.0407 (TP 0.1350 / SL 0.0270)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.1100, unrealized +0.0630 (TP 0.1350 / SL 0.0270)
 
 ## Recent history
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
