@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 15:11 ET · Mode: **PAPER** · Result: OK (14.0s)
+Updated: 2026-11-01 15:16 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: +0.40
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0350, unrealized -0.0481 (TP 0.1350 / SL 0.0270)
-- **Ravens** (long/bounce) — 1.1429 @ 0.0875, now ~0.0850, unrealized -0.0029 (TP 0.1750 / SL 0.0350)
-- **Falcons** (long/bounce) — 1.9048 @ 0.0525, now ~0.0550, unrealized +0.0048 (TP 0.1050 / SL 0.0210)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0925, unrealized +0.0370 (TP 0.1350 / SL 0.0270)
+- **Ravens** (long/bounce) — 1.1429 @ 0.0875, now ~0.0950, unrealized +0.0086 (TP 0.1750 / SL 0.0350)
+- **Falcons** (long/bounce) — 1.9048 @ 0.0525, now ~0.0525, unrealized +0.0000 (TP 0.1050 / SL 0.0210)
 
 ## Recent history
 - 2026-11-01 15:10 ET: Titans [bounce] — take-profit @ 0.2000 → +0.1000
@@ -22,4 +22,4 @@ Updated: 2026-11-01 15:11 ET · Mode: **PAPER** · Result: OK (14.0s)
 - 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Titans", "reason": "take-profit", "pnl": 0.1}`
+- _none_
