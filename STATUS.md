@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 15:26 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-11-01 15:30 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: +0.26
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0400, unrealized -0.0407 (TP 0.1350 / SL 0.0270)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0775, unrealized +0.0148 (TP 0.1350 / SL 0.0270)
 
 ## Recent history
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
@@ -20,4 +20,4 @@ Updated: 2026-11-01 15:26 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-11-01 09:30 ET: Alex de Minaur [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ravens", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
