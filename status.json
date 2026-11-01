@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-01T14:10:49.126476-05:00",
+ "updated": "2026-11-01T14:15:50.178233-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.7,
+ "duration_s": 12.5,
  "daily": {
   "date": "2026-11-01",
   "bets": 11,
   "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.35
+  "realized": 0.2786
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
-  },
-  {
-   "market": "aec-nhl-wpg-car-2026-11-01",
-   "game": "nhl:WPG@CAR",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-01 14:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -192,8 +179,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-car-2026-11-01",
+   "game": "nhl:WPG@CAR",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-01 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-01 14:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jets",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  }
+ ]
 }
