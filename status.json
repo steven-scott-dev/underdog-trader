@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T17:15:53.534572-05:00",
+ "updated": "2026-11-01T17:20:41.990846-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 3.0,
  "daily": {
   "date": "2026-11-01",
   "bets": 18,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Magic",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

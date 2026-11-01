@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 17:15 ET · Mode: **PAPER** · Result: OK (13.3s)
+Updated: 2026-11-01 17:20 ET · Mode: **PAPER** · Result: OK (3.0s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 17:15 ET · Mode: **PAPER** · Result: OK (13.3s)
 - 2026-11-01 14:35 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Magic", "reason": "take-profit", "pnl": 0.1}`
+- _none_
