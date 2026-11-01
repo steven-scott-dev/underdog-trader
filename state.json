@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 9,
  "bounce_bets": 9,
- "realized": 0.45,
- "paper_positions": [
-  {
-   "market": "aec-atp-alemin-caralc-2026-11-01",
-   "game": "atp:Alcaraz@Minaur",
-   "side": "long",
-   "team": "Alex de Minaur",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-01 09:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": 0.35,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -154,6 +140,23 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-alemin-caralc-2026-11-01",
+   "game": "atp:Alcaraz@Minaur",
+   "side": "long",
+   "team": "Alex de Minaur",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-01 09:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-01 09:40 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -208,6 +211,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-emejon-aleshu-2026-10-31": 1793509832.371858
+  "aec-wta-emejon-aleshu-2026-10-31": 1793509832.371858,
+  "aec-atp-alemin-caralc-2026-11-01": 1793545835.673041
  }
 }

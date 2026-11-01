@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 09:35 ET · Mode: **PAPER** · Result: OK (11.7s)
+Updated: 2026-11-01 09:40 ET · Mode: **PAPER** · Result: OK (12.2s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
-- Realized P&L: +0.45
+- Realized P&L: +0.35
 
 ## Open paper positions
-- **Alex de Minaur** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- _none_
 
 ## Recent history
+- 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-01 09:30 ET: Alex de Minaur [bounce] — take-profit @ 0.1000 → +0.1000
 - 2026-11-01 09:10 ET: Sebastian Baez [bounce] — settled @ 0.0100 → -0.0833
 - 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-11-01 09:35 ET · Mode: **PAPER** · Result: OK (11.7s)
 - 2026-11-01 01:50 ET: Elena Pridankina [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-11-01 00:45 ET: Leylah Fernandez [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-11-01 00:40 ET: Emerson Jones [bounce] — stop-loss @ 0.0200 → -0.0667
-- 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Alcaraz@Minaur", "market": "aec-atp-alemin-caralc-2026-11-01", "side": "long", "team": "Alex de Minaur", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Alex de Minaur", "reason": "stop-loss", "pnl": -0.1}`
