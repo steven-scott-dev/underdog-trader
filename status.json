@@ -1,49 +1,32 @@
 {
- "updated": "2026-10-31T23:10:36.062580-04:00",
+ "updated": "2026-10-31T23:15:35.981692-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-10-31",
-  "bets": 36,
-  "bounce_bets": 36,
+  "bets": 37,
+  "bounce_bets": 37,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.1683
+  "realized": -1.2397
  },
  "paper_positions": [
   {
-   "market": "aec-nhl-cgy-col-2026-10-31",
-   "game": "nhl:CGY@COL",
-   "side": "long",
-   "team": "Flames",
+   "market": "aec-wta-tatpro-miksto-2026-10-31",
+   "game": "wta:Stojsavljevic@Prozorova",
+   "side": "short",
+   "team": "Mika Stojsavljevic",
    "entry": 0.07,
    "qty": 1.4286,
    "tp": 0.14,
    "sl": 0.028,
-   "opened": "2026-10-31 23:10 ET",
+   "opened": "2026-10-31 23:15 ET",
    "mode": "bounce",
    "last_bid": 0.07
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-cle-mil-2026-10-31",
-   "game": "nba:CLE@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 20:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-10-31 21:05 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nhl-tor-van-2026-10-31",
    "game": "nhl:TOR@VAN",
@@ -196,16 +179,39 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cgy-col-2026-10-31",
+   "game": "nhl:CGY@COL",
+   "side": "long",
+   "team": "Flames",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 23:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 23:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:CGY@COL",
-   "market": "aec-nhl-cgy-col-2026-10-31",
-   "side": "long",
+   "type": "paper_close",
    "team": "Flames",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  },
+  {
+   "type": "buy",
+   "game": "wta:Stojsavljevic@Prozorova",
+   "market": "aec-wta-tatpro-miksto-2026-10-31",
+   "side": "short",
+   "team": "Mika Stojsavljevic",
    "ask": 0.07,
    "qty": 1.4286,
    "stake": 0.1,

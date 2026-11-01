@@ -1,19 +1,19 @@
 {
  "date": "2026-10-31",
- "bets": 36,
- "bounce_bets": 36,
- "realized": -1.1683,
+ "bets": 37,
+ "bounce_bets": 37,
+ "realized": -1.2397,
  "paper_positions": [
   {
-   "market": "aec-nhl-cgy-col-2026-10-31",
-   "game": "nhl:CGY@COL",
-   "side": "long",
-   "team": "Flames",
+   "market": "aec-wta-tatpro-miksto-2026-10-31",
+   "game": "wta:Stojsavljevic@Prozorova",
+   "side": "short",
+   "team": "Mika Stojsavljevic",
    "entry": 0.07,
    "qty": 1.4286,
    "tp": 0.14,
    "sl": 0.028,
-   "opened": "2026-10-31 23:10 ET",
+   "opened": "2026-10-31 23:15 ET",
    "mode": "bounce",
    "last_bid": 0.07
   }
@@ -613,6 +613,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cgy-col-2026-10-31",
+   "game": "nhl:CGY@COL",
+   "side": "long",
+   "team": "Flames",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 23:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-10-31 23:15 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -802,6 +819,12 @@
     1793502635.2242532,
     0.07
    ]
+  ],
+  "aec-wta-tatpro-miksto-2026-10-31": [
+   [
+    1793502935.980058,
+    0.07
+   ]
   ]
  },
  "cooldowns": {
@@ -827,6 +850,7 @@
   "aec-nhl-cbj-dal-2026-10-31": 1793500835.4742959,
   "aec-nba-min-sa-2026-10-31": 1793501733.285515,
   "aec-nba-okc-hou-2026-10-31": 1793501733.3070748,
-  "aec-wta-alisas-carlee-2026-10-31": 1793503533.7831318
+  "aec-wta-alisas-carlee-2026-10-31": 1793503533.7831318,
+  "aec-nhl-cgy-col-2026-10-31": 1793504734.5897675
  }
 }
