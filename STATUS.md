@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 20:35 ET · Mode: **PAPER** · Result: OK (14.3s)
+Updated: 2026-10-31 20:40 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
 - Bets placed: 24 / 100 (main 0, bounce 24)
 - Realized P&L: -0.96
 
 ## Open paper positions
-- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-31 20:35 ET: Hornets [bounce] — stop-loss @ 0.0100 → -0.0875
@@ -20,4 +20,4 @@ Updated: 2026-10-31 20:35 ET · Mode: **PAPER** · Result: OK (14.3s)
 - 2026-10-31 08:35 ET: Zeel Desai [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hornets", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_

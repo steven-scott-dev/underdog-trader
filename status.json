@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T20:35:47.962110-04:00",
+ "updated": "2026-10-31T20:40:55.381086-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.3,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-10-31",
   "bets": 24,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-10-31 20:30 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Hornets",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  }
- ]
+ "actions": []
 }
