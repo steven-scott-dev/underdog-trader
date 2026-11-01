@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 00:10 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-01 00:15 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
-- Realized P&L: +0.00
+- Realized P&L: +0.10
 
 ## Open paper positions
-- **Carole Monnet** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- _none_
 
 ## Recent history
-- _none yet_
+- 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Carole Monnet", "reason": "take-profit", "pnl": 0.1}`
