@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 22:25 ET · Mode: **PAPER** · Result: OK (13.3s)
+Updated: 2026-10-31 22:39 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 34 / 100 (main 0, bounce 34)
@@ -20,5 +20,4 @@ Updated: 2026-10-31 22:25 ET · Mode: **PAPER** · Result: OK (13.3s)
 - 2026-10-31 21:20 ET: Canucks [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Timberwolves", "reason": "stop-loss", "pnl": -0.1}`
-- `{"type": "paper_close", "team": "Thunder", "reason": "stop-loss", "pnl": -0.0833}`
+- _none_
