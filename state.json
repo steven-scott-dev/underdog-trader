@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 24,
  "bounce_bets": 24,
- "realized": -0.868,
+ "realized": -0.9555,
  "paper_positions": [
-  {
-   "market": "aec-nba-phi-cha-2026-10-31",
-   "game": "nba:PHI@CHA",
-   "side": "short",
-   "team": "Hornets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-10-31 20:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-nhl-tor-van-2026-10-31",
    "game": "nhl:TOR@VAN",
@@ -405,6 +392,23 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-phi-cha-2026-10-31",
+   "game": "nba:PHI@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-31 20:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-10-31 20:35 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -551,6 +555,7 @@
   "aec-wta-rinmat-momkob-2026-10-31": 1793450735.8358707,
   "aec-wta-meiyam-zeedes-2026-10-31": 1793451943.2924623,
   "aec-atp-felbal-yanhan-2026-10-31": 1793460032.1029005,
-  "aec-nhl-ott-sj-2026-10-31": 1793486138.2443707
+  "aec-nhl-ott-sj-2026-10-31": 1793486138.2443707,
+  "aec-nba-phi-cha-2026-10-31": 1793495134.2380602
  }
 }
