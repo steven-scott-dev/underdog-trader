@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 21:10 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-10-31 21:15 ET · Mode: **PAPER** · Result: OK (12.7s)
 
 ## Today
-- Bets placed: 28 / 100 (main 0, bounce 28)
+- Bets placed: 29 / 100 (main 0, bounce 29)
 - Realized P&L: -0.99
 
 ## Open paper positions
 - **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
-- **Kings** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
+- **Kings** (long/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
+- **Fiona Ferro** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-31 21:05 ET: Bucks [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -21,4 +22,4 @@ Updated: 2026-10-31 21:10 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-10-31 10:50 ET: Felix Balshaw [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Ferro@Maria", "market": "aec-wta-tatmar-fiofer-2026-10-31", "side": "short", "team": "Fiona Ferro", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
