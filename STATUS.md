@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 07:15 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-11-01 07:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 6 / 100 (main 0, bounce 6)
+- Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: +0.43
 
 ## Open paper positions
-- _none_
+- **Sebastian Baez** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
@@ -18,4 +18,4 @@ Updated: 2026-11-01 07:15 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Machac@Baez", "market": "aec-atp-sebbae-tommac-2026-11-01", "side": "long", "team": "Sebastian Baez", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`

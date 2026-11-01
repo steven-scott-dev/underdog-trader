@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 6,
- "bounce_bets": 6,
+ "bets": 7,
+ "bounce_bets": 7,
  "realized": 0.4333,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-sebbae-tommac-2026-11-01",
+   "game": "atp:Machac@Baez",
+   "side": "long",
+   "team": "Sebastian Baez",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-01 07:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -144,6 +158,12 @@
    [
     1793534444.3860798,
     0.09
+   ]
+  ],
+  "aec-atp-sebbae-tommac-2026-11-01": [
+   [
+    1793535633.555537,
+    0.06
    ]
   ]
  },
