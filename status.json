@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T14:35:48.426287-05:00",
+ "updated": "2026-11-01T14:40:46.699251-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.9,
+ "duration_s": 12.2,
  "daily": {
   "date": "2026-11-01",
   "bets": 13,
@@ -212,12 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

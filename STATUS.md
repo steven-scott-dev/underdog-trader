@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:35 ET · Mode: **PAPER** · Result: OK (12.9s)
+Updated: 2026-11-01 14:40 ET · Mode: **PAPER** · Result: OK (12.2s)
 
 ## Today
 - Bets placed: 13 / 100 (main 0, bounce 13)
@@ -21,4 +21,4 @@ Updated: 2026-11-01 14:35 ET · Mode: **PAPER** · Result: OK (12.9s)
 - 2026-11-01 01:50 ET: Elena Pridankina [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Fernanda Herazo Gonzalez", "reason": "take-profit", "pnl": 0.1}`
+- _none_
