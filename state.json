@@ -15,7 +15,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0625
+   "last_bid": 0.055
   },
   {
    "market": "aec-nfl-cle-pit-2026-11-01",
@@ -28,7 +28,7 @@
    "sl": 0.039,
    "opened": "2026-11-01 14:30 ET",
    "mode": "bounce",
-   "last_bid": 0.0525
+   "last_bid": 0.0675
   }
  ],
  "paper_history": [

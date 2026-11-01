@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:45 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-01 14:52 ET · Mode: **PAPER** · Result: OK (13.6s)
 
 ## Today
 - Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: +0.38
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0625, unrealized -0.0074 (TP 0.1350 / SL 0.0270)
-- **Browns** (long/bounce) — 1.0256 @ 0.0975, now ~0.0525, unrealized -0.0462 (TP 0.1950 / SL 0.0390)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0550, unrealized -0.0185 (TP 0.1350 / SL 0.0270)
+- **Browns** (long/bounce) — 1.0256 @ 0.0975, now ~0.0675, unrealized -0.0308 (TP 0.1950 / SL 0.0390)
 
 ## Recent history
 - 2026-11-01 14:35 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1400 → +0.1000

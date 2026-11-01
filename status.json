@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T14:45:52.725171-05:00",
+ "updated": "2026-11-01T14:52:15.330788-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 13.6,
  "daily": {
   "date": "2026-11-01",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0625
+   "last_bid": 0.055
   },
   {
    "market": "aec-nfl-cle-pit-2026-11-01",
@@ -36,7 +36,7 @@
    "sl": 0.039,
    "opened": "2026-11-01 14:30 ET",
    "mode": "bounce",
-   "last_bid": 0.0525
+   "last_bid": 0.0675
   }
  ],
  "paper_history": [
