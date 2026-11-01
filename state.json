@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 4,
  "bounce_bets": 4,
- "realized": 0.1333,
- "paper_positions": [
-  {
-   "market": "aec-wta-himsak-elepri-2026-10-31",
-   "game": "wta:Pridankina@Sakatsume",
-   "side": "short",
-   "team": "Elena Pridankina",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-01 01:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 0.2333,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -67,6 +53,23 @@
    "last_bid": 0.07,
    "closed": "2026-11-01 00:45 ET",
    "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-himsak-elepri-2026-10-31",
+   "game": "wta:Pridankina@Sakatsume",
+   "side": "short",
+   "team": "Elena Pridankina",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-01 01:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-01 01:50 ET",
+   "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
   }
