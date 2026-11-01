@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 07:30 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-01 07:35 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: +0.43
 
 ## Open paper positions
-- **Sebastian Baez** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Sebastian Baez** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
