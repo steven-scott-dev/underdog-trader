@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 07:35 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-01 09:10 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
-- Bets placed: 7 / 100 (main 0, bounce 7)
-- Realized P&L: +0.43
+- Bets placed: 8 / 100 (main 0, bounce 8)
+- Realized P&L: +0.35
 
 ## Open paper positions
-- **Sebastian Baez** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Alex de Minaur** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
+- 2026-11-01 09:10 ET: Sebastian Baez [bounce] — settled @ 0.0100 → -0.0833
 - 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 05:00 ET: Rada Zolotareva [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 01:50 ET: Elena Pridankina [bounce] — take-profit @ 0.1200 → +0.1000
@@ -18,4 +19,5 @@ Updated: 2026-11-01 07:35 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Sebastian Baez", "reason": "settled", "pnl": -0.0833}`
+- `{"type": "buy", "game": "atp:Alcaraz@Minaur", "market": "aec-atp-alemin-caralc-2026-11-01", "side": "long", "team": "Alex de Minaur", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
