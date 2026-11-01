@@ -1,22 +1,9 @@
 {
  "date": "2026-10-31",
- "bets": 29,
- "bounce_bets": 29,
- "realized": -0.9894,
+ "bets": 31,
+ "bounce_bets": 31,
+ "realized": -0.8894,
  "paper_positions": [
-  {
-   "market": "aec-nhl-tor-van-2026-10-31",
-   "game": "nhl:TOR@VAN",
-   "side": "short",
-   "team": "Canucks",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 20:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-nba-sac-mem-2026-10-31",
    "game": "nba:SAC@MEM",
@@ -40,6 +27,32 @@
    "tp": 0.2,
    "sl": 0.04,
    "opened": "2026-10-31 21:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.2
+  },
+  {
+   "market": "aec-nhl-pit-mon-2026-10-31",
+   "game": "nhl:PIT@MTL",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 21:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-nhl-cbj-dal-2026-10-31",
+   "game": "nhl:CBJ@DAL",
+   "side": "long",
+   "team": "Blue Jackets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 21:21 ET",
    "mode": "bounce",
    "last_bid": 0.1
   }
@@ -486,6 +499,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-tor-van-2026-10-31",
+   "game": "nhl:TOR@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 20:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-31 21:20 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -643,6 +673,18 @@
   "aec-wta-tatmar-fiofer-2026-10-31": [
    [
     1793495747.2483053,
+    0.1
+   ]
+  ],
+  "aec-nhl-pit-mon-2026-10-31": [
+   [
+    1793496041.3518498,
+    0.09
+   ]
+  ],
+  "aec-nhl-cbj-dal-2026-10-31": [
+   [
+    1793496061.8658996,
     0.1
    ]
   ]
