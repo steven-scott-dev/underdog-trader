@@ -2,7 +2,7 @@
  "date": "2026-10-31",
  "bets": 28,
  "bounce_bets": 28,
- "realized": -0.918,
+ "realized": -0.9894,
  "paper_positions": [
   {
    "market": "aec-nhl-tor-van-2026-10-31",
@@ -28,20 +28,7 @@
    "sl": 0.04,
    "opened": "2026-10-31 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
-  },
-  {
-   "market": "aec-nba-cle-mil-2026-10-31",
-   "game": "nba:CLE@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 20:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -469,6 +456,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cle-mil-2026-10-31",
+   "game": "nba:CLE@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-31 21:05 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -641,6 +645,7 @@
   "aec-atp-felbal-yanhan-2026-10-31": 1793460032.1029005,
   "aec-nhl-ott-sj-2026-10-31": 1793486138.2443707,
   "aec-nba-phi-cha-2026-10-31": 1793495134.2380602,
-  "aec-nba-atl-no-2026-10-31": 1793496642.2402072
+  "aec-nba-atl-no-2026-10-31": 1793496642.2402072,
+  "aec-nba-cle-mil-2026-10-31": 1793496933.8413253
  }
 }

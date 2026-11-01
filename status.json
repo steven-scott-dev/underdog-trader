@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-31T21:00:55.359216-04:00",
+ "updated": "2026-10-31T21:05:45.766155-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.5,
+ "duration_s": 12.2,
  "daily": {
   "date": "2026-10-31",
   "bets": 28,
   "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.918
+  "realized": -0.9894
  },
  "paper_positions": [
   {
@@ -36,40 +36,10 @@
    "sl": 0.04,
    "opened": "2026-10-31 20:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
-  },
-  {
-   "market": "aec-nba-cle-mil-2026-10-31",
-   "game": "nba:CLE@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-10-31 20:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-meiyam-zeedes-2026-10-31",
-   "game": "wta:Desai@Yamaguchi",
-   "side": "short",
-   "team": "Zeel Desai",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 08:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-10-31 08:35 ET",
-   "exit": 0.03,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-jenkan-werfal-2026-10-31",
    "game": "wta:Falkowska@Kanabar",
@@ -222,15 +192,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cle-mil-2026-10-31",
+   "game": "nba:CLE@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-31 21:05 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Hawks",
+   "team": "Bucks",
    "reason": "stop-loss",
-   "pnl": -0.0625
+   "pnl": -0.0714
   }
  ]
 }
