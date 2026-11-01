@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 16,
  "bounce_bets": 16,
- "realized": 0.2585,
- "paper_positions": [
-  {
-   "market": "aec-nfl-ari-dal-2026-11-01",
-   "game": "nfl:ARI@DAL",
-   "side": "long",
-   "team": "Cardinals",
-   "entry": 0.0675,
-   "qty": 1.4815,
-   "tp": 0.135,
-   "sl": 0.027,
-   "opened": "2026-11-01 14:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "realized": 0.3585,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -273,6 +259,23 @@
    "exit": 0.025,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-ari-dal-2026-11-01",
+   "game": "nfl:ARI@DAL",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.0675,
+   "qty": 1.4815,
+   "tp": 0.135,
+   "sl": 0.027,
+   "opened": "2026-11-01 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-01 16:30 ET",
+   "exit": 0.135,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],

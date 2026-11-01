@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 15:40 ET · Mode: **PAPER** · Result: OK (13.3s)
+Updated: 2026-11-01 16:30 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
-- Realized P&L: +0.26
+- Realized P&L: +0.36
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.1100, unrealized +0.0630 (TP 0.1350 / SL 0.0270)
+- _none_
 
 ## Recent history
+- 2026-11-01 16:30 ET: Cardinals [bounce] — take-profit @ 0.1350 → +0.1000
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
 - 2026-11-01 15:20 ET: Falcons [bounce] — stop-loss @ 0.0175 → -0.0667
 - 2026-11-01 15:10 ET: Titans [bounce] — take-profit @ 0.2000 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-11-01 15:40 ET · Mode: **PAPER** · Result: OK (13.3s)
 - 2026-11-01 14:35 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-11-01 14:15 ET: Jets [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-11-01 09:30 ET: Alex de Minaur [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Cardinals", "reason": "take-profit", "pnl": 0.1}`

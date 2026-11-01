@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-01T15:40:47.822971-05:00",
+ "updated": "2026-11-01T16:30:49.459011-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 13.5,
  "daily": {
   "date": "2026-11-01",
   "bets": 16,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2585
+  "realized": 0.3585
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-ari-dal-2026-11-01",
-   "game": "nfl:ARI@DAL",
-   "side": "long",
-   "team": "Cardinals",
-   "entry": 0.0675,
-   "qty": 1.4815,
-   "tp": 0.135,
-   "sl": 0.027,
-   "opened": "2026-11-01 14:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-meiyam-zhikul-2026-11-01",
-   "game": "wta:Kulambayeva@Yamaguchi",
-   "side": "short",
-   "team": "Zhibek Kulambayeva",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-01 07:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.14,
-   "closed": "2026-11-01 07:10 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-sebbae-tommac-2026-11-01",
    "game": "atp:Machac@Baez",
@@ -196,8 +165,32 @@
    "exit": 0.025,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-ari-dal-2026-11-01",
+   "game": "nfl:ARI@DAL",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.0675,
+   "qty": 1.4815,
+   "tp": 0.135,
+   "sl": 0.027,
+   "opened": "2026-11-01 14:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-01 16:30 ET",
+   "exit": 0.135,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Cardinals",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
