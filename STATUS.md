@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 18:10 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-11-01 18:16 ET · Mode: **PAPER** · Result: OK (12.1s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 18:10 ET · Mode: **PAPER** · Result: OK (12.8s)
 - 2026-11-01 15:06 ET: Browns [bounce] — stop-loss @ 0.0175 → -0.0820
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tatjana Maria", "reason": "take-profit", "pnl": 0.1}`
+- _none_
