@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T09:10:34.776667-05:00",
+ "updated": "2026-11-01T09:15:38.366547-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-01",
   "bets": 8,
@@ -148,23 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sebastian Baez",
-   "reason": "settled",
-   "pnl": -0.0833
-  },
-  {
-   "type": "buy",
-   "game": "atp:Alcaraz@Minaur",
-   "market": "aec-atp-alemin-caralc-2026-11-01",
-   "side": "long",
-   "team": "Alex de Minaur",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

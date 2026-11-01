@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 09:10 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-11-01 09:15 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
@@ -19,5 +19,4 @@ Updated: 2026-11-01 09:10 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sebastian Baez", "reason": "settled", "pnl": -0.0833}`
-- `{"type": "buy", "game": "atp:Alcaraz@Minaur", "market": "aec-atp-alemin-caralc-2026-11-01", "side": "long", "team": "Alex de Minaur", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
