@@ -2,7 +2,7 @@
  "date": "2026-11-01",
  "bets": 16,
  "bounce_bets": 16,
- "realized": 0.3299,
+ "realized": 0.2585,
  "paper_positions": [
   {
    "market": "aec-nfl-ari-dal-2026-11-01",
@@ -15,20 +15,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0625
-  },
-  {
-   "market": "aec-nfl-bal-buf-2026-11-01",
-   "game": "nfl:BAL@BUF",
-   "side": "long",
-   "team": "Ravens",
-   "entry": 0.0875,
-   "qty": 1.1429,
-   "tp": 0.175,
-   "sl": 0.035,
-   "opened": "2026-11-01 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.0525
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.0175,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-bal-buf-2026-11-01",
+   "game": "nfl:BAL@BUF",
+   "side": "long",
+   "team": "Ravens",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-01 15:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525,
+   "closed": "2026-11-01 15:25 ET",
+   "exit": 0.025,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -369,6 +373,7 @@
   "aec-atp-alemin-caralc-2026-11-01": 1793545835.673041,
   "aec-nhl-wpg-car-2026-11-01": 1793562338.1501138,
   "aec-nfl-cle-pit-2026-11-01": 1793565361.083549,
-  "aec-nfl-atl-tb-2026-11-01": 1793566257.4946656
+  "aec-nfl-atl-tb-2026-11-01": 1793566257.4946656,
+  "aec-nfl-bal-buf-2026-11-01": 1793566553.1386406
  }
 }
