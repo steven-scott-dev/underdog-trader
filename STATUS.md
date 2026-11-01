@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:40 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-11-01 14:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: +0.38
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0575, unrealized -0.0148 (TP 0.1350 / SL 0.0270)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0625, unrealized -0.0074 (TP 0.1350 / SL 0.0270)
 - **Browns** (long/bounce) — 1.0256 @ 0.0975, now ~0.0525, unrealized -0.0462 (TP 0.1950 / SL 0.0390)
 
 ## Recent history
