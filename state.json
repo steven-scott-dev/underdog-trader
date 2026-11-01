@@ -2,22 +2,8 @@
  "date": "2026-10-31",
  "bets": 35,
  "bounce_bets": 35,
- "realized": -1.1016,
- "paper_positions": [
-  {
-   "market": "aec-wta-alisas-carlee-2026-10-31",
-   "game": "wta:Lee@Sasnovich",
-   "side": "short",
-   "team": "Carol Young Suh Lee",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-10-31 22:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "realized": -1.1683,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -596,6 +582,23 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alisas-carlee-2026-10-31",
+   "game": "wta:Lee@Sasnovich",
+   "side": "short",
+   "team": "Carol Young Suh Lee",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 22:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-10-31 22:55 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -803,6 +806,7 @@
   "aec-nba-sac-mem-2026-10-31": 1793499332.9261382,
   "aec-nhl-cbj-dal-2026-10-31": 1793500835.4742959,
   "aec-nba-min-sa-2026-10-31": 1793501733.285515,
-  "aec-nba-okc-hou-2026-10-31": 1793501733.3070748
+  "aec-nba-okc-hou-2026-10-31": 1793501733.3070748,
+  "aec-wta-alisas-carlee-2026-10-31": 1793503533.7831318
  }
 }
