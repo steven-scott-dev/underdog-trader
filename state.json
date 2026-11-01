@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 6,
  "bounce_bets": 6,
- "realized": 0.3333,
- "paper_positions": [
-  {
-   "market": "aec-wta-meiyam-zhikul-2026-11-01",
-   "game": "wta:Kulambayeva@Yamaguchi",
-   "side": "short",
-   "team": "Zhibek Kulambayeva",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-01 07:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.14
-  }
- ],
+ "realized": 0.4333,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -100,6 +86,23 @@
    "mode": "bounce",
    "last_bid": 0.12,
    "closed": "2026-11-01 05:00 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-meiyam-zhikul-2026-11-01",
+   "game": "wta:Kulambayeva@Yamaguchi",
+   "side": "short",
+   "team": "Zhibek Kulambayeva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-01 07:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.14,
+   "closed": "2026-11-01 07:10 ET",
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"

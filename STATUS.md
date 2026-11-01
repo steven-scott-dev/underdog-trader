@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 07:05 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-01 07:10 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
-- Realized P&L: +0.33
+- Realized P&L: +0.43
 
 ## Open paper positions
-- **Zhibek Kulambayeva** (short/bounce) — 1.1111 @ 0.0900, now ~0.1400, unrealized +0.0556 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-11-01 07:10 ET: Zhibek Kulambayeva [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 05:00 ET: Rada Zolotareva [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 01:50 ET: Elena Pridankina [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-11-01 00:45 ET: Leylah Fernandez [bounce] — take-profit @ 0.1600 → +0.1000
@@ -17,4 +18,4 @@ Updated: 2026-11-01 07:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Zhibek Kulambayeva", "reason": "take-profit", "pnl": 0.1}`
