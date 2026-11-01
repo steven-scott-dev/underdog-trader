@@ -1,9 +1,23 @@
 {
  "date": "2026-10-31",
- "bets": 34,
- "bounce_bets": 34,
+ "bets": 35,
+ "bounce_bets": 35,
  "realized": -1.1016,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-alisas-carlee-2026-10-31",
+   "game": "wta:Lee@Sasnovich",
+   "side": "short",
+   "team": "Carol Young Suh Lee",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 22:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -758,6 +772,12 @@
    [
     1793499036.9934108,
     0.06
+   ]
+  ],
+  "aec-wta-alisas-carlee-2026-10-31": [
+   [
+    1793501137.243151,
+    0.09
    ]
   ]
  },

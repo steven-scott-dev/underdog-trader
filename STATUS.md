@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 22:40 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-10-31 22:45 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
-- Bets placed: 34 / 100 (main 0, bounce 34)
+- Bets placed: 35 / 100 (main 0, bounce 35)
 - Realized P&L: -1.10
 
 ## Open paper positions
-- _none_
+- **Carol Young Suh Lee** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-31 22:25 ET: Thunder [bounce] — stop-loss @ 0.0100 → -0.0833
@@ -20,4 +20,4 @@ Updated: 2026-10-31 22:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-10-31 21:20 ET: Canucks [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Lee@Sasnovich", "market": "aec-wta-alisas-carlee-2026-10-31", "side": "short", "team": "Carol Young Suh Lee", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
