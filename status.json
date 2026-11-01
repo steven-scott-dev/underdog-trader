@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T14:55:53.361495-05:00",
+ "updated": "2026-11-01T15:01:15.660511-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 22.3,
  "daily": {
   "date": "2026-11-01",
-  "bets": 14,
-  "bounce_bets": 14,
+  "bets": 15,
+  "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.3786
@@ -36,7 +36,7 @@
    "sl": 0.039,
    "opened": "2026-11-01 14:30 ET",
    "mode": "bounce",
-   "last_bid": 0.065
+   "last_bid": 0.0525
   },
   {
    "market": "aec-nfl-ten-cin-2026-11-01",
@@ -49,7 +49,20 @@
    "sl": 0.04,
    "opened": "2026-11-01 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.0925
+  },
+  {
+   "market": "aec-nfl-bal-buf-2026-11-01",
+   "game": "nfl:BAL@BUF",
+   "side": "long",
+   "team": "Ravens",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-01 15:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.0875
   }
  ],
  "paper_history": [
@@ -228,12 +241,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nfl:TEN@CIN",
-   "market": "aec-nfl-ten-cin-2026-11-01",
+   "game": "nfl:BAL@BUF",
+   "market": "aec-nfl-bal-buf-2026-11-01",
    "side": "long",
-   "team": "Titans",
-   "ask": 0.1,
-   "qty": 1.0,
+   "team": "Ravens",
+   "ask": 0.0875,
+   "qty": 1.1429,
    "stake": 0.1,
    "mode": "bounce"
   }
