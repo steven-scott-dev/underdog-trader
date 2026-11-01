@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-01T18:06:05.511967-05:00",
+ "updated": "2026-11-01T18:10:53.403959-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.5,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-11-01",
   "bets": 19,
   "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3585
+  "realized": 0.4585
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-tatmar-biaand-2026-11-01",
-   "game": "wta:Andreescu@Maria",
-   "side": "long",
-   "team": "Tatjana Maria",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-01 17:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-alemin-caralc-2026-11-01",
-   "game": "atp:Alcaraz@Minaur",
-   "side": "long",
-   "team": "Alex de Minaur",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-01 09:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-01 09:40 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nhl-wpg-car-2026-11-01",
    "game": "nhl:WPG@CAR",
@@ -196,8 +165,32 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-tatmar-biaand-2026-11-01",
+   "game": "wta:Andreescu@Maria",
+   "side": "long",
+   "team": "Tatjana Maria",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-01 17:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-11-01 18:10 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Tatjana Maria",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
