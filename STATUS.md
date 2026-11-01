@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 05:00 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-01 05:05 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
@@ -17,4 +17,4 @@ Updated: 2026-11-01 05:00 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rada Zolotareva", "reason": "take-profit", "pnl": 0.1}`
+- _none_

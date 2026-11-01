@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T05:00:37.685017-05:00",
+ "updated": "2026-11-01T05:05:33.480580-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-01",
   "bets": 5,
@@ -100,12 +100,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Rada Zolotareva",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
