@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T04:35:37.329200-05:00",
+ "updated": "2026-11-01T04:40:37.234247-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-01",
   "bets": 5,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-01 04:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.14
   }
  ],
  "paper_history": [
@@ -97,17 +97,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Zolotareva@Falei",
-   "market": "aec-wta-alifal-radzol-2026-11-01",
-   "side": "short",
-   "team": "Rada Zolotareva",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
