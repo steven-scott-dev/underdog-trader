@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "bets": 32,
- "bounce_bets": 32,
+ "bets": 33,
+ "bounce_bets": 33,
  "realized": -0.9583,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-10-31 21:21 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   },
   {
    "market": "aec-nba-min-sa-2026-10-31",
@@ -29,6 +29,19 @@
    "opened": "2026-10-31 22:00 ET",
    "mode": "bounce",
    "last_bid": 0.09
+  },
+  {
+   "market": "aec-wta-tatmar-fiofer-2026-10-31",
+   "game": "wta:Ferro@Maria",
+   "side": "short",
+   "team": "Fiona Ferro",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 22:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -697,8 +710,8 @@
   ],
   "aec-wta-tatmar-fiofer-2026-10-31": [
    [
-    1793495747.2483053,
-    0.1
+    1793498736.3374293,
+    0.04
    ]
   ],
   "aec-nhl-pit-mon-2026-10-31": [

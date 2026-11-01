@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 22:00 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-10-31 22:05 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
-- Bets placed: 32 / 100 (main 0, bounce 32)
+- Bets placed: 33 / 100 (main 0, bounce 33)
 - Realized P&L: -0.96
 
 ## Open paper positions
-- **Blue Jackets** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Blue Jackets** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 - **Timberwolves** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Fiona Ferro** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-10-31 21:55 ET: Penguins [bounce] — settled @ 0.0100 → -0.0889
@@ -21,4 +22,4 @@ Updated: 2026-10-31 22:00 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-10-31 20:35 ET: Hornets [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MIN@SA", "market": "aec-nba-min-sa-2026-10-31", "side": "long", "team": "Timberwolves", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Ferro@Maria", "market": "aec-wta-tatmar-fiofer-2026-10-31", "side": "short", "team": "Fiona Ferro", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
