@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T07:10:45.201561-05:00",
+ "updated": "2026-11-01T07:15:35.667494-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.5,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-01",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Zhibek Kulambayeva",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

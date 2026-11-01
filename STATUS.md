@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 07:10 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-11-01 07:15 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
@@ -18,4 +18,4 @@ Updated: 2026-11-01 07:10 ET · Mode: **PAPER** · Result: OK (13.5s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Zhibek Kulambayeva", "reason": "take-profit", "pnl": 0.1}`
+- _none_
