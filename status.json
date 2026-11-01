@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-01T17:10:38.633903-05:00",
+ "updated": "2026-11-01T17:15:53.534572-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 13.3,
  "daily": {
   "date": "2026-11-01",
   "bets": 18,
   "bounce_bets": 18,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2585
+  "realized": 0.3585
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-bos-orl-2026-11-01",
-   "game": "nba:BOS@ORL",
-   "side": "short",
-   "team": "Magic",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-01 17:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-alemin-caralc-2026-11-01",
-   "game": "atp:Alcaraz@Minaur",
-   "side": "long",
-   "team": "Alex de Minaur",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-01 09:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-01 09:30 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-alemin-caralc-2026-11-01",
    "game": "atp:Alcaraz@Minaur",
@@ -196,8 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bos-orl-2026-11-01",
+   "game": "nba:BOS@ORL",
+   "side": "short",
+   "team": "Magic",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-01 17:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-01 17:15 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Magic",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

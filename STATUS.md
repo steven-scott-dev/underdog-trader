@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 17:10 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-01 17:15 ET · Mode: **PAPER** · Result: OK (13.3s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
-- Realized P&L: +0.26
+- Realized P&L: +0.36
 
 ## Open paper positions
-- **Magic** (short/bounce) — 1.1111 @ 0.0900, now ~0.1100, unrealized +0.0222 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-11-01 17:15 ET: Magic [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 16:45 ET: Titans [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-01 16:30 ET: Cardinals [bounce] — take-profit @ 0.1350 → +0.1000
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
@@ -17,7 +18,6 @@ Updated: 2026-11-01 17:10 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-01 15:10 ET: Titans [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-11-01 15:06 ET: Browns [bounce] — stop-loss @ 0.0175 → -0.0820
 - 2026-11-01 14:35 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.1400 → +0.1000
-- 2026-11-01 14:15 ET: Jets [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Magic", "reason": "take-profit", "pnl": 0.1}`
