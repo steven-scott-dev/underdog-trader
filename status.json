@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T14:25:47.948624-05:00",
+ "updated": "2026-11-01T14:30:50.208700-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-01",
-  "bets": 12,
-  "bounce_bets": 12,
+  "bets": 13,
+  "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.2786
@@ -23,7 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.085
+   "last_bid": 0.065
   },
   {
    "market": "aec-wta-margon-katsco-2026-11-01",
@@ -36,7 +36,20 @@
    "sl": 0.028,
    "opened": "2026-11-01 14:20 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-nfl-cle-pit-2026-11-01",
+   "game": "nfl:CLE@PIT",
+   "side": "long",
+   "team": "Browns",
+   "entry": 0.0975,
+   "qty": 1.0256,
+   "tp": 0.195,
+   "sl": 0.039,
+   "opened": "2026-11-01 14:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.0975
   }
  ],
  "paper_history": [
@@ -212,5 +225,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:CLE@PIT",
+   "market": "aec-nfl-cle-pit-2026-11-01",
+   "side": "long",
+   "team": "Browns",
+   "ask": 0.0975,
+   "qty": 1.0256,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

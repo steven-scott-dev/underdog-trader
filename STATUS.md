@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 14:25 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-11-01 14:30 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
-- Bets placed: 12 / 100 (main 0, bounce 12)
+- Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: +0.28
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0850, unrealized +0.0259 (TP 0.1350 / SL 0.0270)
-- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Cardinals** (long/bounce) — 1.4815 @ 0.0675, now ~0.0650, unrealized -0.0037 (TP 0.1350 / SL 0.0270)
+- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 1.4286 @ 0.0700, now ~0.1300, unrealized +0.0857 (TP 0.1400 / SL 0.0280)
+- **Browns** (long/bounce) — 1.0256 @ 0.0975, now ~0.0975, unrealized +0.0000 (TP 0.1950 / SL 0.0390)
 
 ## Recent history
 - 2026-11-01 14:15 ET: Jets [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -21,4 +22,4 @@ Updated: 2026-11-01 14:25 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-11-01 00:45 ET: Leylah Fernandez [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:CLE@PIT", "market": "aec-nfl-cle-pit-2026-11-01", "side": "long", "team": "Browns", "ask": 0.0975, "qty": 1.0256, "stake": 0.1, "mode": "bounce"}`
