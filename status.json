@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-01T09:26:02.335569-05:00",
+ "updated": "2026-11-01T09:30:50.747291-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-11-01",
   "bets": 8,
   "bounce_bets": 8,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.35
+  "realized": 0.45
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-alemin-caralc-2026-11-01",
-   "game": "atp:Alcaraz@Minaur",
-   "side": "long",
-   "team": "Alex de Minaur",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-01 09:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -145,8 +131,32 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "settled"
+  },
+  {
+   "market": "aec-atp-alemin-caralc-2026-11-01",
+   "game": "atp:Alcaraz@Minaur",
+   "side": "long",
+   "team": "Alex de Minaur",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-01 09:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-01 09:30 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Alex de Minaur",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
