@@ -2,21 +2,8 @@
  "date": "2026-10-31",
  "bets": 31,
  "bounce_bets": 31,
- "realized": -0.7894,
+ "realized": -0.8694,
  "paper_positions": [
-  {
-   "market": "aec-nba-sac-mem-2026-10-31",
-   "game": "nba:SAC@MEM",
-   "side": "long",
-   "team": "Kings",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-31 20:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  },
   {
    "market": "aec-nhl-pit-mon-2026-10-31",
    "game": "nhl:PIT@MTL",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-10-31 21:20 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.08
   },
   {
    "market": "aec-nhl-cbj-dal-2026-10-31",
@@ -41,7 +28,7 @@
    "sl": 0.04,
    "opened": "2026-10-31 21:21 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -520,6 +507,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-sac-mem-2026-10-31",
+   "game": "nba:SAC@MEM",
+   "side": "long",
+   "team": "Kings",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-10-31 21:45 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -711,6 +715,7 @@
   "aec-nhl-ott-sj-2026-10-31": 1793486138.2443707,
   "aec-nba-phi-cha-2026-10-31": 1793495134.2380602,
   "aec-nba-atl-no-2026-10-31": 1793496642.2402072,
-  "aec-nba-cle-mil-2026-10-31": 1793496933.8413253
+  "aec-nba-cle-mil-2026-10-31": 1793496933.8413253,
+  "aec-nba-sac-mem-2026-10-31": 1793499332.9261382
  }
 }
