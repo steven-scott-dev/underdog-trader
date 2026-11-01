@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T00:45:43.540807-04:00",
+ "updated": "2026-11-01T00:50:37.113683-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-01",
   "bets": 3,
@@ -66,12 +66,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Leylah Fernandez",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

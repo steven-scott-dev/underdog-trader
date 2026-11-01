@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 00:45 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-01 00:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
@@ -15,4 +15,4 @@ Updated: 2026-11-01 00:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-01 00:15 ET: Carole Monnet [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Leylah Fernandez", "reason": "take-profit", "pnl": 0.1}`
+- _none_
