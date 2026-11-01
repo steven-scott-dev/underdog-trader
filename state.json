@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 1,
- "bounce_bets": 1,
+ "bets": 2,
+ "bounce_bets": 2,
  "realized": 0.1,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leyfer-diashn-2026-10-31",
+   "game": "wta:Shnaider@Fernandez",
+   "side": "long",
+   "team": "Leylah Fernandez",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-01 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -29,6 +43,12 @@
    [
     1793505938.5142972,
     0.06
+   ]
+  ],
+  "aec-wta-leyfer-diashn-2026-10-31": [
+   [
+    1793507135.2156577,
+    0.08
    ]
   ]
  }
