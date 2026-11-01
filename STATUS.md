@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 09:15 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-01 09:20 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
 - Realized P&L: +0.35
 
 ## Open paper positions
-- **Alex de Minaur** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Alex de Minaur** (long/bounce) — 2.0 @ 0.0500, now ~0.0700, unrealized +0.0400 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-01 09:10 ET: Sebastian Baez [bounce] — settled @ 0.0100 → -0.0833
