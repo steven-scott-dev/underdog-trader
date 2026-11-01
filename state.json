@@ -1,22 +1,9 @@
 {
  "date": "2026-10-31",
- "bets": 33,
- "bounce_bets": 33,
- "realized": -0.9583,
+ "bets": 34,
+ "bounce_bets": 34,
+ "realized": -0.9183,
  "paper_positions": [
-  {
-   "market": "aec-nhl-cbj-dal-2026-10-31",
-   "game": "nhl:CBJ@DAL",
-   "side": "long",
-   "team": "Blue Jackets",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-10-31 21:21 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-nba-min-sa-2026-10-31",
    "game": "nba:MIN@SA",
@@ -28,20 +15,20 @@
    "sl": 0.036,
    "opened": "2026-10-31 22:00 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.17
   },
   {
-   "market": "aec-wta-tatmar-fiofer-2026-10-31",
-   "game": "wta:Ferro@Maria",
-   "side": "short",
-   "team": "Fiona Ferro",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-10-31 22:05 ET",
+   "market": "aec-nba-okc-hou-2026-10-31",
+   "game": "nba:OKC@HOU",
+   "side": "long",
+   "team": "Thunder",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-10-31 22:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -554,6 +541,40 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-cbj-dal-2026-10-31",
+   "game": "nhl:CBJ@DAL",
+   "side": "long",
+   "team": "Blue Jackets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-10-31 21:21 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-10-31 22:10 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tatmar-fiofer-2026-10-31",
+   "game": "wta:Ferro@Maria",
+   "side": "short",
+   "team": "Fiona Ferro",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-10-31 22:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-10-31 22:10 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -725,6 +746,12 @@
     1793496061.8658996,
     0.1
    ]
+  ],
+  "aec-nba-okc-hou-2026-10-31": [
+   [
+    1793499036.9934108,
+    0.06
+   ]
   ]
  },
  "cooldowns": {
@@ -746,6 +773,7 @@
   "aec-nba-phi-cha-2026-10-31": 1793495134.2380602,
   "aec-nba-atl-no-2026-10-31": 1793496642.2402072,
   "aec-nba-cle-mil-2026-10-31": 1793496933.8413253,
-  "aec-nba-sac-mem-2026-10-31": 1793499332.9261382
+  "aec-nba-sac-mem-2026-10-31": 1793499332.9261382,
+  "aec-nhl-cbj-dal-2026-10-31": 1793500835.4742959
  }
 }
