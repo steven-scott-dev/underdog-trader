@@ -2,7 +2,7 @@
  "date": "2026-11-01",
  "bets": 16,
  "bounce_bets": 16,
- "realized": 0.3966,
+ "realized": 0.3299,
  "paper_positions": [
   {
    "market": "aec-nfl-ari-dal-2026-11-01",
@@ -15,7 +15,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.0625
   },
   {
    "market": "aec-nfl-bal-buf-2026-11-01",
@@ -27,19 +27,6 @@
    "tp": 0.175,
    "sl": 0.035,
    "opened": "2026-11-01 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.095
-  },
-  {
-   "market": "aec-nfl-atl-tb-2026-11-01",
-   "game": "nfl:ATL@TB",
-   "side": "long",
-   "team": "Falcons",
-   "entry": 0.0525,
-   "qty": 1.9048,
-   "tp": 0.105,
-   "sl": 0.021,
-   "opened": "2026-11-01 15:06 ET",
    "mode": "bounce",
    "last_bid": 0.0525
   }
@@ -265,6 +252,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-atl-tb-2026-11-01",
+   "game": "nfl:ATL@TB",
+   "side": "long",
+   "team": "Falcons",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-11-01 15:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525,
+   "closed": "2026-11-01 15:20 ET",
+   "exit": 0.0175,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -364,6 +368,7 @@
   "aec-wta-emejon-aleshu-2026-10-31": 1793509832.371858,
   "aec-atp-alemin-caralc-2026-11-01": 1793545835.673041,
   "aec-nhl-wpg-car-2026-11-01": 1793562338.1501138,
-  "aec-nfl-cle-pit-2026-11-01": 1793565361.083549
+  "aec-nfl-cle-pit-2026-11-01": 1793565361.083549,
+  "aec-nfl-atl-tb-2026-11-01": 1793566257.4946656
  }
 }

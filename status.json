@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-01T15:16:10.149614-05:00",
+ "updated": "2026-11-01T15:21:09.529958-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-01",
   "bets": 16,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3966
+  "realized": 0.3299
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.027,
    "opened": "2026-11-01 14:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.0625
   },
   {
    "market": "aec-nfl-bal-buf-2026-11-01",
@@ -36,40 +36,10 @@
    "sl": 0.035,
    "opened": "2026-11-01 15:00 ET",
    "mode": "bounce",
-   "last_bid": 0.095
-  },
-  {
-   "market": "aec-nfl-atl-tb-2026-11-01",
-   "game": "nfl:ATL@TB",
-   "side": "long",
-   "team": "Falcons",
-   "entry": 0.0525,
-   "qty": 1.9048,
-   "tp": 0.105,
-   "sl": 0.021,
-   "opened": "2026-11-01 15:06 ET",
-   "mode": "bounce",
    "last_bid": 0.0525
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-himsak-elepri-2026-10-31",
-   "game": "wta:Pridankina@Sakatsume",
-   "side": "short",
-   "team": "Elena Pridankina",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-01 01:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-11-01 01:50 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-alifal-radzol-2026-11-01",
    "game": "wta:Zolotareva@Falei",
@@ -222,8 +192,32 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-atl-tb-2026-11-01",
+   "game": "nfl:ATL@TB",
+   "side": "long",
+   "team": "Falcons",
+   "entry": 0.0525,
+   "qty": 1.9048,
+   "tp": 0.105,
+   "sl": 0.021,
+   "opened": "2026-11-01 15:06 ET",
+   "mode": "bounce",
+   "last_bid": 0.0525,
+   "closed": "2026-11-01 15:20 ET",
+   "exit": 0.0175,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Falcons",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }
