@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 09:40 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-11-01 09:45 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 09:40 ET · Mode: **PAPER** · Result: OK (12.2s)
 - 2026-11-01 00:40 ET: Emerson Jones [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alex de Minaur", "reason": "stop-loss", "pnl": -0.1}`
+- _none_

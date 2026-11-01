@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T09:40:47.600929-05:00",
+ "updated": "2026-11-01T09:45:48.828024-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 13.0,
  "daily": {
   "date": "2026-11-01",
   "bets": 9,
@@ -168,12 +168,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alex de Minaur",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }
