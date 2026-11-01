@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 21:05 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-10-31 21:10 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 28 / 100 (main 0, bounce 28)
 - Realized P&L: -0.99
 
 ## Open paper positions
-- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
-- **Kings** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
+- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
+- **Kings** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-10-31 21:05 ET: Bucks [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -21,4 +21,4 @@ Updated: 2026-10-31 21:05 ET · Mode: **PAPER** · Result: OK (12.2s)
 - 2026-10-31 10:50 ET: Felix Balshaw [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
