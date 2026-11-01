@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-01T00:40:33.849791-04:00",
+ "updated": "2026-11-01T00:45:43.540807-04:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-01",
   "bets": 3,
   "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0333
+  "realized": 0.1333
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-leyfer-diashn-2026-10-31",
-   "game": "wta:Shnaider@Fernandez",
-   "side": "long",
-   "team": "Leylah Fernandez",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-01 00:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -60,15 +46,32 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leyfer-diashn-2026-10-31",
+   "game": "wta:Shnaider@Fernandez",
+   "side": "long",
+   "team": "Leylah Fernandez",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-01 00:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-01 00:45 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Emerson Jones",
-   "reason": "stop-loss",
-   "pnl": -0.0667
+   "team": "Leylah Fernandez",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
