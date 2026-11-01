@@ -1,7 +1,7 @@
 {
  "date": "2026-10-31",
- "bets": 31,
- "bounce_bets": 31,
+ "bets": 32,
+ "bounce_bets": 32,
  "realized": -0.9583,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-10-31 21:21 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-min-sa-2026-10-31",
+   "game": "nba:MIN@SA",
+   "side": "long",
+   "team": "Timberwolves",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -660,8 +673,8 @@
   ],
   "aec-nba-min-sa-2026-10-31": [
    [
-    1793493937.2494736,
-    0.1
+    1793498440.386262,
+    0.09
    ]
   ],
   "aec-nba-atl-no-2026-10-31": [

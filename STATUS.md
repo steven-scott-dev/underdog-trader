@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 21:55 ET · Mode: **PAPER** · Result: OK (13.0s)
+Updated: 2026-10-31 22:00 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
-- Bets placed: 31 / 100 (main 0, bounce 31)
+- Bets placed: 32 / 100 (main 0, bounce 32)
 - Realized P&L: -0.96
 
 ## Open paper positions
-- **Blue Jackets** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Blue Jackets** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Timberwolves** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-10-31 21:55 ET: Penguins [bounce] — settled @ 0.0100 → -0.0889
@@ -20,4 +21,4 @@ Updated: 2026-10-31 21:55 ET · Mode: **PAPER** · Result: OK (13.0s)
 - 2026-10-31 20:35 ET: Hornets [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Penguins", "reason": "settled", "pnl": -0.0889}`
+- `{"type": "buy", "game": "nba:MIN@SA", "market": "aec-nba-min-sa-2026-10-31", "side": "long", "team": "Timberwolves", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
