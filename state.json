@@ -1,9 +1,36 @@
 {
  "date": "2026-10-31",
- "bets": 22,
- "bounce_bets": 22,
+ "bets": 24,
+ "bounce_bets": 24,
  "realized": -0.868,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-phi-cha-2026-10-31",
+   "game": "nba:PHI@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-10-31 20:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nhl-tor-van-2026-10-31",
+   "game": "nhl:TOR@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-10-31 20:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-emejon-heawat-2026-10-30",
@@ -494,6 +521,18 @@
    [
     1793481934.5981922,
     0.05
+   ]
+  ],
+  "aec-nba-phi-cha-2026-10-31": [
+   [
+    1793493035.9222705,
+    0.08
+   ]
+  ],
+  "aec-nhl-tor-van-2026-10-31": [
+   [
+    1793493048.2082899,
+    0.09
    ]
   ]
  },
