@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 16:30 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-11-01 16:36 ET · Mode: **PAPER** · Result: OK (22.2s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 16:30 ET · Mode: **PAPER** · Result: OK (13.5s)
 - 2026-11-01 09:40 ET: Alex de Minaur [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Cardinals", "reason": "take-profit", "pnl": 0.1}`
+- _none_

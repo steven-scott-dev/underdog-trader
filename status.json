@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T16:30:49.459011-05:00",
+ "updated": "2026-11-01T16:36:01.929735-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.5,
+ "duration_s": 22.2,
  "daily": {
   "date": "2026-11-01",
   "bets": 16,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Cardinals",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
