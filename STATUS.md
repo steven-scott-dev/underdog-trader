@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-10-31 23:20 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-10-31 23:25 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 37 / 100 (main 0, bounce 37)
@@ -20,4 +20,4 @@ Updated: 2026-10-31 23:20 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-10-31 21:55 ET: Penguins [bounce] — settled @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Mika Stojsavljevic", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
