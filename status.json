@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T02:15:34.781672-05:00",
+ "updated": "2026-11-02T02:20:39.620911-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-02",
   "bets": 2,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-02 02:10 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -46,12 +46,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Viktorija Golubic",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }
