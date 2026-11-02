@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-02T06:15:35.931880-05:00",
+ "updated": "2026-11-02T06:20:51.428225-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-02",
   "bets": 8,
   "bounce_bets": 8,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3356
+  "realized": -0.4106
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-ignbus-zizber-2026-10-31",
-   "game": "atp:Bergs@Buse",
-   "side": "short",
-   "team": "Zizou Bergs",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 06:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -145,8 +131,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-ignbus-zizber-2026-10-31",
+   "game": "atp:Bergs@Buse",
+   "side": "short",
+   "team": "Zizou Bergs",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 06:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-02 06:20 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Zizou Bergs",
+   "reason": "stop-loss",
+   "pnl": -0.075
+  }
+ ]
 }
