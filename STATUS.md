@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 08:25 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-02 08:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: -0.67
 
 ## Open paper positions
-- **Jahnie van Zyl** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- **Jahnie van Zyl** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-02 08:20 ET: Warona Mdlulwa [bounce] — stop-loss @ 0.0100 → -0.0750
