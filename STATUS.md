@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 22:25 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-01 22:30 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
-- Realized P&L: +0.49
+- Realized P&L: +0.41
 
 ## Open paper positions
-- **Senators** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-11-01 22:30 ET: Senators [bounce] — stop-loss @ 0.0200 → -0.0800
 - 2026-11-01 21:10 ET: Ducks [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-01 20:20 ET: Rangers [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-11-01 18:10 ET: Tatjana Maria [bounce] — take-profit @ 0.1800 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-11-01 22:25 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-01 16:45 ET: Titans [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-01 16:30 ET: Cardinals [bounce] — take-profit @ 0.1350 → +0.1000
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
-- 2026-11-01 15:20 ET: Falcons [bounce] — stop-loss @ 0.0175 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Senators", "reason": "stop-loss", "pnl": -0.08}`
