@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 08:20 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-02 08:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: -0.67
 
 ## Open paper positions
-- **Jahnie van Zyl** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Jahnie van Zyl** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-02 08:20 ET: Warona Mdlulwa [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -20,5 +20,4 @@ Updated: 2026-11-02 08:20 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-02 06:40 ET: Venus Williams [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Warona Mdlulwa", "reason": "stop-loss", "pnl": -0.075}`
-- `{"type": "buy", "game": "wta:Kabbaj@Zyl", "market": "aec-wta-jahzyl-yaskab-2026-11-02", "side": "long", "team": "Jahnie van Zyl", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_

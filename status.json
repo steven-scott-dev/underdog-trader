@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T08:20:38.907207-05:00",
+ "updated": "2026-11-02T08:25:36.651468-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-02",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-11-02 08:20 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -199,23 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Warona Mdlulwa",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  },
-  {
-   "type": "buy",
-   "game": "wta:Kabbaj@Zyl",
-   "market": "aec-wta-jahzyl-yaskab-2026-11-02",
-   "side": "long",
-   "team": "Jahnie van Zyl",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
