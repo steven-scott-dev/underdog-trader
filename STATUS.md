@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 18:26 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-02 18:31 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 30 / 100 (main 0, bounce 30)
 - Realized P&L: -1.31
 
 ## Open paper positions
-- **Botic van de Zandschulp** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Botic van de Zandschulp** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-02 16:50 ET: Polona Hercog [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-11-02 18:26 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-02 11:55 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Zandschulp@Humbert", "market": "aec-atp-ugohum-botzan-2026-10-31", "side": "short", "team": "Botic van de Zandschulp", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
