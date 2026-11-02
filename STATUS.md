@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 20:01 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-01 20:05 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 19 / 100 (main 0, bounce 19)
+- Bets placed: 20 / 100 (main 0, bounce 20)
 - Realized P&L: +0.46
 
 ## Open paper positions
-- _none_
+- **Rangers** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-01 18:10 ET: Tatjana Maria [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-01 20:01 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-01 15:06 ET: Browns [bounce] — stop-loss @ 0.0175 → -0.0820
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:EDM@NYR", "market": "aec-nhl-edm-nyr-2026-11-01", "side": "short", "team": "Rangers", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

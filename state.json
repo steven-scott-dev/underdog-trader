@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 19,
- "bounce_bets": 19,
+ "bets": 20,
+ "bounce_bets": 20,
  "realized": 0.4585,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-edm-nyr-2026-11-01",
+   "game": "nhl:EDM@NYR",
+   "side": "short",
+   "team": "Rangers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-01 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -431,6 +445,12 @@
    [
     1793573741.851101,
     0.09
+   ]
+  ],
+  "aec-nhl-edm-nyr-2026-11-01": [
+   [
+    1793581556.7523687,
+    0.1
    ]
   ]
  },
