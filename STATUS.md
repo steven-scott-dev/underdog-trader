@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 13:45 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-02 13:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 26 / 100 (main 0, bounce 26)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 13:45 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-02 10:35 ET: Matteo Arnaldi [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Lucia Bronzetti", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

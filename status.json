@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T13:45:37.873491-05:00",
+ "updated": "2026-11-02T13:50:40.203004-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-02",
   "bets": 26,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Lucia Bronzetti",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
