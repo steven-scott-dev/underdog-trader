@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:20:45.189541-05:00",
+ "updated": "2026-11-01T22:25:44.694941-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.9,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-01 22:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:OTT@ANA",
-   "market": "aec-nhl-ott-ana-2026-11-01",
-   "side": "long",
-   "team": "Senators",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
