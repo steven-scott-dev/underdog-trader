@@ -1,9 +1,31 @@
 {
  "date": "2026-11-02",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-vikgol-katbou-2026-11-01",
+   "game": "wta:Boulter@Golubic",
+   "side": "long",
+   "team": "Viktorija Golubic",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-02 02:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-wta-vikgol-katbou-2026-11-01": [
+   [
+    1793602841.7680204,
+    0.05
+   ]
+  ]
+ }
 }
