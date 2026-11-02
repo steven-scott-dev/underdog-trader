@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 10:35 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 10:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 10:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Matteo Arnaldi", "reason": "take-profit", "pnl": 0.1}`
+- _none_
