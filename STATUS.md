@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 20:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-01 20:25 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 20 / 100 (main 0, bounce 20)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 20:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-01 15:10 ET: Titans [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rangers", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
