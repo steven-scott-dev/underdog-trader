@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 22:30 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-01 22:35 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 22:30 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-01 15:25 ET: Ravens [bounce] — stop-loss @ 0.0250 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Senators", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
