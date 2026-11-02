@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 7,
- "bounce_bets": 7,
+ "bets": 8,
+ "bounce_bets": 8,
  "realized": -0.3356,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-ignbus-zizber-2026-10-31",
+   "game": "atp:Bergs@Buse",
+   "side": "short",
+   "team": "Zizou Bergs",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 06:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -167,6 +181,12 @@
    [
     1793616938.55246,
     0.07
+   ]
+  ],
+  "aec-atp-ignbus-zizber-2026-10-31": [
+   [
+    1793617839.8792956,
+    0.04
    ]
   ]
  },
