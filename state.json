@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 20,
  "bounce_bets": 20,
- "realized": -0.7376,
- "paper_positions": [
-  {
-   "market": "aec-atp-matbel-lorson-2026-11-02",
-   "game": "atp:Sonego@Bellucci",
-   "side": "short",
-   "team": "Lorenzo Sonego",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 11:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": -0.8001,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -341,6 +327,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-matbel-lorson-2026-11-02",
+   "game": "atp:Sonego@Bellucci",
+   "side": "short",
+   "team": "Lorenzo Sonego",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-02 11:05 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -462,6 +465,7 @@
   "aec-atp-aletab-rafjod-2026-10-31": 1793626835.59406,
   "aec-wta-warmdl-krinov-2026-11-02": 1793627437.4029028,
   "aec-wta-jahzyl-yaskab-2026-11-02": 1793628632.6001503,
-  "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523
+  "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523,
+  "aec-atp-matbel-lorson-2026-11-02": 1793637338.6981494
  }
 }
