@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T16:40:39.312948-05:00",
+ "updated": "2026-11-02T16:45:36.373107-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-02",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 16:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Gormaz@Hercog",
-   "market": "aec-wta-polher-leygor-2026-11-02",
-   "side": "long",
-   "team": "Polona Hercog",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
