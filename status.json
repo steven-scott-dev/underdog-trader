@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-02T04:35:44.602040-05:00",
+ "updated": "2026-11-02T04:40:41.322191-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-02",
   "bets": 5,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.1342
+  "realized": -0.2042
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-carlee-marsak-2026-11-01",
-   "game": "wta:Sakkari@Lee",
-   "side": "long",
-   "team": "Carol Young Suh Lee",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 03:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.14
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -94,15 +80,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-carlee-marsak-2026-11-01",
+   "game": "wta:Sakkari@Lee",
+   "side": "long",
+   "team": "Carol Young Suh Lee",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 03:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.14,
+   "closed": "2026-11-02 04:40 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Madhurima Sawant",
+   "team": "Carol Young Suh Lee",
    "reason": "stop-loss",
-   "pnl": -0.0667
+   "pnl": -0.07
   }
  ]
 }
