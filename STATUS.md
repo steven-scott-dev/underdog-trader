@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 16:35 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-02 16:40 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
-- Bets placed: 28 / 100 (main 0, bounce 28)
+- Bets placed: 29 / 100 (main 0, bounce 29)
 - Realized P&L: -1.23
 
 ## Open paper positions
-- _none_
+- **Polona Hercog** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 15:40 ET: Selena Janicijevic [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-02 16:35 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-02 11:15 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Gormaz@Hercog", "market": "aec-wta-polher-leygor-2026-11-02", "side": "long", "team": "Polona Hercog", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
