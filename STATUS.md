@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 11:05 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-02 11:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 20 / 100 (main 0, bounce 20)
+- Bets placed: 21 / 100 (main 0, bounce 21)
 - Realized P&L: -0.80
 
 ## Open paper positions
-- _none_
+- **Maria Torres** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 11:05 ET: Lorenzo Sonego [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-11-02 11:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-02 07:45 ET: Adithya Karunaratne [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Lorenzo Sonego", "reason": "stop-loss", "pnl": -0.0625}`
+- `{"type": "buy", "game": "wta:Giovannini@Murcia", "market": "aec-wta-martor-luigio-2026-11-02", "side": "long", "team": "Maria Torres", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`

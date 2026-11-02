@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-02T11:05:39.985343-05:00",
+ "updated": "2026-11-02T11:10:34.681193-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-02",
-  "bets": 20,
-  "bounce_bets": 20,
+  "bets": 21,
+  "bounce_bets": 21,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.8001
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-martor-luigio-2026-11-02",
+   "game": "wta:Giovannini@Murcia",
+   "side": "long",
+   "team": "Maria Torres",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 11:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-isashi-dunvai-2026-11-02",
@@ -187,10 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Lorenzo Sonego",
-   "reason": "stop-loss",
-   "pnl": -0.0625
+   "type": "buy",
+   "game": "wta:Giovannini@Murcia",
+   "market": "aec-wta-martor-luigio-2026-11-02",
+   "side": "long",
+   "team": "Maria Torres",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

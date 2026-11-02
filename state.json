@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 20,
- "bounce_bets": 20,
+ "bets": 21,
+ "bounce_bets": 21,
  "realized": -0.8001,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-martor-luigio-2026-11-02",
+   "game": "wta:Giovannini@Murcia",
+   "side": "long",
+   "team": "Maria Torres",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 11:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -448,6 +462,12 @@
    [
     1793635233.8768148,
     0.08
+   ]
+  ],
+  "aec-wta-martor-luigio-2026-11-02": [
+   [
+    1793635834.5678442,
+    0.04
    ]
   ]
  },
