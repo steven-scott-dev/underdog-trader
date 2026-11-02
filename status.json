@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T13:05:36.134175-05:00",
+ "updated": "2026-11-02T13:10:36.823162-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-02",
   "bets": 25,
@@ -23,7 +23,7 @@
    "sl": 0.016,
    "opened": "2026-11-02 13:05 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.02
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Garcia@Alves",
-   "market": "aec-wta-caralv-marper-2026-11-02",
-   "side": "short",
-   "team": "Maria Paulina Perez",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

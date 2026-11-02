@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 13:05 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-02 13:10 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 25 / 100 (main 0, bounce 25)
 - Realized P&L: -0.91
 
 ## Open paper positions
-- **Maria Paulina Perez** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Maria Paulina Perez** (short/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 12:40 ET: Leolia Jeanjean [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-02 13:05 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-02 08:40 ET: Jahnie van Zyl [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Garcia@Alves", "market": "aec-wta-caralv-marper-2026-11-02", "side": "short", "team": "Maria Paulina Perez", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
