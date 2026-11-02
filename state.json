@@ -2,21 +2,8 @@
  "date": "2026-11-02",
  "bets": 28,
  "bounce_bets": 28,
- "realized": -1.0543,
+ "realized": -1.1293,
  "paper_positions": [
-  {
-   "market": "aec-wta-lausam-yulliz-2026-11-02",
-   "game": "wta:Lizarazo@Samson",
-   "side": "short",
-   "team": "Yuliana Lizarazo",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 14:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  },
   {
    "market": "aec-wta-seljan-solsie-2026-11-02",
    "game": "wta:Sierra@Janicijevic",
@@ -28,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-11-02 15:05 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -473,6 +460,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lausam-yulliz-2026-11-02",
+   "game": "wta:Lizarazo@Samson",
+   "side": "short",
+   "team": "Yuliana Lizarazo",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-02 15:35 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -635,6 +639,7 @@
   "aec-wta-martor-luigio-2026-11-02": 1793640336.6280181,
   "aec-atp-kyrjac-tommac-2026-11-02": 1793640934.2325368,
   "aec-wta-caralv-marper-2026-11-02": 1793646636.376655,
-  "aec-wta-leojea-lucbro-2026-11-02": 1793646937.1665616
+  "aec-wta-leojea-lucbro-2026-11-02": 1793646937.1665616,
+  "aec-wta-lausam-yulliz-2026-11-02": 1793653537.952453
  }
 }
