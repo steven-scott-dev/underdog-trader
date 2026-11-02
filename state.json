@@ -1,22 +1,9 @@
 {
  "date": "2026-11-02",
- "bets": 11,
- "bounce_bets": 11,
- "realized": -0.4106,
+ "bets": 12,
+ "bounce_bets": 12,
+ "realized": -0.3106,
  "paper_positions": [
-  {
-   "market": "aec-wta-venwil-marsto-2026-11-01",
-   "game": "wta:Stoiana@Williams",
-   "side": "long",
-   "team": "Venus Williams",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-wta-lauboe-prarac-2026-11-02",
    "game": "wta:Rachapudi@Bohner",
@@ -28,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-isashi-dunvai-2026-11-02",
@@ -41,7 +28,20 @@
    "sl": 0.036,
    "opened": "2026-11-02 06:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "game": "wta:Stoiana@Williams",
+   "side": "long",
+   "team": "Venus Williams",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 06:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -180,6 +180,23 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "game": "wta:Stoiana@Williams",
+   "side": "long",
+   "team": "Venus Williams",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-02 06:40 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -216,8 +233,8 @@
   ],
   "aec-wta-venwil-marsto-2026-11-01": [
    [
-    1793618741.8374076,
-    0.04
+    1793619643.9059272,
+    0.08
    ]
   ],
   "aec-atp-lucdar-rinhij-2026-11-02": [
