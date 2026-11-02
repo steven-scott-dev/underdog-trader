@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T12:05:35.853925-05:00",
+ "updated": "2026-11-02T12:10:41.992208-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-02",
   "bets": 23,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kyrian Jacquet",
-   "reason": "stop-loss",
-   "pnl": -0.0625
-  }
- ]
+ "actions": []
 }

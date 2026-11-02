@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 12:05 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-02 12:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 23 / 100 (main 0, bounce 23)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 12:05 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-02 08:20 ET: Warona Mdlulwa [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kyrian Jacquet", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
