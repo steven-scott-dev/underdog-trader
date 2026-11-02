@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:00:43.123408-05:00",
+ "updated": "2026-11-02T07:05:39.994212-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.9,
@@ -9,41 +9,10 @@
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.4745
+  "realized": -0.5545
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-lauboe-prarac-2026-11-02",
-   "game": "wta:Rachapudi@Bohner",
-   "side": "short",
-   "team": "Prathyusha Rachapudi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-claliu-tatpro-2026-11-01",
-   "game": "wta:Prozorova@Liu",
-   "side": "short",
-   "team": "Tatiana Prozorova",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-02 02:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-02 02:40 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-katvol-alisas-2026-11-01",
    "game": "wta:Sasnovich@Volynets",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-02 07:05 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Prathyusha Rachapudi",
+   "reason": "stop-loss",
+   "pnl": -0.08
+  }
+ ]
 }

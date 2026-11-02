@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 12,
  "bounce_bets": 12,
- "realized": -0.4745,
- "paper_positions": [
-  {
-   "market": "aec-wta-lauboe-prarac-2026-11-02",
-   "game": "wta:Rachapudi@Bohner",
-   "side": "short",
-   "team": "Prathyusha Rachapudi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -0.5545,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -205,6 +191,23 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-02 07:05 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -278,6 +281,7 @@
   "aec-wta-venwil-marsto-2026-11-01": 1793621733.049571,
   "aec-atp-lucdar-rinhij-2026-11-02": 1793619050.4656496,
   "aec-atp-ignbus-zizber-2026-10-31": 1793620249.8472736,
-  "aec-wta-isashi-dunvai-2026-11-02": 1793622032.4139237
+  "aec-wta-isashi-dunvai-2026-11-02": 1793622032.4139237,
+  "aec-wta-lauboe-prarac-2026-11-02": 1793622938.6750147
  }
 }
