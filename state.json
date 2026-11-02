@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": 0.02,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 03:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.12
   },
   {
    "market": "aec-wta-fraszi-madsaw-2026-11-02",
@@ -27,6 +27,19 @@
    "tp": 0.18,
    "sl": 0.036,
    "opened": "2026-11-02 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-wta-katvol-alisas-2026-11-01",
+   "game": "wta:Sasnovich@Volynets",
+   "side": "long",
+   "team": "Katie Volynets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 04:20 ET",
    "mode": "bounce",
    "last_bid": 0.08
   }
@@ -91,6 +104,12 @@
    [
     1793610636.5782316,
     0.09
+   ]
+  ],
+  "aec-wta-katvol-alisas-2026-11-01": [
+   [
+    1793611237.5160596,
+    0.08
    ]
   ]
  },
