@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T16:50:47.355609-05:00",
+ "updated": "2026-11-02T16:55:43.407675-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-02",
   "bets": 29,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Polona Hercog",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }
