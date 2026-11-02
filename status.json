@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-02T06:40:43.987829-05:00",
+ "updated": "2026-11-02T06:45:33.933935-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.3,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-02",
   "bets": 12,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3106
+  "realized": -0.3856
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-isashi-dunvai-2026-11-02",
@@ -37,19 +37,6 @@
    "opened": "2026-11-02 06:30 ET",
    "mode": "bounce",
    "last_bid": 0.05
-  },
-  {
-   "market": "aec-wta-venwil-marsto-2026-11-01",
-   "game": "wta:Stoiana@Williams",
-   "side": "long",
-   "team": "Venus Williams",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 06:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -205,6 +192,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "game": "wta:Stoiana@Williams",
+   "side": "long",
+   "team": "Venus Williams",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 06:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-02 06:45 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
@@ -212,19 +216,8 @@
   {
    "type": "paper_close",
    "team": "Venus Williams",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "wta:Stoiana@Williams",
-   "market": "aec-wta-venwil-marsto-2026-11-01",
-   "side": "long",
-   "team": "Venus Williams",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.075
   }
  ]
 }
