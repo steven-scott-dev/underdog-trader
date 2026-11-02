@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 10,
- "bounce_bets": 10,
+ "bets": 11,
+ "bounce_bets": 11,
  "realized": -0.4106,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.016,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.05
   },
   {
    "market": "aec-wta-lauboe-prarac-2026-11-02",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-isashi-dunvai-2026-11-02",
+   "game": "wta:Vaissaud@Shinikova",
+   "side": "short",
+   "team": "Dune Vaissaud",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 06:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -223,6 +236,12 @@
    [
     1793618742.0182085,
     0.1
+   ]
+  ],
+  "aec-wta-isashi-dunvai-2026-11-02": [
+   [
+    1793619045.6237545,
+    0.09
    ]
   ]
  },
