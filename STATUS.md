@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 09:36 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 09:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 09:36 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 06:50 ET: Dune Vaissaud [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sebastian Baez", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
