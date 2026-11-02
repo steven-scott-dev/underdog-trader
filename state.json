@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 24,
- "bounce_bets": 24,
+ "bets": 25,
+ "bounce_bets": 25,
  "realized": -0.9126,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-caralv-marper-2026-11-02",
+   "game": "wta:Garcia@Alves",
+   "side": "short",
+   "team": "Maria Paulina Perez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -534,6 +548,12 @@
    [
     1793640938.555776,
     0.1
+   ]
+  ],
+  "aec-wta-caralv-marper-2026-11-02": [
+   [
+    1793642736.1335032,
+    0.04
    ]
   ]
  },
