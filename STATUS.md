@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 15:40 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-02 15:45 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 28 / 100 (main 0, bounce 28)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 15:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-02 11:15 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Selena Janicijevic", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
