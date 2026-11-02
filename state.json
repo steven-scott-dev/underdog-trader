@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 19,
- "bounce_bets": 19,
+ "bets": 20,
+ "bounce_bets": 20,
  "realized": -0.7376,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-matbel-lorson-2026-11-02",
+   "game": "atp:Sonego@Bellucci",
+   "side": "short",
+   "team": "Lorenzo Sonego",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -425,6 +439,12 @@
    [
     1793633445.8349957,
     0.06
+   ]
+  ],
+  "aec-atp-matbel-lorson-2026-11-02": [
+   [
+    1793635233.8768148,
+    0.08
    ]
   ]
  },
