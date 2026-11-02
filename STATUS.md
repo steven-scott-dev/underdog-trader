@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 22:15 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-01 22:20 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 21 / 100 (main 0, bounce 21)
+- Bets placed: 22 / 100 (main 0, bounce 22)
 - Realized P&L: +0.49
 
 ## Open paper positions
-- _none_
+- **Senators** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-01 21:10 ET: Ducks [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-01 22:15 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-01 15:20 ET: Falcons [bounce] — stop-loss @ 0.0175 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:OTT@ANA", "market": "aec-nhl-ott-ana-2026-11-01", "side": "long", "team": "Senators", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

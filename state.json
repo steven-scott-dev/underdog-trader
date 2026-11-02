@@ -1,9 +1,23 @@
 {
  "date": "2026-11-01",
- "bets": 21,
- "bounce_bets": 21,
+ "bets": 22,
+ "bounce_bets": 22,
  "realized": 0.4885,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ott-ana-2026-11-01",
+   "game": "nhl:OTT@ANA",
+   "side": "long",
+   "team": "Senators",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-01 22:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -475,8 +489,8 @@
   ],
   "aec-nhl-ott-ana-2026-11-01": [
    [
-    1793585138.4925716,
-    0.09
+    1793589644.8029573,
+    0.1
    ]
   ]
  },
