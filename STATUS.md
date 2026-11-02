@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 10:01 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-02 10:30 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 18 / 100 (main 0, bounce 18)
+- Bets placed: 19 / 100 (main 0, bounce 19)
 - Realized P&L: -0.84
 
 ## Open paper positions
-- _none_
+- **Matteo Arnaldi** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-02 09:36 ET: Sebastian Baez [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-11-02 10:01 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-02 06:50 ET: Dune Vaissaud [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Arnaldi@Norrie", "market": "aec-atp-camnor-matarn-2026-10-31", "side": "short", "team": "Matteo Arnaldi", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
