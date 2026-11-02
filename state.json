@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 23,
  "bounce_bets": 23,
- "realized": -0.9501,
- "paper_positions": [
-  {
-   "market": "aec-atp-kyrjac-tommac-2026-11-02",
-   "game": "atp:Machac@Jacquet",
-   "side": "long",
-   "team": "Kyrian Jacquet",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 12:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": -1.0126,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -392,6 +378,23 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-kyrjac-tommac-2026-11-02",
+   "game": "atp:Machac@Jacquet",
+   "side": "long",
+   "team": "Kyrian Jacquet",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 12:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-02 12:05 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -527,6 +530,7 @@
   "aec-wta-jahzyl-yaskab-2026-11-02": 1793628632.6001503,
   "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523,
   "aec-atp-matbel-lorson-2026-11-02": 1793637338.6981494,
-  "aec-wta-martor-luigio-2026-11-02": 1793640336.6280181
+  "aec-wta-martor-luigio-2026-11-02": 1793640336.6280181,
+  "aec-atp-kyrjac-tommac-2026-11-02": 1793640934.2325368
  }
 }
