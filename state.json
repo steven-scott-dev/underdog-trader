@@ -15,7 +15,7 @@
    "sl": 0.016,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-lauboe-prarac-2026-11-02",
@@ -28,7 +28,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-isashi-dunvai-2026-11-02",
@@ -41,7 +41,7 @@
    "sl": 0.036,
    "opened": "2026-11-02 06:30 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
