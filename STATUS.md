@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 11:55 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-02 12:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 22 / 100 (main 0, bounce 22)
+- Bets placed: 23 / 100 (main 0, bounce 23)
 - Realized P&L: -0.95
 
 ## Open paper positions
-- _none_
+- **Kyrian Jacquet** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-02 11:55 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -20,4 +20,4 @@ Updated: 2026-11-02 11:55 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-02 08:10 ET: Alejandro Tabilo [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Torres", "reason": "stop-loss", "pnl": -0.075}`
+- `{"type": "buy", "game": "atp:Machac@Jacquet", "market": "aec-atp-kyrjac-tommac-2026-11-02", "side": "long", "team": "Kyrian Jacquet", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
