@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 06:00 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 06:05 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
@@ -19,4 +19,4 @@ Updated: 2026-11-02 06:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 02:15 ET: Viktorija Golubic [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Luciano Darderi", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
