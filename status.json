@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-02T13:40:37.955337-05:00",
+ "updated": "2026-11-02T13:45:37.873491-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-02",
   "bets": 26,
   "bounce_bets": 26,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.9876
+  "realized": -1.0543
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-leojea-lucbro-2026-11-02",
-   "game": "wta:Bronzetti@Jeanjean",
-   "side": "short",
-   "team": "Lucia Bronzetti",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-02 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-warmdl-krinov-2026-11-02",
-   "game": "wta:Novak@Mdlulwa",
-   "side": "long",
-   "team": "Warona Mdlulwa",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 08:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-11-02 08:20 ET",
-   "exit": 0.01,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-jahzyl-yaskab-2026-11-02",
    "game": "wta:Kabbaj@Zyl",
@@ -196,26 +165,32 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leojea-lucbro-2026-11-02",
+   "game": "wta:Bronzetti@Jeanjean",
+   "side": "short",
+   "team": "Lucia Bronzetti",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-02 13:45 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Maria Paulina Perez",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  },
-  {
-   "type": "buy",
-   "game": "wta:Bronzetti@Jeanjean",
-   "market": "aec-wta-leojea-lucbro-2026-11-02",
-   "side": "short",
    "team": "Lucia Bronzetti",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.0667
   }
  ]
 }
