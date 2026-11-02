@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-02T18:05:47.341897-05:00",
+ "updated": "2026-11-02T18:26:33.828344-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-02",
-  "bets": 29,
-  "bounce_bets": 29,
+  "bets": 30,
+  "bounce_bets": 30,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.3093
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-ugohum-botzan-2026-10-31",
+   "game": "atp:Zandschulp@Humbert",
+   "side": "short",
+   "team": "Botic van de Zandschulp",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-02 18:26 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-atp-matbel-lorson-2026-11-02",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Zandschulp@Humbert",
+   "market": "aec-atp-ugohum-botzan-2026-10-31",
+   "side": "short",
+   "team": "Botic van de Zandschulp",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

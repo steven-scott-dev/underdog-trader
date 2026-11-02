@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 29,
- "bounce_bets": 29,
+ "bets": 30,
+ "bounce_bets": 30,
  "realized": -1.3093,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-ugohum-botzan-2026-10-31",
+   "game": "atp:Zandschulp@Humbert",
+   "side": "short",
+   "team": "Botic van de Zandschulp",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-02 18:26 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -643,6 +657,12 @@
    [
     1793655639.3112392,
     0.1
+   ]
+  ],
+  "aec-atp-ugohum-botzan-2026-10-31": [
+   [
+    1793661993.755636,
+    0.07
    ]
   ]
  },
