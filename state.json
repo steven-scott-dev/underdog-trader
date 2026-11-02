@@ -2,21 +2,8 @@
  "date": "2026-11-02",
  "bets": 2,
  "bounce_bets": 2,
- "realized": 0.0,
+ "realized": -0.08,
  "paper_positions": [
-  {
-   "market": "aec-wta-vikgol-katbou-2026-11-01",
-   "game": "wta:Boulter@Golubic",
-   "side": "long",
-   "team": "Viktorija Golubic",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-02 02:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  },
   {
    "market": "aec-wta-claliu-tatpro-2026-11-01",
    "game": "wta:Prozorova@Liu",
@@ -28,10 +15,28 @@
    "sl": 0.036,
    "opened": "2026-11-02 02:10 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.11
   }
  ],
- "paper_history": [],
+ "paper_history": [
+  {
+   "market": "aec-wta-vikgol-katbou-2026-11-01",
+   "game": "wta:Boulter@Golubic",
+   "side": "long",
+   "team": "Viktorija Golubic",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-02 02:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-02 02:15 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
+  }
+ ],
  "live_history": [],
  "px_hist": {
   "aec-wta-vikgol-katbou-2026-11-01": [
@@ -46,5 +51,8 @@
     0.09
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-vikgol-katbou-2026-11-01": 1793605533.9695628
  }
 }
