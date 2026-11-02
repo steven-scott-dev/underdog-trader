@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 20:11 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-01 20:16 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 20 / 100 (main 0, bounce 20)
 - Realized P&L: +0.46
 
 ## Open paper positions
-- **Rangers** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Rangers** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-01 18:10 ET: Tatjana Maria [bounce] — take-profit @ 0.1800 → +0.1000
