@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 06:50 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 06:55 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: -0.47
 
 ## Open paper positions
-- **Prathyusha Rachapudi** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Prathyusha Rachapudi** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 06:50 ET: Dune Vaissaud [bounce] — stop-loss @ 0.0100 → -0.0889
@@ -20,4 +20,4 @@ Updated: 2026-11-02 06:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 04:35 ET: Madhurima Sawant [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Dune Vaissaud", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_

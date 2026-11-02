@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:50:33.367114-05:00",
+ "updated": "2026-11-02T06:55:37.960208-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.2,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 06:25 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Dune Vaissaud",
-   "reason": "stop-loss",
-   "pnl": -0.0889
-  }
- ]
+ "actions": []
 }
