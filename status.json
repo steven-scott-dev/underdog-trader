@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T06:10:40.465356-05:00",
+ "updated": "2026-11-02T06:15:35.931880-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-11-02",
   "bets": 8,
@@ -23,7 +23,7 @@
    "sl": 0.016,
    "opened": "2026-11-02 06:10 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.02
   }
  ],
  "paper_history": [
@@ -148,17 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Bergs@Buse",
-   "market": "aec-atp-ignbus-zizber-2026-10-31",
-   "side": "short",
-   "team": "Zizou Bergs",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
