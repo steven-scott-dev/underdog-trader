@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T04:05:38.484003-05:00",
+ "updated": "2026-11-02T04:10:36.579069-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-02",
-  "bets": 3,
-  "bounce_bets": 3,
+  "bets": 4,
+  "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.02
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-11-02 03:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
+  },
+  {
+   "market": "aec-wta-fraszi-madsaw-2026-11-02",
+   "game": "wta:Sawant@Sziedat",
+   "side": "short",
+   "team": "Madhurima Sawant",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -63,5 +76,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Sawant@Sziedat",
+   "market": "aec-wta-fraszi-madsaw-2026-11-02",
+   "side": "short",
+   "team": "Madhurima Sawant",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
