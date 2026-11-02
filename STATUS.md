@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 08:10 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-02 08:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: -0.59
 
 ## Open paper positions
-- **Warona Mdlulwa** (long/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Warona Mdlulwa** (long/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 08:10 ET: Alejandro Tabilo [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-11-02 08:10 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-02 06:20 ET: Zizou Bergs [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alejandro Tabilo", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
