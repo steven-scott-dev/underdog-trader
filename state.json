@@ -2,21 +2,8 @@
  "date": "2026-11-02",
  "bets": 16,
  "bounce_bets": 16,
- "realized": -0.5259,
+ "realized": -0.5926,
  "paper_positions": [
-  {
-   "market": "aec-atp-aletab-rafjod-2026-10-31",
-   "game": "atp:Jodar@Tabilo",
-   "side": "long",
-   "team": "Alejandro Tabilo",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-02 07:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-wta-warmdl-krinov-2026-11-02",
    "game": "wta:Novak@Mdlulwa",
@@ -28,7 +15,7 @@
    "sl": 0.016,
    "opened": "2026-11-02 08:05 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-aletab-rafjod-2026-10-31",
+   "game": "atp:Jodar@Tabilo",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 07:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-02 08:10 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -362,6 +366,7 @@
   "aec-atp-ignbus-zizber-2026-10-31": 1793620249.8472736,
   "aec-wta-isashi-dunvai-2026-11-02": 1793622032.4139237,
   "aec-wta-lauboe-prarac-2026-11-02": 1793622938.6750147,
-  "aec-wta-xinwan-adikar-2026-11-01": 1793625343.0508342
+  "aec-wta-xinwan-adikar-2026-11-01": 1793625343.0508342,
+  "aec-atp-aletab-rafjod-2026-10-31": 1793626835.59406
  }
 }
