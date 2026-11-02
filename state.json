@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 5,
- "bounce_bets": 5,
+ "bets": 6,
+ "bounce_bets": 6,
  "realized": -0.2042,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "game": "wta:Stoiana@Williams",
+   "side": "long",
+   "team": "Venus Williams",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 05:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -121,6 +135,12 @@
    [
     1793611237.5160596,
     0.08
+   ]
+  ],
+  "aec-wta-venwil-marsto-2026-11-01": [
+   [
+    1793616647.9325845,
+    0.1
    ]
   ]
  },
