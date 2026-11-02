@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 27,
- "bounce_bets": 27,
+ "bets": 28,
+ "bounce_bets": 28,
  "realized": -1.0543,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.016,
    "opened": "2026-11-02 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-seljan-solsie-2026-11-02",
+   "game": "wta:Sierra@Janicijevic",
+   "side": "long",
+   "team": "Selena Janicijevic",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 15:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -594,6 +607,12 @@
    [
     1793649335.4467742,
     0.04
+   ]
+  ],
+  "aec-wta-seljan-solsie-2026-11-02": [
+   [
+    1793649938.7570848,
+    0.09
    ]
   ]
  },

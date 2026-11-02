@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 15:00 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 15:05 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 27 / 100 (main 0, bounce 27)
+- Bets placed: 28 / 100 (main 0, bounce 28)
 - Realized P&L: -1.05
 
 ## Open paper positions
-- **Yuliana Lizarazo** (short/bounce) — 2.5 @ 0.0400, now ~0.0500, unrealized +0.0250 (TP 0.0800 / SL 0.0160)
+- **Yuliana Lizarazo** (short/bounce) — 2.5 @ 0.0400, now ~0.0700, unrealized +0.0750 (TP 0.0800 / SL 0.0160)
+- **Selena Janicijevic** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-02 13:45 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +21,4 @@ Updated: 2026-11-02 15:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 10:35 ET: Matteo Arnaldi [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Sierra@Janicijevic", "market": "aec-wta-seljan-solsie-2026-11-02", "side": "long", "team": "Selena Janicijevic", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
