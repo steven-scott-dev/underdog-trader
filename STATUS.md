@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-01 21:10 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-01 21:15 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 21 / 100 (main 0, bounce 21)
@@ -20,4 +20,4 @@ Updated: 2026-11-01 21:10 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-01 15:20 ET: Falcons [bounce] — stop-loss @ 0.0175 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ducks", "reason": "take-profit", "pnl": 0.1}`
+- _none_
