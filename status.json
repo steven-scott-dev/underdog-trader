@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-02T09:30:39.171320-05:00",
+ "updated": "2026-11-02T09:36:02.723338-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-02",
   "bets": 18,
   "bounce_bets": 18,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.7676
+  "realized": -0.8376
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-danagu-sebbae-2026-11-02",
-   "game": "atp:Baez@Merida",
-   "side": "short",
-   "team": "Sebastian Baez",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 09:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-ignbus-zizber-2026-10-31",
-   "game": "atp:Bergs@Buse",
-   "side": "short",
-   "team": "Zizou Bergs",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 06:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-11-02 06:20 ET",
-   "exit": 0.01,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-venwil-marsto-2026-11-01",
    "game": "wta:Stoiana@Williams",
@@ -196,8 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-danagu-sebbae-2026-11-02",
+   "game": "atp:Baez@Merida",
+   "side": "short",
+   "team": "Sebastian Baez",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-02 09:36 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sebastian Baez",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }

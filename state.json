@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 18,
  "bounce_bets": 18,
- "realized": -0.7676,
- "paper_positions": [
-  {
-   "market": "aec-atp-danagu-sebbae-2026-11-02",
-   "game": "atp:Baez@Merida",
-   "side": "short",
-   "team": "Sebastian Baez",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 09:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.8376,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -307,6 +293,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-danagu-sebbae-2026-11-02",
+   "game": "atp:Baez@Merida",
+   "side": "short",
+   "team": "Sebastian Baez",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-02 09:36 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -415,6 +418,7 @@
   "aec-wta-xinwan-adikar-2026-11-01": 1793625343.0508342,
   "aec-atp-aletab-rafjod-2026-10-31": 1793626835.59406,
   "aec-wta-warmdl-krinov-2026-11-02": 1793627437.4029028,
-  "aec-wta-jahzyl-yaskab-2026-11-02": 1793628632.6001503
+  "aec-wta-jahzyl-yaskab-2026-11-02": 1793628632.6001503,
+  "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523
  }
 }
