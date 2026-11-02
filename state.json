@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 17,
- "bounce_bets": 17,
+ "bets": 18,
+ "bounce_bets": 18,
  "realized": -0.7676,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-danagu-sebbae-2026-11-02",
+   "game": "atp:Baez@Merida",
+   "side": "short",
+   "team": "Sebastian Baez",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -379,6 +393,12 @@
    [
     1793625638.7655287,
     0.06
+   ]
+  ],
+  "aec-atp-danagu-sebbae-2026-11-02": [
+   [
+    1793629541.3419216,
+    0.1
    ]
   ]
  },
