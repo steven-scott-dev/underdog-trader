@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-02T12:35:38.722757-05:00",
+ "updated": "2026-11-02T12:40:34.942228-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-02",
   "bets": 24,
   "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.0126
+  "realized": -0.9126
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-leojea-lucbro-2026-11-02",
-   "game": "wta:Bronzetti@Jeanjean",
-   "side": "long",
-   "team": "Leolia Jeanjean",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-02 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-lauboe-prarac-2026-11-02",
-   "game": "wta:Rachapudi@Bohner",
-   "side": "short",
-   "team": "Prathyusha Rachapudi",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 07:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-11-02 07:45 ET",
-   "exit": 0.08,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-aletab-rafjod-2026-10-31",
    "game": "atp:Jodar@Tabilo",
@@ -196,20 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leojea-lucbro-2026-11-02",
+   "game": "wta:Bronzetti@Jeanjean",
+   "side": "long",
+   "team": "Leolia Jeanjean",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-11-02 12:40 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Bronzetti@Jeanjean",
-   "market": "aec-wta-leojea-lucbro-2026-11-02",
-   "side": "long",
+   "type": "paper_close",
    "team": "Leolia Jeanjean",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
