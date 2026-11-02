@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-02 08:00 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 15 / 100 (main 0, bounce 15)
 - Realized P&L: -0.53
 
 ## Open paper positions
-- **Alejandro Tabilo** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- **Alejandro Tabilo** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
