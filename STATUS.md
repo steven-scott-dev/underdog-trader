@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:25 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-02 07:30 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
+- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
