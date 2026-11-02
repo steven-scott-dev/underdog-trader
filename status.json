@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T07:30:44.051451-05:00",
+ "updated": "2026-11-02T07:35:45.613470-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-11-02",
-  "bets": 13,
-  "bounce_bets": 13,
+  "bets": 14,
+  "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.5545
@@ -23,7 +23,20 @@
    "sl": 0.028,
    "opened": "2026-11-02 07:20 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 07:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Rachapudi@Bohner",
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 13,
- "bounce_bets": 13,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": -0.5545,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.028,
    "opened": "2026-11-02 07:20 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 07:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -276,8 +289,8 @@
   ],
   "aec-wta-lauboe-prarac-2026-11-02": [
    [
-    1793618742.0182085,
-    0.1
+    1793622945.3609302,
+    0.04
    ]
   ],
   "aec-wta-isashi-dunvai-2026-11-02": [

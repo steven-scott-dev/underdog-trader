@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:30 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-11-02 07:35 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 13 / 100 (main 0, bounce 13)
+- Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
+- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
+- **Prathyusha Rachapudi** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,4 +21,4 @@ Updated: 2026-11-02 07:30 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-11-02 04:40 ET: Carol Young Suh Lee [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Rachapudi@Bohner", "market": "aec-wta-lauboe-prarac-2026-11-02", "side": "short", "team": "Prathyusha Rachapudi", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
