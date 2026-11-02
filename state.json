@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 19,
  "bounce_bets": 19,
- "realized": -0.8376,
- "paper_positions": [
-  {
-   "market": "aec-atp-camnor-matarn-2026-10-31",
-   "game": "atp:Arnaldi@Norrie",
-   "side": "short",
-   "team": "Matteo Arnaldi",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-02 10:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.7376,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -324,6 +310,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-camnor-matarn-2026-10-31",
+   "game": "atp:Arnaldi@Norrie",
+   "side": "short",
+   "team": "Matteo Arnaldi",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 10:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-02 10:35 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],

@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 10:30 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-02 10:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
-- Realized P&L: -0.84
+- Realized P&L: -0.74
 
 ## Open paper positions
-- **Matteo Arnaldi** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- _none_
 
 ## Recent history
+- 2026-11-02 10:35 ET: Matteo Arnaldi [bounce] — take-profit @ 0.1200 → +0.1000
 - 2026-11-02 09:36 ET: Sebastian Baez [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-11-02 08:40 ET: Jahnie van Zyl [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-02 08:20 ET: Warona Mdlulwa [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -17,7 +18,6 @@ Updated: 2026-11-02 10:30 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-11-02 07:45 ET: Adithya Karunaratne [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
-- 2026-11-02 06:50 ET: Dune Vaissaud [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Arnaldi@Norrie", "market": "aec-atp-camnor-matarn-2026-10-31", "side": "short", "team": "Matteo Arnaldi", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Matteo Arnaldi", "reason": "take-profit", "pnl": 0.1}`
