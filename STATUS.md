@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 18:41 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-02 18:46 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 30 / 100 (main 0, bounce 30)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 18:41 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-02 12:05 ET: Kyrian Jacquet [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Botic van de Zandschulp", "reason": "take-profit", "pnl": 0.1}`
+- _none_
