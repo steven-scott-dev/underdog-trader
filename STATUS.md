@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 15:35 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-02 15:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 28 / 100 (main 0, bounce 28)
-- Realized P&L: -1.13
+- Realized P&L: -1.23
 
 ## Open paper positions
-- **Selena Janicijevic** (long/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-11-02 15:40 ET: Selena Janicijevic [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-02 15:35 ET: Yuliana Lizarazo [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-11-02 13:45 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-11-02 13:40 ET: Maria Paulina Perez [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -17,7 +18,6 @@ Updated: 2026-11-02 15:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-02 12:05 ET: Kyrian Jacquet [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-02 11:55 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-11-02 11:15 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
-- 2026-11-02 11:05 ET: Lorenzo Sonego [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yuliana Lizarazo", "reason": "stop-loss", "pnl": -0.075}`
+- `{"type": "paper_close", "team": "Selena Janicijevic", "reason": "stop-loss", "pnl": -0.1}`

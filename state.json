@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 28,
  "bounce_bets": 28,
- "realized": -1.1293,
- "paper_positions": [
-  {
-   "market": "aec-wta-seljan-solsie-2026-11-02",
-   "game": "wta:Sierra@Janicijevic",
-   "side": "long",
-   "team": "Selena Janicijevic",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-02 15:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -1.2293,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -477,6 +463,23 @@
    "exit": 0.01,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-seljan-solsie-2026-11-02",
+   "game": "wta:Sierra@Janicijevic",
+   "side": "long",
+   "team": "Selena Janicijevic",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 15:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-02 15:40 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -640,6 +643,7 @@
   "aec-atp-kyrjac-tommac-2026-11-02": 1793640934.2325368,
   "aec-wta-caralv-marper-2026-11-02": 1793646636.376655,
   "aec-wta-leojea-lucbro-2026-11-02": 1793646937.1665616,
-  "aec-wta-lausam-yulliz-2026-11-02": 1793653537.952453
+  "aec-wta-lausam-yulliz-2026-11-02": 1793653537.952453,
+  "aec-wta-seljan-solsie-2026-11-02": 1793653837.2704608
  }
 }
