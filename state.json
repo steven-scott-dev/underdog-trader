@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.02,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-carlee-marsak-2026-11-01",
+   "game": "wta:Sakkari@Lee",
+   "side": "long",
+   "team": "Carol Young Suh Lee",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 03:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -52,6 +66,12 @@
    [
     1793603441.8856153,
     0.09
+   ]
+  ],
+  "aec-wta-carlee-marsak-2026-11-01": [
+   [
+    1793607935.8154976,
+    0.1
    ]
   ]
  },
