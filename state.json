@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 21,
  "bounce_bets": 21,
- "realized": -0.8001,
- "paper_positions": [
-  {
-   "market": "aec-wta-martor-luigio-2026-11-02",
-   "game": "wta:Giovannini@Murcia",
-   "side": "long",
-   "team": "Maria Torres",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 11:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -0.8751,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -358,6 +344,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-martor-luigio-2026-11-02",
+   "game": "wta:Giovannini@Murcia",
+   "side": "long",
+   "team": "Maria Torres",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 11:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-02 11:15 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -486,6 +489,7 @@
   "aec-wta-warmdl-krinov-2026-11-02": 1793627437.4029028,
   "aec-wta-jahzyl-yaskab-2026-11-02": 1793628632.6001503,
   "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523,
-  "aec-atp-matbel-lorson-2026-11-02": 1793637338.6981494
+  "aec-atp-matbel-lorson-2026-11-02": 1793637338.6981494,
+  "aec-wta-martor-luigio-2026-11-02": 1793637933.7151775
  }
 }
