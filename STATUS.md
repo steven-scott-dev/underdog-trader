@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 09:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-02 09:30 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
 - Realized P&L: -0.77
 
 ## Open paper positions
-- **Sebastian Baez** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Sebastian Baez** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 08:40 ET: Jahnie van Zyl [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-02 09:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-02 06:45 ET: Venus Williams [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Baez@Merida", "market": "aec-atp-danagu-sebbae-2026-11-02", "side": "short", "team": "Sebastian Baez", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_

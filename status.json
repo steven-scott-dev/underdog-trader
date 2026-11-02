@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:25:42.156490-05:00",
+ "updated": "2026-11-02T09:30:39.171320-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 09:25 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Baez@Merida",
-   "market": "aec-atp-danagu-sebbae-2026-11-02",
-   "side": "short",
-   "team": "Sebastian Baez",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
