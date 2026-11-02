@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 04:40 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-02 04:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
@@ -17,4 +17,4 @@ Updated: 2026-11-02 04:40 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-02 02:15 ET: Viktorija Golubic [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Carol Young Suh Lee", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
