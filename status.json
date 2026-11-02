@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T02:05:39.084479-05:00",
+ "updated": "2026-11-02T02:10:41.950830-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-02",
-  "bets": 1,
-  "bounce_bets": 1,
+  "bets": 2,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
@@ -23,10 +23,35 @@
    "sl": 0.02,
    "opened": "2026-11-02 02:00 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.03
+  },
+  {
+   "market": "aec-wta-claliu-tatpro-2026-11-01",
+   "game": "wta:Prozorova@Liu",
+   "side": "short",
+   "team": "Tatiana Prozorova",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 02:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Prozorova@Liu",
+   "market": "aec-wta-claliu-tatpro-2026-11-01",
+   "side": "short",
+   "team": "Tatiana Prozorova",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
