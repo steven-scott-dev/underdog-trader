@@ -2,22 +2,8 @@
  "date": "2026-11-01",
  "bets": 20,
  "bounce_bets": 20,
- "realized": 0.4585,
- "paper_positions": [
-  {
-   "market": "aec-nhl-edm-nyr-2026-11-01",
-   "game": "nhl:EDM@NYR",
-   "side": "short",
-   "team": "Rangers",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-01 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 0.3885,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-biaand-carmon-2026-10-31",
@@ -341,6 +327,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-edm-nyr-2026-11-01",
+   "game": "nhl:EDM@NYR",
+   "side": "short",
+   "team": "Rangers",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-01 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-01 20:20 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -461,6 +464,7 @@
   "aec-nfl-cle-pit-2026-11-01": 1793565361.083549,
   "aec-nfl-atl-tb-2026-11-01": 1793566257.4946656,
   "aec-nfl-bal-buf-2026-11-01": 1793566553.1386406,
-  "aec-nfl-ten-cin-2026-11-01": 1793571338.6369634
+  "aec-nfl-ten-cin-2026-11-01": 1793571338.6369634,
+  "aec-nhl-edm-nyr-2026-11-01": 1793584246.9385607
  }
 }
