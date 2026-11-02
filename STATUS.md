@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:45 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-02 07:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 15 / 100 (main 0, bounce 15)
 - Realized P&L: -0.53
 
 ## Open paper positions
-- **Alejandro Tabilo** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Alejandro Tabilo** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,6 +20,4 @@ Updated: 2026-11-02 07:45 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-02 06:00 ET: Luciano Darderi [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Adithya Karunaratne", "reason": "stop-loss", "pnl": -0.0714}`
-- `{"type": "paper_close", "team": "Prathyusha Rachapudi", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "atp:Jodar@Tabilo", "market": "aec-atp-aletab-rafjod-2026-10-31", "side": "long", "team": "Alejandro Tabilo", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
