@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 23,
- "bounce_bets": 23,
+ "bets": 24,
+ "bounce_bets": 24,
  "realized": -1.0126,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leojea-lucbro-2026-11-02",
+   "game": "wta:Bronzetti@Jeanjean",
+   "side": "long",
+   "team": "Leolia Jeanjean",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -511,6 +525,12 @@
    [
     1793638834.2904513,
     0.08
+   ]
+  ],
+  "aec-wta-leojea-lucbro-2026-11-02": [
+   [
+    1793640938.555776,
+    0.1
    ]
   ]
  },

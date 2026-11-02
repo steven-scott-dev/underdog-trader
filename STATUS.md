@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 12:30 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-02 12:35 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
-- Bets placed: 23 / 100 (main 0, bounce 23)
+- Bets placed: 24 / 100 (main 0, bounce 24)
 - Realized P&L: -1.01
 
 ## Open paper positions
-- _none_
+- **Leolia Jeanjean** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 12:05 ET: Kyrian Jacquet [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-11-02 12:30 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-02 08:20 ET: Warona Mdlulwa [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Bronzetti@Jeanjean", "market": "aec-wta-leojea-lucbro-2026-11-02", "side": "long", "team": "Leolia Jeanjean", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
