@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 26,
- "bounce_bets": 26,
+ "bets": 27,
+ "bounce_bets": 27,
  "realized": -1.0543,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-lausam-yulliz-2026-11-02",
+   "game": "wta:Lizarazo@Samson",
+   "side": "short",
+   "team": "Yuliana Lizarazo",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -573,6 +587,12 @@
   "aec-wta-caralv-marper-2026-11-02": [
    [
     1793642736.1335032,
+    0.04
+   ]
+  ],
+  "aec-wta-lausam-yulliz-2026-11-02": [
+   [
+    1793649335.4467742,
     0.04
    ]
   ]
