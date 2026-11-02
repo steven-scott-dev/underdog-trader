@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 11:15 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-02 11:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 21 / 100 (main 0, bounce 21)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 11:15 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Torres", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
