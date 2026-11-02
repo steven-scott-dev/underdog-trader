@@ -1,34 +1,21 @@
 {
  "date": "2026-11-02",
- "bets": 14,
- "bounce_bets": 14,
- "realized": -0.5545,
+ "bets": 15,
+ "bounce_bets": 15,
+ "realized": -0.5259,
  "paper_positions": [
   {
-   "market": "aec-wta-xinwan-adikar-2026-11-01",
-   "game": "wta:Karunaratne@Xinyu",
-   "side": "short",
-   "team": "Adithya Karunaratne",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-02 07:20 ET",
+   "market": "aec-atp-aletab-rafjod-2026-10-31",
+   "game": "atp:Jodar@Tabilo",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 07:45 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-lauboe-prarac-2026-11-02",
-   "game": "wta:Rachapudi@Bohner",
-   "side": "short",
-   "team": "Prathyusha Rachapudi",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 07:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -235,6 +222,40 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-xinwan-adikar-2026-11-01",
+   "game": "wta:Karunaratne@Xinyu",
+   "side": "short",
+   "team": "Adithya Karunaratne",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-02 07:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-02 07:45 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 07:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-02 07:45 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -304,6 +325,12 @@
     1793622036.1015964,
     0.07
    ]
+  ],
+  "aec-atp-aletab-rafjod-2026-10-31": [
+   [
+    1793623543.7038302,
+    0.06
+   ]
   ]
  },
  "cooldowns": {
@@ -315,6 +342,7 @@
   "aec-atp-lucdar-rinhij-2026-11-02": 1793619050.4656496,
   "aec-atp-ignbus-zizber-2026-10-31": 1793620249.8472736,
   "aec-wta-isashi-dunvai-2026-11-02": 1793622032.4139237,
-  "aec-wta-lauboe-prarac-2026-11-02": 1793622938.6750147
+  "aec-wta-lauboe-prarac-2026-11-02": 1793622938.6750147,
+  "aec-wta-xinwan-adikar-2026-11-01": 1793625343.0508342
  }
 }

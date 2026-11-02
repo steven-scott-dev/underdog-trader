@@ -1,79 +1,32 @@
 {
- "updated": "2026-11-02T07:40:44.439069-05:00",
+ "updated": "2026-11-02T07:45:43.929957-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-02",
-  "bets": 14,
-  "bounce_bets": 14,
+  "bets": 15,
+  "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.5545
+  "realized": -0.5259
  },
  "paper_positions": [
   {
-   "market": "aec-wta-xinwan-adikar-2026-11-01",
-   "game": "wta:Karunaratne@Xinyu",
-   "side": "short",
-   "team": "Adithya Karunaratne",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-02 07:20 ET",
+   "market": "aec-atp-aletab-rafjod-2026-10-31",
+   "game": "atp:Jodar@Tabilo",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 07:45 ET",
    "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-lauboe-prarac-2026-11-02",
-   "game": "wta:Rachapudi@Bohner",
-   "side": "short",
-   "team": "Prathyusha Rachapudi",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 07:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-katvol-alisas-2026-11-01",
-   "game": "wta:Sasnovich@Volynets",
-   "side": "long",
-   "team": "Katie Volynets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 04:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-02 04:30 ET",
-   "exit": 0.01,
-   "pnl": -0.0875,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-fraszi-madsaw-2026-11-02",
-   "game": "wta:Sawant@Sziedat",
-   "side": "short",
-   "team": "Madhurima Sawant",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-02 04:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-11-02 04:35 ET",
-   "exit": 0.03,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-carlee-marsak-2026-11-01",
    "game": "wta:Sakkari@Lee",
@@ -209,8 +162,66 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-xinwan-adikar-2026-11-01",
+   "game": "wta:Karunaratne@Xinyu",
+   "side": "short",
+   "team": "Adithya Karunaratne",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-02 07:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-02 07:45 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 07:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-02 07:45 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Adithya Karunaratne",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  },
+  {
+   "type": "paper_close",
+   "team": "Prathyusha Rachapudi",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "atp:Jodar@Tabilo",
+   "market": "aec-atp-aletab-rafjod-2026-10-31",
+   "side": "long",
+   "team": "Alejandro Tabilo",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

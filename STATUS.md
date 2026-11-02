@@ -1,24 +1,25 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:40 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-11-02 07:45 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 14 / 100 (main 0, bounce 14)
-- Realized P&L: -0.55
+- Bets placed: 15 / 100 (main 0, bounce 15)
+- Realized P&L: -0.53
 
 ## Open paper positions
-- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
-- **Prathyusha Rachapudi** (short/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Alejandro Tabilo** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
+- 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
+- 2026-11-02 07:45 ET: Adithya Karunaratne [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
 - 2026-11-02 06:50 ET: Dune Vaissaud [bounce] — stop-loss @ 0.0100 → -0.0889
 - 2026-11-02 06:45 ET: Venus Williams [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-11-02 06:40 ET: Venus Williams [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-11-02 06:20 ET: Zizou Bergs [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-11-02 06:00 ET: Luciano Darderi [bounce] — stop-loss @ 0.0200 → -0.0714
-- 2026-11-02 05:55 ET: Venus Williams [bounce] — stop-loss @ 0.0400 → -0.0600
-- 2026-11-02 04:40 ET: Carol Young Suh Lee [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Adithya Karunaratne", "reason": "stop-loss", "pnl": -0.0714}`
+- `{"type": "paper_close", "team": "Prathyusha Rachapudi", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "atp:Jodar@Tabilo", "market": "aec-atp-aletab-rafjod-2026-10-31", "side": "long", "team": "Alejandro Tabilo", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
