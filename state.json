@@ -1,21 +1,21 @@
 {
  "date": "2026-11-02",
- "bets": 16,
- "bounce_bets": 16,
- "realized": -0.5926,
+ "bets": 17,
+ "bounce_bets": 17,
+ "realized": -0.6676,
  "paper_positions": [
   {
-   "market": "aec-wta-warmdl-krinov-2026-11-02",
-   "game": "wta:Novak@Mdlulwa",
+   "market": "aec-wta-jahzyl-yaskab-2026-11-02",
+   "game": "wta:Kabbaj@Zyl",
    "side": "long",
-   "team": "Warona Mdlulwa",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 08:05 ET",
+   "team": "Jahnie van Zyl",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 08:20 ET",
    "mode": "bounce",
-   "last_bid": 0.02
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -273,6 +273,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-warmdl-krinov-2026-11-02",
+   "game": "wta:Novak@Mdlulwa",
+   "side": "long",
+   "team": "Warona Mdlulwa",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 08:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-02 08:20 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -354,6 +371,12 @@
     1793624737.510573,
     0.04
    ]
+  ],
+  "aec-wta-jahzyl-yaskab-2026-11-02": [
+   [
+    1793625638.7655287,
+    0.06
+   ]
   ]
  },
  "cooldowns": {
@@ -367,6 +390,7 @@
   "aec-wta-isashi-dunvai-2026-11-02": 1793622032.4139237,
   "aec-wta-lauboe-prarac-2026-11-02": 1793622938.6750147,
   "aec-wta-xinwan-adikar-2026-11-01": 1793625343.0508342,
-  "aec-atp-aletab-rafjod-2026-10-31": 1793626835.59406
+  "aec-atp-aletab-rafjod-2026-10-31": 1793626835.59406,
+  "aec-wta-warmdl-krinov-2026-11-02": 1793627437.4029028
  }
 }
