@@ -1,17 +1,44 @@
 {
- "updated": "2026-11-02T06:20:51.428225-05:00",
+ "updated": "2026-11-02T06:25:42.346286-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-02",
-  "bets": 8,
-  "bounce_bets": 8,
+  "bets": 10,
+  "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.4106
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "game": "wta:Stoiana@Williams",
+   "side": "long",
+   "team": "Venus Williams",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "game": "wta:Rachapudi@Bohner",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -153,10 +180,26 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Zizou Bergs",
-   "reason": "stop-loss",
-   "pnl": -0.075
+   "type": "buy",
+   "game": "wta:Stoiana@Williams",
+   "market": "aec-wta-venwil-marsto-2026-11-01",
+   "side": "long",
+   "team": "Venus Williams",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Rachapudi@Bohner",
+   "market": "aec-wta-lauboe-prarac-2026-11-02",
+   "side": "short",
+   "team": "Prathyusha Rachapudi",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }

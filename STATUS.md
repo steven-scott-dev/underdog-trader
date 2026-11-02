@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 06:20 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-02 06:25 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 8 / 100 (main 0, bounce 8)
+- Bets placed: 10 / 100 (main 0, bounce 10)
 - Realized P&L: -0.41
 
 ## Open paper positions
-- _none_
+- **Venus Williams** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Prathyusha Rachapudi** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 06:20 ET: Zizou Bergs [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -20,4 +21,5 @@ Updated: 2026-11-02 06:20 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-02 02:15 ET: Viktorija Golubic [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Zizou Bergs", "reason": "stop-loss", "pnl": -0.075}`
+- `{"type": "buy", "game": "wta:Stoiana@Williams", "market": "aec-wta-venwil-marsto-2026-11-01", "side": "long", "team": "Venus Williams", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Rachapudi@Bohner", "market": "aec-wta-lauboe-prarac-2026-11-02", "side": "short", "team": "Prathyusha Rachapudi", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
