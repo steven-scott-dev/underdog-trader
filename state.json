@@ -1,21 +1,21 @@
 {
  "date": "2026-11-02",
- "bets": 25,
- "bounce_bets": 25,
- "realized": -0.9126,
+ "bets": 26,
+ "bounce_bets": 26,
+ "realized": -0.9876,
  "paper_positions": [
   {
-   "market": "aec-wta-caralv-marper-2026-11-02",
-   "game": "wta:Garcia@Alves",
+   "market": "aec-wta-leojea-lucbro-2026-11-02",
+   "game": "wta:Bronzetti@Jeanjean",
    "side": "short",
-   "team": "Maria Paulina Perez",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-02 13:05 ET",
+   "team": "Lucia Bronzetti",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-02 13:40 ET",
    "mode": "bounce",
-   "last_bid": 0.02
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -426,6 +426,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-caralv-marper-2026-11-02",
+   "game": "wta:Garcia@Alves",
+   "side": "short",
+   "team": "Maria Paulina Perez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-02 13:40 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -546,8 +563,8 @@
   ],
   "aec-wta-leojea-lucbro-2026-11-02": [
    [
-    1793640938.555776,
-    0.1
+    1793644837.8962605,
+    0.06
    ]
   ],
   "aec-wta-caralv-marper-2026-11-02": [
@@ -574,6 +591,7 @@
   "aec-atp-danagu-sebbae-2026-11-02": 1793631961.7985523,
   "aec-atp-matbel-lorson-2026-11-02": 1793637338.6981494,
   "aec-wta-martor-luigio-2026-11-02": 1793640336.6280181,
-  "aec-atp-kyrjac-tommac-2026-11-02": 1793640934.2325368
+  "aec-atp-kyrjac-tommac-2026-11-02": 1793640934.2325368,
+  "aec-wta-caralv-marper-2026-11-02": 1793646636.376655
  }
 }
