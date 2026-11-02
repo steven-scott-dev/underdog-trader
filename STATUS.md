@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 11:45 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-02 11:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 22 / 100 (main 0, bounce 22)
 - Realized P&L: -0.88
 
 ## Open paper positions
-- **Maria Torres** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Maria Torres** (long/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 11:15 ET: Maria Torres [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -20,4 +20,4 @@ Updated: 2026-11-02 11:45 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-02 07:45 ET: Prathyusha Rachapudi [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Giovannini@Murcia", "market": "aec-wta-martor-luigio-2026-11-02", "side": "long", "team": "Maria Torres", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
