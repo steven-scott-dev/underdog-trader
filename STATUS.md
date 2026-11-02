@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 07:15 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-02 07:20 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
-- Bets placed: 12 / 100 (main 0, bounce 12)
+- Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- _none_
+- **Adithya Karunaratne** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-02 07:05 ET: Prathyusha Rachapudi [bounce] — stop-loss @ 0.0200 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-11-02 07:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-02 04:40 ET: Carol Young Suh Lee [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Karunaratne@Xinyu", "market": "aec-wta-xinwan-adikar-2026-11-01", "side": "short", "team": "Adithya Karunaratne", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
