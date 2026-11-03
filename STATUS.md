@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 22:10 ET · Mode: **PAPER** · Result: OK (23.6s)
+Updated: 2026-11-02 22:16 ET · Mode: **PAPER** · Result: OK (23.0s)
 
 ## Today
 - Bets placed: 34 / 100 (main 0, bounce 34)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 22:10 ET · Mode: **PAPER** · Result: OK (23.6s)
 - 2026-11-02 13:45 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Indiana Pacers", "reason": "settled", "pnl": 1.0}`
+- _none_
