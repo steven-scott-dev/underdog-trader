@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 08:10 ET · Mode: **PAPER** · Result: OK (7.4s)
+Updated: 2026-11-03 08:15 ET · Mode: **PAPER** · Result: OK (12.6s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: -0.74
 
 ## Open paper positions
-- **Moise Kouame** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Moise Kouame** (short/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-03 08:05 ET: Emerson Jones [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-03 08:10 ET · Mode: **PAPER** · Result: OK (7.4s)
 - 2026-11-03 02:50 ET: Oleksandra Oliynykova [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Kouame@Borges", "market": "aec-atp-nunbor-moikou-2026-11-03", "side": "short", "team": "Moise Kouame", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
