@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 31,
- "bounce_bets": 31,
+ "bets": 32,
+ "bounce_bets": 32,
  "realized": -1.2093,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-11-02 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nba-atl-ind-2026-11-02",
+   "game": "nba:ATL@IND",
+   "side": "short",
+   "team": "Indiana Pacers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 20:11 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -686,6 +699,12 @@
    [
     1793667939.179433,
     0.1
+   ]
+  ],
+  "aec-nba-atl-ind-2026-11-02": [
+   [
+    1793668264.7886724,
+    0.09
    ]
   ]
  },

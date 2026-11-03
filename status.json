@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T20:05:50.491781-05:00",
+ "updated": "2026-11-02T20:11:17.254022-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.3,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-11-02",
-  "bets": 31,
-  "bounce_bets": 31,
+  "bets": 32,
+  "bounce_bets": 32,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.2093
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-11-02 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nba-atl-ind-2026-11-02",
+   "game": "nba:ATL@IND",
+   "side": "short",
+   "team": "Indiana Pacers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 20:11 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -202,12 +215,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nba:BKN@NY",
-   "market": "aec-nba-bkn-ny-2026-11-02",
-   "side": "long",
-   "team": "Brooklyn Nets",
-   "ask": 0.1,
-   "qty": 1.0,
+   "game": "nba:ATL@IND",
+   "market": "aec-nba-atl-ind-2026-11-02",
+   "side": "short",
+   "team": "Indiana Pacers",
+   "ask": 0.09,
+   "qty": 1.1111,
    "stake": 0.1,
    "mode": "bounce"
   }
