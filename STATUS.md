@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 00:50 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-03 00:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
-- Realized P&L: +0.00
+- Realized P&L: +0.10
 
 ## Open paper positions
-- **Los Angeles Clippers** (short/bounce) — 2.0 @ 0.0500, now ~0.0300, unrealized -0.0400 (TP 0.1000 / SL 0.0200)
+- _none_
 
 ## Recent history
-- _none yet_
+- 2026-11-03 00:55 ET: Los Angeles Clippers [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Los Angeles Clippers", "reason": "take-profit", "pnl": 0.1}`

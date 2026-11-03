@@ -1,17 +1,18 @@
 {
- "updated": "2026-11-03T00:50:45.547040-05:00",
+ "updated": "2026-11-03T00:55:43.571852-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-03",
   "bets": 1,
   "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": 0.1
  },
- "paper_positions": [
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
    "game": "nba:TOR@LAC",
@@ -23,10 +24,20 @@
    "sl": 0.02,
    "opened": "2026-11-03 00:45 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.03,
+   "closed": "2026-11-03 00:55 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Los Angeles Clippers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
