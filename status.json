@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-03T01:50:33.919902-05:00",
+ "updated": "2026-11-03T01:55:42.276061-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 3.8,
  "daily": {
   "date": "2026-11-03",
-  "bets": 2,
-  "bounce_bets": 2,
+  "bets": 3,
+  "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.1
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-11-03 01:40 ET",
    "mode": "bounce",
-   "last_bid": 0.13
+   "last_bid": 0.19
+  },
+  {
+   "market": "aec-wta-okssel-teokos-2026-11-02",
+   "game": "wta:Kostovic@Selekhmeteva",
+   "side": "short",
+   "team": "Teodora Kostovic",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 01:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -46,5 +59,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Kostovic@Selekhmeteva",
+   "market": "aec-wta-okssel-teokos-2026-11-02",
+   "side": "short",
+   "team": "Teodora Kostovic",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
