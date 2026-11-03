@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 12,
- "bounce_bets": 12,
+ "bets": 13,
+ "bounce_bets": 13,
  "realized": -0.5506,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-03 06:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-wta-emejon-aleeal-2026-11-03",
+   "game": "wta:Eala@Jones",
+   "side": "long",
+   "team": "Emerson Jones",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 07:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -279,6 +292,12 @@
    [
     1793705449.566627,
     0.09
+   ]
+  ],
+  "aec-wta-emejon-aleeal-2026-11-03": [
+   [
+    1793707239.609488,
+    0.05
    ]
   ]
  },
