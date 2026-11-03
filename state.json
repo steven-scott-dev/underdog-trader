@@ -1,9 +1,23 @@
 {
  "date": "2026-11-03",
- "bets": 26,
- "bounce_bets": 26,
+ "bets": 27,
+ "bounce_bets": 27,
  "realized": 5.0045,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-julgra-laupig-2026-11-03",
+   "game": "wta:Pigossi@Grabher",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 17:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -598,6 +612,12 @@
    [
     1793731537.791765,
     0.09
+   ]
+  ],
+  "aec-wta-julgra-laupig-2026-11-03": [
+   [
+    1793745334.6572266,
+    0.05
    ]
   ]
  },
