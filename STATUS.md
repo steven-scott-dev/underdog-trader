@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 17:50 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-03 17:55 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 28 / 100 (main 0, bounce 28)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 17:50 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-03 13:15 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sofia Costoulas", "reason": "stop-loss", "pnl": -0.06}`
+- _none_

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T17:50:43.823211-05:00",
+ "updated": "2026-11-03T17:55:37.956957-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-03",
   "bets": 28,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sofia Costoulas",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }
