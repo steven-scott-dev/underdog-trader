@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 20:16 ET · Mode: **PAPER** · Result: OK (14.2s)
+Updated: 2026-11-02 20:21 ET · Mode: **PAPER** · Result: OK (25.5s)
 
 ## Today
 - Bets placed: 32 / 100 (main 0, bounce 32)
 - Realized P&L: -1.21
 
 ## Open paper positions
-- **Brooklyn Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
-- **Indiana Pacers** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Brooklyn Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.1200, unrealized +0.0200 (TP 0.2000 / SL 0.0400)
+- **Indiana Pacers** (short/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-02 18:41 ET: Botic van de Zandschulp [bounce] — take-profit @ 0.1400 → +0.1000
