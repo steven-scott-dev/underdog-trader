@@ -1,9 +1,31 @@
 {
  "date": "2026-11-03",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-tor-lac-2026-11-02",
+   "game": "nba:TOR@LAC",
+   "side": "short",
+   "team": "Los Angeles Clippers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 00:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-tor-lac-2026-11-02": [
+   [
+    1793684736.4987535,
+    0.05
+   ]
+  ]
+ }
 }
