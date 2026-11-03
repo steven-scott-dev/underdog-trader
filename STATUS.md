@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 04:05 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-03 04:10 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: -0.32
 
 ## Open paper positions
-- **Maddison Inglis** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- **Maddison Inglis** (long/bounce) — 1.0 @ 0.1000, now ~0.1900, unrealized +0.0900 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-03 02:50 ET: Oleksandra Oliynykova [bounce] — stop-loss @ 0.0200 → -0.0667
