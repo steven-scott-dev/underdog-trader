@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 04:30 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-03 04:35 ET · Mode: **PAPER** · Result: OK (6.9s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
 - Realized P&L: -0.41
 
 ## Open paper positions
-- **Darja Suvirdjonkova** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Darja Suvirdjonkova** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-03 04:30 ET: Maddison Inglis [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -19,4 +19,4 @@ Updated: 2026-11-03 04:30 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-03 00:55 ET: Los Angeles Clippers [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maddison Inglis", "reason": "stop-loss", "pnl": -0.09}`
+- _none_
