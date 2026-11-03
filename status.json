@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-03T11:40:45.272502-05:00",
+ "updated": "2026-11-03T12:26:03.479223-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 23.2,
  "daily": {
   "date": "2026-11-03",
   "bets": 20,
   "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
-  "realized": 5.2555
+  "realized": 5.168
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-katsco-renzar-2026-11-03",
-   "game": "wta:Zarazua@Scott",
-   "side": "long",
-   "team": "Katrina Scott",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-soflan-angoku-2026-11-02",
-   "game": "wta:Okutoyi@Lansere",
-   "side": "short",
-   "team": "Angella Okutoyi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-03 04:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-03 05:00 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-himsak-terval-2026-11-01",
    "game": "wta:Valentova@Sakatsume",
@@ -196,21 +165,32 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-katsco-renzar-2026-11-03",
+   "game": "wta:Zarazua@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-03 12:25 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Maayan Laron",
+   "team": "Katrina Scott",
    "reason": "settled",
-   "pnl": 1.1375
-  },
-  {
-   "type": "paper_close",
-   "team": "Maaya Rajeshwaran Revathi",
-   "reason": "stop-loss",
-   "pnl": -0.06
+   "pnl": -0.0875
   }
  ]
 }

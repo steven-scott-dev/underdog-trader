@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 20,
  "bounce_bets": 20,
- "realized": 5.2555,
- "paper_positions": [
-  {
-   "market": "aec-wta-katsco-renzar-2026-11-03",
-   "game": "wta:Zarazua@Scott",
-   "side": "long",
-   "team": "Katrina Scott",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 5.168,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -341,6 +327,23 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-katsco-renzar-2026-11-03",
+   "game": "wta:Zarazua@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-03 12:25 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "settled"
   }
  ],
  "live_history": [],
