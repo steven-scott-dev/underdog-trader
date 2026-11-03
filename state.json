@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 17,
- "bounce_bets": 17,
+ "bets": 18,
+ "bounce_bets": 18,
  "realized": 0.8105,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-03 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-alifal-maglin-2026-11-02",
@@ -41,7 +41,20 @@
    "sl": 0.02,
    "opened": "2026-11-03 10:40 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-atp-tompau-holrun-2026-10-31",
+   "game": "atp:Rune@Paul",
+   "side": "short",
+   "team": "Holger Rune",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 10:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -386,6 +399,12 @@
    [
     1793720445.2092001,
     0.05
+   ]
+  ],
+  "aec-atp-tompau-holrun-2026-10-31": [
+   [
+    1793720736.6899536,
+    0.06
    ]
   ]
  },
