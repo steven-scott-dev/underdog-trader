@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-03T05:20:55.527627-05:00",
+ "updated": "2026-11-03T06:30:49.897300-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.8,
+ "duration_s": 11.5,
  "daily": {
   "date": "2026-11-03",
-  "bets": 11,
-  "bounce_bets": 11,
+  "bets": 12,
+  "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.4606
+  "realized": -0.5506
  },
  "paper_positions": [
   {
-   "market": "aec-wta-himsak-terval-2026-11-01",
-   "game": "wta:Valentova@Sakatsume",
+   "market": "aec-wta-vikmor-polkud-2026-11-02",
+   "game": "wta:Kudermetova@Morvayova",
    "side": "long",
-   "team": "Himeno Sakatsume",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 05:00 ET",
+   "team": "Viktoria Morvayova",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 06:30 ET",
    "mode": "bounce",
    "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-tor-lac-2026-11-02",
-   "game": "nba:TOR@LAC",
-   "side": "short",
-   "team": "Los Angeles Clippers",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-03 00:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-11-03 00:55 ET",
-   "exit": 0.1,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-okssel-teokos-2026-11-02",
    "game": "wta:Kostovic@Selekhmeteva",
@@ -196,8 +179,43 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-himsak-terval-2026-11-01",
+   "game": "wta:Valentova@Sakatsume",
+   "side": "long",
+   "team": "Himeno Sakatsume",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 05:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-03 06:30 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Himeno Sakatsume",
+   "reason": "settled",
+   "pnl": -0.09
+  },
+  {
+   "type": "buy",
+   "game": "wta:Kudermetova@Morvayova",
+   "market": "aec-wta-vikmor-polkud-2026-11-02",
+   "side": "long",
+   "team": "Viktoria Morvayova",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

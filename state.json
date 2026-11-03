@@ -1,19 +1,19 @@
 {
  "date": "2026-11-03",
- "bets": 11,
- "bounce_bets": 11,
- "realized": -0.4606,
+ "bets": 12,
+ "bounce_bets": 12,
+ "realized": -0.5506,
  "paper_positions": [
   {
-   "market": "aec-wta-himsak-terval-2026-11-01",
-   "game": "wta:Valentova@Sakatsume",
+   "market": "aec-wta-vikmor-polkud-2026-11-02",
+   "game": "wta:Kudermetova@Morvayova",
    "side": "long",
-   "team": "Himeno Sakatsume",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 05:00 ET",
+   "team": "Viktoria Morvayova",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 06:30 ET",
    "mode": "bounce",
    "last_bid": 0.09
   }
@@ -188,6 +188,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-himsak-terval-2026-11-01",
+   "game": "wta:Valentova@Sakatsume",
+   "side": "long",
+   "team": "Himeno Sakatsume",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 05:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-03 06:30 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -256,6 +273,12 @@
    [
     1793700036.2055728,
     0.1
+   ]
+  ],
+  "aec-wta-vikmor-polkud-2026-11-02": [
+   [
+    1793705449.566627,
+    0.09
    ]
   ]
  },
