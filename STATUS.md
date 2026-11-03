@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 02:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-03 02:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
 - Realized P&L: -0.05
 
 ## Open paper positions
-- **Jil Teichmann** (long/bounce) — 1.0 @ 0.1000, now ~0.1700, unrealized +0.0700 (TP 0.2000 / SL 0.0400)
+- **Jil Teichmann** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-03 02:20 ET: Panna Udvardy [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -15,4 +15,4 @@ Updated: 2026-11-03 02:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-03 00:55 ET: Los Angeles Clippers [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Panna Udvardy", "reason": "stop-loss", "pnl": -0.09}`
+- _none_
