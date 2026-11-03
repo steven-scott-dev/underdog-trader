@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 13:50 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-11-03 13:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 25 / 100 (main 0, bounce 25)
 - Realized P&L: +4.99
 
 ## Open paper positions
-- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1200, unrealized +0.0500 (TP 0.1600 / SL 0.0320)
+- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1300, unrealized +0.0625 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-03 13:50 ET: Mei Yamaguchi [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-03 13:50 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-11-03 11:30 ET: Holger Rune [bounce] — settled @ 0.9900 → +1.5500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Mei Yamaguchi", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
