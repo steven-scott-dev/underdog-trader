@@ -2,7 +2,7 @@
  "date": "2026-11-03",
  "bets": 25,
  "bounce_bets": 25,
- "realized": 5.0902,
+ "realized": 4.9902,
  "paper_positions": [
   {
    "market": "aec-wta-sahyam-simwal-2026-11-02",
@@ -15,20 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-03 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-wta-meiyam-zhikul-2026-11-02",
-   "game": "wta:Kulambayeva@Yamaguchi",
-   "side": "long",
-   "team": "Mei Yamaguchi",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-03 13:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.12
   }
  ],
  "paper_history": [
@@ -422,6 +409,23 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-meiyam-zhikul-2026-11-02",
+   "game": "wta:Kulambayeva@Yamaguchi",
+   "side": "long",
+   "team": "Mei Yamaguchi",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 13:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-03 13:50 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -590,6 +594,7 @@
   "aec-wta-alifal-maglin-2026-11-02": 1793725236.046254,
   "aec-wta-maarev-katkaw-2026-11-02": 1793725833.3180425,
   "aec-wta-elvkal-ireesc-2026-11-03": 1793731545.5141222,
-  "aec-atp-benshe-camnor-2026-11-03": 1793733336.36206
+  "aec-atp-benshe-camnor-2026-11-03": 1793733336.36206,
+  "aec-wta-meiyam-zhikul-2026-11-02": 1793733644.0100076
  }
 }
