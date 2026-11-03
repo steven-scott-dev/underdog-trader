@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 13:55 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-03 14:00 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 25 / 100 (main 0, bounce 25)
 - Realized P&L: +4.99
 
 ## Open paper positions
-- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1300, unrealized +0.0625 (TP 0.1600 / SL 0.0320)
+- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1500, unrealized +0.0875 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-03 13:50 ET: Mei Yamaguchi [bounce] — stop-loss @ 0.0000 → -0.1000
