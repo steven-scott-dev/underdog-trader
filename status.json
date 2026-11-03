@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T01:40:42.725854-05:00",
+ "updated": "2026-11-03T01:45:37.021458-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-03",
   "bets": 2,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-03 01:40 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -46,17 +46,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Garland@Teichmann",
-   "market": "aec-wta-jiltei-joagar-2026-11-02",
-   "side": "long",
-   "team": "Jil Teichmann",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
