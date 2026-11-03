@@ -5,19 +5,6 @@
  "realized": 5.168,
  "paper_positions": [
   {
-   "market": "aec-wta-carmon-margon-2026-11-03",
-   "game": "wta:Gonzalez@Monnet",
-   "side": "short",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-03 12:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  },
-  {
    "market": "aec-wta-sahyam-simwal-2026-11-02",
    "game": "wta:Waltert@Yamalapalli",
    "side": "long",
@@ -28,20 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-03 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-wta-elvkal-ireesc-2026-11-03",
-   "game": "wta:Burillo@Kalieva",
-   "side": "long",
-   "team": "Elvina Kalieva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -384,6 +358,40 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-carmon-margon-2026-11-03",
+   "game": "wta:Gonzalez@Monnet",
+   "side": "short",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-03 12:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-03 13:15 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-elvkal-ireesc-2026-11-03",
+   "game": "wta:Burillo@Kalieva",
+   "side": "long",
+   "team": "Elvina Kalieva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-11-03 13:15 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -538,6 +546,7 @@
   "aec-wta-tiplem-lamazi-2026-11-02": 1793701835.4995468,
   "aec-wta-emejon-aleeal-2026-11-03": 1793712933.778592,
   "aec-wta-alifal-maglin-2026-11-02": 1793725236.046254,
-  "aec-wta-maarev-katkaw-2026-11-02": 1793725833.3180425
+  "aec-wta-maarev-katkaw-2026-11-02": 1793725833.3180425,
+  "aec-wta-elvkal-ireesc-2026-11-03": 1793731545.5141222
  }
 }
