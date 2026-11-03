@@ -2,34 +2,8 @@
  "date": "2026-11-03",
  "bets": 20,
  "bounce_bets": 20,
- "realized": 4.178,
+ "realized": 5.2555,
  "paper_positions": [
-  {
-   "market": "aec-wta-jusmik-maalar-2026-11-02",
-   "game": "wta:Laron@Mikulskyte",
-   "side": "short",
-   "team": "Maayan Laron",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 10:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-wta-maarev-katkaw-2026-11-02",
-   "game": "wta:Kawa@Revathi",
-   "side": "long",
-   "team": "Maaya Rajeshwaran Revathi",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-03 11:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
   {
    "market": "aec-wta-katsco-renzar-2026-11-03",
    "game": "wta:Zarazua@Scott",
@@ -41,7 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-03 11:30 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -333,6 +307,40 @@
    "exit": 0.99,
    "pnl": 1.55,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-jusmik-maalar-2026-11-02",
+   "game": "wta:Laron@Mikulskyte",
+   "side": "short",
+   "team": "Maayan Laron",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 10:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-03 11:40 ET",
+   "exit": 0.99,
+   "pnl": 1.1375,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-wta-maarev-katkaw-2026-11-02",
+   "game": "wta:Kawa@Revathi",
+   "side": "long",
+   "team": "Maaya Rajeshwaran Revathi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 11:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-03 11:40 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -468,6 +476,7 @@
   "aec-wta-darsuv-markub-2026-11-03": 1793701835.4852862,
   "aec-wta-tiplem-lamazi-2026-11-02": 1793701835.4995468,
   "aec-wta-emejon-aleeal-2026-11-03": 1793712933.778592,
-  "aec-wta-alifal-maglin-2026-11-02": 1793725236.046254
+  "aec-wta-alifal-maglin-2026-11-02": 1793725236.046254,
+  "aec-wta-maarev-katkaw-2026-11-02": 1793725833.3180425
  }
 }
