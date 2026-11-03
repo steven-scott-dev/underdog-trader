@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 05:05 ET · Mode: **PAPER** · Result: OK (11.9s)
+Updated: 2026-11-03 05:10 ET · Mode: **PAPER** · Result: OK (21.2s)
 
 ## Today
 - Bets placed: 11 / 100 (main 0, bounce 11)
 - Realized P&L: -0.46
 
 ## Open paper positions
-- **Himeno Sakatsume** (long/bounce) — 1.0 @ 0.1000, now ~0.1900, unrealized +0.0900 (TP 0.2000 / SL 0.0400)
+- **Himeno Sakatsume** (long/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-03 05:00 ET: Angella Okutoyi [bounce] — take-profit @ 0.1400 → +0.1000
