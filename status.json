@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T22:35:48.766065-05:00",
+ "updated": "2026-11-02T22:45:47.685699-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.4,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-11-02",
   "bets": 35,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Blackhawks",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  },
-  {
-   "type": "paper_close",
-   "team": "Dallas Mavericks",
-   "reason": "settled",
-   "pnl": 2.375
-  }
- ]
+ "actions": []
 }

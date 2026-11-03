@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 22:35 ET · Mode: **PAPER** · Result: OK (12.4s)
+Updated: 2026-11-02 22:45 ET · Mode: **PAPER** · Result: OK (13.9s)
 
 ## Today
 - Bets placed: 35 / 100 (main 0, bounce 35)
@@ -20,5 +20,4 @@ Updated: 2026-11-02 22:35 ET · Mode: **PAPER** · Result: OK (12.4s)
 - 2026-11-02 15:40 ET: Selena Janicijevic [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blackhawks", "reason": "stop-loss", "pnl": -0.075}`
-- `{"type": "paper_close", "team": "Dallas Mavericks", "reason": "settled", "pnl": 2.375}`
+- _none_
