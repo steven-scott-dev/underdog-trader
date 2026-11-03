@@ -1,8 +1,8 @@
 {
  "date": "2026-11-03",
- "bets": 18,
- "bounce_bets": 18,
- "realized": 0.8105,
+ "bets": 20,
+ "bounce_bets": 20,
+ "realized": 4.178,
  "paper_positions": [
   {
    "market": "aec-wta-jusmik-maalar-2026-11-02",
@@ -15,46 +15,33 @@
    "sl": 0.032,
    "opened": "2026-11-03 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.06
-  },
-  {
-   "market": "aec-wta-alifal-maglin-2026-11-02",
-   "game": "wta:Linette@Falei",
-   "side": "long",
-   "team": "Aliona Falei",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 10:40 ET",
-   "mode": "bounce",
    "last_bid": 0.08
   },
   {
-   "market": "aec-wta-zonli-anasan-2026-11-03",
-   "game": "wta:Sanchez@Zongyu",
-   "side": "short",
-   "team": "Ana Sofia Sanchez",
+   "market": "aec-wta-maarev-katkaw-2026-11-02",
+   "game": "wta:Kawa@Revathi",
+   "side": "long",
+   "team": "Maaya Rajeshwaran Revathi",
    "entry": 0.05,
    "qty": 2.0,
    "tp": 0.1,
    "sl": 0.02,
-   "opened": "2026-11-03 10:40 ET",
+   "opened": "2026-11-03 11:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
   },
   {
-   "market": "aec-atp-tompau-holrun-2026-10-31",
-   "game": "atp:Rune@Paul",
-   "side": "short",
-   "team": "Holger Rune",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 10:45 ET",
+   "market": "aec-wta-katsco-renzar-2026-11-03",
+   "game": "wta:Zarazua@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 11:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -295,6 +282,57 @@
    "exit": 0.99,
    "pnl": 1.55,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-alifal-maglin-2026-11-02",
+   "game": "wta:Linette@Falei",
+   "side": "long",
+   "team": "Aliona Falei",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 10:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-03 11:30 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-zonli-anasan-2026-11-03",
+   "game": "wta:Sanchez@Zongyu",
+   "side": "short",
+   "team": "Ana Sofia Sanchez",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 10:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-11-03 11:30 ET",
+   "exit": 0.99,
+   "pnl": 1.88,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-atp-tompau-holrun-2026-10-31",
+   "game": "atp:Rune@Paul",
+   "side": "short",
+   "team": "Holger Rune",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 10:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-03 11:30 ET",
+   "exit": 0.99,
+   "pnl": 1.55,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -406,6 +444,18 @@
     1793720736.6899536,
     0.06
    ]
+  ],
+  "aec-wta-maarev-katkaw-2026-11-02": [
+   [
+    1793723447.1923816,
+    0.05
+   ]
+  ],
+  "aec-wta-katsco-renzar-2026-11-03": [
+   [
+    1793723447.4795902,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -417,6 +467,7 @@
   "aec-wta-mading-mayjoi-2026-11-01": 1793700032.6735418,
   "aec-wta-darsuv-markub-2026-11-03": 1793701835.4852862,
   "aec-wta-tiplem-lamazi-2026-11-02": 1793701835.4995468,
-  "aec-wta-emejon-aleeal-2026-11-03": 1793712933.778592
+  "aec-wta-emejon-aleeal-2026-11-03": 1793712933.778592,
+  "aec-wta-alifal-maglin-2026-11-02": 1793725236.046254
  }
 }
