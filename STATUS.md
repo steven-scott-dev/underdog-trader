@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 02:50 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-03 02:55 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
@@ -18,5 +18,4 @@ Updated: 2026-11-03 02:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-03 00:55 ET: Los Angeles Clippers [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Dayana Yastremska", "reason": "stop-loss", "pnl": -0.1}`
-- `{"type": "paper_close", "team": "Oleksandra Oliynykova", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
