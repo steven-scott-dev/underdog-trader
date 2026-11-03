@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 12:26 ET · Mode: **PAPER** · Result: OK (23.2s)
+Updated: 2026-11-03 12:31 ET · Mode: **PAPER** · Result: OK (23.6s)
 
 ## Today
-- Bets placed: 20 / 100 (main 0, bounce 20)
+- Bets placed: 21 / 100 (main 0, bounce 21)
 - Realized P&L: +5.17
 
 ## Open paper positions
-- _none_
+- **Maria Fernanda Herazo Gonzalez** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-03 12:25 ET: Katrina Scott [bounce] — settled @ 0.0100 → -0.0875
@@ -20,4 +20,4 @@ Updated: 2026-11-03 12:26 ET · Mode: **PAPER** · Result: OK (23.2s)
 - 2026-11-03 08:05 ET: Emerson Jones [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Katrina Scott", "reason": "settled", "pnl": -0.0875}`
+- `{"type": "buy", "game": "wta:Gonzalez@Monnet", "market": "aec-wta-carmon-margon-2026-11-03", "side": "short", "team": "Maria Fernanda Herazo Gonzalez", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`

@@ -1,9 +1,23 @@
 {
  "date": "2026-11-03",
- "bets": 20,
- "bounce_bets": 20,
+ "bets": 21,
+ "bounce_bets": 21,
  "realized": 5.168,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-carmon-margon-2026-11-03",
+   "game": "wta:Gonzalez@Monnet",
+   "side": "short",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-03 12:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -466,6 +480,12 @@
    [
     1793723447.4795902,
     0.08
+   ]
+  ],
+  "aec-wta-carmon-margon-2026-11-03": [
+   [
+    1793727052.4237597,
+    0.04
    ]
   ]
  },
