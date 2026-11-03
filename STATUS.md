@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 06:30 ET · Mode: **PAPER** · Result: OK (11.5s)
+Updated: 2026-11-03 06:35 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
@@ -20,5 +20,4 @@ Updated: 2026-11-03 06:30 ET · Mode: **PAPER** · Result: OK (11.5s)
 - 2026-11-03 02:45 ET: Jil Teichmann [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Himeno Sakatsume", "reason": "settled", "pnl": -0.09}`
-- `{"type": "buy", "game": "wta:Kudermetova@Morvayova", "market": "aec-wta-vikmor-polkud-2026-11-02", "side": "long", "team": "Viktoria Morvayova", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
