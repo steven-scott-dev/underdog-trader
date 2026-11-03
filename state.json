@@ -1,21 +1,21 @@
 {
  "date": "2026-11-02",
- "bets": 36,
- "bounce_bets": 36,
- "realized": 2.0907,
+ "bets": 37,
+ "bounce_bets": 37,
+ "realized": 2.1907,
  "paper_positions": [
   {
-   "market": "aec-nba-por-den-2026-11-02",
-   "game": "nba:POR@DEN",
+   "market": "aec-nhl-cgy-sj-2026-11-02",
+   "game": "nhl:CGY@SJ",
    "side": "short",
-   "team": "Denver Nuggets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 23:20 ET",
+   "team": "Sharks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-02 23:25 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -613,6 +613,23 @@
    "exit": 0.99,
    "pnl": 2.375,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nba-por-den-2026-11-02",
+   "game": "nba:POR@DEN",
+   "side": "short",
+   "team": "Denver Nuggets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-02 23:25 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -801,6 +818,12 @@
    [
     1793679634.920016,
     0.08
+   ]
+  ],
+  "aec-nhl-cgy-sj-2026-11-02": [
+   [
+    1793679937.6157193,
+    0.05
    ]
   ]
  },

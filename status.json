@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-02T23:20:35.636918-05:00",
+ "updated": "2026-11-02T23:25:38.034619-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-02",
-  "bets": 36,
-  "bounce_bets": 36,
+  "bets": 37,
+  "bounce_bets": 37,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.0907
+  "realized": 2.1907
  },
  "paper_positions": [
   {
-   "market": "aec-nba-por-den-2026-11-02",
-   "game": "nba:POR@DEN",
+   "market": "aec-nhl-cgy-sj-2026-11-02",
+   "game": "nhl:CGY@SJ",
    "side": "short",
-   "team": "Denver Nuggets",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-02 23:20 ET",
+   "team": "Sharks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-02 23:25 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-leojea-lucbro-2026-11-02",
-   "game": "wta:Bronzetti@Jeanjean",
-   "side": "short",
-   "team": "Lucia Bronzetti",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-02 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-02 13:45 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-lausam-yulliz-2026-11-02",
    "game": "wta:Lizarazo@Samson",
@@ -196,18 +179,41 @@
    "exit": 0.99,
    "pnl": 2.375,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nba-por-den-2026-11-02",
+   "game": "nba:POR@DEN",
+   "side": "short",
+   "team": "Denver Nuggets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-02 23:25 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nba:POR@DEN",
-   "market": "aec-nba-por-den-2026-11-02",
-   "side": "short",
+   "type": "paper_close",
    "team": "Denver Nuggets",
-   "ask": 0.08,
-   "qty": 1.25,
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nhl:CGY@SJ",
+   "market": "aec-nhl-cgy-sj-2026-11-02",
+   "side": "short",
+   "team": "Sharks",
+   "ask": 0.05,
+   "qty": 2.0,
    "stake": 0.1,
    "mode": "bounce"
   }
