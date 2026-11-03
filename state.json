@@ -1,9 +1,23 @@
 {
  "date": "2026-11-03",
- "bets": 13,
- "bounce_bets": 13,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": -0.7395,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-nunbor-moikou-2026-11-03",
+   "game": "atp:Kouame@Borges",
+   "side": "short",
+   "team": "Moise Kouame",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -305,6 +319,12 @@
    [
     1793707239.609488,
     0.05
+   ]
+  ],
+  "aec-atp-nunbor-moikou-2026-11-03": [
+   [
+    1793711435.7560315,
+    0.06
    ]
   ]
  },
