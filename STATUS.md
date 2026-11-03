@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 14:06 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-11-03 14:10 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 25 / 100 (main 0, bounce 25)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 14:06 ET · Mode: **PAPER** · Result: OK (13.5s)
 - 2026-11-03 11:40 ET: Maayan Laron [bounce] — settled @ 0.9900 → +1.1375
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sahaja Yamalapalli", "reason": "take-profit", "pnl": 0.1}`
+- _none_
