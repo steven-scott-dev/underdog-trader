@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 20:01 ET · Mode: **PAPER** · Result: OK (13.0s)
+Updated: 2026-11-02 20:05 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
-- Bets placed: 30 / 100 (main 0, bounce 30)
+- Bets placed: 31 / 100 (main 0, bounce 31)
 - Realized P&L: -1.21
 
 ## Open paper positions
-- _none_
+- **Brooklyn Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 18:41 ET: Botic van de Zandschulp [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-02 20:01 ET · Mode: **PAPER** · Result: OK (13.0s)
 - 2026-11-02 12:05 ET: Kyrian Jacquet [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:BKN@NY", "market": "aec-nba-bkn-ny-2026-11-02", "side": "long", "team": "Brooklyn Nets", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

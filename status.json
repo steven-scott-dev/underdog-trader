@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-02T20:01:25.391976-05:00",
+ "updated": "2026-11-02T20:05:50.491781-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-02",
-  "bets": 30,
-  "bounce_bets": 30,
+  "bets": 31,
+  "bounce_bets": 31,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.2093
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-bkn-ny-2026-11-02",
+   "game": "nba:BKN@NY",
+   "side": "long",
+   "team": "Brooklyn Nets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-martor-luigio-2026-11-02",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:BKN@NY",
+   "market": "aec-nba-bkn-ny-2026-11-02",
+   "side": "long",
+   "team": "Brooklyn Nets",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

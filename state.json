@@ -1,9 +1,23 @@
 {
  "date": "2026-11-02",
- "bets": 30,
- "bounce_bets": 30,
+ "bets": 31,
+ "bounce_bets": 31,
  "realized": -1.2093,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-bkn-ny-2026-11-02",
+   "game": "nba:BKN@NY",
+   "side": "long",
+   "team": "Brooklyn Nets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -666,6 +680,12 @@
    [
     1793661993.755636,
     0.07
+   ]
+  ],
+  "aec-nba-bkn-ny-2026-11-02": [
+   [
+    1793667939.179433,
+    0.1
    ]
   ]
  },
