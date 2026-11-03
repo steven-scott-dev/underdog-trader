@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 32,
- "bounce_bets": 32,
+ "bets": 33,
+ "bounce_bets": 33,
  "realized": -1.2093,
  "paper_positions": [
   {
@@ -15,7 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-02 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.17
+   "last_bid": 0.08
   },
   {
    "market": "aec-nba-atl-ind-2026-11-02",
@@ -29,6 +29,19 @@
    "opened": "2026-11-02 20:11 ET",
    "mode": "bounce",
    "last_bid": 0.06
+  },
+  {
+   "market": "aec-nba-mil-min-2026-11-02",
+   "game": "nba:MIL@MIN",
+   "side": "long",
+   "team": "Milwaukee Bucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-02 20:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -705,6 +718,12 @@
    [
     1793668264.7886724,
     0.09
+   ]
+  ],
+  "aec-nba-mil-min-2026-11-02": [
+   [
+    1793670048.739977,
+    0.1
    ]
   ]
  },
