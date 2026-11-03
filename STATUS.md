@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 13:15 ET · Mode: **PAPER** · Result: OK (11.2s)
+Updated: 2026-11-03 13:21 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 23 / 100 (main 0, bounce 23)
 - Realized P&L: +5.17
 
 ## Open paper positions
-- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
+- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1000, unrealized +0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-03 13:15 ET: Elvina Kalieva [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,5 +20,4 @@ Updated: 2026-11-03 13:15 ET · Mode: **PAPER** · Result: OK (11.2s)
 - 2026-11-03 11:30 ET: Aliona Falei [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Fernanda Herazo Gonzalez", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Elvina Kalieva", "reason": "stop-loss", "pnl": -0.1}`
+- _none_

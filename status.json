@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T13:15:56.077402-05:00",
+ "updated": "2026-11-03T13:21:00.506110-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.2,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-03",
   "bets": 23,
@@ -23,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-11-03 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.11
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -199,18 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Elvina Kalieva",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }
