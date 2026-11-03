@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-03T10:35:48.664728-05:00",
+ "updated": "2026-11-03T10:40:45.209977-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-03",
-  "bets": 15,
-  "bounce_bets": 15,
+  "bets": 17,
+  "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.8105
@@ -23,7 +23,33 @@
    "sl": 0.032,
    "opened": "2026-11-03 10:35 ET",
    "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-alifal-maglin-2026-11-02",
+   "game": "wta:Linette@Falei",
+   "side": "long",
+   "team": "Aliona Falei",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 10:40 ET",
+   "mode": "bounce",
    "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-zonli-anasan-2026-11-03",
+   "game": "wta:Sanchez@Zongyu",
+   "side": "short",
+   "team": "Ana Sofia Sanchez",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 10:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -201,19 +227,24 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Moise Kouame",
-   "reason": "settled",
-   "pnl": 1.55
+   "type": "buy",
+   "game": "wta:Linette@Falei",
+   "market": "aec-wta-alifal-maglin-2026-11-02",
+   "side": "long",
+   "team": "Aliona Falei",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
   },
   {
    "type": "buy",
-   "game": "wta:Laron@Mikulskyte",
-   "market": "aec-wta-jusmik-maalar-2026-11-02",
+   "game": "wta:Sanchez@Zongyu",
+   "market": "aec-wta-zonli-anasan-2026-11-03",
    "side": "short",
-   "team": "Maayan Laron",
-   "ask": 0.08,
-   "qty": 1.25,
+   "team": "Ana Sofia Sanchez",
+   "ask": 0.05,
+   "qty": 2.0,
    "stake": 0.1,
    "mode": "bounce"
   }
