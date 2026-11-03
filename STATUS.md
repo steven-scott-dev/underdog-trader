@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 23:40 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-02 23:45 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 37 / 100 (main 0, bounce 37)
@@ -20,4 +20,4 @@ Updated: 2026-11-02 23:40 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-02 18:41 ET: Botic van de Zandschulp [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sharks", "reason": "take-profit", "pnl": 0.1}`
+- _none_
