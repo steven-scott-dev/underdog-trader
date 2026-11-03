@@ -2,22 +2,8 @@
  "date": "2026-11-02",
  "bets": 37,
  "bounce_bets": 37,
- "realized": 2.1907,
- "paper_positions": [
-  {
-   "market": "aec-nhl-cgy-sj-2026-11-02",
-   "game": "nhl:CGY@SJ",
-   "side": "short",
-   "team": "Sharks",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-02 23:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 2.2907,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-vikgol-katbou-2026-11-01",
@@ -628,6 +614,23 @@
    "last_bid": 0.08,
    "closed": "2026-11-02 23:25 ET",
    "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-cgy-sj-2026-11-02",
+   "game": "nhl:CGY@SJ",
+   "side": "short",
+   "team": "Sharks",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-02 23:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-02 23:40 ET",
+   "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
   }
