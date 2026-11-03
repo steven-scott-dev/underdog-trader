@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
- "bets": 34,
- "bounce_bets": 34,
+ "bets": 35,
+ "bounce_bets": 35,
  "realized": -0.2093,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-11-02 21:55 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-nba-sac-dal-2026-11-02",
+   "game": "nba:SAC@DAL",
+   "side": "short",
+   "team": "Dallas Mavericks",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-02 22:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -755,6 +768,12 @@
    [
     1793674548.5046375,
     0.08
+   ]
+  ],
+  "aec-nba-sac-dal-2026-11-02": [
+   [
+    1793676037.5689287,
+    0.04
    ]
   ]
  },

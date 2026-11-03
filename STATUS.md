@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 22:16 ET · Mode: **PAPER** · Result: OK (23.0s)
+Updated: 2026-11-02 22:20 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
-- Bets placed: 34 / 100 (main 0, bounce 34)
+- Bets placed: 35 / 100 (main 0, bounce 35)
 - Realized P&L: -0.21
 
 ## Open paper positions
-- **Blackhawks** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- **Blackhawks** (short/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
+- **Dallas Mavericks** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-02 22:10 ET: Indiana Pacers [bounce] — settled @ 0.9900 → +1.0000
@@ -20,4 +21,4 @@ Updated: 2026-11-02 22:16 ET · Mode: **PAPER** · Result: OK (23.0s)
 - 2026-11-02 13:45 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:SAC@DAL", "market": "aec-nba-sac-dal-2026-11-02", "side": "short", "team": "Dallas Mavericks", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
