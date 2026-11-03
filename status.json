@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-03T17:35:35.222370-05:00",
+ "updated": "2026-11-03T17:40:34.773457-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-03",
-  "bets": 27,
-  "bounce_bets": 27,
+  "bets": 28,
+  "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
-  "realized": 5.0045
+  "realized": 6.8845
  },
  "paper_positions": [
   {
-   "market": "aec-wta-julgra-laupig-2026-11-03",
-   "game": "wta:Pigossi@Grabher",
-   "side": "short",
-   "team": "Laura Pigossi",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-03 17:35 ET",
+   "market": "aec-wta-sofcos-marrib-2026-11-03",
+   "game": "wta:Ribera@Costoulas",
+   "side": "long",
+   "team": "Sofia Costoulas",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 17:40 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-tompau-holrun-2026-10-31",
-   "game": "atp:Rune@Paul",
-   "side": "short",
-   "team": "Holger Rune",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 10:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-03 11:30 ET",
-   "exit": 0.99,
-   "pnl": 1.55,
-   "reason": "settled"
-  },
   {
    "market": "aec-wta-jusmik-maalar-2026-11-02",
    "game": "wta:Laron@Mikulskyte",
@@ -196,18 +179,41 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-julgra-laupig-2026-11-03",
+   "game": "wta:Pigossi@Grabher",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 17:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-03 17:40 ET",
+   "exit": 0.99,
+   "pnl": 1.88,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Pigossi@Grabher",
-   "market": "aec-wta-julgra-laupig-2026-11-03",
-   "side": "short",
+   "type": "paper_close",
    "team": "Laura Pigossi",
-   "ask": 0.05,
-   "qty": 2.0,
+   "reason": "settled",
+   "pnl": 1.88
+  },
+  {
+   "type": "buy",
+   "game": "wta:Ribera@Costoulas",
+   "market": "aec-wta-sofcos-marrib-2026-11-03",
+   "side": "long",
+   "team": "Sofia Costoulas",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }
