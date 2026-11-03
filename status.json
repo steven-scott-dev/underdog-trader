@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-03T02:40:43.026877-05:00",
+ "updated": "2026-11-03T02:45:39.352980-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-03",
-  "bets": 5,
-  "bounce_bets": 5,
+  "bets": 6,
+  "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.0525
+  "realized": -0.1525
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-jiltei-joagar-2026-11-02",
-   "game": "wta:Garland@Teichmann",
-   "side": "long",
-   "team": "Jil Teichmann",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 01:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
   {
    "market": "aec-wta-dayyas-zeyson-2026-11-01",
    "game": "wta:Sonmez@Yastremska",
@@ -36,7 +23,20 @@
    "sl": 0.036,
    "opened": "2026-11-03 02:35 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-talgib-oleoli-2026-11-01",
+   "game": "wta:Oliynykova@Gibson",
+   "side": "short",
+   "team": "Oleksandra Oliynykova",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 02:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -90,8 +90,43 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jiltei-joagar-2026-11-02",
+   "game": "wta:Garland@Teichmann",
+   "side": "long",
+   "team": "Jil Teichmann",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 01:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-03 02:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jil Teichmann",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Oliynykova@Gibson",
+   "market": "aec-wta-talgib-oleoli-2026-11-01",
+   "side": "short",
+   "team": "Oleksandra Oliynykova",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
