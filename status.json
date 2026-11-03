@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-02T22:55:39.271382-05:00",
+ "updated": "2026-11-02T23:20:35.636918-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-02",
-  "bets": 35,
-  "bounce_bets": 35,
+  "bets": 36,
+  "bounce_bets": 36,
   "max_total": 100,
   "max_open": 5,
   "realized": 2.0907
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-por-den-2026-11-02",
+   "game": "nba:POR@DEN",
+   "side": "short",
+   "team": "Denver Nuggets",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-02 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-leojea-lucbro-2026-11-02",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:POR@DEN",
+   "market": "aec-nba-por-den-2026-11-02",
+   "side": "short",
+   "team": "Denver Nuggets",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 22:55 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-11-02 23:20 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
-- Bets placed: 35 / 100 (main 0, bounce 35)
+- Bets placed: 36 / 100 (main 0, bounce 36)
 - Realized P&L: +2.09
 
 ## Open paper positions
-- _none_
+- **Denver Nuggets** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-02 22:35 ET: Dallas Mavericks [bounce] — settled @ 0.9900 → +2.3750
@@ -20,4 +20,4 @@ Updated: 2026-11-02 22:55 ET · Mode: **PAPER** · Result: OK (3.0s)
 - 2026-11-02 15:40 ET: Selena Janicijevic [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:POR@DEN", "market": "aec-nba-por-den-2026-11-02", "side": "short", "team": "Denver Nuggets", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
