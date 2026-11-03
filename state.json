@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 28,
  "bounce_bets": 28,
- "realized": 6.8845,
- "paper_positions": [
-  {
-   "market": "aec-wta-sofcos-marrib-2026-11-03",
-   "game": "wta:Ribera@Costoulas",
-   "side": "long",
-   "team": "Sofia Costoulas",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 17:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 6.8245,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -477,6 +463,23 @@
    "exit": 0.99,
    "pnl": 1.88,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-sofcos-marrib-2026-11-03",
+   "game": "wta:Ribera@Costoulas",
+   "side": "long",
+   "team": "Sofia Costoulas",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 17:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-03 17:50 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -658,6 +661,7 @@
   "aec-wta-maarev-katkaw-2026-11-02": 1793725833.3180425,
   "aec-wta-elvkal-ireesc-2026-11-03": 1793731545.5141222,
   "aec-atp-benshe-camnor-2026-11-03": 1793733336.36206,
-  "aec-wta-meiyam-zhikul-2026-11-02": 1793733644.0100076
+  "aec-wta-meiyam-zhikul-2026-11-02": 1793733644.0100076,
+  "aec-wta-sofcos-marrib-2026-11-03": 1793748042.4723694
  }
 }
