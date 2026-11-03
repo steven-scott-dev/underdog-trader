@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": -0.0525,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-11-03 01:40 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-wta-dayyas-zeyson-2026-11-01",
+   "game": "wta:Sonmez@Yastremska",
+   "side": "long",
+   "team": "Dayana Yastremska",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 02:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -95,6 +108,12 @@
    [
     1793690134.4552412,
     0.1
+   ]
+  ],
+  "aec-wta-dayyas-zeyson-2026-11-01": [
+   [
+    1793691344.5782433,
+    0.09
    ]
   ]
  },
