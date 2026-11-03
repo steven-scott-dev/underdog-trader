@@ -2,21 +2,8 @@
  "date": "2026-11-02",
  "bets": 34,
  "bounce_bets": 34,
- "realized": -1.2093,
+ "realized": -0.2093,
  "paper_positions": [
-  {
-   "market": "aec-nba-atl-ind-2026-11-02",
-   "game": "nba:ATL@IND",
-   "side": "short",
-   "team": "Indiana Pacers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-02 20:11 ET",
-   "mode": "bounce",
-   "last_bid": 0.12
-  },
   {
    "market": "aec-nhl-col-chi-2026-11-02",
    "game": "nhl:COL@CHI",
@@ -28,7 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-02 21:55 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -575,6 +562,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-atl-ind-2026-11-02",
+   "game": "nba:ATL@IND",
+   "side": "short",
+   "team": "Indiana Pacers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-02 20:11 ET",
+   "mode": "bounce",
+   "last_bid": 0.12,
+   "closed": "2026-11-02 22:10 ET",
+   "exit": 0.99,
+   "pnl": 1.0,
+   "reason": "settled"
   }
  ],
  "live_history": [],
