@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 16:40 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-03 17:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 26 / 100 (main 0, bounce 26)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 16:40 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-03 11:40 ET: Maaya Rajeshwaran Revathi [bounce] — stop-loss @ 0.0200 → -0.0600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sahaja Yamalapalli", "reason": "settled", "pnl": -0.0857}`
+- _none_

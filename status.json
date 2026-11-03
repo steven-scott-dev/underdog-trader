@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T16:40:38.264317-05:00",
+ "updated": "2026-11-03T17:20:39.464634-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-03",
   "bets": 26,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sahaja Yamalapalli",
-   "reason": "settled",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
