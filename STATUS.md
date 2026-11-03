@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 06:35 ET · Mode: **PAPER** · Result: OK (12.8s)
+Updated: 2026-11-03 06:40 ET · Mode: **PAPER** · Result: OK (22.7s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: -0.55
 
 ## Open paper positions
-- **Viktoria Morvayova** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Viktoria Morvayova** (long/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 06:30 ET: Himeno Sakatsume [bounce] — settled @ 0.0100 → -0.0900
