@@ -1,47 +1,21 @@
 {
  "date": "2026-11-03",
- "bets": 10,
- "bounce_bets": 10,
- "realized": -0.4092,
+ "bets": 11,
+ "bounce_bets": 11,
+ "realized": -0.4606,
  "paper_positions": [
   {
-   "market": "aec-wta-darsuv-markub-2026-11-03",
-   "game": "wta:Kubka@Suvirdjonkova",
+   "market": "aec-wta-himsak-terval-2026-11-01",
+   "game": "wta:Valentova@Sakatsume",
    "side": "long",
-   "team": "Darja Suvirdjonkova",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-03 04:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  },
-  {
-   "market": "aec-wta-tiplem-lamazi-2026-11-02",
-   "game": "wta:Aziz@Lemaitre",
-   "side": "short",
-   "team": "Lamis Alhussein Abdel Aziz",
+   "team": "Himeno Sakatsume",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-11-03 04:50 ET",
+   "opened": "2026-11-03 05:00 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-wta-soflan-angoku-2026-11-02",
-   "game": "wta:Okutoyi@Lansere",
-   "side": "short",
-   "team": "Angella Okutoyi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-03 04:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -163,6 +137,57 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-darsuv-markub-2026-11-03",
+   "game": "wta:Kubka@Suvirdjonkova",
+   "side": "long",
+   "team": "Darja Suvirdjonkova",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-03 04:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-03 05:00 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-tiplem-lamazi-2026-11-02",
+   "game": "wta:Aziz@Lemaitre",
+   "side": "short",
+   "team": "Lamis Alhussein Abdel Aziz",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 04:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-03 05:00 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-soflan-angoku-2026-11-02",
+   "game": "wta:Okutoyi@Lansere",
+   "side": "short",
+   "team": "Angella Okutoyi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-03 04:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-03 05:00 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -226,6 +251,12 @@
     1793699750.7390897,
     0.07
    ]
+  ],
+  "aec-wta-himsak-terval-2026-11-01": [
+   [
+    1793700036.2055728,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -234,6 +265,8 @@
   "aec-wta-jiltei-joagar-2026-11-02": 1793693738.1258388,
   "aec-wta-dayyas-zeyson-2026-11-01": 1793694036.939348,
   "aec-wta-talgib-oleoli-2026-11-01": 1793694036.9678826,
-  "aec-wta-mading-mayjoi-2026-11-01": 1793700032.6735418
+  "aec-wta-mading-mayjoi-2026-11-01": 1793700032.6735418,
+  "aec-wta-darsuv-markub-2026-11-03": 1793701835.4852862,
+  "aec-wta-tiplem-lamazi-2026-11-02": 1793701835.4995468
  }
 }
