@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 13:35 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-11-03 13:41 ET · Mode: **PAPER** · Result: OK (12.4s)
 
 ## Today
 - Bets placed: 24 / 100 (main 0, bounce 24)
@@ -8,7 +8,7 @@ Updated: 2026-11-03 13:35 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Open paper positions
 - **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
-- **Cameron Norrie** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Cameron Norrie** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 13:15 ET: Elvina Kalieva [bounce] — stop-loss @ 0.0000 → -0.1000
