@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-03T14:00:48.698006-05:00",
+ "updated": "2026-11-03T14:06:04.526990-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 13.5,
  "daily": {
   "date": "2026-11-03",
   "bets": 25,
   "bounce_bets": 25,
   "max_total": 100,
   "max_open": 5,
-  "realized": 4.9902
+  "realized": 5.0902
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-sahyam-simwal-2026-11-02",
-   "game": "wta:Waltert@Yamalapalli",
-   "side": "long",
-   "team": "Sahaja Yamalapalli",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.15
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-alifal-maglin-2026-11-02",
-   "game": "wta:Linette@Falei",
-   "side": "long",
-   "team": "Aliona Falei",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 10:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-03 11:30 ET",
-   "exit": 0.03,
-   "pnl": -0.0625,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-zonli-anasan-2026-11-03",
    "game": "wta:Sanchez@Zongyu",
@@ -196,8 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-sahyam-simwal-2026-11-02",
+   "game": "wta:Waltert@Yamalapalli",
+   "side": "long",
+   "team": "Sahaja Yamalapalli",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.15,
+   "closed": "2026-11-03 14:05 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sahaja Yamalapalli",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

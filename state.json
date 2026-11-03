@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 25,
  "bounce_bets": 25,
- "realized": 4.9902,
- "paper_positions": [
-  {
-   "market": "aec-wta-sahyam-simwal-2026-11-02",
-   "game": "wta:Waltert@Yamalapalli",
-   "side": "long",
-   "team": "Sahaja Yamalapalli",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.15
-  }
- ],
+ "realized": 5.0902,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -426,6 +412,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-sahyam-simwal-2026-11-02",
+   "game": "wta:Waltert@Yamalapalli",
+   "side": "long",
+   "team": "Sahaja Yamalapalli",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.15,
+   "closed": "2026-11-03 14:05 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
