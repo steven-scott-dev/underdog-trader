@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-02 20:40 ET · Mode: **PAPER** · Result: OK (15.5s)
+Updated: 2026-11-02 20:45 ET · Mode: **PAPER** · Result: OK (23.5s)
 
 ## Today
 - Bets placed: 33 / 100 (main 0, bounce 33)
@@ -9,7 +9,7 @@ Updated: 2026-11-02 20:40 ET · Mode: **PAPER** · Result: OK (15.5s)
 ## Open paper positions
 - **Brooklyn Nets** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 - **Indiana Pacers** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
-- **Milwaukee Bucks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Milwaukee Bucks** (long/bounce) — 1.0 @ 0.1000, now ~0.1700, unrealized +0.0700 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-02 18:41 ET: Botic van de Zandschulp [bounce] — take-profit @ 0.1400 → +0.1000
@@ -22,4 +22,4 @@ Updated: 2026-11-02 20:40 ET · Mode: **PAPER** · Result: OK (15.5s)
 - 2026-11-02 12:05 ET: Kyrian Jacquet [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MIL@MIN", "market": "aec-nba-mil-min-2026-11-02", "side": "long", "team": "Milwaukee Bucks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
