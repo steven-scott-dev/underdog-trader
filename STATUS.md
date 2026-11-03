@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 13:21 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-03 13:25 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
-- Bets placed: 23 / 100 (main 0, bounce 23)
+- Bets placed: 24 / 100 (main 0, bounce 24)
 - Realized P&L: +5.17
 
 ## Open paper positions
-- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1000, unrealized +0.0250 (TP 0.1600 / SL 0.0320)
+- **Sahaja Yamalapalli** (long/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
+- **Cameron Norrie** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 13:15 ET: Elvina Kalieva [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,4 +21,4 @@ Updated: 2026-11-03 13:21 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-03 11:30 ET: Aliona Falei [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Norrie@Shelton", "market": "aec-atp-benshe-camnor-2026-11-03", "side": "short", "team": "Cameron Norrie", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

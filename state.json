@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 23,
- "bounce_bets": 23,
+ "bets": 24,
+ "bounce_bets": 24,
  "realized": 5.168,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-11-03 12:35 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-atp-benshe-camnor-2026-11-03",
+   "game": "atp:Norrie@Shelton",
+   "side": "short",
+   "team": "Cameron Norrie",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 13:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -532,6 +545,12 @@
    [
     1793727353.5977497,
     0.1
+   ]
+  ],
+  "aec-atp-benshe-camnor-2026-11-03": [
+   [
+    1793730352.112168,
+    0.09
    ]
   ]
  },
