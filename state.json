@@ -1,21 +1,21 @@
 {
  "date": "2026-11-03",
- "bets": 14,
- "bounce_bets": 14,
- "realized": -0.7395,
+ "bets": 15,
+ "bounce_bets": 15,
+ "realized": 0.8105,
  "paper_positions": [
   {
-   "market": "aec-atp-nunbor-moikou-2026-11-03",
-   "game": "atp:Kouame@Borges",
+   "market": "aec-wta-jusmik-maalar-2026-11-02",
+   "game": "wta:Laron@Mikulskyte",
    "side": "short",
-   "team": "Moise Kouame",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 08:10 ET",
+   "team": "Maayan Laron",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -239,6 +239,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-nunbor-moikou-2026-11-03",
+   "game": "atp:Kouame@Borges",
+   "side": "short",
+   "team": "Moise Kouame",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-03 10:35 ET",
+   "exit": 0.99,
+   "pnl": 1.55,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -325,6 +342,12 @@
    [
     1793711435.7560315,
     0.06
+   ]
+  ],
+  "aec-wta-jusmik-maalar-2026-11-02": [
+   [
+    1793720148.5137796,
+    0.08
    ]
   ]
  },

@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-03T08:15:46.348795-05:00",
+ "updated": "2026-11-03T10:35:48.664728-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.6,
+ "duration_s": 12.7,
  "daily": {
   "date": "2026-11-03",
-  "bets": 14,
-  "bounce_bets": 14,
+  "bets": 15,
+  "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.7395
+  "realized": 0.8105
  },
  "paper_positions": [
   {
-   "market": "aec-atp-nunbor-moikou-2026-11-03",
-   "game": "atp:Kouame@Borges",
+   "market": "aec-wta-jusmik-maalar-2026-11-02",
+   "game": "wta:Laron@Mikulskyte",
    "side": "short",
-   "team": "Moise Kouame",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 08:10 ET",
+   "team": "Maayan Laron",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 10:35 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-jiltei-joagar-2026-11-02",
-   "game": "wta:Garland@Teichmann",
-   "side": "long",
-   "team": "Jil Teichmann",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 01:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.11,
-   "closed": "2026-11-03 02:45 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-dayyas-zeyson-2026-11-01",
    "game": "wta:Sonmez@Yastremska",
@@ -196,8 +179,43 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-nunbor-moikou-2026-11-03",
+   "game": "atp:Kouame@Borges",
+   "side": "short",
+   "team": "Moise Kouame",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 08:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-03 10:35 ET",
+   "exit": 0.99,
+   "pnl": 1.55,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Moise Kouame",
+   "reason": "settled",
+   "pnl": 1.55
+  },
+  {
+   "type": "buy",
+   "game": "wta:Laron@Mikulskyte",
+   "market": "aec-wta-jusmik-maalar-2026-11-02",
+   "side": "short",
+   "team": "Maayan Laron",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
