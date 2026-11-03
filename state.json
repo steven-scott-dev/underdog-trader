@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 21,
- "bounce_bets": 21,
+ "bets": 23,
+ "bounce_bets": 23,
  "realized": 5.168,
  "paper_positions": [
   {
@@ -15,7 +15,33 @@
    "sl": 0.016,
    "opened": "2026-11-03 12:30 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.02
+  },
+  {
+   "market": "aec-wta-sahyam-simwal-2026-11-02",
+   "game": "wta:Waltert@Yamalapalli",
+   "side": "long",
+   "team": "Sahaja Yamalapalli",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-elvkal-ireesc-2026-11-03",
+   "game": "wta:Burillo@Kalieva",
+   "side": "long",
+   "team": "Elvina Kalieva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 12:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -486,6 +512,18 @@
    [
     1793727052.4237597,
     0.04
+   ]
+  ],
+  "aec-wta-sahyam-simwal-2026-11-02": [
+   [
+    1793727342.807908,
+    0.08
+   ]
+  ],
+  "aec-wta-elvkal-ireesc-2026-11-03": [
+   [
+    1793727353.5977497,
+    0.1
    ]
   ]
  },
