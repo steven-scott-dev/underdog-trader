@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 14:30 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-04 14:35 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
 - Realized P&L: +3.37
 
 ## Open paper positions
-- **Alex Michelsen** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
-- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.1700, unrealized +0.0700 (TP 0.2000 / SL 0.0400)
+- **Alex Michelsen** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
 - **Julia Grabher** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
@@ -22,5 +22,4 @@ Updated: 2026-11-04 14:30 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-04 09:54 ET: Joanna Garland [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ugo Humbert", "reason": "settled", "pnl": 1.1375}`
-- `{"type": "buy", "game": "wta:Riera@Grabher", "market": "aec-wta-julgra-julrie-2026-11-04", "side": "long", "team": "Julia Grabher", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_

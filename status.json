@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T14:30:37.641247-05:00",
+ "updated": "2026-11-04T14:35:41.447014-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-04",
   "bets": 19,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-despap-renzar-2026-11-04",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.17
+   "last_bid": 0.15
   },
   {
    "market": "aec-wta-julgra-julrie-2026-11-04",
@@ -225,23 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Ugo Humbert",
-   "reason": "settled",
-   "pnl": 1.1375
-  },
-  {
-   "type": "buy",
-   "game": "wta:Riera@Grabher",
-   "market": "aec-wta-julgra-julrie-2026-11-04",
-   "side": "long",
-   "team": "Julia Grabher",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
