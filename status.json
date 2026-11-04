@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-04T13:51:07.474891-05:00",
+ "updated": "2026-11-04T13:56:07.062745-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 4.6,
+ "duration_s": 12.1,
  "daily": {
   "date": "2026-11-04",
   "bets": 13,
   "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.1111
+  "realized": 2.2111
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "game": "atp:Humbert@Berrettini",
-   "side": "short",
-   "team": "Ugo Humbert",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 13:51 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-miksto-sofken-2026-11-04",
-   "game": "wta:Kenin@Stojsavljevic",
-   "side": "short",
-   "team": "Sofia Kenin",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 03:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-04 03:10 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-antruz-alicha-2026-11-01",
    "game": "wta:Charaeva@Ruzic",
@@ -196,20 +165,32 @@
    "exit": 0.01,
    "pnl": -0.0833,
    "reason": "settled"
+  },
+  {
+   "market": "aec-atp-matber-ugohum-2026-11-04",
+   "game": "atp:Humbert@Berrettini",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 13:51 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-04 13:55 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Humbert@Berrettini",
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "side": "short",
+   "type": "paper_close",
    "team": "Ugo Humbert",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
