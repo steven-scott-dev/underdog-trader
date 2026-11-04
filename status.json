@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T15:35:59.087839-05:00",
+ "updated": "2026-11-04T15:40:37.784543-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-04",
   "bets": 19,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alex Michelsen",
-   "reason": "settled",
-   "pnl": -0.0857
-  },
-  {
-   "type": "paper_close",
-   "team": "Despina Papamichail",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
