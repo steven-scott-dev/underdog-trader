@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T15:50:36.006553-05:00",
+ "updated": "2026-11-04T15:55:37.029395-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-04",
   "bets": 20,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 15:50 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Sierra@Gormaz",
-   "market": "aec-wta-leygor-solsie-2026-11-04",
-   "side": "short",
-   "team": "Solana Sierra",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
