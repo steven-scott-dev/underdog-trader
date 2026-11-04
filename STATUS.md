@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 19:40 ET · Mode: **PAPER** · Result: OK (24.3s)
+Updated: 2026-11-03 19:45 ET · Mode: **PAPER** · Result: OK (11.7s)
 
 ## Today
 - Bets placed: 29 / 100 (main 0, bounce 29)
 - Realized P&L: +6.82
 
 ## Open paper positions
-- **Red Wings** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Red Wings** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-03 17:50 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0400 → -0.0600
