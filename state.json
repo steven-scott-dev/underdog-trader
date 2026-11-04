@@ -1,21 +1,21 @@
 {
  "date": "2026-11-04",
- "bets": 3,
- "bounce_bets": 3,
- "realized": 0.2,
+ "bets": 4,
+ "bounce_bets": 4,
+ "realized": 0.3,
  "paper_positions": [
   {
-   "market": "aec-wta-miksto-sofken-2026-11-04",
-   "game": "wta:Kenin@Stojsavljevic",
+   "market": "aec-wta-antruz-alicha-2026-11-01",
+   "game": "wta:Charaeva@Ruzic",
    "side": "short",
-   "team": "Sofia Kenin",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 03:05 ET",
+   "team": "Alina Charaeva",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-04 03:10 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -52,6 +52,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-miksto-sofken-2026-11-04",
+   "game": "wta:Kenin@Stojsavljevic",
+   "side": "short",
+   "team": "Sofia Kenin",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 03:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-04 03:10 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -60,6 +77,12 @@
    [
     1793779535.3875718,
     0.08
+   ]
+  ],
+  "aec-wta-antruz-alicha-2026-11-01": [
+   [
+    1793779833.631051,
+    0.06
    ]
   ]
  }
