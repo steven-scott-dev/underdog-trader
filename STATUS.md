@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 16:40 ET · Mode: **PAPER** · Result: OK (4.6s)
+Updated: 2026-11-04 16:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 21 / 100 (main 0, bounce 21)
+- Bets placed: 23 / 100 (main 0, bounce 23)
 - Realized P&L: +3.13
 
 ## Open paper positions
-- _none_
+- **Tomas Machac** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Despina Papamichail** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-04 16:05 ET: Despina Papamichail [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -20,4 +21,5 @@ Updated: 2026-11-04 16:40 ET · Mode: **PAPER** · Result: OK (4.6s)
 - 2026-11-04 14:16 ET: Ugo Humbert [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Machac@Fils", "market": "aec-atp-artfil-tommac-2026-11-04", "side": "short", "team": "Tomas Machac", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Zarazua@Papamichail", "market": "aec-wta-despap-renzar-2026-11-04", "side": "long", "team": "Despina Papamichail", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
