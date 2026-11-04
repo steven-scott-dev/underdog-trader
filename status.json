@@ -1,17 +1,44 @@
 {
- "updated": "2026-11-04T04:05:38.858442-05:00",
+ "updated": "2026-11-04T04:10:33.975896-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-04",
-  "bets": 4,
-  "bounce_bets": 4,
+  "bets": 6,
+  "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.85
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-talgib-alisas-2026-11-04",
+   "game": "wta:Sasnovich@Gibson",
+   "side": "long",
+   "team": "Talia Gibson",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-soflan-krinov-2026-11-04",
+   "game": "wta:Novak@Lansere",
+   "side": "short",
+   "team": "Kristina Novak",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -83,5 +110,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Sasnovich@Gibson",
+   "market": "aec-wta-talgib-alisas-2026-11-04",
+   "side": "long",
+   "team": "Talia Gibson",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Novak@Lansere",
+   "market": "aec-wta-soflan-krinov-2026-11-04",
+   "side": "short",
+   "team": "Kristina Novak",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
