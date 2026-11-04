@@ -2,7 +2,7 @@
  "date": "2026-11-03",
  "bets": 35,
  "bounce_bets": 35,
- "realized": 6.6211,
+ "realized": 6.7211,
  "paper_positions": [
   {
    "market": "aec-nhl-det-tb-2026-11-03",
@@ -15,20 +15,7 @@
    "sl": 0.024,
    "opened": "2026-11-03 21:00 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nhl-edm-nj-2026-11-03",
-   "game": "nhl:EDM@NJ",
-   "side": "long",
-   "team": "Oilers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-03 21:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -590,6 +577,23 @@
    "last_bid": 0.08,
    "closed": "2026-11-03 21:05 ET",
    "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-edm-nj-2026-11-03",
+   "game": "nhl:EDM@NJ",
+   "side": "long",
+   "team": "Oilers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-03 21:10 ET",
+   "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
   }
