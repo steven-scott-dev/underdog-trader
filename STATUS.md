@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 10:40 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-04 10:45 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 11 / 100 (main 0, bounce 11)
 - Realized P&L: +2.09
 
 ## Open paper positions
-- **Rinky Hijikata** (short/bounce) — 1.25 @ 0.0800, now ~0.0700, unrealized -0.0125 (TP 0.1600 / SL 0.0320)
+- **Rinky Hijikata** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-04 10:02 ET: Alex de Minaur [bounce] — take-profit @ 0.2000 → +0.1000
