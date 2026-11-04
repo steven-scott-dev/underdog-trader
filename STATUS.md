@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 14:21 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-11-04 14:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 17 / 100 (main 0, bounce 17)
+- Bets placed: 18 / 100 (main 0, bounce 18)
 - Realized P&L: +2.24
 
 ## Open paper positions
-- **Alex Michelsen** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
-- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
+- **Alex Michelsen** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.1400, unrealized +0.0400 (TP 0.2000 / SL 0.0400)
+- **Ugo Humbert** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-04 14:16 ET: Marina Bassols Ribera [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -21,4 +22,4 @@ Updated: 2026-11-04 14:21 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-11-04 08:45 ET: Isabella Shinikova [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Humbert@Berrettini", "market": "aec-atp-matber-ugohum-2026-11-04", "side": "short", "team": "Ugo Humbert", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
