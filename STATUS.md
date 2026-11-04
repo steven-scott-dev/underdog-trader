@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 04:35 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-04 04:40 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
@@ -18,4 +18,4 @@ Updated: 2026-11-04 04:35 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-04 02:10 ET: Sofia Kenin [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Talia Gibson", "reason": "take-profit", "pnl": 0.1}`
+- _none_

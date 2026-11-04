@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T04:35:35.464200-05:00",
+ "updated": "2026-11-04T04:40:35.577164-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-04",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Talia Gibson",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
