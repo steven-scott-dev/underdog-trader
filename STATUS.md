@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:31 ET · Mode: **PAPER** · Result: OK (40.3s)
+Updated: 2026-11-03 20:35 ET · Mode: **PAPER** · Result: OK (12.2s)
 
 ## Today
 - Bets placed: 33 / 100 (main 0, bounce 33)
 - Realized P&L: +6.59
 
 ## Open paper positions
-- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
+- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0700, unrealized +0.0400 (TP 0.1000 / SL 0.0200)
 - **Jets** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
@@ -21,4 +21,4 @@ Updated: 2026-11-03 20:31 ET · Mode: **PAPER** · Result: OK (40.3s)
 - 2026-11-03 13:50 ET: Mei Yamaguchi [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Avalanche", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
