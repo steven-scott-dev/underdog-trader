@@ -2,21 +2,8 @@
  "date": "2026-11-04",
  "bets": 23,
  "bounce_bets": 23,
- "realized": 3.1329,
+ "realized": 3.2329,
  "paper_positions": [
-  {
-   "market": "aec-atp-artfil-tommac-2026-11-04",
-   "game": "atp:Machac@Fils",
-   "side": "short",
-   "team": "Tomas Machac",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-04 16:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-wta-despap-renzar-2026-11-04",
    "game": "wta:Zarazua@Papamichail",
@@ -388,6 +375,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-artfil-tommac-2026-11-04",
+   "game": "atp:Machac@Fils",
+   "side": "short",
+   "team": "Tomas Machac",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-04 16:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-04 16:50 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
