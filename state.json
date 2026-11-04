@@ -2,22 +2,8 @@
  "date": "2026-11-04",
  "bets": 25,
  "bounce_bets": 25,
- "realized": 3.1062,
- "paper_positions": [
-  {
-   "market": "aec-wta-jazort-biaand-2026-11-04",
-   "game": "wta:Andreescu@Ortenzi",
-   "side": "long",
-   "team": "Jazmin Ortenzi",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-04 18:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 3.0462,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -426,6 +412,23 @@
    "exit": 0.04,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jazort-biaand-2026-11-04",
+   "game": "wta:Andreescu@Ortenzi",
+   "side": "long",
+   "team": "Jazmin Ortenzi",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-04 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-04 18:20 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -539,6 +542,6 @@
   "aec-wta-alitub-marrib-2026-11-04": 1793821592.5158308,
   "aec-wta-leygor-solsie-2026-11-04": 1793827834.2589204,
   "aec-wta-despap-renzar-2026-11-04": 1793831135.346509,
-  "aec-wta-jazort-biaand-2026-11-04": 1793834137.0674815
+  "aec-wta-jazort-biaand-2026-11-04": 1793836241.938022
  }
 }
