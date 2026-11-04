@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 35,
  "bounce_bets": 35,
- "realized": 6.7211,
- "paper_positions": [
-  {
-   "market": "aec-nhl-det-tb-2026-11-03",
-   "game": "nhl:DET@TB",
-   "side": "long",
-   "team": "Red Wings",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 21:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "realized": 6.8211,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -594,6 +580,23 @@
    "last_bid": 0.09,
    "closed": "2026-11-03 21:10 ET",
    "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-det-tb-2026-11-03",
+   "game": "nhl:DET@TB",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 21:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-03 21:15 ET",
+   "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
   }

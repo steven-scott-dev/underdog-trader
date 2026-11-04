@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-03T21:11:00.264343-05:00",
+ "updated": "2026-11-03T21:15:49.259077-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.5,
+ "duration_s": 11.8,
  "daily": {
   "date": "2026-11-03",
   "bets": 35,
   "bounce_bets": 35,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.7211
+  "realized": 6.8211
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-det-tb-2026-11-03",
-   "game": "nhl:DET@TB",
-   "side": "long",
-   "team": "Red Wings",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 21:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-sahyam-simwal-2026-11-02",
-   "game": "wta:Waltert@Yamalapalli",
-   "side": "long",
-   "team": "Sahaja Yamalapalli",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.15,
-   "closed": "2026-11-03 14:05 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-sahyam-simwal-2026-11-02",
    "game": "wta:Waltert@Yamalapalli",
@@ -196,13 +165,30 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-det-tb-2026-11-03",
+   "game": "nhl:DET@TB",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 21:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-03 21:15 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Oilers",
+   "team": "Red Wings",
    "reason": "take-profit",
    "pnl": 0.1
   }
