@@ -1,21 +1,21 @@
 {
  "date": "2026-11-04",
- "bets": 9,
- "bounce_bets": 9,
- "realized": 1.8944,
+ "bets": 10,
+ "bounce_bets": 10,
+ "realized": 1.9944,
  "paper_positions": [
   {
-   "market": "aec-wta-jantje-joagar-2026-11-04",
-   "game": "wta:Garland@Tjen",
+   "market": "aec-atp-novdjo-rinhij-2026-11-04",
+   "game": "atp:Hijikata@Djokovic",
    "side": "short",
-   "team": "Joanna Garland",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-04 09:42 ET",
+   "team": "Rinky Hijikata",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 09:54 ET",
    "mode": "bounce",
-   "last_bid": 0.03
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -154,6 +154,23 @@
    "exit": 0.01,
    "pnl": -0.0889,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jantje-joagar-2026-11-04",
+   "game": "wta:Garland@Tjen",
+   "side": "short",
+   "team": "Joanna Garland",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-04 09:42 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-04 09:54 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -192,6 +209,12 @@
    [
     1793803329.2081811,
     0.07
+   ]
+  ],
+  "aec-atp-novdjo-rinhij-2026-11-04": [
+   [
+    1793804071.6543343,
+    0.08
    ]
   ]
  },
