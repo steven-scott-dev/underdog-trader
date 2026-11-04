@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 14:16 ET · Mode: **PAPER** · Result: OK (11.2s)
+Updated: 2026-11-04 14:21 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
@@ -8,7 +8,7 @@ Updated: 2026-11-04 14:16 ET · Mode: **PAPER** · Result: OK (11.2s)
 
 ## Open paper positions
 - **Alex Michelsen** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
-- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Despina Papamichail** (long/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 14:16 ET: Marina Bassols Ribera [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -21,5 +21,4 @@ Updated: 2026-11-04 14:16 ET · Mode: **PAPER** · Result: OK (11.2s)
 - 2026-11-04 08:45 ET: Isabella Shinikova [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ugo Humbert", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Marina Bassols Ribera", "reason": "stop-loss", "pnl": -0.075}`
+- _none_

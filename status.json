@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T14:16:43.487919-05:00",
+ "updated": "2026-11-04T14:21:44.000520-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.2,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-04",
   "bets": 17,
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.13
   }
  ],
  "paper_history": [
@@ -212,18 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Ugo Humbert",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Marina Bassols Ribera",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }
