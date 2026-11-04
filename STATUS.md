@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:21 ET · Mode: **PAPER** · Result: OK (20.1s)
+Updated: 2026-11-03 20:25 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Today
 - Bets placed: 33 / 100 (main 0, bounce 33)
@@ -8,8 +8,8 @@ Updated: 2026-11-03 20:21 ET · Mode: **PAPER** · Result: OK (20.1s)
 
 ## Open paper positions
 - **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0200, unrealized -0.0600 (TP 0.1000 / SL 0.0200)
-- **Jets** (long/bounce) — 1.6667 @ 0.0600, now ~0.0500, unrealized -0.0167 (TP 0.1200 / SL 0.0240)
-- **Avalanche** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Jets** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Avalanche** (long/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-03 20:20 ET: Red Wings [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -22,5 +22,4 @@ Updated: 2026-11-03 20:21 ET · Mode: **PAPER** · Result: OK (20.1s)
 - 2026-11-03 13:45 ET: Cameron Norrie [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Red Wings", "reason": "stop-loss", "pnl": -0.07}`
-- `{"type": "buy", "game": "nhl:COL@CBJ", "market": "aec-nhl-col-cbj-2026-11-03", "side": "long", "team": "Avalanche", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
