@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 18:20 ET · Mode: **PAPER** · Result: OK (0.6s)
+Updated: 2026-11-04 18:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 25 / 100 (main 0, bounce 25)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 18:20 ET · Mode: **PAPER** · Result: OK (0.6s)
 - 2026-11-04 15:35 ET: Alex Michelsen [bounce] — settled @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jazmin Ortenzi", "reason": "stop-loss", "pnl": -0.06}`
+- _none_
