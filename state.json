@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 19,
- "bounce_bets": 19,
+ "bets": 20,
+ "bounce_bets": 20,
  "realized": 3.2979,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-leygor-solsie-2026-11-04",
+   "game": "wta:Sierra@Gormaz",
+   "side": "short",
+   "team": "Solana Sierra",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 15:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -412,6 +426,12 @@
   "aec-wta-julgra-julrie-2026-11-04": [
    [
     1793820637.5643706,
+    0.1
+   ]
+  ],
+  "aec-wta-leygor-solsie-2026-11-04": [
+   [
+    1793825436.004952,
     0.1
    ]
   ]
