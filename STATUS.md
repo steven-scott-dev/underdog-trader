@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 04:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-04 04:30 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: +1.78
 
 ## Open paper positions
-- **Talia Gibson** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Talia Gibson** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 04:20 ET: Kristina Novak [bounce] — stop-loss @ 0.0300 → -0.0667
