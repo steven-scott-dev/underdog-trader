@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 13,
- "bounce_bets": 13,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": 2.2111,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-matber-ugohum-2026-11-04",
+   "game": "atp:Humbert@Berrettini",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 14:01 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -286,6 +300,10 @@
   "aec-atp-matber-ugohum-2026-11-04": [
    [
     1793818266.983077,
+    0.09
+   ],
+   [
+    1793818863.6496627,
     0.09
    ]
   ]

@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 13:56 ET · Mode: **PAPER** · Result: OK (12.1s)
+Updated: 2026-11-04 14:01 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 13 / 100 (main 0, bounce 13)
+- Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: +2.21
 
 ## Open paper positions
-- _none_
+- **Ugo Humbert** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-04 13:55 ET: Ugo Humbert [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-04 13:56 ET · Mode: **PAPER** · Result: OK (12.1s)
 - 2026-11-04 04:35 ET: Talia Gibson [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Ugo Humbert", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "atp:Humbert@Berrettini", "market": "aec-atp-matber-ugohum-2026-11-04", "side": "short", "team": "Ugo Humbert", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
