@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 16:05 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-11-04 16:10 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 21 / 100 (main 0, bounce 21)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 16:05 ET · Mode: **PAPER** · Result: OK (0.7s)
 - 2026-11-04 14:16 ET: Ugo Humbert [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Despina Papamichail", "reason": "stop-loss", "pnl": -0.075}`
+- _none_

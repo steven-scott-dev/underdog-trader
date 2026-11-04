@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T16:05:39.968690-05:00",
+ "updated": "2026-11-04T16:10:41.956872-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-04",
   "bets": 21,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Despina Papamichail",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }
