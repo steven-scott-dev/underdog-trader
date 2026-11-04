@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 21:15 ET · Mode: **PAPER** · Result: OK (11.8s)
+Updated: 2026-11-03 22:19 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 35 / 100 (main 0, bounce 35)
+- Bets placed: 36 / 100 (main 0, bounce 36)
 - Realized P&L: +6.82
 
 ## Open paper positions
-- _none_
+- **Hurricanes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 21:15 ET: Red Wings [bounce] — take-profit @ 0.1200 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-03 21:15 ET · Mode: **PAPER** · Result: OK (11.8s)
 - 2026-11-03 17:50 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0400 → -0.0600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Red Wings", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nhl:CAR@NSH", "market": "aec-nhl-car-nas-2026-11-03", "side": "long", "team": "Hurricanes", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

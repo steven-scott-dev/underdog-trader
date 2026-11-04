@@ -1,9 +1,23 @@
 {
  "date": "2026-11-03",
- "bets": 35,
- "bounce_bets": 35,
+ "bets": 36,
+ "bounce_bets": 36,
  "realized": 6.8211,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-car-nas-2026-11-03",
+   "game": "nhl:CAR@NSH",
+   "side": "long",
+   "team": "Hurricanes",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 22:19 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -798,6 +812,12 @@
   "aec-nhl-edm-nj-2026-11-03": [
    [
     1793757947.761302,
+    0.09
+   ]
+  ],
+  "aec-nhl-car-nas-2026-11-03": [
+   [
+    1793762353.5736957,
     0.09
    ]
   ]
