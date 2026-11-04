@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 22:30 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-03 22:35 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 36 / 100 (main 0, bounce 36)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 22:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-03 20:15 ET: Capitals [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Hurricanes", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
