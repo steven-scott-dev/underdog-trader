@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:19:14.141765-05:00",
+ "updated": "2026-11-03T22:20:37.105923-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 2.0,
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:CAR@NSH",
-   "market": "aec-nhl-car-nas-2026-11-03",
-   "side": "long",
-   "team": "Hurricanes",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

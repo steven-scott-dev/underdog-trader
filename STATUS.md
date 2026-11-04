@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 22:19 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-03 22:20 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 36 / 100 (main 0, bounce 36)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 22:19 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-03 17:50 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0400 → -0.0600
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CAR@NSH", "market": "aec-nhl-car-nas-2026-11-03", "side": "long", "team": "Hurricanes", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
