@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.2,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-miksto-sofken-2026-11-04",
+   "game": "wta:Kenin@Stojsavljevic",
+   "side": "short",
+   "team": "Sofia Kenin",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 03:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -44,8 +58,8 @@
  "px_hist": {
   "aec-wta-miksto-sofken-2026-11-04": [
    [
-    1793776839.3640943,
-    0.09
+    1793779535.3875718,
+    0.08
    ]
   ]
  }
