@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 8,
- "bounce_bets": 8,
+ "bets": 9,
+ "bounce_bets": 9,
  "realized": 1.8944,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jantje-joagar-2026-11-04",
+   "game": "wta:Garland@Tjen",
+   "side": "short",
+   "team": "Joanna Garland",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-04 09:42 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -172,6 +186,12 @@
    [
     1793799641.2768857,
     0.09
+   ]
+  ],
+  "aec-wta-jantje-joagar-2026-11-04": [
+   [
+    1793803329.2081811,
+    0.07
    ]
   ]
  },
