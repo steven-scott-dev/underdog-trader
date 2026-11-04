@@ -2,7 +2,7 @@
  "date": "2026-11-04",
  "bets": 19,
  "bounce_bets": 19,
- "realized": 3.3736,
+ "realized": 3.2836,
  "paper_positions": [
   {
    "market": "aec-atp-alemic-caralc-2026-11-04",
@@ -15,7 +15,7 @@
    "sl": 0.028,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-despap-renzar-2026-11-04",
@@ -28,20 +28,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.15
-  },
-  {
-   "market": "aec-wta-julgra-julrie-2026-11-04",
-   "game": "wta:Riera@Grabher",
-   "side": "long",
-   "team": "Julia Grabher",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 14:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.17
   }
  ],
  "paper_history": [
@@ -315,6 +302,23 @@
    "closed": "2026-11-04 14:30 ET",
    "exit": 0.99,
    "pnl": 1.1375,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-wta-julgra-julrie-2026-11-04",
+   "game": "wta:Riera@Grabher",
+   "side": "long",
+   "team": "Julia Grabher",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 14:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.1,
+   "closed": "2026-11-04 14:40 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
    "reason": "settled"
   }
  ],
