@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 18:10 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-04 18:15 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 24 / 100 (main 0, bounce 24)
+- Bets placed: 25 / 100 (main 0, bounce 25)
 - Realized P&L: +3.11
 
 ## Open paper positions
-- _none_
+- **Jazmin Ortenzi** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-04 17:45 ET: Jazmin Ortenzi [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -20,4 +20,4 @@ Updated: 2026-11-04 18:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-04 14:40 ET: Julia Grabher [bounce] — settled @ 0.0100 → -0.0900
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Andreescu@Ortenzi", "market": "aec-wta-jazort-biaand-2026-11-04", "side": "long", "team": "Jazmin Ortenzi", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
