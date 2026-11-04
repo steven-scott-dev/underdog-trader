@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 11,
- "bounce_bets": 11,
+ "bets": 12,
+ "bounce_bets": 12,
  "realized": 2.1944,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-ireesc-luigio-2026-11-04",
+   "game": "wta:Giovannini@Burillo",
+   "side": "long",
+   "team": "Irene Burillo Escorihuela",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-04 12:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -241,6 +255,12 @@
    [
     1793804294.5442622,
     0.1
+   ]
+  ],
+  "aec-wta-ireesc-luigio-2026-11-04": [
+   [
+    1793811955.0418403,
+    0.06
    ]
   ]
  },

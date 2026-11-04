@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 12:01 ET · Mode: **PAPER** · Result: OK (12.4s)
+Updated: 2026-11-04 12:05 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
-- Bets placed: 11 / 100 (main 0, bounce 11)
+- Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: +2.19
 
 ## Open paper positions
-- _none_
+- **Irene Burillo Escorihuela** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-04 11:15 ET: Rinky Hijikata [bounce] — take-profit @ 0.1600 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-04 12:01 ET · Mode: **PAPER** · Result: OK (12.4s)
 - 2026-11-04 03:30 ET: Alina Charaeva [bounce] — settled @ 0.9900 → +1.5500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Giovannini@Burillo", "market": "aec-wta-ireesc-luigio-2026-11-04", "side": "long", "team": "Irene Burillo Escorihuela", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
