@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 37,
  "bounce_bets": 37,
- "realized": 6.7544,
- "paper_positions": [
-  {
-   "market": "aec-nhl-ana-van-2026-11-03",
-   "game": "nhl:ANA@VAN",
-   "side": "short",
-   "team": "Canucks",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 23:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": 6.6669,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -630,6 +616,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-ana-van-2026-11-03",
+   "game": "nhl:ANA@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 23:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-03 23:10 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -865,6 +868,7 @@
   "aec-nhl-det-tb-2026-11-03": 1793757042.6483564,
   "aec-nhl-col-cbj-2026-11-03": 1793757633.5732312,
   "aec-nhl-wpg-mon-2026-11-03": 1793758839.3805442,
-  "aec-nhl-car-nas-2026-11-03": 1793764834.5198472
+  "aec-nhl-car-nas-2026-11-03": 1793764834.5198472,
+  "aec-nhl-ana-van-2026-11-03": 1793767237.4430413
  }
 }

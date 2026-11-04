@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-03T23:05:38.089011-05:00",
+ "updated": "2026-11-03T23:10:38.528261-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-03",
   "bets": 37,
   "bounce_bets": 37,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.7544
+  "realized": 6.6669
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-ana-van-2026-11-03",
-   "game": "nhl:ANA@VAN",
-   "side": "short",
-   "team": "Canucks",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-03 23:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-julgra-laupig-2026-11-03",
-   "game": "wta:Pigossi@Grabher",
-   "side": "short",
-   "team": "Laura Pigossi",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-03 17:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-11-03 17:40 ET",
-   "exit": 0.99,
-   "pnl": 1.88,
-   "reason": "settled"
-  },
   {
    "market": "aec-wta-sofcos-marrib-2026-11-03",
    "game": "wta:Ribera@Costoulas",
@@ -196,20 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-ana-van-2026-11-03",
+   "game": "nhl:ANA@VAN",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-03 23:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-03 23:10 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:ANA@VAN",
-   "market": "aec-nhl-ana-van-2026-11-03",
-   "side": "short",
+   "type": "paper_close",
    "team": "Canucks",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.0875
   }
  ]
 }
