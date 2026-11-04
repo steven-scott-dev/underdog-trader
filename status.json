@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-03T20:45:41.105697-05:00",
+ "updated": "2026-11-03T20:50:40.905083-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-03",
   "bets": 33,
   "bounce_bets": 33,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.5878
+  "realized": 6.5211
  },
  "paper_positions": [
   {
@@ -24,39 +24,9 @@
    "opened": "2026-11-03 20:05 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-nhl-wpg-mon-2026-11-03",
-   "game": "nhl:WPG@MTL",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 20:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-elvkal-ireesc-2026-11-03",
-   "game": "wta:Burillo@Kalieva",
-   "side": "long",
-   "team": "Elvina Kalieva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-03 12:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-11-03 13:15 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-benshe-camnor-2026-11-03",
    "game": "atp:Norrie@Shelton",
@@ -209,8 +179,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-mon-2026-11-03",
+   "game": "nhl:WPG@MTL",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 20:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-03 20:50 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jets",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }

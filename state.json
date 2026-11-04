@@ -2,7 +2,7 @@
  "date": "2026-11-03",
  "bets": 33,
  "bounce_bets": 33,
- "realized": 6.5878,
+ "realized": 6.5211,
  "paper_positions": [
   {
    "market": "aec-nhl-min-phi-2026-11-03",
@@ -16,19 +16,6 @@
    "opened": "2026-11-03 20:05 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-nhl-wpg-mon-2026-11-03",
-   "game": "nhl:WPG@MTL",
-   "side": "long",
-   "team": "Jets",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 20:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -558,6 +545,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-wpg-mon-2026-11-03",
+   "game": "nhl:WPG@MTL",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 20:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-03 20:50 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -773,6 +777,7 @@
   "aec-wta-sofcos-marrib-2026-11-03": 1793748042.4723694,
   "aec-nhl-dal-was-2026-11-03": 1793756735.0252898,
   "aec-nhl-det-tb-2026-11-03": 1793757042.6483564,
-  "aec-nhl-col-cbj-2026-11-03": 1793757633.5732312
+  "aec-nhl-col-cbj-2026-11-03": 1793757633.5732312,
+  "aec-nhl-wpg-mon-2026-11-03": 1793758839.3805442
  }
 }
