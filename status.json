@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-04T17:40:35.655452-05:00",
+ "updated": "2026-11-04T17:45:37.757704-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-04",
   "bets": 24,
   "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.1662
+  "realized": 3.1062
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jazort-biaand-2026-11-04",
-   "game": "wta:Andreescu@Ortenzi",
-   "side": "long",
-   "team": "Jazmin Ortenzi",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 17:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "game": "atp:Humbert@Berrettini",
-   "side": "short",
-   "team": "Ugo Humbert",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 14:01 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-04 14:16 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-alitub-marrib-2026-11-04",
    "game": "wta:Ribera@Tubello",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jazort-biaand-2026-11-04",
+   "game": "wta:Andreescu@Ortenzi",
+   "side": "long",
+   "team": "Jazmin Ortenzi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 17:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-04 17:45 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jazmin Ortenzi",
+   "reason": "stop-loss",
+   "pnl": -0.06
+  }
+ ]
 }
