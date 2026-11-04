@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-04T04:30:36.425184-05:00",
+ "updated": "2026-11-04T04:35:35.464200-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-04",
   "bets": 6,
   "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.7833
+  "realized": 1.8833
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-talgib-alisas-2026-11-04",
-   "game": "wta:Sasnovich@Gibson",
-   "side": "long",
-   "team": "Talia Gibson",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 04:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -111,8 +97,32 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-talgib-alisas-2026-11-04",
+   "game": "wta:Sasnovich@Gibson",
+   "side": "long",
+   "team": "Talia Gibson",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-04 04:35 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Talia Gibson",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
