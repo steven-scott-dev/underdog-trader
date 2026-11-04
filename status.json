@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T02:30:38.015214-05:00",
+ "updated": "2026-11-04T02:35:33.169129-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-04",
   "bets": 2,
@@ -49,12 +49,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sofia Kenin",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
