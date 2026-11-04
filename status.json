@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T19:35:47.105096-05:00",
+ "updated": "2026-11-03T19:40:57.040440-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.6,
+ "duration_s": 24.3,
  "daily": {
   "date": "2026-11-03",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-03 19:35 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:DET@TB",
-   "market": "aec-nhl-det-tb-2026-11-03",
-   "side": "long",
-   "team": "Red Wings",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
