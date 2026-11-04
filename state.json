@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "bets": 14,
- "bounce_bets": 14,
+ "bets": 15,
+ "bounce_bets": 15,
  "realized": 2.2111,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-04 14:01 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-wta-alitub-marrib-2026-11-04",
+   "game": "wta:Ribera@Tubello",
+   "side": "short",
+   "team": "Marina Bassols Ribera",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -305,6 +318,12 @@
    [
     1793818863.6496627,
     0.09
+   ]
+  ],
+  "aec-wta-alitub-marrib-2026-11-04": [
+   [
+    1793819152.995508,
+    0.08
    ]
   ]
  },
