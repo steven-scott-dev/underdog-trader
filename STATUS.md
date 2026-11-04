@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 22:20 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-03 22:25 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 36 / 100 (main 0, bounce 36)
 - Realized P&L: +6.82
 
 ## Open paper positions
-- **Hurricanes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Hurricanes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 21:15 ET: Red Wings [bounce] — take-profit @ 0.1200 → +0.1000
