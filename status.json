@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-03T21:00:50.252777-05:00",
+ "updated": "2026-11-03T21:05:48.268808-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 12.7,
  "daily": {
   "date": "2026-11-03",
-  "bets": 34,
-  "bounce_bets": 34,
+  "bets": 35,
+  "bounce_bets": 35,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.5211
+  "realized": 6.6211
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-min-phi-2026-11-03",
-   "game": "nhl:MIN@PHI",
-   "side": "short",
-   "team": "Flyers",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-03 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-nhl-det-tb-2026-11-03",
    "game": "nhl:DET@TB",
@@ -36,27 +23,23 @@
    "sl": 0.024,
    "opened": "2026-11-03 21:00 ET",
    "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
- "paper_history": [
+   "last_bid": 0.04
+  },
   {
-   "market": "aec-atp-benshe-camnor-2026-11-03",
-   "game": "atp:Norrie@Shelton",
-   "side": "short",
-   "team": "Cameron Norrie",
+   "market": "aec-nhl-edm-nj-2026-11-03",
+   "game": "nhl:EDM@NJ",
+   "side": "long",
+   "team": "Oilers",
    "entry": 0.09,
    "qty": 1.1111,
    "tp": 0.18,
    "sl": 0.036,
-   "opened": "2026-11-03 13:25 ET",
+   "opened": "2026-11-03 21:05 ET",
    "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-03 13:45 ET",
-   "exit": 0.02,
-   "pnl": -0.0778,
-   "reason": "stop-loss"
-  },
+   "last_bid": 0.09
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-wta-meiyam-zhikul-2026-11-02",
    "game": "wta:Kulambayeva@Yamaguchi",
@@ -209,18 +192,41 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-phi-2026-11-03",
+   "game": "nhl:MIN@PHI",
+   "side": "short",
+   "team": "Flyers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-03 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-03 21:05 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Flyers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
    "type": "buy",
-   "game": "nhl:DET@TB",
-   "market": "aec-nhl-det-tb-2026-11-03",
+   "game": "nhl:EDM@NJ",
+   "market": "aec-nhl-edm-nj-2026-11-03",
    "side": "long",
-   "team": "Red Wings",
-   "ask": 0.06,
-   "qty": 1.6667,
+   "team": "Oilers",
+   "ask": 0.09,
+   "qty": 1.1111,
    "stake": 0.1,
    "mode": "bounce"
   }
