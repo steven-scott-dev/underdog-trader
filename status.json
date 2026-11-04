@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:20:35.186970-05:00",
+ "updated": "2026-11-04T04:25:36.296644-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 04:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -114,12 +114,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Kristina Novak",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
