@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T13:00:37.440012-05:00",
+ "updated": "2026-11-04T13:05:38.302570-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-04",
   "bets": 12,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Irene Burillo Escorihuela",
-   "reason": "settled",
-   "pnl": -0.0833
-  }
- ]
+ "actions": []
 }

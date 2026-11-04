@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 13:00 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-04 13:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 13:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-04 04:20 ET: Kristina Novak [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Irene Burillo Escorihuela", "reason": "settled", "pnl": -0.0833}`
+- _none_
