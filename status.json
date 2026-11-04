@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-04T16:00:35.234127-05:00",
+ "updated": "2026-11-04T16:05:39.968690-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-11-04",
   "bets": 21,
   "bounce_bets": 21,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.2079
+  "realized": 3.1329
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-despap-renzar-2026-11-04",
-   "game": "wta:Zarazua@Papamichail",
-   "side": "long",
-   "team": "Despina Papamichail",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 16:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-novdjo-rinhij-2026-11-04",
-   "game": "atp:Hijikata@Djokovic",
-   "side": "short",
-   "team": "Rinky Hijikata",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 09:54 ET",
-   "mode": "bounce",
-   "last_bid": 0.15,
-   "closed": "2026-11-04 11:15 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-ireesc-luigio-2026-11-04",
    "game": "wta:Giovannini@Burillo",
@@ -196,26 +165,32 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-despap-renzar-2026-11-04",
+   "game": "wta:Zarazua@Papamichail",
+   "side": "long",
+   "team": "Despina Papamichail",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 16:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-04 16:05 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Solana Sierra",
-   "reason": "stop-loss",
-   "pnl": -0.09
-  },
-  {
-   "type": "buy",
-   "game": "wta:Zarazua@Papamichail",
-   "market": "aec-wta-despap-renzar-2026-11-04",
-   "side": "long",
    "team": "Despina Papamichail",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.075
   }
  ]
 }

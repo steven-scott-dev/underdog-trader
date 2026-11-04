@@ -2,22 +2,8 @@
  "date": "2026-11-04",
  "bets": 21,
  "bounce_bets": 21,
- "realized": 3.2079,
- "paper_positions": [
-  {
-   "market": "aec-wta-despap-renzar-2026-11-04",
-   "game": "wta:Zarazua@Papamichail",
-   "side": "long",
-   "team": "Despina Papamichail",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 16:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": 3.1329,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -358,6 +344,23 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-despap-renzar-2026-11-04",
+   "game": "wta:Zarazua@Papamichail",
+   "side": "long",
+   "team": "Despina Papamichail",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 16:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-04 16:05 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -457,6 +460,7 @@
   "aec-wta-soflan-krinov-2026-11-04": 1793785833.8481166,
   "aec-wta-isashi-ginfei-2026-11-04": 1793801738.332206,
   "aec-wta-alitub-marrib-2026-11-04": 1793821592.5158308,
-  "aec-wta-leygor-solsie-2026-11-04": 1793827834.2589204
+  "aec-wta-leygor-solsie-2026-11-04": 1793827834.2589204,
+  "aec-wta-despap-renzar-2026-11-04": 1793828139.4673302
  }
 }
