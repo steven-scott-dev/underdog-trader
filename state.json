@@ -2,22 +2,8 @@
  "date": "2026-11-03",
  "bets": 36,
  "bounce_bets": 36,
- "realized": 6.8211,
- "paper_positions": [
-  {
-   "market": "aec-nhl-car-nas-2026-11-03",
-   "game": "nhl:CAR@NSH",
-   "side": "long",
-   "team": "Hurricanes",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-03 22:19 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 6.7544,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -613,6 +599,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-car-nas-2026-11-03",
+   "game": "nhl:CAR@NSH",
+   "side": "long",
+   "team": "Hurricanes",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 22:19 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-03 22:30 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -841,6 +844,7 @@
   "aec-nhl-dal-was-2026-11-03": 1793756735.0252898,
   "aec-nhl-det-tb-2026-11-03": 1793757042.6483564,
   "aec-nhl-col-cbj-2026-11-03": 1793757633.5732312,
-  "aec-nhl-wpg-mon-2026-11-03": 1793758839.3805442
+  "aec-nhl-wpg-mon-2026-11-03": 1793758839.3805442,
+  "aec-nhl-car-nas-2026-11-03": 1793764834.5198472
  }
 }
