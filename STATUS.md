@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:50 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-03 20:55 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 33 / 100 (main 0, bounce 33)
@@ -20,4 +20,4 @@ Updated: 2026-11-03 20:50 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-03 14:05 ET: Sahaja Yamalapalli [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jets", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
