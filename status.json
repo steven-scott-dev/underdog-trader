@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-04T02:25:35.782374-05:00",
+ "updated": "2026-11-04T02:30:38.015214-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-04",
   "bets": 2,
   "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.1
+  "realized": 0.2
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-miksto-sofken-2026-11-04",
-   "game": "wta:Kenin@Stojsavljevic",
-   "side": "short",
-   "team": "Sofia Kenin",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 02:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.16
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -43,8 +29,32 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-miksto-sofken-2026-11-04",
+   "game": "wta:Kenin@Stojsavljevic",
+   "side": "short",
+   "team": "Sofia Kenin",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 02:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.16,
+   "closed": "2026-11-04 02:30 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sofia Kenin",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
