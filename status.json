@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T11:15:47.650818-05:00",
+ "updated": "2026-11-04T12:01:05.632717-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 12.4,
  "daily": {
   "date": "2026-11-04",
   "bets": 11,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Rinky Hijikata",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

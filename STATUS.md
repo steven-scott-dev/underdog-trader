@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 11:15 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-11-04 12:01 ET · Mode: **PAPER** · Result: OK (12.4s)
 
 ## Today
 - Bets placed: 11 / 100 (main 0, bounce 11)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 11:15 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-11-04 03:30 ET: Alina Charaeva [bounce] — settled @ 0.9900 → +1.5500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Rinky Hijikata", "reason": "take-profit", "pnl": 0.1}`
+- _none_
