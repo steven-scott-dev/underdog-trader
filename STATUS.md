@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 23:00 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-03 23:05 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 36 / 100 (main 0, bounce 36)
+- Bets placed: 37 / 100 (main 0, bounce 37)
 - Realized P&L: +6.75
 
 ## Open paper positions
-- _none_
+- **Canucks** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-03 22:30 ET: Hurricanes [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-11-03 23:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-03 20:15 ET: Capitals [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:ANA@VAN", "market": "aec-nhl-ana-van-2026-11-03", "side": "short", "team": "Canucks", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
