@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T17:45:37.757704-05:00",
+ "updated": "2026-11-04T17:50:37.970224-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-04",
   "bets": 24,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jazmin Ortenzi",
-   "reason": "stop-loss",
-   "pnl": -0.06
-  }
- ]
+ "actions": []
 }

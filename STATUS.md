@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 17:45 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-04 17:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 24 / 100 (main 0, bounce 24)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 17:45 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-04 14:40 ET: Julia Grabher [bounce] — settled @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jazmin Ortenzi", "reason": "stop-loss", "pnl": -0.06}`
+- _none_
