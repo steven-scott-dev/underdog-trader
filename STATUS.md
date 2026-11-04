@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:05 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-11-03 20:10 ET · Mode: **PAPER** · Result: OK (14.4s)
 
 ## Today
-- Bets placed: 30 / 100 (main 0, bounce 30)
+- Bets placed: 31 / 100 (main 0, bounce 31)
 - Realized P&L: +6.82
 
 ## Open paper positions
 - **Red Wings** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
-- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
+- **Capitals** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-03 17:50 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -21,4 +22,4 @@ Updated: 2026-11-03 20:05 ET · Mode: **PAPER** · Result: OK (12.3s)
 - 2026-11-03 13:15 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:MIN@PHI", "market": "aec-nhl-min-phi-2026-11-03", "side": "short", "team": "Flyers", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "nhl:DAL@WSH", "market": "aec-nhl-dal-was-2026-11-03", "side": "short", "team": "Capitals", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

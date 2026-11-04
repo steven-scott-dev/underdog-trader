@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "bets": 30,
- "bounce_bets": 30,
+ "bets": 31,
+ "bounce_bets": 31,
  "realized": 6.8245,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.02,
    "opened": "2026-11-03 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
+  },
+  {
+   "market": "aec-nhl-dal-was-2026-11-03",
+   "game": "nhl:DAL@WSH",
+   "side": "short",
+   "team": "Capitals",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-03 20:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -683,6 +696,12 @@
    [
     1793754335.4670854,
     0.05
+   ]
+  ],
+  "aec-nhl-dal-was-2026-11-03": [
+   [
+    1793754650.0894392,
+    0.09
    ]
   ]
  },
