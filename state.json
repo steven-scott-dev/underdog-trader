@@ -1,9 +1,23 @@
 {
  "date": "2026-11-03",
- "bets": 28,
- "bounce_bets": 28,
+ "bets": 29,
+ "bounce_bets": 29,
  "realized": 6.8245,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-det-tb-2026-11-03",
+   "game": "nhl:DET@TB",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-03 19:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-tor-lac-2026-11-02",
@@ -643,6 +657,12 @@
   "aec-wta-sofcos-marrib-2026-11-03": [
    [
     1793745634.482502,
+    0.1
+   ]
+  ],
+  "aec-nhl-det-tb-2026-11-03": [
+   [
+    1793752535.0439787,
     0.1
    ]
   ]

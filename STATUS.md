@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 19:30 ET · Mode: **PAPER** · Result: OK (2.8s)
+Updated: 2026-11-03 19:35 ET · Mode: **PAPER** · Result: OK (13.6s)
 
 ## Today
-- Bets placed: 28 / 100 (main 0, bounce 28)
+- Bets placed: 29 / 100 (main 0, bounce 29)
 - Realized P&L: +6.82
 
 ## Open paper positions
-- _none_
+- **Red Wings** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-03 17:50 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0400 → -0.0600
@@ -20,4 +20,4 @@ Updated: 2026-11-03 19:30 ET · Mode: **PAPER** · Result: OK (2.8s)
 - 2026-11-03 13:15 ET: Maria Fernanda Herazo Gonzalez [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:DET@TB", "market": "aec-nhl-det-tb-2026-11-03", "side": "long", "team": "Red Wings", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
