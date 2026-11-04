@@ -1,21 +1,21 @@
 {
  "date": "2026-11-04",
- "bets": 20,
- "bounce_bets": 20,
- "realized": 3.2979,
+ "bets": 21,
+ "bounce_bets": 21,
+ "realized": 3.2079,
  "paper_positions": [
   {
-   "market": "aec-wta-leygor-solsie-2026-11-04",
-   "game": "wta:Sierra@Gormaz",
-   "side": "short",
-   "team": "Solana Sierra",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 15:50 ET",
+   "market": "aec-wta-despap-renzar-2026-11-04",
+   "game": "wta:Zarazua@Papamichail",
+   "side": "long",
+   "team": "Despina Papamichail",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 16:00 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -341,6 +341,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-leygor-solsie-2026-11-04",
+   "game": "wta:Sierra@Gormaz",
+   "side": "short",
+   "team": "Solana Sierra",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 15:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-04 16:00 ET",
+   "exit": 0.01,
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -419,8 +436,8 @@
   ],
   "aec-wta-despap-renzar-2026-11-04": [
    [
-    1793819476.0739713,
-    0.1
+    1793826035.148528,
+    0.08
    ]
   ],
   "aec-wta-julgra-julrie-2026-11-04": [
@@ -439,6 +456,7 @@
  "cooldowns": {
   "aec-wta-soflan-krinov-2026-11-04": 1793785833.8481166,
   "aec-wta-isashi-ginfei-2026-11-04": 1793801738.332206,
-  "aec-wta-alitub-marrib-2026-11-04": 1793821592.5158308
+  "aec-wta-alitub-marrib-2026-11-04": 1793821592.5158308,
+  "aec-wta-leygor-solsie-2026-11-04": 1793827834.2589204
  }
 }
