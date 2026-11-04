@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:40 ET · Mode: **PAPER** · Result: OK (11.6s)
+Updated: 2026-11-03 20:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 33 / 100 (main 0, bounce 33)
@@ -8,7 +8,7 @@ Updated: 2026-11-03 20:40 ET · Mode: **PAPER** · Result: OK (11.6s)
 
 ## Open paper positions
 - **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0600, unrealized +0.0200 (TP 0.1000 / SL 0.0200)
-- **Jets** (long/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Jets** (long/bounce) — 1.6667 @ 0.0600, now ~0.0500, unrealized -0.0167 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-03 20:30 ET: Avalanche [bounce] — stop-loss @ 0.0000 → -0.1000
