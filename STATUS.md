@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 09:54 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-04 09:58 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
-- Bets placed: 10 / 100 (main 0, bounce 10)
+- Bets placed: 11 / 100 (main 0, bounce 11)
 - Realized P&L: +1.99
 
 ## Open paper positions
 - **Rinky Hijikata** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Alex de Minaur** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 09:54 ET: Joanna Garland [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,5 +21,4 @@ Updated: 2026-11-04 09:54 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-04 02:30 ET: Sofia Kenin [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Joanna Garland", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "atp:Hijikata@Djokovic", "market": "aec-atp-novdjo-rinhij-2026-11-04", "side": "short", "team": "Rinky Hijikata", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Minaur@Etcheverry", "market": "aec-atp-tometc-alemin-2026-11-04", "side": "short", "team": "Alex de Minaur", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

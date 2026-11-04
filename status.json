@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T09:54:31.782320-05:00",
+ "updated": "2026-11-04T09:58:14.980911-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-04",
-  "bets": 10,
-  "bounce_bets": 10,
+  "bets": 11,
+  "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.9944
@@ -24,6 +24,19 @@
    "opened": "2026-11-04 09:54 ET",
    "mode": "bounce",
    "last_bid": 0.08
+  },
+  {
+   "market": "aec-atp-tometc-alemin-2026-11-04",
+   "game": "atp:Minaur@Etcheverry",
+   "side": "short",
+   "team": "Alex de Minaur",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 09:58 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -184,19 +197,13 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Joanna Garland",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
    "type": "buy",
-   "game": "atp:Hijikata@Djokovic",
-   "market": "aec-atp-novdjo-rinhij-2026-11-04",
+   "game": "atp:Minaur@Etcheverry",
+   "market": "aec-atp-tometc-alemin-2026-11-04",
    "side": "short",
-   "team": "Rinky Hijikata",
-   "ask": 0.08,
-   "qty": 1.25,
+   "team": "Alex de Minaur",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }
