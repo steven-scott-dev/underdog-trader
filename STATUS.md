@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-03 20:55 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-03 21:00 ET · Mode: **PAPER** · Result: OK (12.8s)
 
 ## Today
-- Bets placed: 33 / 100 (main 0, bounce 33)
+- Bets placed: 34 / 100 (main 0, bounce 34)
 - Realized P&L: +6.52
 
 ## Open paper positions
-- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0600, unrealized +0.0200 (TP 0.1000 / SL 0.0200)
+- **Flyers** (short/bounce) — 2.0 @ 0.0500, now ~0.0800, unrealized +0.0600 (TP 0.1000 / SL 0.0200)
+- **Red Wings** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-03 20:50 ET: Jets [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +21,4 @@ Updated: 2026-11-03 20:55 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-03 14:05 ET: Sahaja Yamalapalli [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:DET@TB", "market": "aec-nhl-det-tb-2026-11-03", "side": "long", "team": "Red Wings", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
