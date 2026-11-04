@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-03T20:25:49.702171-05:00",
+ "updated": "2026-11-03T20:31:13.393133-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.0,
+ "duration_s": 40.3,
  "daily": {
   "date": "2026-11-03",
   "bets": 33,
   "bounce_bets": 33,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.6878
+  "realized": 6.5878
  },
  "paper_positions": [
   {
@@ -23,7 +23,7 @@
    "sl": 0.02,
    "opened": "2026-11-03 20:05 ET",
    "mode": "bounce",
-   "last_bid": 0.02
+   "last_bid": 0.08
   },
   {
    "market": "aec-nhl-wpg-mon-2026-11-03",
@@ -36,40 +36,10 @@
    "sl": 0.024,
    "opened": "2026-11-03 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nhl-col-cbj-2026-11-03",
-   "game": "nhl:COL@CBJ",
-   "side": "long",
-   "team": "Avalanche",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-03 20:20 ET",
-   "mode": "bounce",
    "last_bid": 0.03
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-carmon-margon-2026-11-03",
-   "game": "wta:Gonzalez@Monnet",
-   "side": "short",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-03 12:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-11-03 13:15 ET",
-   "exit": 0.08,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-elvkal-ireesc-2026-11-03",
    "game": "wta:Burillo@Kalieva",
@@ -222,8 +192,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-col-cbj-2026-11-03",
+   "game": "nhl:COL@CBJ",
+   "side": "long",
+   "team": "Avalanche",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-03 20:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-03 20:30 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Avalanche",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }
