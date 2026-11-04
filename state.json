@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 23,
- "bounce_bets": 23,
+ "bets": 24,
+ "bounce_bets": 24,
  "realized": 3.1662,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jazort-biaand-2026-11-04",
+   "game": "wta:Andreescu@Ortenzi",
+   "side": "long",
+   "team": "Jazmin Ortenzi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 17:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -493,6 +507,12 @@
    [
     1793828735.9177718,
     0.04
+   ]
+  ],
+  "aec-wta-jazort-biaand-2026-11-04": [
+   [
+    1793831737.004398,
+    0.1
    ]
   ]
  },
