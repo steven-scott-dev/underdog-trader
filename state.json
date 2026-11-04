@@ -1,8 +1,8 @@
 {
  "date": "2026-11-04",
- "bets": 18,
- "bounce_bets": 18,
- "realized": 2.2361,
+ "bets": 19,
+ "bounce_bets": 19,
+ "realized": 3.3736,
  "paper_positions": [
   {
    "market": "aec-atp-alemic-caralc-2026-11-04",
@@ -15,7 +15,7 @@
    "sl": 0.028,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-despap-renzar-2026-11-04",
@@ -28,20 +28,20 @@
    "sl": 0.04,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.14
+   "last_bid": 0.17
   },
   {
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "game": "atp:Humbert@Berrettini",
-   "side": "short",
-   "team": "Ugo Humbert",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 14:25 ET",
+   "market": "aec-wta-julgra-julrie-2026-11-04",
+   "game": "wta:Riera@Grabher",
+   "side": "long",
+   "team": "Julia Grabher",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 14:30 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -299,6 +299,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-matber-ugohum-2026-11-04",
+   "game": "atp:Humbert@Berrettini",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 14:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-04 14:30 ET",
+   "exit": 0.99,
+   "pnl": 1.1375,
+   "reason": "settled"
   }
  ],
  "live_history": [],
@@ -378,6 +395,12 @@
   "aec-wta-despap-renzar-2026-11-04": [
    [
     1793819476.0739713,
+    0.1
+   ]
+  ],
+  "aec-wta-julgra-julrie-2026-11-04": [
+   [
+    1793820637.5643706,
     0.1
    ]
   ]
