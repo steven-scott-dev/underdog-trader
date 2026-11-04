@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 13:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-04 13:51 ET · Mode: **PAPER** · Result: OK (4.6s)
 
 ## Today
-- Bets placed: 12 / 100 (main 0, bounce 12)
+- Bets placed: 13 / 100 (main 0, bounce 13)
 - Realized P&L: +2.11
 
 ## Open paper positions
-- _none_
+- **Ugo Humbert** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-04 13:00 ET: Irene Burillo Escorihuela [bounce] — settled @ 0.0100 → -0.0833
@@ -20,4 +20,4 @@ Updated: 2026-11-04 13:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-04 04:20 ET: Kristina Novak [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Humbert@Berrettini", "market": "aec-atp-matber-ugohum-2026-11-04", "side": "short", "team": "Ugo Humbert", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
