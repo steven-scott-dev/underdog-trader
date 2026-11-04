@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 08:45 ET · Mode: **PAPER** · Result: OK (2.7s)
+Updated: 2026-11-04 08:50 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
@@ -20,4 +20,4 @@ Updated: 2026-11-04 08:45 ET · Mode: **PAPER** · Result: OK (2.7s)
 - 2026-11-04 02:10 ET: Sofia Kenin [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Isabella Shinikova", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_
