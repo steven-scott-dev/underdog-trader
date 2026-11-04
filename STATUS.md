@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 03:30 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-04 03:35 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
@@ -16,4 +16,4 @@ Updated: 2026-11-04 03:30 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-04 02:10 ET: Sofia Kenin [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alina Charaeva", "reason": "settled", "pnl": 1.55}`
+- _none_
