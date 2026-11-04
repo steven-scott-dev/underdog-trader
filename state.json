@@ -2,7 +2,7 @@
  "date": "2026-11-04",
  "bets": 6,
  "bounce_bets": 6,
- "realized": 1.85,
+ "realized": 1.7833,
  "paper_positions": [
   {
    "market": "aec-wta-talgib-alisas-2026-11-04",
@@ -16,19 +16,6 @@
    "opened": "2026-11-04 04:10 ET",
    "mode": "bounce",
    "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-soflan-krinov-2026-11-04",
-   "game": "wta:Novak@Lansere",
-   "side": "short",
-   "team": "Kristina Novak",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 04:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -99,6 +86,23 @@
    "exit": 0.99,
    "pnl": 1.55,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-soflan-krinov-2026-11-04",
+   "game": "wta:Novak@Lansere",
+   "side": "short",
+   "team": "Kristina Novak",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 04:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-04 04:20 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -127,5 +131,8 @@
     0.09
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-soflan-krinov-2026-11-04": 1793785833.8481166
  }
 }
