@@ -1,43 +1,17 @@
 {
- "updated": "2026-11-04T14:11:16.075243-05:00",
+ "updated": "2026-11-04T14:16:43.487919-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.9,
+ "duration_s": 11.2,
  "daily": {
   "date": "2026-11-04",
   "bets": 17,
   "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.2111
+  "realized": 2.2361
  },
  "paper_positions": [
-  {
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "game": "atp:Humbert@Berrettini",
-   "side": "short",
-   "team": "Ugo Humbert",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 14:01 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
-  {
-   "market": "aec-wta-alitub-marrib-2026-11-04",
-   "game": "wta:Ribera@Tubello",
-   "side": "short",
-   "team": "Marina Bassols Ribera",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 14:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
   {
    "market": "aec-atp-alemic-caralc-2026-11-04",
    "game": "atp:Alcaraz@Michelsen",
@@ -62,44 +36,10 @@
    "sl": 0.04,
    "opened": "2026-11-04 14:11 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-antruz-alicha-2026-11-01",
-   "game": "wta:Charaeva@Ruzic",
-   "side": "short",
-   "team": "Alina Charaeva",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-04 03:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-04 03:30 ET",
-   "exit": 0.99,
-   "pnl": 1.55,
-   "reason": "settled"
-  },
-  {
-   "market": "aec-wta-soflan-krinov-2026-11-04",
-   "game": "wta:Novak@Lansere",
-   "side": "short",
-   "team": "Kristina Novak",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 04:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.09,
-   "closed": "2026-11-04 04:20 ET",
-   "exit": 0.03,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-talgib-alisas-2026-11-04",
    "game": "wta:Sasnovich@Gibson",
@@ -235,31 +175,55 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-matber-ugohum-2026-11-04",
+   "game": "atp:Humbert@Berrettini",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 14:01 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-04 14:16 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-alitub-marrib-2026-11-04",
+   "game": "wta:Ribera@Tubello",
+   "side": "short",
+   "team": "Marina Bassols Ribera",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-04 14:16 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Alcaraz@Michelsen",
-   "market": "aec-atp-alemic-caralc-2026-11-04",
-   "side": "long",
-   "team": "Alex Michelsen",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
+   "type": "paper_close",
+   "team": "Ugo Humbert",
+   "reason": "take-profit",
+   "pnl": 0.1
   },
   {
-   "type": "buy",
-   "game": "wta:Zarazua@Papamichail",
-   "market": "aec-wta-despap-renzar-2026-11-04",
-   "side": "long",
-   "team": "Despina Papamichail",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "type": "paper_close",
+   "team": "Marina Bassols Ribera",
+   "reason": "stop-loss",
+   "pnl": -0.075
   }
  ]
 }
