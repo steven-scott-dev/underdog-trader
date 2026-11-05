@@ -2,22 +2,8 @@
  "date": "2026-11-05",
  "bets": 5,
  "bounce_bets": 5,
- "realized": 0.0486,
- "paper_positions": [
-  {
-   "market": "aec-wta-miksto-zeyson-2026-11-05",
-   "game": "wta:Sonmez@Stojsavljevic",
-   "side": "long",
-   "team": "Mika Stojsavljevic",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-05 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.17
-  }
- ],
+ "realized": -0.0514,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -86,6 +72,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-miksto-zeyson-2026-11-05",
+   "game": "wta:Sonmez@Stojsavljevic",
+   "side": "long",
+   "team": "Mika Stojsavljevic",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-05 05:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.17,
+   "closed": "2026-11-05 06:00 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -121,6 +124,7 @@
  },
  "cooldowns": {
   "aec-wta-annbli-zonli-2026-11-04": 1793874335.8907485,
-  "aec-wta-krikro-ksenza-2026-11-05": 1793876734.1595175
+  "aec-wta-krikro-ksenza-2026-11-05": 1793876734.1595175,
+  "aec-wta-miksto-zeyson-2026-11-05": 1793878235.031689
  }
 }
