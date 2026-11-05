@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-05T06:20:47.716096-05:00",
+ "updated": "2026-11-05T06:25:36.753900-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-05",
   "bets": 7,
   "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.1114
+  "realized": 0.6636
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-tompau-quehal-2026-11-05",
-   "game": "atp:Halys@Paul",
-   "side": "short",
-   "team": "Quentin Halys",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-05 06:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -128,8 +114,32 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tompau-quehal-2026-11-05",
+   "game": "atp:Halys@Paul",
+   "side": "short",
+   "team": "Quentin Halys",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 06:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-05 06:25 ET",
+   "exit": 0.875,
+   "pnl": 0.775,
+   "reason": "settled"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Quentin Halys",
+   "reason": "settled",
+   "pnl": 0.775
+  }
+ ]
 }
