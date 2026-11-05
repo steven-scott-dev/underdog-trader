@@ -2,22 +2,8 @@
  "date": "2026-11-05",
  "bets": 2,
  "bounce_bets": 2,
- "realized": 0.1,
- "paper_positions": [
-  {
-   "market": "aec-wta-annbli-zonli-2026-11-04",
-   "game": "wta:Zongyu@Blinkova",
-   "side": "short",
-   "team": "Zongyu Li",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-05 04:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": 0.0286,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -35,6 +21,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-annbli-zonli-2026-11-04",
+   "game": "wta:Zongyu@Blinkova",
+   "side": "short",
+   "team": "Zongyu Li",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-05 04:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-05 04:55 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -51,5 +54,8 @@
     0.07
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-annbli-zonli-2026-11-04": 1793874335.8907485
  }
 }
