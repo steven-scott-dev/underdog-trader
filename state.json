@@ -1,9 +1,23 @@
 {
  "date": "2026-11-05",
- "bets": 7,
- "bounce_bets": 7,
+ "bets": 8,
+ "bounce_bets": 8,
  "realized": 0.6636,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-simwal-lucste-2026-11-05",
+   "game": "wta:Stefanini@Waltert",
+   "side": "long",
+   "team": "Simona Waltert",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 08:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -165,6 +179,12 @@
    [
     1793877334.8727102,
     0.1
+   ]
+  ],
+  "aec-wta-simwal-lucste-2026-11-05": [
+   [
+    1793883938.3215504,
+    0.08
    ]
   ]
  },
