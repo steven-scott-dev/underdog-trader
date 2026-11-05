@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 23:05 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-04 23:10 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 29 / 100 (main 0, bounce 29)
@@ -20,5 +20,4 @@ Updated: 2026-11-04 23:05 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-04 16:50 ET: Tomas Machac [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Cavaliers", "reason": "settled", "pnl": -0.0875}`
-- `{"type": "paper_close", "team": "Pistons", "reason": "settled", "pnl": 1.0}`
+- _none_
