@@ -1,9 +1,23 @@
 {
  "date": "2026-11-05",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.0286,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-krikro-ksenza-2026-11-05",
+   "game": "wta:Zaytseva@Kroitor",
+   "side": "long",
+   "team": "Kristina Kroitor",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 05:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -52,6 +66,12 @@
    [
     1793871335.227814,
     0.07
+   ]
+  ],
+  "aec-wta-krikro-ksenza-2026-11-05": [
+   [
+    1793874036.7040925,
+    0.1
    ]
   ]
  },

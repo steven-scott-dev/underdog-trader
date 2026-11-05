@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-05T05:15:48.990716-05:00",
+ "updated": "2026-11-05T05:20:36.704939-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-05",
-  "bets": 2,
-  "bounce_bets": 2,
+  "bets": 3,
+  "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0286
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-krikro-ksenza-2026-11-05",
+   "game": "wta:Zaytseva@Kroitor",
+   "side": "long",
+   "team": "Kristina Kroitor",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 05:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -49,5 +63,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Zaytseva@Kroitor",
+   "market": "aec-wta-krikro-ksenza-2026-11-05",
+   "side": "long",
+   "team": "Kristina Kroitor",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
