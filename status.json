@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T09:40:41.104683-05:00",
+ "updated": "2026-11-05T09:45:43.802994-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-05",
   "bets": 10,
@@ -185,18 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Vaishnavi Adkar",
-   "reason": "stop-loss",
-   "pnl": -0.0833
-  },
-  {
-   "type": "paper_close",
-   "team": "Mary Stoiana",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }

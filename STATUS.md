@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 09:40 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-05 09:45 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 10 / 100 (main 0, bounce 10)
@@ -20,5 +20,4 @@ Updated: 2026-11-05 09:40 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-05 05:30 ET: Mika Stojsavljevic [bounce] — take-profit @ 0.1200 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Vaishnavi Adkar", "reason": "stop-loss", "pnl": -0.0833}`
-- `{"type": "paper_close", "team": "Mary Stoiana", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
