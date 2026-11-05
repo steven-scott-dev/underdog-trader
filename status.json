@@ -1,17 +1,44 @@
 {
- "updated": "2026-11-05T13:35:50.540835-05:00",
+ "updated": "2026-11-05T14:05:37.067989-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-05",
-  "bets": 10,
-  "bounce_bets": 10,
+  "bets": 12,
+  "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.4228
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-artfil-tayfri-2026-11-05",
+   "game": "atp:Fritz@Fils",
+   "side": "long",
+   "team": "Arthur Fils",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-julrie-renzar-2026-11-05",
+   "game": "wta:Zarazua@Riera",
+   "side": "short",
+   "team": "Renata Zarazua",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -185,5 +212,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Fritz@Fils",
+   "market": "aec-atp-artfil-tayfri-2026-11-05",
+   "side": "long",
+   "team": "Arthur Fils",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Zarazua@Riera",
+   "market": "aec-wta-julrie-renzar-2026-11-05",
+   "side": "short",
+   "team": "Renata Zarazua",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

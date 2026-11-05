@@ -1,9 +1,36 @@
 {
  "date": "2026-11-05",
- "bets": 10,
- "bounce_bets": 10,
+ "bets": 12,
+ "bounce_bets": 12,
  "realized": 0.4228,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-artfil-tayfri-2026-11-05",
+   "game": "atp:Fritz@Fils",
+   "side": "long",
+   "team": "Arthur Fils",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-wta-julrie-renzar-2026-11-05",
+   "game": "wta:Zarazua@Riera",
+   "side": "short",
+   "team": "Renata Zarazua",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -234,6 +261,18 @@
    [
     1793888740.8876798,
     0.1
+   ]
+  ],
+  "aec-atp-artfil-tayfri-2026-11-05": [
+   [
+    1793905536.6610572,
+    0.08
+   ]
+  ],
+  "aec-wta-julrie-renzar-2026-11-05": [
+   [
+    1793905537.0666935,
+    0.08
    ]
   ]
  },
