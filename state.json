@@ -2,35 +2,8 @@
  "date": "2026-11-04",
  "bets": 29,
  "bounce_bets": 29,
- "realized": 2.8862,
- "paper_positions": [
-  {
-   "market": "aec-nba-cle-okc-2026-11-04",
-   "game": "nba:CLE@OKC",
-   "side": "long",
-   "team": "Cavaliers",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 20:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.11
-  },
-  {
-   "market": "aec-nba-phi-det-2026-11-04",
-   "game": "nba:PHI@DET",
-   "side": "short",
-   "team": "Pistons",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-04 21:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  }
- ],
+ "realized": 3.7987,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -490,6 +463,40 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cle-okc-2026-11-04",
+   "game": "nba:CLE@OKC",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.11,
+   "closed": "2026-11-04 23:05 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-phi-det-2026-11-04",
+   "game": "nba:PHI@DET",
+   "side": "short",
+   "team": "Pistons",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 21:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-04 23:05 ET",
+   "exit": 0.99,
+   "pnl": 1.0,
+   "reason": "settled"
   }
  ],
  "live_history": [],
