@@ -2,22 +2,8 @@
  "date": "2026-11-05",
  "bets": 6,
  "bounce_bets": 6,
- "realized": -0.0514,
- "paper_positions": [
-  {
-   "market": "aec-wta-moyuch-maglin-2026-11-04",
-   "game": "wta:Linette@Uchijima",
-   "side": "long",
-   "team": "Moyuka Uchijima",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-05 06:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": -0.1114,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -103,6 +89,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-moyuch-maglin-2026-11-04",
+   "game": "wta:Linette@Uchijima",
+   "side": "long",
+   "team": "Moyuka Uchijima",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-05 06:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-05 06:10 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -145,6 +148,7 @@
  "cooldowns": {
   "aec-wta-annbli-zonli-2026-11-04": 1793874335.8907485,
   "aec-wta-krikro-ksenza-2026-11-05": 1793876734.1595175,
-  "aec-wta-miksto-zeyson-2026-11-05": 1793878235.031689
+  "aec-wta-miksto-zeyson-2026-11-05": 1793878235.031689,
+  "aec-wta-moyuch-maglin-2026-11-04": 1793878836.4044173
  }
 }
