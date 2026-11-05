@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 09:31 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-05 09:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 10 / 100 (main 0, bounce 10)
 - Realized P&L: +0.58
 
 ## Open paper positions
-- **Vaishnavi Adkar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
-- **Mary Stoiana** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Vaishnavi Adkar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
+- **Mary Stoiana** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-05 08:10 ET: Simona Waltert [bounce] — stop-loss @ 0.0100 → -0.0875

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T09:31:19.769929-05:00",
+ "updated": "2026-11-05T09:35:36.754595-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-05",
   "bets": 10,
@@ -23,7 +23,7 @@
    "sl": 0.024,
    "opened": "2026-11-05 09:21 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   },
   {
    "market": "aec-wta-sorcir-marsto-2026-11-05",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-05 09:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
