@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T06:15:35.175885-05:00",
+ "updated": "2026-11-05T06:20:47.716096-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-05",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-05 06:15 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -131,17 +131,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Halys@Paul",
-   "market": "aec-atp-tompau-quehal-2026-11-05",
-   "side": "short",
-   "team": "Quentin Halys",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
