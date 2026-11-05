@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-04T20:05:50.824128-05:00",
+ "updated": "2026-11-04T20:10:41.803891-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.0,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-11-04",
   "bets": 26,
   "bounce_bets": 26,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.0462
+  "realized": 2.9762
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-chi-ny-2026-11-04",
-   "game": "nba:CHI@NY",
-   "side": "long",
-   "team": "Bulls",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 19:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-matber-ugohum-2026-11-04",
-   "game": "atp:Humbert@Berrettini",
-   "side": "short",
-   "team": "Ugo Humbert",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-04 14:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-04 14:30 ET",
-   "exit": 0.99,
-   "pnl": 1.1375,
-   "reason": "settled"
-  },
   {
    "market": "aec-wta-julgra-julrie-2026-11-04",
    "game": "wta:Riera@Grabher",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-chi-ny-2026-11-04",
+   "game": "nba:CHI@NY",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 19:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-04 20:10 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Bulls",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }

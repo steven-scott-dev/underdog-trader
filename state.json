@@ -2,22 +2,8 @@
  "date": "2026-11-04",
  "bets": 26,
  "bounce_bets": 26,
- "realized": 3.0462,
- "paper_positions": [
-  {
-   "market": "aec-nba-chi-ny-2026-11-04",
-   "game": "nba:CHI@NY",
-   "side": "long",
-   "team": "Bulls",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-04 19:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 2.9762,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -443,6 +429,23 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-chi-ny-2026-11-04",
+   "game": "nba:CHI@NY",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 19:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-04 20:10 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -562,6 +565,7 @@
   "aec-wta-alitub-marrib-2026-11-04": 1793821592.5158308,
   "aec-wta-leygor-solsie-2026-11-04": 1793827834.2589204,
   "aec-wta-despap-renzar-2026-11-04": 1793831135.346509,
-  "aec-wta-jazort-biaand-2026-11-04": 1793836241.938022
+  "aec-wta-jazort-biaand-2026-11-04": 1793836241.938022,
+  "aec-nba-chi-ny-2026-11-04": 1793842839.494172
  }
 }
