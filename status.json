@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-05T14:10:37.333695-05:00",
+ "updated": "2026-11-05T14:15:36.359849-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-05",
   "bets": 12,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3603
+  "realized": 0.4603
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-julrie-renzar-2026-11-05",
-   "game": "wta:Zarazua@Riera",
-   "side": "short",
-   "team": "Renata Zarazua",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-05 14:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-annbli-zonli-2026-11-04",
-   "game": "wta:Zongyu@Blinkova",
-   "side": "short",
-   "team": "Zongyu Li",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-05 04:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-11-05 04:55 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-miksto-zeyson-2026-11-05",
    "game": "wta:Sonmez@Stojsavljevic",
@@ -196,15 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-julrie-renzar-2026-11-05",
+   "game": "wta:Zarazua@Riera",
+   "side": "short",
+   "team": "Renata Zarazua",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-05 14:15 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Arthur Fils",
-   "reason": "stop-loss",
-   "pnl": -0.0625
+   "team": "Renata Zarazua",
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
