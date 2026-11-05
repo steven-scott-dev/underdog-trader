@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 20:20 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-11-04 20:25 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Today
 - Bets placed: 27 / 100 (main 0, bounce 27)
 - Realized P&L: +2.98
 
 ## Open paper positions
-- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 20:10 ET: Bulls [bounce] — stop-loss @ 0.0300 → -0.0700
