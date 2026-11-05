@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-04T20:10:41.803891-05:00",
+ "updated": "2026-11-04T20:15:50.462861-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 14.0,
  "daily": {
   "date": "2026-11-04",
-  "bets": 26,
-  "bounce_bets": 26,
+  "bets": 27,
+  "bounce_bets": 27,
   "max_total": 100,
   "max_open": 5,
   "realized": 2.9762
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-chi-fla-2026-11-04",
+   "game": "nhl:CHI@FLA",
+   "side": "long",
+   "team": "Blackhawks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 20:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-julgra-julrie-2026-11-04",
@@ -187,10 +201,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Bulls",
-   "reason": "stop-loss",
-   "pnl": -0.07
+   "type": "buy",
+   "game": "nhl:CHI@FLA",
+   "market": "aec-nhl-chi-fla-2026-11-04",
+   "side": "long",
+   "team": "Blackhawks",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
