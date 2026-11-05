@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 25,
- "bounce_bets": 25,
+ "bets": 26,
+ "bounce_bets": 26,
  "realized": 3.0462,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-chi-ny-2026-11-04",
+   "game": "nba:CHI@NY",
+   "side": "long",
+   "team": "Bulls",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-04 19:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -533,6 +547,12 @@
    [
     1793834145.0217896,
     0.05
+   ]
+  ],
+  "aec-nba-chi-ny-2026-11-04": [
+   [
+    1793840146.8001883,
+    0.1
    ]
   ]
  },
