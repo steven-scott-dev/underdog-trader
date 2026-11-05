@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T04:35:35.516016-05:00",
+ "updated": "2026-11-05T04:40:35.475166-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-05",
   "bets": 2,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-11-05 04:35 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -46,17 +46,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Zongyu@Blinkova",
-   "market": "aec-wta-annbli-zonli-2026-11-04",
-   "side": "short",
-   "team": "Zongyu Li",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
