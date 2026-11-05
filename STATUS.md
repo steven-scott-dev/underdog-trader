@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 20:15 ET · Mode: **PAPER** · Result: OK (14.0s)
+Updated: 2026-11-04 20:20 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
 - Bets placed: 27 / 100 (main 0, bounce 27)
 - Realized P&L: +2.98
 
 ## Open paper positions
-- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 20:10 ET: Bulls [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-11-04 20:15 ET · Mode: **PAPER** · Result: OK (14.0s)
 - 2026-11-04 15:35 ET: Despina Papamichail [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CHI@FLA", "market": "aec-nhl-chi-fla-2026-11-04", "side": "long", "team": "Blackhawks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
