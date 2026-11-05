@@ -1,9 +1,23 @@
 {
  "date": "2026-11-05",
- "bets": 5,
- "bounce_bets": 5,
+ "bets": 6,
+ "bounce_bets": 6,
  "realized": -0.0514,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-moyuch-maglin-2026-11-04",
+   "game": "wta:Linette@Uchijima",
+   "side": "long",
+   "team": "Moyuka Uchijima",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-05 06:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -119,6 +133,12 @@
    [
     1793874935.5620599,
     0.09
+   ]
+  ],
+  "aec-wta-moyuch-maglin-2026-11-04": [
+   [
+    1793876737.5923355,
+    0.05
    ]
   ]
  },
