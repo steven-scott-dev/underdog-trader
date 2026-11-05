@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T20:50:53.486890-05:00",
+ "updated": "2026-11-04T20:55:46.922699-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.1,
+ "duration_s": 13.2,
  "daily": {
   "date": "2026-11-04",
   "bets": 28,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-04 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   },
   {
    "market": "aec-nba-cle-okc-2026-11-04",
@@ -36,7 +36,7 @@
    "sl": 0.032,
    "opened": "2026-11-04 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
