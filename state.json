@@ -2,21 +2,8 @@
  "date": "2026-11-05",
  "bets": 12,
  "bounce_bets": 12,
- "realized": 0.4228,
+ "realized": 0.3603,
  "paper_positions": [
-  {
-   "market": "aec-atp-artfil-tayfri-2026-11-05",
-   "game": "atp:Fritz@Fils",
-   "side": "long",
-   "team": "Arthur Fils",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-05 14:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
   {
    "market": "aec-wta-julrie-renzar-2026-11-05",
    "game": "wta:Zarazua@Riera",
@@ -28,7 +15,7 @@
    "sl": 0.032,
    "opened": "2026-11-05 14:05 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -201,6 +188,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-artfil-tayfri-2026-11-05",
+   "game": "atp:Fritz@Fils",
+   "side": "long",
+   "team": "Arthur Fils",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-05 14:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-05 14:10 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -283,6 +287,7 @@
   "aec-wta-moyuch-maglin-2026-11-04": 1793878836.4044173,
   "aec-wta-simwal-lucste-2026-11-05": 1793886039.072395,
   "aec-wta-anazak-vaiadk-2026-11-04": 1793891439.4867234,
-  "aec-wta-sorcir-marsto-2026-11-05": 1793891439.573941
+  "aec-wta-sorcir-marsto-2026-11-05": 1793891439.573941,
+  "aec-atp-artfil-tayfri-2026-11-05": 1793907635.7810977
  }
 }
