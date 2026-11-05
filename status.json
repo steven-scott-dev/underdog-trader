@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T09:21:08.299777-05:00",
+ "updated": "2026-11-05T09:25:41.396045-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.9,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-05",
-  "bets": 9,
-  "bounce_bets": 9,
+  "bets": 10,
+  "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.5761
@@ -23,7 +23,20 @@
    "sl": 0.024,
    "opened": "2026-11-05 09:21 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-sorcir-marsto-2026-11-05",
+   "game": "wta:Stoiana@Cirstea",
+   "side": "short",
+   "team": "Mary Stoiana",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -168,12 +181,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "wta:Adkar@Zakharova",
-   "market": "aec-wta-anazak-vaiadk-2026-11-04",
+   "game": "wta:Stoiana@Cirstea",
+   "market": "aec-wta-sorcir-marsto-2026-11-05",
    "side": "short",
-   "team": "Vaishnavi Adkar",
-   "ask": 0.06,
-   "qty": 1.6667,
+   "team": "Mary Stoiana",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "bets": 9,
- "bounce_bets": 9,
+ "bets": 10,
+ "bounce_bets": 10,
  "realized": 0.5761,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.024,
    "opened": "2026-11-05 09:21 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-sorcir-marsto-2026-11-05",
+   "game": "wta:Stoiana@Cirstea",
+   "side": "short",
+   "team": "Mary Stoiana",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -208,6 +221,12 @@
    [
     1793888468.1509333,
     0.06
+   ]
+  ],
+  "aec-wta-sorcir-marsto-2026-11-05": [
+   [
+    1793888740.8876798,
+    0.1
    ]
   ]
  },

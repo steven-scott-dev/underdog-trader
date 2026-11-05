@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 09:21 ET · Mode: **PAPER** · Result: OK (3.9s)
+Updated: 2026-11-05 09:25 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
-- Bets placed: 9 / 100 (main 0, bounce 9)
+- Bets placed: 10 / 100 (main 0, bounce 10)
 - Realized P&L: +0.58
 
 ## Open paper positions
-- **Vaishnavi Adkar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Vaishnavi Adkar** (short/bounce) — 1.6667 @ 0.0600, now ~0.0700, unrealized +0.0167 (TP 0.1200 / SL 0.0240)
+- **Mary Stoiana** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-05 08:10 ET: Simona Waltert [bounce] — stop-loss @ 0.0100 → -0.0875
@@ -20,4 +21,4 @@ Updated: 2026-11-05 09:21 ET · Mode: **PAPER** · Result: OK (3.9s)
 - 2026-11-05 03:50 ET: Elena Pridankina [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Adkar@Zakharova", "market": "aec-wta-anazak-vaiadk-2026-11-04", "side": "short", "team": "Vaishnavi Adkar", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Stoiana@Cirstea", "market": "aec-wta-sorcir-marsto-2026-11-05", "side": "short", "team": "Mary Stoiana", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
