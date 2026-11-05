@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 20:40 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-11-04 20:45 ET · Mode: **PAPER** · Result: OK (12.6s)
 
 ## Today
-- Bets placed: 27 / 100 (main 0, bounce 27)
+- Bets placed: 28 / 100 (main 0, bounce 28)
 - Realized P&L: +2.98
 
 ## Open paper positions
-- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Blackhawks** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Cavaliers** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-04 20:10 ET: Bulls [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +21,4 @@ Updated: 2026-11-04 20:40 ET · Mode: **PAPER** · Result: OK (2.5s)
 - 2026-11-04 15:35 ET: Despina Papamichail [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:CLE@OKC", "market": "aec-nba-cle-okc-2026-11-04", "side": "long", "team": "Cavaliers", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`

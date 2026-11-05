@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T20:40:36.587975-05:00",
+ "updated": "2026-11-04T20:45:47.821028-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-11-04",
-  "bets": 27,
-  "bounce_bets": 27,
+  "bets": 28,
+  "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
   "realized": 2.9762
@@ -23,7 +23,20 @@
    "sl": 0.04,
    "opened": "2026-11-04 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nba-cle-okc-2026-11-04",
+   "game": "nba:CLE@OKC",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-04 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:CLE@OKC",
+   "market": "aec-nba-cle-okc-2026-11-04",
+   "side": "long",
+   "team": "Cavaliers",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
