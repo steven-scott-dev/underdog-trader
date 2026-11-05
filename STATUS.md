@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 23:20 ET · Mode: **PAPER** · Result: OK (3.0s)
+Updated: 2026-11-04 23:25 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 30 / 100 (main 0, bounce 30)
 - Realized P&L: +3.80
 
 ## Open paper positions
-- **Mavericks** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Mavericks** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-04 23:05 ET: Pistons [bounce] — settled @ 0.9900 → +1.0000
@@ -20,4 +20,4 @@ Updated: 2026-11-04 23:20 ET · Mode: **PAPER** · Result: OK (3.0s)
 - 2026-11-04 16:50 ET: Tomas Machac [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:DAL@SA", "market": "aec-nba-dal-sa-2026-11-04", "side": "long", "team": "Mavericks", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
