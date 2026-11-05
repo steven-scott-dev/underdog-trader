@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 14:15 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-05 14:20 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 14:15 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-05 06:00 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Renata Zarazua", "reason": "take-profit", "pnl": 0.1}`
+- _none_
