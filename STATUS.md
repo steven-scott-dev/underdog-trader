@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 06:25 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-05 06:30 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
@@ -19,4 +19,4 @@ Updated: 2026-11-05 06:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-05 03:50 ET: Elena Pridankina [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Quentin Halys", "reason": "settled", "pnl": 0.775}`
+- _none_

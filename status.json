@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T06:25:36.753900-05:00",
+ "updated": "2026-11-05T06:30:39.161102-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-05",
   "bets": 7,
@@ -134,12 +134,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Quentin Halys",
-   "reason": "settled",
-   "pnl": 0.775
-  }
- ]
+ "actions": []
 }
