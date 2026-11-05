@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 21:05 ET · Mode: **PAPER** · Result: OK (14.4s)
+Updated: 2026-11-04 21:10 ET · Mode: **PAPER** · Result: OK (14.3s)
 
 ## Today
-- Bets placed: 28 / 100 (main 0, bounce 28)
+- Bets placed: 29 / 100 (main 0, bounce 29)
 - Realized P&L: +2.89
 
 ## Open paper positions
-- **Cavaliers** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Cavaliers** (long/bounce) — 1.25 @ 0.0800, now ~0.1100, unrealized +0.0375 (TP 0.1600 / SL 0.0320)
+- **Pistons** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-04 21:05 ET: Blackhawks [bounce] — stop-loss @ 0.0100 → -0.0900
@@ -20,4 +21,4 @@ Updated: 2026-11-04 21:05 ET · Mode: **PAPER** · Result: OK (14.4s)
 - 2026-11-04 16:00 ET: Solana Sierra [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blackhawks", "reason": "stop-loss", "pnl": -0.09}`
+- `{"type": "buy", "game": "nba:PHI@DET", "market": "aec-nba-phi-det-2026-11-04", "side": "short", "team": "Pistons", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

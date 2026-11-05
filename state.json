@@ -1,7 +1,7 @@
 {
  "date": "2026-11-04",
- "bets": 28,
- "bounce_bets": 28,
+ "bets": 29,
+ "bounce_bets": 29,
  "realized": 2.8862,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.032,
    "opened": "2026-11-04 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nba-phi-det-2026-11-04",
+   "game": "nba:PHI@DET",
+   "side": "short",
+   "team": "Pistons",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-04 21:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -599,6 +612,12 @@
    [
     1793843147.0963645,
     0.08
+   ]
+  ],
+  "aec-nba-phi-det-2026-11-04": [
+   [
+    1793844635.611412,
+    0.09
    ]
   ]
  },
