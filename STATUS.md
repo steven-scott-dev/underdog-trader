@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 04:40 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-05 04:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
 - Realized P&L: +0.10
 
 ## Open paper positions
-- **Zongyu Li** (short/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
+- **Zongyu Li** (short/bounce) — 1.4286 @ 0.0700, now ~0.0400, unrealized -0.0429 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-05 03:50 ET: Elena Pridankina [bounce] — take-profit @ 0.0800 → +0.1000
