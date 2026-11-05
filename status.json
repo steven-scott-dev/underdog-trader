@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-05T06:10:37.974290-05:00",
+ "updated": "2026-11-05T06:15:35.175885-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-05",
-  "bets": 6,
-  "bounce_bets": 6,
+  "bets": 7,
+  "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.1114
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tompau-quehal-2026-11-05",
+   "game": "atp:Halys@Paul",
+   "side": "short",
+   "team": "Quentin Halys",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 06:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -119,10 +133,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
-   "team": "Moyuka Uchijima",
-   "reason": "stop-loss",
-   "pnl": -0.06
+   "type": "buy",
+   "game": "atp:Halys@Paul",
+   "market": "aec-atp-tompau-quehal-2026-11-05",
+   "side": "short",
+   "team": "Quentin Halys",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
