@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 08:05 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-05 08:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
-- Realized P&L: +0.66
+- Realized P&L: +0.58
 
 ## Open paper positions
-- **Simona Waltert** (long/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- _none_
 
 ## Recent history
+- 2026-11-05 08:10 ET: Simona Waltert [bounce] — stop-loss @ 0.0100 → -0.0875
 - 2026-11-05 06:25 ET: Quentin Halys [bounce] — settled @ 0.8750 → +0.7750
 - 2026-11-05 06:10 ET: Moyuka Uchijima [bounce] — stop-loss @ 0.0200 → -0.0600
 - 2026-11-05 06:00 ET: Mika Stojsavljevic [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -19,4 +20,4 @@ Updated: 2026-11-05 08:05 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-05 03:50 ET: Elena Pridankina [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Stefanini@Waltert", "market": "aec-wta-simwal-lucste-2026-11-05", "side": "long", "team": "Simona Waltert", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Simona Waltert", "reason": "stop-loss", "pnl": -0.0875}`
