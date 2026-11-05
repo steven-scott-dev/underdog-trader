@@ -1,9 +1,31 @@
 {
  "date": "2026-11-05",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-elepri-aleshu-2026-11-05",
+   "game": "wta:Shubladze@Pridankina",
+   "side": "long",
+   "team": "Elena Pridankina",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-05 03:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-wta-elepri-aleshu-2026-11-05": [
+   [
+    1793868333.1391404,
+    0.04
+   ]
+  ]
+ }
 }
