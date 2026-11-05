@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 20:00 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-11-04 20:05 ET · Mode: **PAPER** · Result: OK (12.0s)
 
 ## Today
 - Bets placed: 26 / 100 (main 0, bounce 26)
 - Realized P&L: +3.05
 
 ## Open paper positions
-- **Bulls** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- **Bulls** (long/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-04 18:20 ET: Jazmin Ortenzi [bounce] — stop-loss @ 0.0200 → -0.0600
