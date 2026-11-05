@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:45:42.867297-05:00",
+ "updated": "2026-11-05T15:50:35.548948-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.4,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jan-Lennard Struff",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }

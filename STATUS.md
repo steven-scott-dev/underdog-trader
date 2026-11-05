@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 15:45 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-05 15:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 13 / 100 (main 0, bounce 13)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 15:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-05 06:10 ET: Moyuka Uchijima [bounce] — stop-loss @ 0.0200 → -0.0600
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jan-Lennard Struff", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
