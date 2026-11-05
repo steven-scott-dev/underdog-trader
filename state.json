@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": 0.0286,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-11-05 05:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.13
+  },
+  {
+   "market": "aec-wta-miksto-zeyson-2026-11-05",
+   "game": "wta:Sonmez@Stojsavljevic",
+   "side": "long",
+   "team": "Mika Stojsavljevic",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-05 05:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -72,6 +85,12 @@
    [
     1793874036.7040925,
     0.1
+   ]
+  ],
+  "aec-wta-miksto-zeyson-2026-11-05": [
+   [
+    1793874338.2258124,
+    0.06
    ]
   ]
  },
