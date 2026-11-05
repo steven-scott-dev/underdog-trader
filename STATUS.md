@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 08:10 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-05 08:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 08:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-05 03:50 ET: Elena Pridankina [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Simona Waltert", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_

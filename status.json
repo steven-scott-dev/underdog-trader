@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T08:10:40.092960-05:00",
+ "updated": "2026-11-05T08:15:35.137826-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-05",
   "bets": 8,
@@ -151,12 +151,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Simona Waltert",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  }
- ]
+ "actions": []
 }
