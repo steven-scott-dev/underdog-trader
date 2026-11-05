@@ -1,9 +1,23 @@
 {
  "date": "2026-11-04",
- "bets": 29,
- "bounce_bets": 29,
+ "bets": 30,
+ "bounce_bets": 30,
  "realized": 3.7987,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-dal-sa-2026-11-04",
+   "game": "nba:DAL@SA",
+   "side": "long",
+   "team": "Mavericks",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-04 23:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-miksto-sofken-2026-11-04",
@@ -625,6 +639,12 @@
    [
     1793844635.611412,
     0.09
+   ]
+  ],
+  "aec-nba-dal-sa-2026-11-04": [
+   [
+    1793852436.8230262,
+    0.07
    ]
   ]
  },
