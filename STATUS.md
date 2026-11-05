@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-04 23:45 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-04 23:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 30 / 100 (main 0, bounce 30)
 - Realized P&L: +3.80
 
 ## Open paper positions
-- **Mavericks** (long/bounce) — 1.4286 @ 0.0700, now ~0.1200, unrealized +0.0714 (TP 0.1400 / SL 0.0280)
+- **Mavericks** (long/bounce) — 1.4286 @ 0.0700, now ~0.1100, unrealized +0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-04 23:05 ET: Pistons [bounce] — settled @ 0.9900 → +1.0000
