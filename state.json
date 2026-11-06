@@ -1,9 +1,23 @@
 {
  "date": "2026-11-06",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": -0.3103,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-robmon-maarev-2026-11-06",
+   "game": "wta:Revathi@Montgomery",
+   "side": "short",
+   "team": "Maaya Rajeshwaran Revathi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -98,6 +112,12 @@
    [
     1793967033.354479,
     0.1
+   ]
+  ],
+  "aec-wta-robmon-maarev-2026-11-06": [
+   [
+    1793970037.2127523,
+    0.07
    ]
   ]
  },
