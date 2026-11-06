@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 09:50 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-06 10:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
-- Realized P&L: -0.50
+- Realized P&L: -0.60
 
 ## Open paper positions
-- **Justina Mikulskyte** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-11-06 10:00 ET: Justina Mikulskyte [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-06 09:50 ET: Tommy Paul [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-06 09:45 ET: Antonia Ruzic [bounce] — stop-loss @ 0.0400 → -0.0600
 - 2026-11-06 08:10 ET: Maaya Rajeshwaran Revathi [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -19,4 +20,4 @@ Updated: 2026-11-06 09:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-06 02:20 ET: Zeynep Sonmez [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tommy Paul", "reason": "stop-loss", "pnl": -0.0625}`
+- `{"type": "paper_close", "team": "Justina Mikulskyte", "reason": "stop-loss", "pnl": -0.1}`
