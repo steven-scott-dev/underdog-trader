@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 14,
- "bounce_bets": 14,
+ "bets": 15,
+ "bounce_bets": 15,
  "realized": -0.4042,
  "paper_positions": [
   {
@@ -29,6 +29,19 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
+  },
+  {
+   "market": "aec-atp-casruu-nunbor-2026-11-06",
+   "game": "atp:Borges@Ruud",
+   "side": "short",
+   "team": "Nuno Borges",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-06 18:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -309,6 +322,12 @@
    [
     1794000335.6821058,
     0.05
+   ]
+  ],
+  "aec-atp-casruu-nunbor-2026-11-06": [
+   [
+    1794008143.7081356,
+    0.06
    ]
   ]
  },

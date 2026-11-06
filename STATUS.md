@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 18:30 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-06 18:35 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 14 / 100 (main 0, bounce 14)
+- Bets placed: 15 / 100 (main 0, bounce 15)
 - Realized P&L: -0.40
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Nuno Borges** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-06 16:50 ET: Taylor Fritz [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -21,4 +22,4 @@ Updated: 2026-11-06 18:30 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-06 08:10 ET: Maaya Rajeshwaran Revathi [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Borges@Ruud", "market": "aec-atp-casruu-nunbor-2026-11-06", "side": "short", "team": "Nuno Borges", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
