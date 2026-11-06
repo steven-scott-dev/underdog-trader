@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 08:50 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-06 08:55 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: -0.38
 
 ## Open paper positions
-- **Justina Mikulskyte** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Justina Mikulskyte** (long/bounce) — 1.1111 @ 0.0900, now ~0.1000, unrealized +0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-06 08:10 ET: Maaya Rajeshwaran Revathi [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -17,4 +17,4 @@ Updated: 2026-11-06 08:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-06 02:20 ET: Zeynep Sonmez [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Akugue@Mikulskyte", "market": "aec-wta-jusmik-nomaku-2026-11-06", "side": "long", "team": "Justina Mikulskyte", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
