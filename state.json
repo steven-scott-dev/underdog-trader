@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 9,
- "bounce_bets": 9,
+ "bets": 10,
+ "bounce_bets": 10,
  "realized": -0.6042,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-anazak-lucste-2026-11-06",
+   "game": "wta:Stefanini@Zakharova",
+   "side": "short",
+   "team": "Lucrezia Stefanini",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-06 13:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -210,6 +223,12 @@
    [
     1793979636.374125,
     0.09
+   ]
+  ],
+  "aec-wta-anazak-lucste-2026-11-06": [
+   [
+    1793988944.8791316,
+    0.04
    ]
   ]
  },
