@@ -1,9 +1,23 @@
 {
  "date": "2026-11-05",
- "bets": 14,
- "bounce_bets": 14,
+ "bets": 15,
+ "bounce_bets": 15,
  "realized": 0.3103,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-stl-nj-2026-11-05",
+   "game": "nhl:STL@NJ",
+   "side": "long",
+   "team": "Blues",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-05 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -326,6 +340,12 @@
    [
     1793927149.3774407,
     0.1
+   ]
+  ],
+  "aec-nhl-stl-nj-2026-11-05": [
+   [
+    1793928342.3544812,
+    0.09
    ]
   ]
  },
