@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 02:15 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-06 02:20 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
-- Realized P&L: +0.00
+- Realized P&L: -0.08
 
 ## Open paper positions
-- **Zeynep Sonmez** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
-- _none yet_
+- 2026-11-06 02:20 ET: Zeynep Sonmez [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Zeynep Sonmez", "reason": "stop-loss", "pnl": -0.0778}`

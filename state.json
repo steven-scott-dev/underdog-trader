@@ -2,8 +2,9 @@
  "date": "2026-11-06",
  "bets": 1,
  "bounce_bets": 1,
- "realized": 0.0,
- "paper_positions": [
+ "realized": -0.0778,
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
    "game": "wta:Liu@Sonmez",
@@ -15,10 +16,13 @@
    "sl": 0.036,
    "opened": "2026-11-06 02:10 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.09,
+   "closed": "2026-11-06 02:20 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "px_hist": {
   "aec-wta-zeyson-claliu-2026-11-06": [
@@ -27,5 +31,8 @@
     0.09
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-zeyson-claliu-2026-11-06": 1793951432.3718681
  }
 }
