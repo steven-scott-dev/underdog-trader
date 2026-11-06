@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:11 ET · Mode: **PAPER** · Result: OK (22.5s)
+Updated: 2026-11-05 20:16 ET · Mode: **PAPER** · Result: OK (24.1s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: +0.38
 
 ## Open paper positions
-- **Canucks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Canucks** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-05 15:45 ET: Jan-Lennard Struff [bounce] — stop-loss @ 0.0100 → -0.0800
