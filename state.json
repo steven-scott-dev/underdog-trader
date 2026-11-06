@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 15,
  "bounce_bets": 15,
- "realized": -0.4042,
+ "realized": 1.1458,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -28,20 +28,7 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-atp-casruu-nunbor-2026-11-06",
-   "game": "atp:Borges@Ruud",
-   "side": "short",
-   "team": "Nuno Borges",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-06 18:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -248,6 +235,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-casruu-nunbor-2026-11-06",
+   "game": "atp:Borges@Ruud",
+   "side": "short",
+   "team": "Nuno Borges",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-06 18:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-06 18:50 ET",
+   "exit": 0.99,
+   "pnl": 1.55,
+   "reason": "settled"
   }
  ],
  "live_history": [],
