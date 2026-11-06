@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 17:30 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-06 17:35 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: -0.40
 
 ## Open paper positions
-- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
