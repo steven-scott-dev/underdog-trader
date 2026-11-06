@@ -1,8 +1,8 @@
 {
  "date": "2026-11-06",
- "bets": 7,
- "bounce_bets": 7,
- "realized": -0.3817,
+ "bets": 8,
+ "bounce_bets": 8,
+ "realized": -0.4417,
  "paper_positions": [
   {
    "market": "aec-wta-jusmik-nomaku-2026-11-06",
@@ -18,17 +18,17 @@
    "last_bid": 0.07
   },
   {
-   "market": "aec-wta-antruz-aleeal-2026-11-06",
-   "game": "wta:Eala@Ruzic",
-   "side": "long",
-   "team": "Antonia Ruzic",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-06 09:05 ET",
+   "market": "aec-atp-benshe-tompau-2026-11-06",
+   "game": "atp:Paul@Shelton",
+   "side": "short",
+   "team": "Tommy Paul",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-06 09:45 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -116,6 +116,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-antruz-aleeal-2026-11-06",
+   "game": "wta:Eala@Ruzic",
+   "side": "long",
+   "team": "Antonia Ruzic",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-06 09:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-06 09:45 ET",
+   "exit": 0.04,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -161,6 +178,12 @@
     1793973935.2092574,
     0.1
    ]
+  ],
+  "aec-atp-benshe-tompau-2026-11-06": [
+   [
+    1793976342.4107735,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -168,6 +191,7 @@
   "aec-wta-alisas-marsak-2026-11-06": 1793967634.7445078,
   "aec-wta-jantje-polkud-2026-11-06": 1793967933.6401424,
   "aec-wta-ksenza-ginfei-2026-11-06": 1793969134.1139965,
-  "aec-wta-robmon-maarev-2026-11-06": 1793972434.983901
+  "aec-wta-robmon-maarev-2026-11-06": 1793972434.983901,
+  "aec-wta-antruz-aleeal-2026-11-06": 1793978141.5988834
  }
 }
