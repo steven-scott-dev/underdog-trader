@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:55 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-05 21:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: +0.22
 
 ## Open paper positions
-- **Penguins** (short/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
+- **Penguins** (short/bounce) — 1.6667 @ 0.0600, now ~0.0300, unrealized -0.0500 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-05 20:45 ET: Blues [bounce] — stop-loss @ 0.0100 → -0.0889
