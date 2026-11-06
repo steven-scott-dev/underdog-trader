@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-06T06:20:35.603502-05:00",
+ "updated": "2026-11-06T06:25:37.879262-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-06",
-  "bets": 1,
-  "bounce_bets": 1,
+  "bets": 2,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.0778
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-alisas-marsak-2026-11-06",
+   "game": "wta:Sakkari@Sasnovich",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-06 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -32,5 +46,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Sakkari@Sasnovich",
+   "market": "aec-wta-alisas-marsak-2026-11-06",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
