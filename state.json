@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 12,
- "bounce_bets": 12,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": -0.3042,
  "paper_positions": [
   {
@@ -16,6 +16,32 @@
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
    "last_bid": 0.06
+  },
+  {
+   "market": "aec-atp-tayfri-caralc-2026-11-06",
+   "game": "atp:Alcaraz@Fritz",
+   "side": "long",
+   "team": "Taylor Fritz",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-alitub-biaand-2026-11-06",
+   "game": "wta:Andreescu@Tubello",
+   "side": "long",
+   "team": "Alice Tubello",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -271,14 +297,14 @@
   ],
   "aec-wta-alitub-biaand-2026-11-06": [
    [
-    1793997340.6448598,
-    0.09
+    1794000336.0114675,
+    0.05
    ]
   ],
   "aec-atp-tayfri-caralc-2026-11-06": [
    [
-    1793997938.2320724,
-    0.07
+    1794000335.6821058,
+    0.05
    ]
   ]
  },

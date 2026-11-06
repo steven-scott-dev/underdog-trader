@@ -1,13 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 16:10 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-06 16:25 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
-- Bets placed: 12 / 100 (main 0, bounce 12)
+- Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: -0.30
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Taylor Fritz** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-06 15:50 ET: Carlos Alcaraz [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +22,5 @@ Updated: 2026-11-06 16:10 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-06 07:15 ET: Ksenia Zaytseva [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Alcaraz@Fritz", "market": "aec-atp-tayfri-caralc-2026-11-06", "side": "long", "team": "Taylor Fritz", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "wta:Andreescu@Tubello", "market": "aec-wta-alitub-biaand-2026-11-06", "side": "long", "team": "Alice Tubello", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
