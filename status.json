@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06T16:30:50.483430-05:00",
+ "updated": "2026-11-06T16:50:39.355588-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-06",
   "bets": 14,
   "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3042
+  "realized": -0.4042
  },
  "paper_positions": [
   {
@@ -26,19 +26,6 @@
    "last_bid": 0.06
   },
   {
-   "market": "aec-atp-tayfri-caralc-2026-11-06",
-   "game": "atp:Alcaraz@Fritz",
-   "side": "long",
-   "team": "Taylor Fritz",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-06 16:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
    "market": "aec-wta-alitub-biaand-2026-11-06",
    "game": "wta:Andreescu@Tubello",
    "side": "long",
@@ -53,23 +40,6 @@
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-alisas-marsak-2026-11-06",
-   "game": "wta:Sakkari@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-06 06:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-06 06:50 ET",
-   "exit": 0.01,
-   "pnl": -0.0875,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-jantje-polkud-2026-11-06",
    "game": "wta:Kudermetova@Tjen",
@@ -222,8 +192,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-tayfri-caralc-2026-11-06",
+   "game": "atp:Alcaraz@Fritz",
+   "side": "long",
+   "team": "Taylor Fritz",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 16:50 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Taylor Fritz",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  }
+ ]
 }

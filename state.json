@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 14,
  "bounce_bets": 14,
- "realized": -0.3042,
+ "realized": -0.4042,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -16,19 +16,6 @@
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-atp-tayfri-caralc-2026-11-06",
-   "game": "atp:Alcaraz@Fritz",
-   "side": "long",
-   "team": "Taylor Fritz",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-06 16:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
   },
   {
    "market": "aec-wta-alitub-biaand-2026-11-06",
@@ -231,6 +218,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-tayfri-caralc-2026-11-06",
+   "game": "atp:Alcaraz@Fritz",
+   "side": "long",
+   "team": "Taylor Fritz",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 16:50 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -316,6 +320,7 @@
   "aec-wta-robmon-maarev-2026-11-06": 1793972434.983901,
   "aec-wta-antruz-aleeal-2026-11-06": 1793978141.5988834,
   "aec-atp-benshe-tompau-2026-11-06": 1793978436.3076718,
-  "aec-wta-jusmik-nomaku-2026-11-06": 1793979039.967656
+  "aec-wta-jusmik-nomaku-2026-11-06": 1793979039.967656,
+  "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693
  }
 }
