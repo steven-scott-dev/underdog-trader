@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T20:05:49.646533-05:00",
+ "updated": "2026-11-05T20:11:04.614260-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.7,
+ "duration_s": 22.5,
  "daily": {
   "date": "2026-11-05",
   "bets": 14,
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:VAN@WPG",
-   "market": "aec-nhl-van-wpg-2026-11-05",
-   "side": "long",
-   "team": "Canucks",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

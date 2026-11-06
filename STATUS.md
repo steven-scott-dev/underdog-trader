@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:05 ET · Mode: **PAPER** · Result: OK (13.7s)
+Updated: 2026-11-05 20:11 ET · Mode: **PAPER** · Result: OK (22.5s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 20:05 ET · Mode: **PAPER** · Result: OK (13.7s)
 - 2026-11-05 06:10 ET: Moyuka Uchijima [bounce] — stop-loss @ 0.0200 → -0.0600
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:VAN@WPG", "market": "aec-nhl-van-wpg-2026-11-05", "side": "long", "team": "Canucks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
