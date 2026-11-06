@@ -1,9 +1,23 @@
 {
  "date": "2026-11-06",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": -0.2403,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-ksenza-ginfei-2026-11-06",
+   "game": "wta:Feistel@Zaytseva",
+   "side": "long",
+   "team": "Ksenia Zaytseva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-06 07:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -75,6 +89,12 @@
    [
     1793965836.2519186,
     0.04
+   ]
+  ],
+  "aec-wta-ksenza-ginfei-2026-11-06": [
+   [
+    1793967033.354479,
+    0.1
    ]
   ]
  },
