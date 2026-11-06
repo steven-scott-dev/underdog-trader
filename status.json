@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:25:39.800515-05:00",
+ "updated": "2026-11-05T22:30:34.893137-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.8,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Oilers",
-   "reason": "stop-loss",
-   "pnl": -0.075
-  }
- ]
+ "actions": []
 }

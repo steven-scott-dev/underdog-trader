@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 22:25 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-05 22:30 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 22:25 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-05 09:40 ET: Mary Stoiana [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Oilers", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
