@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-05T20:41:03.342438-05:00",
+ "updated": "2026-11-05T20:45:42.363616-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 23.4,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-05",
   "bets": 16,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3103
+  "realized": 0.2214
  },
  "paper_positions": [
-  {
-   "market": "aec-nhl-stl-nj-2026-11-05",
-   "game": "nhl:STL@NJ",
-   "side": "long",
-   "team": "Blues",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-05 20:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-nhl-bos-pit-2026-11-05",
    "game": "nhl:BOS@PIT",
@@ -40,23 +27,6 @@
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-miksto-zeyson-2026-11-05",
-   "game": "wta:Sonmez@Stojsavljevic",
-   "side": "long",
-   "team": "Mika Stojsavljevic",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-05 05:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.17,
-   "closed": "2026-11-05 06:00 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-moyuch-maglin-2026-11-04",
    "game": "wta:Linette@Uchijima",
@@ -209,8 +179,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-stl-nj-2026-11-05",
+   "game": "nhl:STL@NJ",
+   "side": "long",
+   "team": "Blues",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-05 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-05 20:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Blues",
+   "reason": "stop-loss",
+   "pnl": -0.0889
+  }
+ ]
 }

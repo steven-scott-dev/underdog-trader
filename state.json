@@ -2,21 +2,8 @@
  "date": "2026-11-05",
  "bets": 16,
  "bounce_bets": 16,
- "realized": 0.3103,
+ "realized": 0.2214,
  "paper_positions": [
-  {
-   "market": "aec-nhl-stl-nj-2026-11-05",
-   "game": "nhl:STL@NJ",
-   "side": "long",
-   "team": "Blues",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-05 20:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-nhl-bos-pit-2026-11-05",
    "game": "nhl:BOS@PIT",
@@ -269,6 +256,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-stl-nj-2026-11-05",
+   "game": "nhl:STL@NJ",
+   "side": "long",
+   "team": "Blues",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-05 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-05 20:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -378,6 +382,7 @@
   "aec-wta-sorcir-marsto-2026-11-05": 1793891439.573941,
   "aec-atp-artfil-tayfri-2026-11-05": 1793907635.7810977,
   "aec-atp-janstr-casruu-2026-11-05": 1793913341.9170883,
-  "aec-nhl-van-wpg-2026-11-05": 1793929836.7057502
+  "aec-nhl-van-wpg-2026-11-05": 1793929836.7057502,
+  "aec-nhl-stl-nj-2026-11-05": 1793931339.8133118
  }
 }
