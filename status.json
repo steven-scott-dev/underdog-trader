@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-06T06:50:36.723026-05:00",
+ "updated": "2026-11-06T06:55:34.285396-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-06",
   "bets": 3,
   "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.1653
+  "realized": -0.2403
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-jantje-polkud-2026-11-06",
-   "game": "wta:Kudermetova@Tjen",
-   "side": "short",
-   "team": "Polina Kudermetova",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-06 06:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -60,26 +46,32 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jantje-polkud-2026-11-06",
+   "game": "wta:Kudermetova@Tjen",
+   "side": "short",
+   "team": "Polina Kudermetova",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-06 06:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 06:55 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Aliaksandra Sasnovich",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  },
-  {
-   "type": "buy",
-   "game": "wta:Kudermetova@Tjen",
-   "market": "aec-wta-jantje-polkud-2026-11-06",
-   "side": "short",
    "team": "Polina Kudermetova",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "stop-loss",
+   "pnl": -0.075
   }
  ]
 }
