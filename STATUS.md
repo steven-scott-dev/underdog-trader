@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 22:10 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-05 22:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 16 / 100 (main 0, bounce 16)
+- Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: +0.15
 
 ## Open paper positions
-- _none_
+- **Oilers** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-05 21:05 ET: Penguins [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-11-05 22:10 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-05 09:40 ET: Vaishnavi Adkar [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:ANA@EDM", "market": "aec-nhl-ana-edm-2026-11-05", "side": "short", "team": "Oilers", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`

@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-05T22:10:34.419371-05:00",
+ "updated": "2026-11-05T22:15:44.851716-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-05",
-  "bets": 16,
-  "bounce_bets": 16,
+  "bets": 17,
+  "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.1547
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-ana-edm-2026-11-05",
+   "game": "nhl:ANA@EDM",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-05 22:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-atp-tompau-quehal-2026-11-05",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:ANA@EDM",
+   "market": "aec-nhl-ana-edm-2026-11-05",
+   "side": "short",
+   "team": "Oilers",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
