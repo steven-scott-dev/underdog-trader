@@ -1,18 +1,44 @@
 {
- "updated": "2026-11-06T02:05:35.029618-05:00",
+ "updated": "2026-11-06T02:10:41.081773-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-06",
-  "bets": 0,
-  "bounce_bets": 0,
+  "bets": 1,
+  "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-zeyson-claliu-2026-11-06",
+   "game": "wta:Liu@Sonmez",
+   "side": "long",
+   "team": "Zeynep Sonmez",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 02:10 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Liu@Sonmez",
+   "market": "aec-wta-zeyson-claliu-2026-11-06",
+   "side": "long",
+   "team": "Zeynep Sonmez",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
