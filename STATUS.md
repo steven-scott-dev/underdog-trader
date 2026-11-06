@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 06:55 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-06 07:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
@@ -15,4 +15,4 @@ Updated: 2026-11-06 06:55 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-06 02:20 ET: Zeynep Sonmez [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Polina Kudermetova", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
