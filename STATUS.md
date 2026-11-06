@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 14:00 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-06 15:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 10 / 100 (main 0, bounce 10)
 - Realized P&L: -0.50
 
 ## Open paper positions
-- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-06 13:35 ET: Lucrezia Stefanini [bounce] — take-profit @ 0.0800 → +0.1000
