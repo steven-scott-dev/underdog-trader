@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T15:50:36.897365-05:00",
+ "updated": "2026-11-06T15:55:39.792141-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-06",
   "bets": 12,
@@ -199,18 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Alice Tubello",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "paper_close",
-   "team": "Carlos Alcaraz",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }

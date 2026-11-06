@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 15:50 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-06 15:55 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 12 / 100 (main 0, bounce 12)
@@ -20,5 +20,4 @@ Updated: 2026-11-06 15:50 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-06 07:15 ET: Ksenia Zaytseva [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alice Tubello", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "Carlos Alcaraz", "reason": "take-profit", "pnl": 0.1}`
+- _none_
