@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T16:25:36.012438-05:00",
+ "updated": "2026-11-06T16:30:50.483430-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-06",
   "bets": 14,
@@ -36,7 +36,7 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   },
   {
    "market": "aec-wta-alitub-biaand-2026-11-06",
@@ -225,28 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Alcaraz@Fritz",
-   "market": "aec-atp-tayfri-caralc-2026-11-06",
-   "side": "long",
-   "team": "Taylor Fritz",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  },
-  {
-   "type": "buy",
-   "game": "wta:Andreescu@Tubello",
-   "market": "aec-wta-alitub-biaand-2026-11-06",
-   "side": "long",
-   "team": "Alice Tubello",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
