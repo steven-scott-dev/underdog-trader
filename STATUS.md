@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:26 ET · Mode: **PAPER** · Result: OK (22.5s)
+Updated: 2026-11-05 20:31 ET · Mode: **PAPER** · Result: OK (22.2s)
 
 ## Today
 - Bets placed: 15 / 100 (main 0, bounce 15)
 - Realized P&L: +0.31
 
 ## Open paper positions
-- **Blues** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Blues** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-05 20:20 ET: Canucks [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-11-05 20:26 ET · Mode: **PAPER** · Result: OK (22.5s)
 - 2026-11-05 06:25 ET: Quentin Halys [bounce] — settled @ 0.8750 → +0.7750
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:STL@NJ", "market": "aec-nhl-stl-nj-2026-11-05", "side": "long", "team": "Blues", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
