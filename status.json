@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-05T20:16:05.692599-05:00",
+ "updated": "2026-11-05T20:20:49.425560-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 24.1,
+ "duration_s": 13.0,
  "daily": {
   "date": "2026-11-05",
   "bets": 14,
   "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.3803
+  "realized": 0.3103
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-van-wpg-2026-11-05",
-   "game": "nhl:VAN@WPG",
-   "side": "long",
-   "team": "Canucks",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-05 20:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-krikro-ksenza-2026-11-05",
-   "game": "wta:Zaytseva@Kroitor",
-   "side": "long",
-   "team": "Kristina Kroitor",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-05 05:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-05 05:35 ET",
-   "exit": 0.02,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-miksto-zeyson-2026-11-05",
    "game": "wta:Sonmez@Stojsavljevic",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-van-wpg-2026-11-05",
+   "game": "nhl:VAN@WPG",
+   "side": "long",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-05 20:20 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Canucks",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }

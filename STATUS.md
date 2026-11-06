@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:16 ET · Mode: **PAPER** · Result: OK (24.1s)
+Updated: 2026-11-05 20:20 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
-- Realized P&L: +0.38
+- Realized P&L: +0.31
 
 ## Open paper positions
-- **Canucks** (long/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-11-05 20:20 ET: Canucks [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-11-05 15:45 ET: Jan-Lennard Struff [bounce] — stop-loss @ 0.0100 → -0.0800
 - 2026-11-05 14:15 ET: Renata Zarazua [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-11-05 14:10 ET: Arthur Fils [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -17,7 +18,6 @@ Updated: 2026-11-05 20:16 ET · Mode: **PAPER** · Result: OK (24.1s)
 - 2026-11-05 09:40 ET: Vaishnavi Adkar [bounce] — stop-loss @ 0.0100 → -0.0833
 - 2026-11-05 08:10 ET: Simona Waltert [bounce] — stop-loss @ 0.0100 → -0.0875
 - 2026-11-05 06:25 ET: Quentin Halys [bounce] — settled @ 0.8750 → +0.7750
-- 2026-11-05 06:10 ET: Moyuka Uchijima [bounce] — stop-loss @ 0.0200 → -0.0600
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Canucks", "reason": "stop-loss", "pnl": -0.07}`
