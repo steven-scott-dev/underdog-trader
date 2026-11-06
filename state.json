@@ -1,9 +1,23 @@
 {
  "date": "2026-11-05",
- "bets": 13,
- "bounce_bets": 13,
+ "bets": 14,
+ "bounce_bets": 14,
  "realized": 0.3803,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-van-wpg-2026-11-05",
+   "game": "nhl:VAN@WPG",
+   "side": "long",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-05 20:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-elepri-aleshu-2026-11-05",
@@ -303,6 +317,12 @@
    [
     1793911238.4447196,
     0.05
+   ]
+  ],
+  "aec-nhl-van-wpg-2026-11-05": [
+   [
+    1793927149.3774407,
+    0.1
    ]
   ]
  },

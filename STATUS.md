@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:00 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-05 20:05 ET · Mode: **PAPER** · Result: OK (13.7s)
 
 ## Today
-- Bets placed: 13 / 100 (main 0, bounce 13)
+- Bets placed: 14 / 100 (main 0, bounce 14)
 - Realized P&L: +0.38
 
 ## Open paper positions
-- _none_
+- **Canucks** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-05 15:45 ET: Jan-Lennard Struff [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -20,4 +20,4 @@ Updated: 2026-11-05 20:00 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-05 06:10 ET: Moyuka Uchijima [bounce] — stop-loss @ 0.0200 → -0.0600
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:VAN@WPG", "market": "aec-nhl-van-wpg-2026-11-05", "side": "long", "team": "Canucks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
