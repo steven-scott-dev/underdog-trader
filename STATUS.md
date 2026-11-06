@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 16:50 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-06 16:55 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
@@ -21,4 +21,4 @@ Updated: 2026-11-06 16:50 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-06 08:10 ET: Maaya Rajeshwaran Revathi [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Taylor Fritz", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
