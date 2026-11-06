@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T20:31:04.314227-05:00",
+ "updated": "2026-11-05T20:35:28.778887-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 22.2,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-11-05",
-  "bets": 15,
-  "bounce_bets": 15,
+  "bets": 16,
+  "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.3103
@@ -23,7 +23,20 @@
    "sl": 0.036,
    "opened": "2026-11-05 20:25 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.08
+  },
+  {
+   "market": "aec-nhl-bos-pit-2026-11-05",
+   "game": "nhl:BOS@PIT",
+   "side": "short",
+   "team": "Penguins",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-05 20:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:BOS@PIT",
+   "market": "aec-nhl-bos-pit-2026-11-05",
+   "side": "short",
+   "team": "Penguins",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
