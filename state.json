@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 12,
  "bounce_bets": 12,
- "realized": -0.5042,
+ "realized": -0.3042,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -16,32 +16,6 @@
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-wta-alitub-biaand-2026-11-06",
-   "game": "wta:Andreescu@Tubello",
-   "side": "long",
-   "team": "Alice Tubello",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-06 15:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
-  {
-   "market": "aec-atp-tayfri-caralc-2026-11-06",
-   "game": "atp:Alcaraz@Fritz",
-   "side": "short",
-   "team": "Carlos Alcaraz",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-06 15:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -195,6 +169,40 @@
    "last_bid": 0.02,
    "closed": "2026-11-06 13:35 ET",
    "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-alitub-biaand-2026-11-06",
+   "game": "wta:Andreescu@Tubello",
+   "side": "long",
+   "team": "Alice Tubello",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 15:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-06 15:50 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-tayfri-caralc-2026-11-06",
+   "game": "atp:Alcaraz@Fritz",
+   "side": "short",
+   "team": "Carlos Alcaraz",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 15:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-06 15:50 ET",
+   "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
   }
