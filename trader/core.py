@@ -597,7 +597,7 @@ def run_pass():
         open_reserves = [max(0.0, p["qty"] * (p["entry"] - p["sl"]))
                          for p in state["paper_positions"]]
     else:
-        open_reserves = [max(0.0, pos["size"] * pos["avg_price"] * (1 - SL_MULT))
+        open_reserves = [max(0.0, pos["size"] * pos["avg_price"] * (1 - cfg["stop_loss_mult"]))
                          for pos in positions.values()]
 
     def loss_ok(extra_reserve=0.0):
@@ -638,7 +638,7 @@ def run_pass():
             # governs; total backstop and open-position cap are rails
             cand_reserve = (cfg["stake_usd"] if mode == "main"
                             else cfg["bounce"]["stake_usd"]) * (
-                                1 - (SL_MULT if mode == "main"
+                                1 - (cfg["stop_loss_mult"] if mode == "main"
                                      else cfg["bounce"]["stop_loss_mult"]))
             if (not can_bet
                     or not loss_ok(cand_reserve)
