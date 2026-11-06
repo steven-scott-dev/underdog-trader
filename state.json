@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 11,
- "bounce_bets": 11,
+ "bets": 12,
+ "bounce_bets": 12,
  "realized": -0.5042,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.036,
    "opened": "2026-11-06 15:35 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-atp-tayfri-caralc-2026-11-06",
+   "game": "atp:Alcaraz@Fritz",
+   "side": "short",
+   "team": "Carlos Alcaraz",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 15:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -252,6 +265,12 @@
    [
     1793997340.6448598,
     0.09
+   ]
+  ],
+  "aec-atp-tayfri-caralc-2026-11-06": [
+   [
+    1793997938.2320724,
+    0.07
    ]
   ]
  },

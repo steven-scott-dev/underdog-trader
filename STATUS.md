@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 15:40 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-06 15:45 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 11 / 100 (main 0, bounce 11)
+- Bets placed: 12 / 100 (main 0, bounce 12)
 - Realized P&L: -0.50
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
-- **Alice Tubello** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Alice Tubello** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Carlos Alcaraz** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-06 13:35 ET: Lucrezia Stefanini [bounce] — take-profit @ 0.0800 → +0.1000
@@ -21,4 +22,4 @@ Updated: 2026-11-06 15:40 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-06 06:50 ET: Aliaksandra Sasnovich [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Alcaraz@Fritz", "market": "aec-atp-tayfri-caralc-2026-11-06", "side": "short", "team": "Carlos Alcaraz", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
