@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:45 ET · Mode: **PAPER** · Result: OK (2.9s)
+Updated: 2026-11-05 20:50 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 20:45 ET · Mode: **PAPER** · Result: OK (2.9s)
 - 2026-11-05 08:10 ET: Simona Waltert [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blues", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_
