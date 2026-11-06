@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 13:35 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-06 13:40 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 10 / 100 (main 0, bounce 10)
@@ -20,4 +20,4 @@ Updated: 2026-11-06 13:35 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-06 06:50 ET: Aliaksandra Sasnovich [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Lucrezia Stefanini", "reason": "take-profit", "pnl": 0.1}`
+- _none_

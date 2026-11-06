@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:35:46.724946-05:00",
+ "updated": "2026-11-06T13:40:36.916048-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.3,
@@ -182,12 +182,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Lucrezia Stefanini",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
