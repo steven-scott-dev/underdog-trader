@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 08:10 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-06 08:15 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
@@ -17,4 +17,4 @@ Updated: 2026-11-06 08:10 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-06 02:20 ET: Zeynep Sonmez [bounce] — stop-loss @ 0.0200 → -0.0778
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maaya Rajeshwaran Revathi", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
