@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 21:05 ET · Mode: **PAPER** · Result: OK (3.9s)
+Updated: 2026-11-05 22:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-11-05 21:05 ET · Mode: **PAPER** · Result: OK (3.9s)
 - 2026-11-05 09:40 ET: Vaishnavi Adkar [bounce] — stop-loss @ 0.0100 → -0.0833
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Penguins", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
