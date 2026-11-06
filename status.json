@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T09:20:43.615468-05:00",
+ "updated": "2026-11-06T09:25:37.268810-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-06",
   "bets": 7,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-06 08:50 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-antruz-aleeal-2026-11-06",
