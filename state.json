@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 6,
- "bounce_bets": 6,
+ "bets": 7,
+ "bounce_bets": 7,
  "realized": -0.3817,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-06 08:50 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-wta-antruz-aleeal-2026-11-06",
+   "game": "wta:Eala@Ruzic",
+   "side": "long",
+   "team": "Antonia Ruzic",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-06 09:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -141,6 +154,12 @@
    [
     1793973038.1371055,
     0.09
+   ]
+  ],
+  "aec-wta-antruz-aleeal-2026-11-06": [
+   [
+    1793973935.2092574,
+    0.1
    ]
   ]
  },
