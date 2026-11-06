@@ -1,21 +1,21 @@
 {
  "date": "2026-11-06",
- "bets": 2,
- "bounce_bets": 2,
- "realized": -0.0778,
+ "bets": 3,
+ "bounce_bets": 3,
+ "realized": -0.1653,
  "paper_positions": [
   {
-   "market": "aec-wta-alisas-marsak-2026-11-06",
-   "game": "wta:Sakkari@Sasnovich",
-   "side": "long",
-   "team": "Aliaksandra Sasnovich",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-06 06:25 ET",
+   "market": "aec-wta-jantje-polkud-2026-11-06",
+   "game": "wta:Kudermetova@Tjen",
+   "side": "short",
+   "team": "Polina Kudermetova",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-06 06:50 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -35,6 +35,23 @@
    "exit": 0.02,
    "pnl": -0.0778,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-alisas-marsak-2026-11-06",
+   "game": "wta:Sakkari@Sasnovich",
+   "side": "long",
+   "team": "Aliaksandra Sasnovich",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-06 06:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-06 06:50 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -50,9 +67,16 @@
     1793964337.1699038,
     0.08
    ]
+  ],
+  "aec-wta-jantje-polkud-2026-11-06": [
+   [
+    1793965836.2519186,
+    0.04
+   ]
   ]
  },
  "cooldowns": {
-  "aec-wta-zeyson-claliu-2026-11-06": 1793951432.3718681
+  "aec-wta-zeyson-claliu-2026-11-06": 1793951432.3718681,
+  "aec-wta-alisas-marsak-2026-11-06": 1793967634.7445078
  }
 }
