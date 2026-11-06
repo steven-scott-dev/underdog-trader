@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 11:45 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-06 11:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
 - Realized P&L: -0.60
 
 ## Open paper positions
-- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-06 10:00 ET: Justina Mikulskyte [bounce] — stop-loss @ 0.0000 → -0.1000
