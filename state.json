@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 10,
- "bounce_bets": 10,
+ "bets": 11,
+ "bounce_bets": 11,
  "realized": -0.5042,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-alitub-biaand-2026-11-06",
+   "game": "wta:Andreescu@Tubello",
+   "side": "long",
+   "team": "Alice Tubello",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 15:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -233,6 +246,12 @@
    [
     1793988944.8791316,
     0.04
+   ]
+  ],
+  "aec-wta-alitub-biaand-2026-11-06": [
+   [
+    1793997340.6448598,
+    0.09
    ]
   ]
  },
