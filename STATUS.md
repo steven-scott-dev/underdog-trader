@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 17:20 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-06 17:25 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 14 / 100 (main 0, bounce 14)
@@ -8,7 +8,7 @@ Updated: 2026-11-06 17:20 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-06 16:50 ET: Taylor Fritz [bounce] — stop-loss @ 0.0000 → -0.1000
