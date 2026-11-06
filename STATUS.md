@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-05 20:35 ET · Mode: **PAPER** · Result: OK (13.9s)
+Updated: 2026-11-05 20:41 ET · Mode: **PAPER** · Result: OK (23.4s)
 
 ## Today
 - Bets placed: 16 / 100 (main 0, bounce 16)
 - Realized P&L: +0.31
 
 ## Open paper positions
-- **Blues** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Penguins** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
+- **Blues** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Penguins** (short/bounce) — 1.6667 @ 0.0600, now ~0.0400, unrealized -0.0333 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-05 20:20 ET: Canucks [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -21,4 +21,4 @@ Updated: 2026-11-05 20:35 ET · Mode: **PAPER** · Result: OK (13.9s)
 - 2026-11-05 06:25 ET: Quentin Halys [bounce] — settled @ 0.8750 → +0.7750
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:BOS@PIT", "market": "aec-nhl-bos-pit-2026-11-05", "side": "short", "team": "Penguins", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
+- _none_
