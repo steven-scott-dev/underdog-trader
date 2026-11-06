@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-06T08:05:38.350721-05:00",
+ "updated": "2026-11-06T08:10:36.330628-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-06",
   "bets": 5,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3103
+  "realized": -0.3817
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-robmon-maarev-2026-11-06",
-   "game": "wta:Revathi@Montgomery",
-   "side": "short",
-   "team": "Maaya Rajeshwaran Revathi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-06 08:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -94,8 +80,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-robmon-maarev-2026-11-06",
+   "game": "wta:Revathi@Montgomery",
+   "side": "short",
+   "team": "Maaya Rajeshwaran Revathi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-06 08:10 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Maaya Rajeshwaran Revathi",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  }
+ ]
 }

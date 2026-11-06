@@ -2,22 +2,8 @@
  "date": "2026-11-06",
  "bets": 5,
  "bounce_bets": 5,
- "realized": -0.3103,
- "paper_positions": [
-  {
-   "market": "aec-wta-robmon-maarev-2026-11-06",
-   "game": "wta:Revathi@Montgomery",
-   "side": "short",
-   "team": "Maaya Rajeshwaran Revathi",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-06 08:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": -0.3817,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-zeyson-claliu-2026-11-06",
@@ -86,6 +72,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-robmon-maarev-2026-11-06",
+   "game": "wta:Revathi@Montgomery",
+   "side": "short",
+   "team": "Maaya Rajeshwaran Revathi",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 08:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-06 08:10 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -125,6 +128,7 @@
   "aec-wta-zeyson-claliu-2026-11-06": 1793951432.3718681,
   "aec-wta-alisas-marsak-2026-11-06": 1793967634.7445078,
   "aec-wta-jantje-polkud-2026-11-06": 1793967933.6401424,
-  "aec-wta-ksenza-ginfei-2026-11-06": 1793969134.1139965
+  "aec-wta-ksenza-ginfei-2026-11-06": 1793969134.1139965,
+  "aec-wta-robmon-maarev-2026-11-06": 1793972434.983901
  }
 }
