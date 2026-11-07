@@ -2,22 +2,8 @@
  "date": "2026-11-07",
  "bets": 6,
  "bounce_bets": 4,
- "realized": -0.9052,
- "paper_positions": [
-  {
-   "market": "aec-wta-jantje-robmon-2026-11-07",
-   "game": "wta:Montgomery@Tjen",
-   "side": "short",
-   "team": "Robin Montgomery",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-07 08:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -0.9719,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -103,6 +89,23 @@
    "exit": 0.03,
    "pnl": -0.4616,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-jantje-robmon-2026-11-07",
+   "game": "wta:Montgomery@Tjen",
+   "side": "short",
+   "team": "Robin Montgomery",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-07 08:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-07 08:55 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -141,6 +144,7 @@
  "cooldowns": {
   "aec-wta-aleshu-claliu-2026-11-07": 1794040835.7128346,
   "aec-wta-annbli-yaskab-2026-11-06": 1794054331.552118,
-  "aec-wta-marsak-aleeal-2026-11-07": 1794052532.7065735
+  "aec-wta-marsak-aleeal-2026-11-07": 1794052532.7065735,
+  "aec-wta-jantje-robmon-2026-11-07": 1794061540.90264
  }
 }
