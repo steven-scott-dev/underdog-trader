@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:10:36.307572-05:00",
+ "updated": "2026-11-07T05:15:34.543883-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.9,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-07 05:10 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -63,17 +63,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Kabbaj@Blinkova",
-   "market": "aec-wta-annbli-yaskab-2026-11-06",
-   "side": "short",
-   "team": "Yasmine Kabbaj",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
