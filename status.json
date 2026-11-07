@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:25:48.487267-05:00",
+ "updated": "2026-11-06T22:30:50.819613-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 13.2,
@@ -49,7 +49,7 @@
    "sl": 0.104,
    "opened": "2026-11-06 22:10 ET",
    "mode": "main",
-   "last_bid": 0.14
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -225,12 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bucks",
-   "reason": "stop-loss",
-   "pnl": -0.4074
-  }
- ]
+ "actions": []
 }
