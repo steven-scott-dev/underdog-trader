@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06T23:10:34.877028-05:00",
+ "updated": "2026-11-06T23:15:36.399582-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-06",
   "bets": 23,
   "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.946
+  "realized": 1.876
  },
  "paper_positions": [
   {
@@ -36,40 +36,10 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-sa-sac-2026-11-06",
-   "game": "nba:SA@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-06 22:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-tayfri-caralc-2026-11-06",
-   "game": "atp:Alcaraz@Fritz",
-   "side": "short",
-   "team": "Carlos Alcaraz",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-06 15:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-06 15:50 ET",
-   "exit": 0.14,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-tayfri-caralc-2026-11-06",
    "game": "atp:Alcaraz@Fritz",
@@ -222,8 +192,32 @@
    "exit": 0.425,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-sa-sac-2026-11-06",
+   "game": "nba:SA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-06 22:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-06 23:15 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Kings",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }
