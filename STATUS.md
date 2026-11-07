@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 18:10 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-07 18:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 14 / 100 (main 5, bounce 9)
 - Realized P&L: -2.30
 
 ## Open paper positions
-- **Kraken** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
+- **Kraken** (short/bounce) — 1.25 @ 0.0800, now ~0.0400, unrealized -0.0500 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-07 18:05 ET: Pacers [bounce] — stop-loss @ 0.0200 → -0.0667
