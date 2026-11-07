@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 18:30 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-07 18:35 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 14 / 100 (main 5, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 18:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-07 09:30 ET: Noma Noha Akugue [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kraken", "reason": "stop-loss", "pnl": -0.0875}`
+- _none_
