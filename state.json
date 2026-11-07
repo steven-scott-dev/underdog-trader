@@ -2,22 +2,8 @@
  "date": "2026-11-07",
  "bets": 7,
  "bounce_bets": 5,
- "realized": -0.9719,
- "paper_positions": [
-  {
-   "market": "aec-wta-soflan-nomaku-2026-11-07",
-   "game": "wta:Akugue@Lansere",
-   "side": "short",
-   "team": "Noma Noha Akugue",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-07 09:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": -0.8719,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -120,6 +106,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-soflan-nomaku-2026-11-07",
+   "game": "wta:Akugue@Lansere",
+   "side": "short",
+   "team": "Noma Noha Akugue",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-07 09:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-07 09:30 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
