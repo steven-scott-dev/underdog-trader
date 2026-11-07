@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T20:45:49.070165-05:00",
+ "updated": "2026-11-06T20:50:45.289794-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 14.2,
+ "duration_s": 12.9,
  "daily": {
   "date": "2026-11-06",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
   },
   {
    "market": "aec-wta-alitub-biaand-2026-11-06",
