@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 14:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-07 15:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 12 / 100 (main 5, bounce 7)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 14:55 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-07 06:55 ET: Yasmine Kabbaj [main] — stop-loss @ 0.0300 → -0.4616
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Panthers", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
