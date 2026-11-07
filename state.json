@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 19,
  "bounce_bets": 19,
- "realized": 0.9391,
+ "realized": 0.8534,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -29,19 +29,6 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-phi-cle-2026-11-06",
-   "game": "nba:PHI@CLE",
-   "side": "long",
-   "team": "76ers",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-06 21:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -316,6 +303,23 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-phi-cle-2026-11-06",
+   "game": "nba:PHI@CLE",
+   "side": "long",
+   "team": "76ers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-06 21:45 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -435,6 +439,7 @@
   "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693,
   "aec-nba-bos-cha-2026-11-06": 1794014134.9682686,
   "aec-nhl-cbj-buf-2026-11-06": 1794016834.0396156,
-  "aec-nba-okc-mem-2026-11-06": 1794020437.0242631
+  "aec-nba-okc-mem-2026-11-06": 1794020437.0242631,
+  "aec-nba-phi-cle-2026-11-06": 1794021333.9264097
  }
 }
