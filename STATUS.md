@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 12:30 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-07 12:35 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
 - Realized P&L: -2.08
 
 ## Open paper positions
-- **Casper Ruud** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
+- **Casper Ruud** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-07 12:20 ET: Gina Feistel [main] — stop-loss @ 0.0200 → -0.4333
