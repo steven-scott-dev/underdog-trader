@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 05:40 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-07 05:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
@@ -15,4 +15,4 @@ Updated: 2026-11-07 05:40 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yasmine Kabbaj", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
