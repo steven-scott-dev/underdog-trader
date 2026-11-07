@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T10:20:37.400923-05:00",
+ "updated": "2026-11-07T10:25:39.006944-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-11-07",
   "bets": 8,
@@ -23,7 +23,7 @@
    "sl": 0.132,
    "opened": "2026-11-07 10:20 ET",
    "mode": "main",
-   "last_bid": 0.33
+   "last_bid": 0.31
   }
  ],
  "paper_history": [
@@ -148,17 +148,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Shelton@Assche",
-   "market": "aec-atp-lucass-benshe-2026-11-07",
-   "side": "long",
-   "team": "Luca Van Assche",
-   "ask": 0.33,
-   "qty": 1.5152,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
