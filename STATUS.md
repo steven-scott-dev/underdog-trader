@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 10:55 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-07 11:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 9 / 100 (main 4, bounce 5)
 - Realized P&L: -1.30
 
 ## Open paper positions
-- **Anastasia Zakharova** (short/main) — 1.8519 @ 0.2700, now ~0.2400, unrealized -0.0556 (TP 0.6750 / SL 0.1080)
+- **Anastasia Zakharova** (short/main) — 1.8519 @ 0.2700, now ~0.1600, unrealized -0.2037 (TP 0.6750 / SL 0.1080)
 
 ## Recent history
 - 2026-11-07 10:50 ET: Luca Van Assche [main] — stop-loss @ 0.0500 → -0.4243
