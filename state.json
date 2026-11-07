@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 24,
  "bounce_bets": 21,
- "realized": 1.876,
+ "realized": 1.976,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -27,19 +27,6 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-sa-sac-2026-11-06",
-   "game": "nba:SA@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-06 23:50 ET",
    "mode": "bounce",
    "last_bid": 0.04
   }
@@ -401,6 +388,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-sa-sac-2026-11-06",
+   "game": "nba:SA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-06 23:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 23:55 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
