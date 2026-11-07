@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 21:30 ET · Mode: **PAPER** · Result: OK (13.0s)
+Updated: 2026-11-06 21:35 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
@@ -21,4 +21,4 @@ Updated: 2026-11-06 21:30 ET · Mode: **PAPER** · Result: OK (13.0s)
 - 2026-11-06 13:35 ET: Lucrezia Stefanini [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Grizzlies", "reason": "stop-loss", "pnl": -0.08}`
+- _none_

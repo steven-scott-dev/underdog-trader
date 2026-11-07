@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T21:30:49.324000-05:00",
+ "updated": "2026-11-06T21:35:46.222428-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-06",
   "bets": 18,
@@ -212,12 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Grizzlies",
-   "reason": "stop-loss",
-   "pnl": -0.08
-  }
- ]
+ "actions": []
 }
