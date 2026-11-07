@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 11:05 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-07 11:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 9 / 100 (main 4, bounce 5)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 11:05 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-07 03:10 ET: Alexandra Shubladze [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Anastasia Zakharova", "reason": "stop-loss", "pnl": -0.3519}`
+- _none_

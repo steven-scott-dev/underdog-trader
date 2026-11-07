@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T11:05:34.183698-05:00",
+ "updated": "2026-11-07T11:10:35.471019-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-07",
   "bets": 9,
@@ -168,12 +168,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Anastasia Zakharova",
-   "reason": "stop-loss",
-   "pnl": -0.3519
-  }
- ]
+ "actions": []
 }
