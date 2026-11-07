@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 18:45 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-07 18:50 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 15 / 100 (main 5, bounce 10)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 18:45 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-07 10:50 ET: Luca Van Assche [main] — stop-loss @ 0.0500 → -0.4243
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pacers", "reason": "stop-loss", "pnl": -0.075}`
+- _none_
