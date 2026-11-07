@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-07T11:00:35.604044-05:00",
+ "updated": "2026-11-07T11:05:34.183698-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-07",
   "bets": 9,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.2962
+  "realized": -1.6481
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-maglin-anazak-2026-11-07",
-   "game": "wta:Zakharova@Linette",
-   "side": "short",
-   "team": "Anastasia Zakharova",
-   "entry": 0.27,
-   "qty": 1.8519,
-   "tp": 0.675,
-   "sl": 0.108,
-   "opened": "2026-11-07 10:50 ET",
-   "mode": "main",
-   "last_bid": 0.16
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -162,8 +148,32 @@
    "exit": 0.05,
    "pnl": -0.4243,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-maglin-anazak-2026-11-07",
+   "game": "wta:Zakharova@Linette",
+   "side": "short",
+   "team": "Anastasia Zakharova",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-07 10:50 ET",
+   "mode": "main",
+   "last_bid": 0.16,
+   "closed": "2026-11-07 11:05 ET",
+   "exit": 0.08,
+   "pnl": -0.3519,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Anastasia Zakharova",
+   "reason": "stop-loss",
+   "pnl": -0.3519
+  }
+ ]
 }
