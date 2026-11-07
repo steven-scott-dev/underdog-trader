@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 21:45 ET · Mode: **PAPER** · Result: OK (13.8s)
+Updated: 2026-11-06 21:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 19 / 100 (main 0, bounce 19)
@@ -8,7 +8,7 @@ Updated: 2026-11-06 21:45 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-06 21:45 ET: 76ers [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -21,4 +21,4 @@ Updated: 2026-11-06 21:45 ET · Mode: **PAPER** · Result: OK (13.8s)
 - 2026-11-06 15:50 ET: Alice Tubello [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "76ers", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_
