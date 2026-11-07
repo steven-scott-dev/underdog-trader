@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 17,
- "bounce_bets": 17,
+ "bets": 18,
+ "bounce_bets": 18,
  "realized": 1.0191,
  "paper_positions": [
   {
@@ -27,6 +27,19 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-okc-mem-2026-11-06",
+   "game": "nba:OKC@MEM",
+   "side": "short",
+   "team": "Grizzlies",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 21:05 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -377,6 +390,12 @@
   "aec-nhl-cbj-buf-2026-11-06": [
    [
     1794014748.350001,
+    0.05
+   ]
+  ],
+  "aec-nba-okc-mem-2026-11-06": [
+   [
+    1794017136.686378,
     0.05
    ]
   ]
