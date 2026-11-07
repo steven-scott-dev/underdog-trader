@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "bets": 15,
- "bounce_bets": 15,
+ "bets": 16,
+ "bounce_bets": 16,
  "realized": 1.1458,
  "paper_positions": [
   {
@@ -29,6 +29,19 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-bos-cha-2026-11-06",
+   "game": "nba:BOS@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 19:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -332,6 +345,12 @@
    [
     1794008143.7081356,
     0.06
+   ]
+  ],
+  "aec-nba-bos-cha-2026-11-06": [
+   [
+    1794011137.816686,
+    0.09
    ]
   ]
  },
