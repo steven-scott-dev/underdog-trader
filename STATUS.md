@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 23:15 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-06 23:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 23 / 100 (main 3, bounce 20)
@@ -21,4 +21,4 @@ Updated: 2026-11-06 23:15 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-06 19:45 ET: Hornets [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kings", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
