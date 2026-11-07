@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 21,
  "bounce_bets": 19,
- "realized": 0.8534,
+ "realized": 0.446,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -31,19 +31,6 @@
    "last_bid": 0.04
   },
   {
-   "market": "aec-nba-tor-mil-2026-11-06",
-   "game": "nba:TOR@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.27,
-   "qty": 1.8519,
-   "tp": 0.675,
-   "sl": 0.108,
-   "opened": "2026-11-06 22:10 ET",
-   "mode": "main",
-   "last_bid": 0.19
-  },
-  {
    "market": "aec-nba-min-no-2026-11-06",
    "game": "nba:MIN@NO",
    "side": "short",
@@ -54,7 +41,7 @@
    "sl": 0.104,
    "opened": "2026-11-06 22:10 ET",
    "mode": "main",
-   "last_bid": 0.47
+   "last_bid": 0.14
   }
  ],
  "paper_history": [
@@ -346,6 +333,23 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-tor-mil-2026-11-06",
+   "game": "nba:TOR@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-06 22:10 ET",
+   "mode": "main",
+   "last_bid": 0.19,
+   "closed": "2026-11-06 22:25 ET",
+   "exit": 0.05,
+   "pnl": -0.4074,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -478,6 +482,7 @@
   "aec-nba-bos-cha-2026-11-06": 1794014134.9682686,
   "aec-nhl-cbj-buf-2026-11-06": 1794016834.0396156,
   "aec-nba-okc-mem-2026-11-06": 1794020437.0242631,
-  "aec-nba-phi-cle-2026-11-06": 1794021333.9264097
+  "aec-nba-phi-cle-2026-11-06": 1794021333.9264097,
+  "aec-nba-tor-mil-2026-11-06": 1794023735.573593
  }
 }

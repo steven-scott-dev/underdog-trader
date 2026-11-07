@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06T22:20:50.999206-05:00",
+ "updated": "2026-11-06T22:25:48.487267-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.5,
+ "duration_s": 13.2,
  "daily": {
   "date": "2026-11-06",
   "bets": 21,
   "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.8534
+  "realized": 0.446
  },
  "paper_positions": [
   {
@@ -39,19 +39,6 @@
    "last_bid": 0.04
   },
   {
-   "market": "aec-nba-tor-mil-2026-11-06",
-   "game": "nba:TOR@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.27,
-   "qty": 1.8519,
-   "tp": 0.675,
-   "sl": 0.108,
-   "opened": "2026-11-06 22:10 ET",
-   "mode": "main",
-   "last_bid": 0.19
-  },
-  {
    "market": "aec-nba-min-no-2026-11-06",
    "game": "nba:MIN@NO",
    "side": "short",
@@ -62,27 +49,10 @@
    "sl": 0.104,
    "opened": "2026-11-06 22:10 ET",
    "mode": "main",
-   "last_bid": 0.47
+   "last_bid": 0.14
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-jusmik-nomaku-2026-11-06",
-   "game": "wta:Akugue@Mikulskyte",
-   "side": "long",
-   "team": "Justina Mikulskyte",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-06 08:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-06 10:00 ET",
-   "exit": 0.0,
-   "pnl": -0.1,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-anazak-lucste-2026-11-06",
    "game": "wta:Stefanini@Zakharova",
@@ -235,8 +205,32 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-tor-mil-2026-11-06",
+   "game": "nba:TOR@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-06 22:10 ET",
+   "mode": "main",
+   "last_bid": 0.19,
+   "closed": "2026-11-06 22:25 ET",
+   "exit": 0.05,
+   "pnl": -0.4074,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Bucks",
+   "reason": "stop-loss",
+   "pnl": -0.4074
+  }
+ ]
 }
