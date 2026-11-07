@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-07T02:55:34.904735-05:00",
+ "updated": "2026-11-07T03:00:36.220590-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-07",
-  "bets": 1,
-  "bounce_bets": 1,
+  "bets": 2,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.1
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-aleshu-claliu-2026-11-07",
+   "game": "wta:Liu@Shubladze",
+   "side": "long",
+   "team": "Alexandra Shubladze",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-07 03:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -32,5 +46,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Liu@Shubladze",
+   "market": "aec-wta-aleshu-claliu-2026-11-07",
+   "side": "long",
+   "team": "Alexandra Shubladze",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
