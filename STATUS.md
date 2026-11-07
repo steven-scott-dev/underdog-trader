@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 12:50 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-07 12:55 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 12:50 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-07 06:25 ET: Maria Sakkari [main] — stop-loss @ 0.0900 → -0.3636
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Casper Ruud", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_

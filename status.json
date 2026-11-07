@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T12:50:38.545412-05:00",
+ "updated": "2026-11-07T12:55:41.442945-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-07",
   "bets": 11,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Casper Ruud",
-   "reason": "stop-loss",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
