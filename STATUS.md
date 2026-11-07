@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 10:30 ET · Mode: **PAPER** · Result: OK (2.5s)
+Updated: 2026-11-07 10:35 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 8 / 100 (main 3, bounce 5)
 - Realized P&L: -0.87
 
 ## Open paper positions
-- **Luca Van Assche** (long/main) — 1.5152 @ 0.3300, now ~0.5600, unrealized +0.3485 (TP 0.8250 / SL 0.1320)
+- **Luca Van Assche** (long/main) — 1.5152 @ 0.3300, now ~0.3300, unrealized +0.0000 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-11-07 09:30 ET: Noma Noha Akugue [bounce] — take-profit @ 0.1000 → +0.1000
