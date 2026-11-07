@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T12:10:35.600826-05:00",
+ "updated": "2026-11-07T12:15:34.703041-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-07",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-11-07 12:05 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   },
   {
    "market": "aec-wta-annbli-ginfei-2026-11-07",
@@ -36,7 +36,7 @@
    "sl": 0.06,
    "opened": "2026-11-07 12:05 ET",
    "mode": "main",
-   "last_bid": 0.3
+   "last_bid": 0.13
   }
  ],
  "paper_history": [
