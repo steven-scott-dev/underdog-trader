@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 17:45 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-07 17:50 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 13 / 100 (main 5, bounce 8)
 - Realized P&L: -2.23
 
 ## Open paper positions
-- **Kraken** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Kraken** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-07 14:55 ET: Panthers [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-11-07 17:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-07 06:55 ET: Yasmine Kabbaj [main] — stop-loss @ 0.0300 → -0.4616
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:NYR@SEA", "market": "aec-nhl-nyr-sea-2026-11-07", "side": "short", "team": "Kraken", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_

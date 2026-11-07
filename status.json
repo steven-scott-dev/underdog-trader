@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T17:45:47.734647-05:00",
+ "updated": "2026-11-07T17:50:48.625304-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-07",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.032,
    "opened": "2026-11-07 17:45 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:NYR@SEA",
-   "market": "aec-nhl-nyr-sea-2026-11-07",
-   "side": "short",
-   "team": "Kraken",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
