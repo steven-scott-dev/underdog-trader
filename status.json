@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T10:50:38.827504-05:00",
+ "updated": "2026-11-07T10:55:39.221794-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-07",
   "bets": 9,
@@ -23,7 +23,7 @@
    "sl": 0.108,
    "opened": "2026-11-07 10:50 ET",
    "mode": "main",
-   "last_bid": 0.27
+   "last_bid": 0.24
   }
  ],
  "paper_history": [
@@ -165,23 +165,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Luca Van Assche",
-   "reason": "stop-loss",
-   "pnl": -0.4243
-  },
-  {
-   "type": "buy",
-   "game": "wta:Zakharova@Linette",
-   "market": "aec-wta-maglin-anazak-2026-11-07",
-   "side": "short",
-   "team": "Anastasia Zakharova",
-   "ask": 0.27,
-   "qty": 1.8519,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
