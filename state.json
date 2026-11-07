@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 22,
  "bounce_bets": 19,
- "realized": 1.196,
+ "realized": 1.946,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -29,19 +29,6 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.04
-  },
-  {
-   "market": "aec-nhl-ana-cgy-2026-11-06",
-   "game": "nhl:ANA@CGY",
-   "side": "short",
-   "team": "Flames",
-   "entry": 0.17,
-   "qty": 2.9412,
-   "tp": 0.425,
-   "sl": 0.068,
-   "opened": "2026-11-06 22:40 ET",
-   "mode": "main",
-   "last_bid": 0.17
   }
  ],
  "paper_history": [
@@ -365,6 +352,23 @@
    "last_bid": 0.12,
    "closed": "2026-11-06 22:40 ET",
    "exit": 0.65,
+   "pnl": 0.75,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-ana-cgy-2026-11-06",
+   "game": "nhl:ANA@CGY",
+   "side": "short",
+   "team": "Flames",
+   "entry": 0.17,
+   "qty": 2.9412,
+   "tp": 0.425,
+   "sl": 0.068,
+   "opened": "2026-11-06 22:40 ET",
+   "mode": "main",
+   "last_bid": 0.17,
+   "closed": "2026-11-06 22:45 ET",
+   "exit": 0.425,
    "pnl": 0.75,
    "reason": "take-profit"
   }

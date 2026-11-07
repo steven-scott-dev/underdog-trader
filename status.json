@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06T22:40:48.518817-05:00",
+ "updated": "2026-11-06T22:45:41.023161-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.4,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-06",
   "bets": 22,
   "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.196
+  "realized": 1.946
  },
  "paper_positions": [
   {
@@ -37,39 +37,9 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.04
-  },
-  {
-   "market": "aec-nhl-ana-cgy-2026-11-06",
-   "game": "nhl:ANA@CGY",
-   "side": "short",
-   "team": "Flames",
-   "entry": 0.17,
-   "qty": 2.9412,
-   "tp": 0.425,
-   "sl": 0.068,
-   "opened": "2026-11-06 22:40 ET",
-   "mode": "main",
-   "last_bid": 0.17
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-alitub-biaand-2026-11-06",
-   "game": "wta:Andreescu@Tubello",
-   "side": "long",
-   "team": "Alice Tubello",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-06 15:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-06 15:50 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-tayfri-caralc-2026-11-06",
    "game": "atp:Alcaraz@Fritz",
@@ -222,26 +192,32 @@
    "exit": 0.65,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-ana-cgy-2026-11-06",
+   "game": "nhl:ANA@CGY",
+   "side": "short",
+   "team": "Flames",
+   "entry": 0.17,
+   "qty": 2.9412,
+   "tp": 0.425,
+   "sl": 0.068,
+   "opened": "2026-11-06 22:40 ET",
+   "mode": "main",
+   "last_bid": 0.17,
+   "closed": "2026-11-06 22:45 ET",
+   "exit": 0.425,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Pelicans",
+   "team": "Flames",
    "reason": "take-profit",
    "pnl": 0.75
-  },
-  {
-   "type": "buy",
-   "game": "nhl:ANA@CGY",
-   "market": "aec-nhl-ana-cgy-2026-11-06",
-   "side": "short",
-   "team": "Flames",
-   "ask": 0.17,
-   "qty": 2.9412,
-   "stake": 0.5,
-   "mode": "main"
   }
  ]
 }
