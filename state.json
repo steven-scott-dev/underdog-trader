@@ -1,9 +1,23 @@
 {
  "date": "2026-11-07",
- "bets": 11,
- "bounce_bets": 6,
+ "bets": 12,
+ "bounce_bets": 7,
  "realized": -2.1671,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-fla-was-2026-11-07",
+   "game": "nhl:FLA@WSH",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-07 14:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -253,6 +267,12 @@
    [
     1794071136.6737857,
     0.15
+   ]
+  ],
+  "aec-nhl-fla-was-2026-11-07": [
+   [
+    1794080435.5792258,
+    0.08
    ]
   ]
  },
