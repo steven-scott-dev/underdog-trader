@@ -2,22 +2,8 @@
  "date": "2026-11-07",
  "bets": 15,
  "bounce_bets": 10,
- "realized": -2.3838,
- "paper_positions": [
-  {
-   "market": "aec-nba-den-ind-2026-11-07",
-   "game": "nba:DEN@IND",
-   "side": "short",
-   "team": "Pacers",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-07 18:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -2.4588,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -256,6 +242,23 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-den-ind-2026-11-07",
+   "game": "nba:DEN@IND",
+   "side": "short",
+   "team": "Pacers",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-07 18:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-07 18:45 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -349,7 +352,7 @@
   "aec-wta-annbli-ginfei-2026-11-07": 1794073836.0857825,
   "aec-atp-casruu-caralc-2026-11-07": 1794075637.6188135,
   "aec-nhl-fla-was-2026-11-07": 1794083135.3119102,
-  "aec-nba-den-ind-2026-11-07": 1794094552.5868044,
+  "aec-nba-den-ind-2026-11-07": 1794096933.9416928,
   "aec-nhl-nyr-sea-2026-11-07": 1794096037.4514282
  }
 }
