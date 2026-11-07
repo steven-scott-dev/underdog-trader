@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T12:05:36.674569-05:00",
+ "updated": "2026-11-07T12:10:35.600826-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-07",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.028,
    "opened": "2026-11-07 12:05 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-annbli-ginfei-2026-11-07",
@@ -36,7 +36,7 @@
    "sl": 0.06,
    "opened": "2026-11-07 12:05 ET",
    "mode": "main",
-   "last_bid": 0.15
+   "last_bid": 0.3
   }
  ],
  "paper_history": [
@@ -195,28 +195,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Alcaraz@Ruud",
-   "market": "aec-atp-casruu-caralc-2026-11-07",
-   "side": "long",
-   "team": "Casper Ruud",
-   "ask": 0.07,
-   "qty": 1.4286,
-   "stake": 0.1,
-   "mode": "bounce"
-  },
-  {
-   "type": "buy",
-   "game": "wta:Feistel@Blinkova",
-   "market": "aec-wta-annbli-ginfei-2026-11-07",
-   "side": "short",
-   "team": "Gina Feistel",
-   "ask": 0.15,
-   "qty": 3.3333,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
