@@ -2,7 +2,7 @@
  "date": "2026-11-07",
  "bets": 11,
  "bounce_bets": 6,
- "realized": -1.6481,
+ "realized": -2.0814,
  "paper_positions": [
   {
    "market": "aec-atp-casruu-caralc-2026-11-07",
@@ -15,20 +15,7 @@
    "sl": 0.028,
    "opened": "2026-11-07 12:05 ET",
    "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-wta-annbli-ginfei-2026-11-07",
-   "game": "wta:Feistel@Blinkova",
-   "side": "short",
-   "team": "Gina Feistel",
-   "entry": 0.15,
-   "qty": 3.3333,
-   "tp": 0.375,
-   "sl": 0.06,
-   "opened": "2026-11-07 12:05 ET",
-   "mode": "main",
-   "last_bid": 0.13
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -184,6 +171,23 @@
    "exit": 0.08,
    "pnl": -0.3519,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-annbli-ginfei-2026-11-07",
+   "game": "wta:Feistel@Blinkova",
+   "side": "short",
+   "team": "Gina Feistel",
+   "entry": 0.15,
+   "qty": 3.3333,
+   "tp": 0.375,
+   "sl": 0.06,
+   "opened": "2026-11-07 12:05 ET",
+   "mode": "main",
+   "last_bid": 0.13,
+   "closed": "2026-11-07 12:20 ET",
+   "exit": 0.02,
+   "pnl": -0.4333,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -255,6 +259,7 @@
   "aec-wta-marsak-aleeal-2026-11-07": 1794052532.7065735,
   "aec-wta-jantje-robmon-2026-11-07": 1794061540.90264,
   "aec-atp-lucass-benshe-2026-11-07": 1794068437.296781,
-  "aec-wta-maglin-anazak-2026-11-07": 1794069333.5201948
+  "aec-wta-maglin-anazak-2026-11-07": 1794069333.5201948,
+  "aec-wta-annbli-ginfei-2026-11-07": 1794073836.0857825
  }
 }
