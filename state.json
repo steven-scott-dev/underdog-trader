@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 16,
  "bounce_bets": 16,
- "realized": 1.1458,
+ "realized": 1.0791,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -28,20 +28,7 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nba-bos-cha-2026-11-06",
-   "game": "nba:BOS@CHA",
-   "side": "short",
-   "team": "Hornets",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-06 19:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -265,6 +252,23 @@
    "exit": 0.99,
    "pnl": 1.55,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nba-bos-cha-2026-11-06",
+   "game": "nba:BOS@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 19:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 19:45 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -363,6 +367,7 @@
   "aec-wta-antruz-aleeal-2026-11-06": 1793978141.5988834,
   "aec-atp-benshe-tompau-2026-11-06": 1793978436.3076718,
   "aec-wta-jusmik-nomaku-2026-11-06": 1793979039.967656,
-  "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693
+  "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693,
+  "aec-nba-bos-cha-2026-11-06": 1794014134.9682686
  }
 }

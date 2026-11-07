@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06T19:40:34.584186-05:00",
+ "updated": "2026-11-06T19:45:36.841197-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-06",
   "bets": 16,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.1458
+  "realized": 1.0791
  },
  "paper_positions": [
   {
@@ -36,40 +36,10 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
-  },
-  {
-   "market": "aec-nba-bos-cha-2026-11-06",
-   "game": "nba:BOS@CHA",
-   "side": "short",
-   "team": "Hornets",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-06 19:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-ksenza-ginfei-2026-11-06",
-   "game": "wta:Feistel@Zaytseva",
-   "side": "long",
-   "team": "Ksenia Zaytseva",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-06 07:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.1,
-   "closed": "2026-11-06 07:15 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-robmon-maarev-2026-11-06",
    "game": "wta:Revathi@Montgomery",
@@ -222,8 +192,32 @@
    "exit": 0.99,
    "pnl": 1.55,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nba-bos-cha-2026-11-06",
+   "game": "nba:BOS@CHA",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-06 19:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 19:45 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Hornets",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  }
+ ]
 }
