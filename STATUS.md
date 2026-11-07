@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 23:45 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-06 23:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 23 / 100 (main 3, bounce 20)
+- Bets placed: 24 / 100 (main 3, bounce 21)
 - Realized P&L: +1.88
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
+- **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Kings** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-06 23:15 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -21,4 +22,4 @@ Updated: 2026-11-06 23:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-06 19:45 ET: Hornets [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:SA@SAC", "market": "aec-nba-sa-sac-2026-11-06", "side": "short", "team": "Kings", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`

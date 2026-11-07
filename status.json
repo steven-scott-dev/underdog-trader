@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T23:45:36.977920-05:00",
+ "updated": "2026-11-06T23:50:33.414343-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-06",
-  "bets": 23,
-  "bounce_bets": 20,
+  "bets": 24,
+  "bounce_bets": 21,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.876
@@ -35,6 +35,19 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-sa-sac-2026-11-06",
+   "game": "nba:SA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-06 23:50 ET",
    "mode": "bounce",
    "last_bid": 0.04
   }
@@ -212,5 +225,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:SA@SAC",
+   "market": "aec-nba-sa-sac-2026-11-06",
+   "side": "short",
+   "team": "Kings",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
