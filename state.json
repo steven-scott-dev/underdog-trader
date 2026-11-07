@@ -1,9 +1,31 @@
 {
  "date": "2026-11-07",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-sa-sac-2026-11-06",
+   "game": "nba:SA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-07 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [],
- "live_history": []
+ "live_history": [],
+ "px_hist": {
+  "aec-nba-sa-sac-2026-11-06": [
+   [
+    1794027934.9975107,
+    0.04
+   ]
+  ]
+ }
 }
