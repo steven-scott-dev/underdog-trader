@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 22:45 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-06 22:50 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 22 / 100 (main 3, bounce 19)
+- Bets placed: 23 / 100 (main 3, bounce 20)
 - Realized P&L: +1.95
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
+- **Kings** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-06 22:45 ET: Flames [main] — take-profit @ 0.4250 → +0.7500
@@ -21,4 +22,4 @@ Updated: 2026-11-06 22:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-06 18:50 ET: Nuno Borges [bounce] — settled @ 0.9900 → +1.5500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Flames", "reason": "take-profit", "pnl": 0.75}`
+- `{"type": "buy", "game": "nba:SA@SAC", "market": "aec-nba-sa-sac-2026-11-06", "side": "short", "team": "Kings", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
