@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 17,
  "bounce_bets": 17,
- "realized": 1.0791,
+ "realized": 1.0191,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -27,19 +27,6 @@
    "tp": 0.1,
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nhl-cbj-buf-2026-11-06",
-   "game": "nhl:CBJ@BUF",
-   "side": "long",
-   "team": "Blue Jackets",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-06 20:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
   }
@@ -282,6 +269,23 @@
    "exit": 0.03,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cbj-buf-2026-11-06",
+   "game": "nhl:CBJ@BUF",
+   "side": "long",
+   "team": "Blue Jackets",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 20:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-06 20:30 ET",
+   "exit": 0.02,
+   "pnl": -0.06,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -387,6 +391,7 @@
   "aec-atp-benshe-tompau-2026-11-06": 1793978436.3076718,
   "aec-wta-jusmik-nomaku-2026-11-06": 1793979039.967656,
   "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693,
-  "aec-nba-bos-cha-2026-11-06": 1794014134.9682686
+  "aec-nba-bos-cha-2026-11-06": 1794014134.9682686,
+  "aec-nhl-cbj-buf-2026-11-06": 1794016834.0396156
  }
 }
