@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 20:30 ET · Mode: **PAPER** · Result: OK (24.7s)
+Updated: 2026-11-06 20:35 ET · Mode: **PAPER** · Result: OK (14.6s)
 
 ## Today
 - Bets placed: 17 / 100 (main 0, bounce 17)
@@ -21,4 +21,4 @@ Updated: 2026-11-06 20:30 ET · Mode: **PAPER** · Result: OK (24.7s)
 - 2026-11-06 10:00 ET: Justina Mikulskyte [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blue Jackets", "reason": "stop-loss", "pnl": -0.06}`
+- _none_
