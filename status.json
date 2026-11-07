@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T21:35:46.222428-05:00",
+ "updated": "2026-11-06T21:40:48.657125-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.3,
+ "duration_s": 13.8,
  "daily": {
   "date": "2026-11-06",
-  "bets": 18,
-  "bounce_bets": 18,
+  "bets": 19,
+  "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.9391
@@ -37,6 +37,19 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
+  },
+  {
+   "market": "aec-nba-phi-cle-2026-11-06",
+   "game": "nba:PHI@CLE",
+   "side": "long",
+   "team": "76ers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-06 21:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -212,5 +225,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:PHI@CLE",
+   "market": "aec-nba-phi-cle-2026-11-06",
+   "side": "long",
+   "team": "76ers",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

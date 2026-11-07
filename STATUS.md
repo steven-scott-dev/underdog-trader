@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 21:35 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-11-06 21:40 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Today
-- Bets placed: 18 / 100 (main 0, bounce 18)
+- Bets placed: 19 / 100 (main 0, bounce 19)
 - Realized P&L: +0.94
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **76ers** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-06 21:30 ET: Grizzlies [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -21,4 +22,4 @@ Updated: 2026-11-06 21:35 ET · Mode: **PAPER** · Result: OK (12.3s)
 - 2026-11-06 13:35 ET: Lucrezia Stefanini [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:PHI@CLE", "market": "aec-nba-phi-cle-2026-11-06", "side": "long", "team": "76ers", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
