@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-07T10:45:35.569233-05:00",
+ "updated": "2026-11-07T10:50:38.827504-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-07",
-  "bets": 8,
+  "bets": 9,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.8719
+  "realized": -1.2962
  },
  "paper_positions": [
   {
-   "market": "aec-atp-lucass-benshe-2026-11-07",
-   "game": "atp:Shelton@Assche",
-   "side": "long",
-   "team": "Luca Van Assche",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-11-07 10:20 ET",
+   "market": "aec-wta-maglin-anazak-2026-11-07",
+   "game": "wta:Zakharova@Linette",
+   "side": "short",
+   "team": "Anastasia Zakharova",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-07 10:50 ET",
    "mode": "main",
    "last_bid": 0.27
   }
@@ -145,8 +145,43 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-lucass-benshe-2026-11-07",
+   "game": "atp:Shelton@Assche",
+   "side": "long",
+   "team": "Luca Van Assche",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-11-07 10:20 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-11-07 10:50 ET",
+   "exit": 0.05,
+   "pnl": -0.4243,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Luca Van Assche",
+   "reason": "stop-loss",
+   "pnl": -0.4243
+  },
+  {
+   "type": "buy",
+   "game": "wta:Zakharova@Linette",
+   "market": "aec-wta-maglin-anazak-2026-11-07",
+   "side": "short",
+   "team": "Anastasia Zakharova",
+   "ask": 0.27,
+   "qty": 1.8519,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

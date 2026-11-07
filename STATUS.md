@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 10:45 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-07 10:50 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 8 / 100 (main 3, bounce 5)
-- Realized P&L: -0.87
+- Bets placed: 9 / 100 (main 4, bounce 5)
+- Realized P&L: -1.30
 
 ## Open paper positions
-- **Luca Van Assche** (long/main) — 1.5152 @ 0.3300, now ~0.2700, unrealized -0.0909 (TP 0.8250 / SL 0.1320)
+- **Anastasia Zakharova** (short/main) — 1.8519 @ 0.2700, now ~0.2700, unrealized +0.0000 (TP 0.6750 / SL 0.1080)
 
 ## Recent history
+- 2026-11-07 10:50 ET: Luca Van Assche [main] — stop-loss @ 0.0500 → -0.4243
 - 2026-11-07 09:30 ET: Noma Noha Akugue [bounce] — take-profit @ 0.1000 → +0.1000
 - 2026-11-07 08:55 ET: Robin Montgomery [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-11-07 06:55 ET: Yasmine Kabbaj [main] — stop-loss @ 0.0300 → -0.4616
@@ -19,4 +20,5 @@ Updated: 2026-11-07 10:45 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Luca Van Assche", "reason": "stop-loss", "pnl": -0.4243}`
+- `{"type": "buy", "game": "wta:Zakharova@Linette", "market": "aec-wta-maglin-anazak-2026-11-07", "side": "short", "team": "Anastasia Zakharova", "ask": 0.27, "qty": 1.8519, "stake": 0.5, "mode": "main"}`

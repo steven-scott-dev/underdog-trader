@@ -1,19 +1,19 @@
 {
  "date": "2026-11-07",
- "bets": 8,
+ "bets": 9,
  "bounce_bets": 5,
- "realized": -0.8719,
+ "realized": -1.2962,
  "paper_positions": [
   {
-   "market": "aec-atp-lucass-benshe-2026-11-07",
-   "game": "atp:Shelton@Assche",
-   "side": "long",
-   "team": "Luca Van Assche",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-11-07 10:20 ET",
+   "market": "aec-wta-maglin-anazak-2026-11-07",
+   "game": "wta:Zakharova@Linette",
+   "side": "short",
+   "team": "Anastasia Zakharova",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-07 10:50 ET",
    "mode": "main",
    "last_bid": 0.27
   }
@@ -137,6 +137,23 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-lucass-benshe-2026-11-07",
+   "game": "atp:Shelton@Assche",
+   "side": "long",
+   "team": "Luca Van Assche",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-11-07 10:20 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-11-07 10:50 ET",
+   "exit": 0.05,
+   "pnl": -0.4243,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -182,12 +199,19 @@
     1794064836.769114,
     0.33
    ]
+  ],
+  "aec-wta-maglin-anazak-2026-11-07": [
+   [
+    1794066638.5827758,
+    0.27
+   ]
   ]
  },
  "cooldowns": {
   "aec-wta-aleshu-claliu-2026-11-07": 1794040835.7128346,
   "aec-wta-annbli-yaskab-2026-11-06": 1794054331.552118,
   "aec-wta-marsak-aleeal-2026-11-07": 1794052532.7065735,
-  "aec-wta-jantje-robmon-2026-11-07": 1794061540.90264
+  "aec-wta-jantje-robmon-2026-11-07": 1794061540.90264,
+  "aec-atp-lucass-benshe-2026-11-07": 1794068437.296781
  }
 }
