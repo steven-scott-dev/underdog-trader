@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 00:05 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-07 00:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
-- Realized P&L: +0.00
+- Realized P&L: +0.10
 
 ## Open paper positions
-- **Kings** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- _none_
 
 ## Recent history
-- _none yet_
+- 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:SA@SAC", "market": "aec-nba-sa-sac-2026-11-06", "side": "short", "team": "Kings", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "paper_close", "team": "Kings", "reason": "take-profit", "pnl": 0.1}`
