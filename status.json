@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T19:35:40.622235-05:00",
+ "updated": "2026-11-06T19:40:34.584186-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-06",
   "bets": 16,
@@ -36,7 +36,7 @@
    "sl": 0.02,
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   },
   {
    "market": "aec-nba-bos-cha-2026-11-06",
@@ -49,7 +49,7 @@
    "sl": 0.036,
    "opened": "2026-11-06 19:25 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
