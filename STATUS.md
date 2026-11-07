@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 18:05 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-07 18:10 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 14 / 100 (main 5, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 18:05 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-07 08:55 ET: Robin Montgomery [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pacers", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
