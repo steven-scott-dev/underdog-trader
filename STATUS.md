@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 08:45 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-07 08:50 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 5 / 100 (main 2, bounce 3)
+- Bets placed: 6 / 100 (main 2, bounce 4)
 - Realized P&L: -0.91
 
 ## Open paper positions
-- _none_
+- **Robin Montgomery** (short/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-07 06:55 ET: Yasmine Kabbaj [main] — stop-loss @ 0.0300 → -0.4616
@@ -17,4 +17,4 @@ Updated: 2026-11-07 08:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Montgomery@Tjen", "market": "aec-wta-jantje-robmon-2026-11-07", "side": "short", "team": "Robin Montgomery", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`

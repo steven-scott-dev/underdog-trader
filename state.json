@@ -1,9 +1,23 @@
 {
  "date": "2026-11-07",
- "bets": 5,
- "bounce_bets": 3,
+ "bets": 6,
+ "bounce_bets": 4,
  "realized": -0.9052,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jantje-robmon-2026-11-07",
+   "game": "wta:Montgomery@Tjen",
+   "side": "short",
+   "team": "Robin Montgomery",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-07 08:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -115,6 +129,12 @@
    [
     1794049533.6669195,
     0.33
+   ]
+  ],
+  "aec-wta-jantje-robmon-2026-11-07": [
+   [
+    1794059434.6276572,
+    0.06
    ]
   ]
  },
