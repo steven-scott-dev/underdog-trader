@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 21:05 ET · Mode: **PAPER** · Result: OK (13.5s)
+Updated: 2026-11-06 21:11 ET · Mode: **PAPER** · Result: OK (23.7s)
 
 ## Today
 - Bets placed: 18 / 100 (main 0, bounce 18)
@@ -9,7 +9,7 @@ Updated: 2026-11-06 21:05 ET · Mode: **PAPER** · Result: OK (13.5s)
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
-- **Grizzlies** (short/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Grizzlies** (short/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-06 20:30 ET: Blue Jackets [bounce] — stop-loss @ 0.0200 → -0.0600
@@ -22,4 +22,4 @@ Updated: 2026-11-06 21:05 ET · Mode: **PAPER** · Result: OK (13.5s)
 - 2026-11-06 10:00 ET: Justina Mikulskyte [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:OKC@MEM", "market": "aec-nba-okc-mem-2026-11-06", "side": "short", "team": "Grizzlies", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
