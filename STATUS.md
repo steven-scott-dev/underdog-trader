@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 06:30 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-07 06:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 5 / 100 (main 2, bounce 3)
 - Realized P&L: -0.44
 
 ## Open paper positions
-- **Yasmine Kabbaj** (short/main) — 1.2821 @ 0.3900, now ~0.3000, unrealized -0.1154 (TP 0.9750 / SL 0.1560)
+- **Yasmine Kabbaj** (short/main) — 1.2821 @ 0.3900, now ~0.3500, unrealized -0.0513 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
 - 2026-11-07 06:25 ET: Maria Sakkari [main] — stop-loss @ 0.0900 → -0.3636
