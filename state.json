@@ -1,9 +1,23 @@
 {
  "date": "2026-11-07",
- "bets": 12,
- "bounce_bets": 7,
+ "bets": 13,
+ "bounce_bets": 8,
  "realized": -2.2296,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-nyr-sea-2026-11-07",
+   "game": "nhl:NYR@SEA",
+   "side": "short",
+   "team": "Kraken",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-07 17:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -275,6 +289,12 @@
   "aec-nhl-fla-was-2026-11-07": [
    [
     1794080435.5792258,
+    0.08
+   ]
+  ],
+  "aec-nhl-nyr-sea-2026-11-07": [
+   [
+    1794091547.3496156,
     0.08
    ]
   ]
