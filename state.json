@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "bets": 4,
+ "bets": 5,
  "bounce_bets": 3,
  "realized": -0.08,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.132,
    "opened": "2026-11-07 06:05 ET",
    "mode": "main",
-   "last_bid": 0.17
+   "last_bid": 0.19
+  },
+  {
+   "market": "aec-wta-annbli-yaskab-2026-11-06",
+   "game": "wta:Kabbaj@Blinkova",
+   "side": "short",
+   "team": "Yasmine Kabbaj",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-11-07 06:20 ET",
+   "mode": "main",
+   "last_bid": 0.39
   }
  ],
  "paper_history": [
@@ -87,8 +100,8 @@
   ],
   "aec-wta-annbli-yaskab-2026-11-06": [
    [
-    1794046236.306727,
-    0.1
+    1794050433.3326178,
+    0.39
    ]
   ],
   "aec-wta-marsak-aleeal-2026-11-07": [
