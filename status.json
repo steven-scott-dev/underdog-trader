@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T06:55:32.453160-05:00",
+ "updated": "2026-11-07T07:00:36.711415-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-07",
   "bets": 5,
@@ -100,12 +100,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Yasmine Kabbaj",
-   "reason": "stop-loss",
-   "pnl": -0.4616
-  }
- ]
+ "actions": []
 }
