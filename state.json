@@ -1,9 +1,36 @@
 {
  "date": "2026-11-07",
- "bets": 9,
- "bounce_bets": 5,
+ "bets": 11,
+ "bounce_bets": 6,
  "realized": -1.6481,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-casruu-caralc-2026-11-07",
+   "game": "atp:Alcaraz@Ruud",
+   "side": "long",
+   "team": "Casper Ruud",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-07 12:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-annbli-ginfei-2026-11-07",
+   "game": "wta:Feistel@Blinkova",
+   "side": "short",
+   "team": "Gina Feistel",
+   "entry": 0.15,
+   "qty": 3.3333,
+   "tp": 0.375,
+   "sl": 0.06,
+   "opened": "2026-11-07 12:05 ET",
+   "mode": "main",
+   "last_bid": 0.15
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -207,6 +234,18 @@
    [
     1794066638.5827758,
     0.27
+   ]
+  ],
+  "aec-atp-casruu-caralc-2026-11-07": [
+   [
+    1794071136.0250535,
+    0.07
+   ]
+  ],
+  "aec-wta-annbli-ginfei-2026-11-07": [
+   [
+    1794071136.6737857,
+    0.15
    ]
   ]
  },
