@@ -2,7 +2,7 @@
  "date": "2026-11-06",
  "bets": 18,
  "bounce_bets": 18,
- "realized": 1.0191,
+ "realized": 0.9391,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -29,19 +29,6 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-okc-mem-2026-11-06",
-   "game": "nba:OKC@MEM",
-   "side": "short",
-   "team": "Grizzlies",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-06 21:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -299,6 +286,23 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-okc-mem-2026-11-06",
+   "game": "nba:OKC@MEM",
+   "side": "short",
+   "team": "Grizzlies",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 21:30 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -411,6 +415,7 @@
   "aec-wta-jusmik-nomaku-2026-11-06": 1793979039.967656,
   "aec-atp-tayfri-caralc-2026-11-06": 1794003638.6221693,
   "aec-nba-bos-cha-2026-11-06": 1794014134.9682686,
-  "aec-nhl-cbj-buf-2026-11-06": 1794016834.0396156
+  "aec-nhl-cbj-buf-2026-11-06": 1794016834.0396156,
+  "aec-nba-okc-mem-2026-11-06": 1794020437.0242631
  }
 }

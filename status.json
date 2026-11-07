@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:25:49.482403-05:00",
+ "updated": "2026-11-06T21:30:49.324000-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 13.0,
@@ -9,7 +9,7 @@
   "bounce_bets": 18,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.0191
+  "realized": 0.9391
  },
  "paper_positions": [
   {
@@ -37,39 +37,9 @@
    "opened": "2026-11-06 16:25 ET",
    "mode": "bounce",
    "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-okc-mem-2026-11-06",
-   "game": "nba:OKC@MEM",
-   "side": "short",
-   "team": "Grizzlies",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-06 21:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-antruz-aleeal-2026-11-06",
-   "game": "wta:Eala@Ruzic",
-   "side": "long",
-   "team": "Antonia Ruzic",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-06 09:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-06 09:45 ET",
-   "exit": 0.04,
-   "pnl": -0.06,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-benshe-tompau-2026-11-06",
    "game": "atp:Paul@Shelton",
@@ -222,8 +192,32 @@
    "exit": 0.02,
    "pnl": -0.06,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-okc-mem-2026-11-06",
+   "game": "nba:OKC@MEM",
+   "side": "short",
+   "team": "Grizzlies",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-06 21:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-06 21:30 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Grizzlies",
+   "reason": "stop-loss",
+   "pnl": -0.08
+  }
+ ]
 }
