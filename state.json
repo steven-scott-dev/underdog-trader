@@ -1,8 +1,8 @@
 {
  "date": "2026-11-06",
- "bets": 21,
+ "bets": 22,
  "bounce_bets": 19,
- "realized": 0.446,
+ "realized": 1.196,
  "paper_positions": [
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
@@ -15,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-11-06 10:40 ET",
    "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.08
   },
   {
    "market": "aec-wta-alitub-biaand-2026-11-06",
@@ -31,17 +31,17 @@
    "last_bid": 0.04
   },
   {
-   "market": "aec-nba-min-no-2026-11-06",
-   "game": "nba:MIN@NO",
+   "market": "aec-nhl-ana-cgy-2026-11-06",
+   "game": "nhl:ANA@CGY",
    "side": "short",
-   "team": "Pelicans",
-   "entry": 0.26,
-   "qty": 1.9231,
-   "tp": 0.65,
-   "sl": 0.104,
-   "opened": "2026-11-06 22:10 ET",
+   "team": "Flames",
+   "entry": 0.17,
+   "qty": 2.9412,
+   "tp": 0.425,
+   "sl": 0.068,
+   "opened": "2026-11-06 22:40 ET",
    "mode": "main",
-   "last_bid": 0.12
+   "last_bid": 0.17
   }
  ],
  "paper_history": [
@@ -350,6 +350,23 @@
    "exit": 0.05,
    "pnl": -0.4074,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-min-no-2026-11-06",
+   "game": "nba:MIN@NO",
+   "side": "short",
+   "team": "Pelicans",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "tp": 0.65,
+   "sl": 0.104,
+   "opened": "2026-11-06 22:10 ET",
+   "mode": "main",
+   "last_bid": 0.12,
+   "closed": "2026-11-06 22:40 ET",
+   "exit": 0.65,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -466,6 +483,12 @@
    [
     1794021039.2546787,
     0.26
+   ]
+  ],
+  "aec-nhl-ana-cgy-2026-11-06": [
+   [
+    1794022848.3671753,
+    0.17
    ]
   ]
  },
