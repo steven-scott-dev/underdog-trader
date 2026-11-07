@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 08:55 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-07 08:59 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 6 / 100 (main 2, bounce 4)
@@ -18,4 +18,4 @@ Updated: 2026-11-07 08:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Robin Montgomery", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_

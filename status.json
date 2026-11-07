@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T08:55:42.410379-05:00",
+ "updated": "2026-11-07T08:59:28.643866-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-07",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Robin Montgomery",
-   "reason": "stop-loss",
-   "pnl": -0.0667
-  }
- ]
+ "actions": []
 }
