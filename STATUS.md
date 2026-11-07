@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-06 20:20 ET · Mode: **PAPER** · Result: OK (14.0s)
+Updated: 2026-11-06 20:25 ET · Mode: **PAPER** · Result: OK (22.8s)
 
 ## Today
-- Bets placed: 16 / 100 (main 0, bounce 16)
+- Bets placed: 17 / 100 (main 0, bounce 17)
 - Realized P&L: +1.08
 
 ## Open paper positions
 - **Yasmine Kabbaj** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 - **Alice Tubello** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Blue Jackets** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-06 19:45 ET: Hornets [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -21,4 +22,4 @@ Updated: 2026-11-06 20:20 ET · Mode: **PAPER** · Result: OK (14.0s)
 - 2026-11-06 09:50 ET: Tommy Paul [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:CBJ@BUF", "market": "aec-nhl-cbj-buf-2026-11-06", "side": "long", "team": "Blue Jackets", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
