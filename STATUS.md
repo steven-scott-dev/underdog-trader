@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 03:10 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-07 03:15 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
@@ -14,4 +14,4 @@ Updated: 2026-11-07 03:10 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-07 00:10 ET: Kings [bounce] — take-profit @ 0.0800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alexandra Shubladze", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
