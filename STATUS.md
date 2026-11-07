@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 18:35 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-07 18:40 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 14 / 100 (main 5, bounce 9)
+- Bets placed: 15 / 100 (main 5, bounce 10)
 - Realized P&L: -2.38
 
 ## Open paper positions
-- _none_
+- **Pacers** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-07 18:30 ET: Kraken [bounce] — stop-loss @ 0.0100 → -0.0875
@@ -20,4 +20,4 @@ Updated: 2026-11-07 18:35 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-07 09:30 ET: Noma Noha Akugue [bounce] — take-profit @ 0.1000 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:DEN@IND", "market": "aec-nba-den-ind-2026-11-07", "side": "short", "team": "Pacers", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
