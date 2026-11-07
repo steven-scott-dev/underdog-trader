@@ -2,21 +2,8 @@
  "date": "2026-11-07",
  "bets": 5,
  "bounce_bets": 3,
- "realized": -0.08,
+ "realized": -0.4436,
  "paper_positions": [
-  {
-   "market": "aec-wta-marsak-aleeal-2026-11-07",
-   "game": "wta:Eala@Sakkari",
-   "side": "long",
-   "team": "Maria Sakkari",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-11-07 06:05 ET",
-   "mode": "main",
-   "last_bid": 0.19
-  },
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
    "game": "wta:Kabbaj@Blinkova",
@@ -28,7 +15,7 @@
    "sl": 0.156,
    "opened": "2026-11-07 06:20 ET",
    "mode": "main",
-   "last_bid": 0.39
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
@@ -82,6 +69,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-marsak-aleeal-2026-11-07",
+   "game": "wta:Eala@Sakkari",
+   "side": "long",
+   "team": "Maria Sakkari",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-11-07 06:05 ET",
+   "mode": "main",
+   "last_bid": 0.19,
+   "closed": "2026-11-07 06:25 ET",
+   "exit": 0.09,
+   "pnl": -0.3636,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -113,6 +117,7 @@
  },
  "cooldowns": {
   "aec-wta-aleshu-claliu-2026-11-07": 1794040835.7128346,
-  "aec-wta-annbli-yaskab-2026-11-06": 1794049834.2988157
+  "aec-wta-annbli-yaskab-2026-11-06": 1794049834.2988157,
+  "aec-wta-marsak-aleeal-2026-11-07": 1794052532.7065735
  }
 }

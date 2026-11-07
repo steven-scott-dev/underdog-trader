@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-07T06:20:33.333468-05:00",
+ "updated": "2026-11-07T06:25:33.705244-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-07",
   "bets": 5,
   "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.08
+  "realized": -0.4436
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-marsak-aleeal-2026-11-07",
-   "game": "wta:Eala@Sakkari",
-   "side": "long",
-   "team": "Maria Sakkari",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-11-07 06:05 ET",
-   "mode": "main",
-   "last_bid": 0.19
-  },
   {
    "market": "aec-wta-annbli-yaskab-2026-11-06",
    "game": "wta:Kabbaj@Blinkova",
@@ -36,7 +23,7 @@
    "sl": 0.156,
    "opened": "2026-11-07 06:20 ET",
    "mode": "main",
-   "last_bid": 0.39
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
@@ -90,20 +77,32 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-marsak-aleeal-2026-11-07",
+   "game": "wta:Eala@Sakkari",
+   "side": "long",
+   "team": "Maria Sakkari",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-11-07 06:05 ET",
+   "mode": "main",
+   "last_bid": 0.19,
+   "closed": "2026-11-07 06:25 ET",
+   "exit": 0.09,
+   "pnl": -0.3636,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Kabbaj@Blinkova",
-   "market": "aec-wta-annbli-yaskab-2026-11-06",
-   "side": "short",
-   "team": "Yasmine Kabbaj",
-   "ask": 0.39,
-   "qty": 1.2821,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Maria Sakkari",
+   "reason": "stop-loss",
+   "pnl": -0.3636
   }
  ]
 }
