@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-07 12:20 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-07 12:25 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
@@ -20,4 +20,4 @@ Updated: 2026-11-07 12:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-07 05:40 ET: Yasmine Kabbaj [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Gina Feistel", "reason": "stop-loss", "pnl": -0.4333}`
+- _none_
