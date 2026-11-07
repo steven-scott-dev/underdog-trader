@@ -2,22 +2,8 @@
  "date": "2026-11-07",
  "bets": 11,
  "bounce_bets": 6,
- "realized": -2.0814,
- "paper_positions": [
-  {
-   "market": "aec-atp-casruu-caralc-2026-11-07",
-   "game": "atp:Alcaraz@Ruud",
-   "side": "long",
-   "team": "Casper Ruud",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-07 12:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": -2.1671,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-sa-sac-2026-11-06",
@@ -188,6 +174,23 @@
    "exit": 0.02,
    "pnl": -0.4333,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-casruu-caralc-2026-11-07",
+   "game": "atp:Alcaraz@Ruud",
+   "side": "long",
+   "team": "Casper Ruud",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-07 12:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-07 12:50 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -260,6 +263,7 @@
   "aec-wta-jantje-robmon-2026-11-07": 1794061540.90264,
   "aec-atp-lucass-benshe-2026-11-07": 1794068437.296781,
   "aec-wta-maglin-anazak-2026-11-07": 1794069333.5201948,
-  "aec-wta-annbli-ginfei-2026-11-07": 1794073836.0857825
+  "aec-wta-annbli-ginfei-2026-11-07": 1794073836.0857825,
+  "aec-atp-casruu-caralc-2026-11-07": 1794075637.6188135
  }
 }
