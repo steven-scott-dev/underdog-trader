@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 12:05 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-08 12:10 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
 - Realized P&L: +0.01
 
 ## Open paper positions
-- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1500, unrealized +0.0500 (TP 0.2000 / SL 0.0400)
+- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-08 12:00 ET: Falcons [bounce] — stop-loss @ 0.0250 → -0.0643
