@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 11:20 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-08 11:25 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 10 / 100 (main 2, bounce 8)
 - Realized P&L: +0.05
 
 ## Open paper positions
-- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0700, unrealized +0.0037 (TP 0.1350 / SL 0.0270)
-- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
-- **Maria Torres** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0950, unrealized +0.0407 (TP 0.1350 / SL 0.0270)
+- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Maria Torres** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -21,4 +21,4 @@ Updated: 2026-11-08 11:20 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Isabella Collazos", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
