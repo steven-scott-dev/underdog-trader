@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 12,
- "bounce_bets": 10,
+ "bets": 13,
+ "bounce_bets": 11,
  "realized": 0.045,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "atc-nfl-phi-nyg-series-2026-phi",
+   "game": "nfl:NYG@PHI",
+   "side": "long",
+   "team": "Yes",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-08 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -264,6 +278,12 @@
    [
     1794158736.7555504,
     0.08
+   ]
+  ],
+  "atc-nfl-phi-nyg-series-2026-phi": [
+   [
+    1794161136.869963,
+    0.09
    ]
   ]
  },
