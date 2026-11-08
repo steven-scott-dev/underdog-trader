@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 15,
- "bounce_bets": 13,
+ "bets": 16,
+ "bounce_bets": 14,
  "realized": 0.245,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-11-08 13:05 ET",
    "mode": "bounce",
    "last_bid": 0.08
+  },
+  {
+   "market": "aec-nhl-fla-bos-2026-11-08",
+   "game": "nhl:FLA@BOS",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-08 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -322,8 +335,8 @@
   ],
   "aec-nhl-fla-bos-2026-11-08": [
    [
-    1794164155.2012112,
-    0.07
+    1794167746.1667922,
+    0.09
    ]
   ],
   "aec-atp-thitir-jaumun-2026-11-08": [
