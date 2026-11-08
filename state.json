@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 20,
  "bounce_bets": 16,
- "realized": 0.2005,
+ "realized": -0.1764,
  "paper_positions": [
   {
    "market": "atc-nfl-phi-nyg-series-2026-phi",
@@ -28,20 +28,7 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.6325
-  },
-  {
-   "market": "aec-nfl-den-car-2026-11-08",
-   "game": "nfl:DEN@CAR",
-   "side": "short",
-   "team": "Panthers",
-   "entry": 0.1625,
-   "qty": 3.0769,
-   "tp": 0.4062,
-   "sl": 0.065,
-   "opened": "2026-11-08 15:35 ET",
-   "mode": "main",
-   "last_bid": 0.135
+   "last_bid": 0.7475
   }
  ],
  "paper_history": [
@@ -333,6 +320,23 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-den-car-2026-11-08",
+   "game": "nfl:DEN@CAR",
+   "side": "short",
+   "team": "Panthers",
+   "entry": 0.1625,
+   "qty": 3.0769,
+   "tp": 0.4062,
+   "sl": 0.065,
+   "opened": "2026-11-08 15:35 ET",
+   "mode": "main",
+   "last_bid": 0.135,
+   "closed": "2026-11-08 15:45 ET",
+   "exit": 0.04,
+   "pnl": -0.3769,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -444,6 +448,7 @@
   "aec-nfl-cin-atl-2026-11-08": 1794159034.2177572,
   "aec-wta-margon-maruri-2026-11-08": 1794161136.7210028,
   "aec-nhl-fla-bos-2026-11-08": 1794171636.350182,
-  "aec-nfl-det-mia-2026-11-08": 1794171636.372677
+  "aec-nfl-det-mia-2026-11-08": 1794171636.372677,
+  "aec-nfl-den-car-2026-11-08": 1794172535.0395246
  }
 }

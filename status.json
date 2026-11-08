@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T15:40:48.968082-05:00",
+ "updated": "2026-11-08T15:45:48.499174-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 13.8,
  "daily": {
   "date": "2026-11-08",
   "bets": 20,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2005
+  "realized": -0.1764
  },
  "paper_positions": [
   {
@@ -36,40 +36,10 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.6325
-  },
-  {
-   "market": "aec-nfl-den-car-2026-11-08",
-   "game": "nfl:DEN@CAR",
-   "side": "short",
-   "team": "Panthers",
-   "entry": 0.1625,
-   "qty": 3.0769,
-   "tp": 0.4062,
-   "sl": 0.065,
-   "opened": "2026-11-08 15:35 ET",
-   "mode": "main",
-   "last_bid": 0.135
+   "last_bid": 0.7475
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-cin-atl-2026-11-08",
-   "game": "nfl:CIN@ATL",
-   "side": "short",
-   "team": "Falcons",
-   "entry": 0.0675,
-   "qty": 1.4815,
-   "tp": 0.135,
-   "sl": 0.027,
-   "opened": "2026-11-08 11:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.1325,
-   "closed": "2026-11-08 11:35 ET",
-   "exit": 0.135,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-katsco-martor-2026-11-09",
    "game": "wta:Murcia@Scott",
@@ -222,8 +192,32 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-den-car-2026-11-08",
+   "game": "nfl:DEN@CAR",
+   "side": "short",
+   "team": "Panthers",
+   "entry": 0.1625,
+   "qty": 3.0769,
+   "tp": 0.4062,
+   "sl": 0.065,
+   "opened": "2026-11-08 15:35 ET",
+   "mode": "main",
+   "last_bid": 0.135,
+   "closed": "2026-11-08 15:45 ET",
+   "exit": 0.04,
+   "pnl": -0.3769,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Panthers",
+   "reason": "stop-loss",
+   "pnl": -0.3769
+  }
+ ]
 }
