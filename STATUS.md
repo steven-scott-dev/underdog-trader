@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 07:35 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-08 07:40 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
@@ -15,4 +15,4 @@ Updated: 2026-11-08 07:35 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Sofya Lansere", "reason": "take-profit", "pnl": 0.1}`
+- _none_

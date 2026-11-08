@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T07:35:34.926231-05:00",
+ "updated": "2026-11-08T07:40:31.402644-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-11-08",
   "bets": 3,
@@ -66,12 +66,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Sofya Lansere",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
