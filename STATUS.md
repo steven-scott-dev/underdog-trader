@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 14:25 ET · Mode: **PAPER** · Result: OK (3.2s)
+Updated: 2026-11-08 14:30 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 15 / 100 (main 2, bounce 13)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 14:25 ET · Mode: **PAPER** · Result: OK (3.2s)
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jaume Munar", "reason": "take-profit", "pnl": 0.1}`
+- _none_
