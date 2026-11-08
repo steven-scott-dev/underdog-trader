@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T15:55:43.569896-05:00",
+ "updated": "2026-11-08T16:00:57.054050-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 5.7,
+ "duration_s": 15.0,
  "daily": {
   "date": "2026-11-08",
   "bets": 21,
@@ -36,7 +36,7 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.675
+   "last_bid": 0.185
   },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
@@ -49,7 +49,7 @@
    "sl": 0.098,
    "opened": "2026-11-08 15:55 ET",
    "mode": "main",
-   "last_bid": 0.245
+   "last_bid": 0.38
   }
  ],
  "paper_history": [
@@ -225,17 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nfl:DAL@IND",
-   "market": "aec-nfl-dal-ind-2026-11-08",
-   "side": "short",
-   "team": "Colts",
-   "ask": 0.245,
-   "qty": 2.0408,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }

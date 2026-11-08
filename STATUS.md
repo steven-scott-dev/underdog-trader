@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:55 ET · Mode: **PAPER** · Result: OK (5.7s)
+Updated: 2026-11-08 16:00 ET · Mode: **PAPER** · Result: OK (15.0s)
 
 ## Today
 - Bets placed: 21 / 100 (main 5, bounce 16)
@@ -8,8 +8,8 @@ Updated: 2026-11-08 15:55 ET · Mode: **PAPER** · Result: OK (5.7s)
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.6750, unrealized +0.4854 (TP 0.8563 / SL 0.1370)
-- **Colts** (short/main) — 2.0408 @ 0.2450, now ~0.2450, unrealized +0.0000 (TP 0.6125 / SL 0.0980)
+- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.1850, unrealized -0.2299 (TP 0.8563 / SL 0.1370)
+- **Colts** (short/main) — 2.0408 @ 0.2450, now ~0.3800, unrealized +0.2755 (TP 0.6125 / SL 0.0980)
 
 ## Recent history
 - 2026-11-08 15:45 ET: Panthers [main] — stop-loss @ 0.0400 → -0.3769
@@ -22,4 +22,4 @@ Updated: 2026-11-08 15:55 ET · Mode: **PAPER** · Result: OK (5.7s)
 - 2026-11-08 12:15 ET: Elias Ymer [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:DAL@IND", "market": "aec-nfl-dal-ind-2026-11-08", "side": "short", "team": "Colts", "ask": 0.245, "qty": 2.0408, "stake": 0.5, "mode": "main"}`
+- _none_
