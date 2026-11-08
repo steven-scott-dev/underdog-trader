@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T14:20:57.172923-05:00",
+ "updated": "2026-11-08T14:25:42.423329-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-11-08",
   "bets": 15,
   "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.145
+  "realized": 0.245
  },
  "paper_positions": [
   {
@@ -24,39 +24,9 @@
    "opened": "2026-11-08 13:05 ET",
    "mode": "bounce",
    "last_bid": 0.08
-  },
-  {
-   "market": "aec-atp-thitir-jaumun-2026-11-08",
-   "game": "atp:Munar@Tirante",
-   "side": "short",
-   "team": "Jaume Munar",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-08 14:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-annbli-soflan-2026-11-08",
-   "game": "wta:Lansere@Blinkova",
-   "side": "short",
-   "team": "Sofya Lansere",
-   "entry": 0.27,
-   "qty": 1.8519,
-   "tp": 0.675,
-   "sl": 0.108,
-   "opened": "2026-11-08 08:10 ET",
-   "mode": "main",
-   "last_bid": 0.59,
-   "closed": "2026-11-08 08:35 ET",
-   "exit": 0.675,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-annbli-soflan-2026-11-08",
    "game": "wta:Lansere@Blinkova",
@@ -209,20 +179,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-thitir-jaumun-2026-11-08",
+   "game": "atp:Munar@Tirante",
+   "side": "short",
+   "team": "Jaume Munar",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-08 14:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-08 14:25 ET",
+   "exit": 0.08,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Munar@Tirante",
-   "market": "aec-atp-thitir-jaumun-2026-11-08",
-   "side": "short",
+   "type": "paper_close",
    "team": "Jaume Munar",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
