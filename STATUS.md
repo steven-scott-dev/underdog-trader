@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 18:45 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-11-08 18:50 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 32 / 100 (main 8, bounce 24)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 18:45 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-11-08 16:50 ET: Bulls [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Patriots", "reason": "stop-loss", "pnl": -0.0657}`
+- _none_
