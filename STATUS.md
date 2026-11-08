@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 10:05 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-08 10:10 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 6 / 100 (main 2, bounce 4)
 - Realized P&L: +0.20
 
 ## Open paper positions
-- **Yes** (long/bounce) — 1.4286 @ 0.0700, now ~0.0600, unrealized -0.0143 (TP 0.1400 / SL 0.0280)
+- **Yes** (long/bounce) — 1.4286 @ 0.0700, now ~0.0800, unrealized +0.0143 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-08 08:55 ET: Anna Blinkova [main] — stop-loss @ 0.0000 → -0.5000
