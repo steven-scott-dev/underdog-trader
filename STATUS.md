@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 16:30 ET · Mode: **PAPER** · Result: OK (12.5s)
+Updated: 2026-11-08 16:35 ET · Mode: **PAPER** · Result: OK (11.8s)
 
 ## Today
 - Bets placed: 25 / 100 (main 7, bounce 18)
 - Realized P&L: +0.53
 
 ## Open paper positions
-- **Marta Kostyuk** (long/bounce) — 1.0 @ 0.1000, now ~0.1200, unrealized +0.0200 (TP 0.2000 / SL 0.0400)
+- **Marta Kostyuk** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 - **Bulls** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
@@ -21,5 +21,4 @@ Updated: 2026-11-08 16:30 ET · Mode: **PAPER** · Result: OK (12.5s)
 - 2026-11-08 15:30 ET: Dolphins [bounce] — stop-loss @ 0.0275 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Colts", "reason": "stop-loss", "pnl": -0.3794}`
-- `{"type": "buy", "game": "nba:PHI@CHI", "market": "aec-nba-phi-chi-2026-11-08", "side": "short", "team": "Bulls", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
