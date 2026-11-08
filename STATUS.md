@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 16:35 ET · Mode: **PAPER** · Result: OK (11.8s)
+Updated: 2026-11-08 16:40 ET · Mode: **PAPER** · Result: OK (11.7s)
 
 ## Today
 - Bets placed: 25 / 100 (main 7, bounce 18)
 - Realized P&L: +0.53
 
 ## Open paper positions
-- **Marta Kostyuk** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
-- **Bulls** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Marta Kostyuk** (long/bounce) — 1.0 @ 0.1000, now ~0.0700, unrealized -0.0300 (TP 0.2000 / SL 0.0400)
+- **Bulls** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-08 16:30 ET: Colts [main] — stop-loss @ 0.0850 → -0.3794
