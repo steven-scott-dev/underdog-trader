@@ -1,43 +1,17 @@
 {
- "updated": "2026-11-08T16:15:47.610832-05:00",
+ "updated": "2026-11-08T16:20:43.342103-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.8,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-08",
-  "bets": 22,
-  "bounce_bets": 16,
+  "bets": 23,
+  "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.5736
+  "realized": 0.1561
  },
  "paper_positions": [
-  {
-   "market": "atc-nfl-phi-nyg-series-2026-phi",
-   "game": "nfl:NYG@PHI",
-   "side": "long",
-   "team": "Yes",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-08 13:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  },
-  {
-   "market": "aec-nfl-cle-no-2026-11-08",
-   "game": "nfl:CLE@NO",
-   "side": "long",
-   "team": "Browns",
-   "entry": 0.3425,
-   "qty": 1.4599,
-   "tp": 0.8563,
-   "sl": 0.137,
-   "opened": "2026-11-08 15:30 ET",
-   "mode": "main",
-   "last_bid": 0.3125
-  },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
@@ -49,44 +23,23 @@
    "sl": 0.103,
    "opened": "2026-11-08 16:15 ET",
    "mode": "main",
-   "last_bid": 0.2575
-  }
- ],
- "paper_history": [
-  {
-   "market": "aec-nfl-cin-atl-2026-11-08",
-   "game": "nfl:CIN@ATL",
-   "side": "short",
-   "team": "Falcons",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 11:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.0925,
-   "closed": "2026-11-08 12:00 ET",
-   "exit": 0.025,
-   "pnl": -0.0643,
-   "reason": "stop-loss"
+   "last_bid": 0.275
   },
   {
-   "market": "aec-atp-eliyme-juacer-2026-11-08",
-   "game": "atp:Cerundolo@Ymer",
+   "market": "aec-wta-markos-linnos-2026-11-08",
+   "game": "wta:Noskova@Kostyuk",
    "side": "long",
-   "team": "Elias Ymer",
+   "team": "Marta Kostyuk",
    "entry": 0.1,
    "qty": 1.0,
    "tp": 0.2,
    "sl": 0.04,
-   "opened": "2026-11-08 11:05 ET",
+   "opened": "2026-11-08 16:20 ET",
    "mode": "bounce",
-   "last_bid": 0.13,
-   "closed": "2026-11-08 12:15 ET",
-   "exit": 0.2,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
+   "last_bid": 0.1
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-wta-margon-maruri-2026-11-08",
    "game": "wta:Uribe@Gonzalez",
@@ -222,26 +175,66 @@
    "exit": 0.6125,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "atc-nfl-phi-nyg-series-2026-phi",
+   "game": "nfl:NYG@PHI",
+   "side": "long",
+   "team": "Yes",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-08 13:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-08 16:20 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-cle-no-2026-11-08",
+   "game": "nfl:CLE@NO",
+   "side": "long",
+   "team": "Browns",
+   "entry": 0.3425,
+   "qty": 1.4599,
+   "tp": 0.8563,
+   "sl": 0.137,
+   "opened": "2026-11-08 15:30 ET",
+   "mode": "main",
+   "last_bid": 0.3125,
+   "closed": "2026-11-08 16:20 ET",
+   "exit": 0.125,
+   "pnl": -0.3175,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Colts",
-   "reason": "take-profit",
-   "pnl": 0.75
+   "team": "Yes",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "paper_close",
+   "team": "Browns",
+   "reason": "stop-loss",
+   "pnl": -0.3175
   },
   {
    "type": "buy",
-   "game": "nfl:DAL@IND",
-   "market": "aec-nfl-dal-ind-2026-11-08",
+   "game": "wta:Noskova@Kostyuk",
+   "market": "aec-wta-markos-linnos-2026-11-08",
    "side": "long",
-   "team": "Cowboys",
-   "ask": 0.2575,
-   "qty": 1.9417,
-   "stake": 0.5,
-   "mode": "main"
+   "team": "Marta Kostyuk",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
