@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T16:50:41.995507-05:00",
+ "updated": "2026-11-08T16:55:40.815060-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.3,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-11-08",
   "bets": 26,
@@ -23,7 +23,7 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.0875
+   "last_bid": 0.065
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bulls",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
