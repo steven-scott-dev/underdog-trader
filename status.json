@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T16:10:52.259839-05:00",
+ "updated": "2026-11-08T16:15:47.610832-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.7,
+ "duration_s": 11.8,
  "daily": {
   "date": "2026-11-08",
-  "bets": 21,
+  "bets": 22,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.1764
+  "realized": 0.5736
  },
  "paper_positions": [
   {
@@ -36,40 +36,23 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.435
+   "last_bid": 0.3125
   },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
-   "side": "short",
-   "team": "Colts",
-   "entry": 0.245,
-   "qty": 2.0408,
-   "tp": 0.6125,
-   "sl": 0.098,
-   "opened": "2026-11-08 15:55 ET",
+   "side": "long",
+   "team": "Cowboys",
+   "entry": 0.2575,
+   "qty": 1.9417,
+   "tp": 0.6438,
+   "sl": 0.103,
+   "opened": "2026-11-08 16:15 ET",
    "mode": "main",
-   "last_bid": 0.2825
+   "last_bid": 0.2575
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-katsco-martor-2026-11-09",
-   "game": "wta:Murcia@Scott",
-   "side": "short",
-   "team": "Maria Torres",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 11:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-08 11:40 ET",
-   "exit": 0.02,
-   "pnl": -0.08,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-cin-atl-2026-11-08",
    "game": "nfl:CIN@ATL",
@@ -222,8 +205,43 @@
    "exit": 0.04,
    "pnl": -0.3769,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-dal-ind-2026-11-08",
+   "game": "nfl:DAL@IND",
+   "side": "short",
+   "team": "Colts",
+   "entry": 0.245,
+   "qty": 2.0408,
+   "tp": 0.6125,
+   "sl": 0.098,
+   "opened": "2026-11-08 15:55 ET",
+   "mode": "main",
+   "last_bid": 0.2825,
+   "closed": "2026-11-08 16:15 ET",
+   "exit": 0.6125,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Colts",
+   "reason": "take-profit",
+   "pnl": 0.75
+  },
+  {
+   "type": "buy",
+   "game": "nfl:DAL@IND",
+   "market": "aec-nfl-dal-ind-2026-11-08",
+   "side": "long",
+   "team": "Cowboys",
+   "ask": 0.2575,
+   "qty": 1.9417,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
