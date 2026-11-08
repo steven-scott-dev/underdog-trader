@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T14:55:46.376858-05:00",
+ "updated": "2026-11-08T15:00:48.957700-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 13.0,
  "daily": {
   "date": "2026-11-08",
   "bets": 16,
@@ -36,7 +36,7 @@
    "sl": 0.036,
    "opened": "2026-11-08 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:FLA@BOS",
-   "market": "aec-nhl-fla-bos-2026-11-08",
-   "side": "long",
-   "team": "Panthers",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

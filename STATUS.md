@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 14:55 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-11-08 15:00 ET · Mode: **PAPER** · Result: OK (13.0s)
 
 ## Today
 - Bets placed: 16 / 100 (main 2, bounce 14)
@@ -8,7 +8,7 @@ Updated: 2026-11-08 14:55 ET · Mode: **PAPER** · Result: OK (13.4s)
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-08 14:25 ET: Jaume Munar [bounce] — take-profit @ 0.0800 → +0.1000
@@ -21,4 +21,4 @@ Updated: 2026-11-08 14:55 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:FLA@BOS", "market": "aec-nhl-fla-bos-2026-11-08", "side": "long", "team": "Panthers", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
