@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 18:20 ET · Mode: **PAPER** · Result: OK (3.1s)
+Updated: 2026-11-08 18:25 ET · Mode: **PAPER** · Result: OK (3.1s)
 
 ## Today
-- Bets placed: 30 / 100 (main 8, bounce 22)
+- Bets placed: 31 / 100 (main 8, bounce 23)
 - Realized P&L: +0.32
 
 ## Open paper positions
-- **Cardinals** (long/bounce) — 1.1765 @ 0.0850, now ~0.0400, unrealized -0.0529 (TP 0.1700 / SL 0.0340)
+- **Cardinals** (long/bounce) — 1.1765 @ 0.0850, now ~0.0350, unrealized -0.0588 (TP 0.1700 / SL 0.0340)
+- **Raiders** (long/bounce) — 1.8182 @ 0.0550, now ~0.0550, unrealized +0.0000 (TP 0.1100 / SL 0.0220)
 
 ## Recent history
 - 2026-11-08 17:55 ET: Raiders [bounce] — stop-loss @ 0.0325 → -0.0618
@@ -20,4 +21,4 @@ Updated: 2026-11-08 18:20 ET · Mode: **PAPER** · Result: OK (3.1s)
 - 2026-11-08 16:25 ET: Cowboys [main] — take-profit @ 0.6438 → +0.7501
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:LV@SF", "market": "aec-nfl-lv-sf-2026-11-08", "side": "long", "team": "Raiders", "ask": 0.055, "qty": 1.8182, "stake": 0.1, "mode": "bounce"}`

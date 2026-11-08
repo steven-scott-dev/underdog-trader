@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 30,
- "bounce_bets": 22,
+ "bets": 31,
+ "bounce_bets": 23,
  "realized": 0.315,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.034,
    "opened": "2026-11-08 17:50 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.035
+  },
+  {
+   "market": "aec-nfl-lv-sf-2026-11-08",
+   "game": "nfl:LV@SF",
+   "side": "long",
+   "team": "Raiders",
+   "entry": 0.055,
+   "qty": 1.8182,
+   "tp": 0.11,
+   "sl": 0.022,
+   "opened": "2026-11-08 18:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.055
   }
  ],
  "paper_history": [
@@ -629,8 +642,8 @@
   ],
   "aec-nfl-lv-sf-2026-11-08": [
    [
-    1794174340.7871654,
-    0.085
+    1794180339.5979946,
+    0.055
    ]
   ],
   "aec-nhl-veg-buf-2026-11-08": [
