@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 16,
- "bounce_bets": 14,
+ "bets": 17,
+ "bounce_bets": 15,
  "realized": 0.245,
  "paper_positions": [
   {
@@ -28,7 +28,20 @@
    "sl": 0.036,
    "opened": "2026-11-08 14:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-nfl-det-mia-2026-11-08",
+   "game": "nfl:DET@MIA",
+   "side": "short",
+   "team": "Dolphins",
+   "entry": 0.0825,
+   "qty": 1.2121,
+   "tp": 0.165,
+   "sl": 0.033,
+   "opened": "2026-11-08 15:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.0825
   }
  ],
  "paper_history": [
@@ -343,6 +356,12 @@
    [
     1794165657.0844805,
     0.04
+   ]
+  ],
+  "aec-nfl-det-mia-2026-11-08": [
+   [
+    1794168337.113133,
+    0.0825
    ]
   ]
  },
