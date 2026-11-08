@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 12:35 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-08 12:40 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 12 / 100 (main 2, bounce 10)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 12:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-08 08:55 ET: Anna Blinkova [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Jose Sanchez Uribe", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_

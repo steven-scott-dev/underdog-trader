@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T12:35:37.339309-05:00",
+ "updated": "2026-11-08T12:40:35.038626-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-08",
   "bets": 12,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Maria Jose Sanchez Uribe",
-   "reason": "stop-loss",
-   "pnl": -0.0625
-  }
- ]
+ "actions": []
 }
