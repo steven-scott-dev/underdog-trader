@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T17:45:35.274267-05:00",
+ "updated": "2026-11-08T17:50:50.189851-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 13.0,
  "daily": {
   "date": "2026-11-08",
-  "bets": 29,
-  "bounce_bets": 21,
+  "bets": 30,
+  "bounce_bets": 22,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2768
+  "realized": 0.3768
  },
  "paper_positions": [
   {
@@ -23,40 +23,23 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.085
+   "last_bid": 0.0875
   },
   {
-   "market": "aec-nhl-veg-buf-2026-11-08",
-   "game": "nhl:VGK@BUF",
-   "side": "short",
-   "team": "Sabres",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 17:30 ET",
+   "market": "aec-nfl-ari-sea-2026-11-08",
+   "game": "nfl:ARI@SEA",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "tp": 0.17,
+   "sl": 0.034,
+   "opened": "2026-11-08 17:50 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.085
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-den-car-2026-11-08",
-   "game": "nfl:DEN@CAR",
-   "side": "short",
-   "team": "Panthers",
-   "entry": 0.1625,
-   "qty": 3.0769,
-   "tp": 0.4062,
-   "sl": 0.065,
-   "opened": "2026-11-08 15:35 ET",
-   "mode": "main",
-   "last_bid": 0.135,
-   "closed": "2026-11-08 15:45 ET",
-   "exit": 0.04,
-   "pnl": -0.3769,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
@@ -209,8 +192,43 @@
    "exit": 0.06,
    "pnl": -0.35,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-veg-buf-2026-11-08",
+   "game": "nhl:VGK@BUF",
+   "side": "short",
+   "team": "Sabres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 17:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-08 17:50 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Sabres",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nfl:ARI@SEA",
+   "market": "aec-nfl-ari-sea-2026-11-08",
+   "side": "long",
+   "team": "Cardinals",
+   "ask": 0.085,
+   "qty": 1.1765,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

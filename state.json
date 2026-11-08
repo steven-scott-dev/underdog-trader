@@ -1,8 +1,8 @@
 {
  "date": "2026-11-08",
- "bets": 29,
- "bounce_bets": 21,
- "realized": 0.2768,
+ "bets": 30,
+ "bounce_bets": 22,
+ "realized": 0.3768,
  "paper_positions": [
   {
    "market": "aec-nfl-lv-sf-2026-11-08",
@@ -15,20 +15,20 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.085
+   "last_bid": 0.0875
   },
   {
-   "market": "aec-nhl-veg-buf-2026-11-08",
-   "game": "nhl:VGK@BUF",
-   "side": "short",
-   "team": "Sabres",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 17:30 ET",
+   "market": "aec-nfl-ari-sea-2026-11-08",
+   "game": "nfl:ARI@SEA",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "tp": 0.17,
+   "sl": 0.034,
+   "opened": "2026-11-08 17:50 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.085
   }
  ],
  "paper_history": [
@@ -490,6 +490,23 @@
    "exit": 0.06,
    "pnl": -0.35,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-veg-buf-2026-11-08",
+   "game": "nhl:VGK@BUF",
+   "side": "short",
+   "team": "Sabres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 17:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-08 17:50 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -616,6 +633,12 @@
    [
     1794177035.6706738,
     0.1
+   ]
+  ],
+  "aec-nfl-ari-sea-2026-11-08": [
+   [
+    1794178238.521263,
+    0.085
    ]
   ]
  },
