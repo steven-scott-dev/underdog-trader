@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 10,
  "bounce_bets": 8,
- "realized": 0.1518,
+ "realized": 0.0718,
  "paper_positions": [
   {
    "market": "aec-atp-eliyme-juacer-2026-11-08",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-katsco-martor-2026-11-09",
-   "game": "wta:Murcia@Scott",
-   "side": "short",
-   "team": "Maria Torres",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 11:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -167,6 +154,23 @@
    "exit": 0.135,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-katsco-martor-2026-11-09",
+   "game": "wta:Murcia@Scott",
+   "side": "short",
+   "team": "Maria Torres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 11:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-08 11:40 ET",
+   "exit": 0.02,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -225,6 +229,7 @@
   "aec-wta-claliu-aleeal-2026-11-08": 1794132636.2690718,
   "aec-wta-annbli-soflan-2026-11-08": 1794147935.7859097,
   "atc-epl-cry-liv-2026-11-08-cry": 1794152734.4294376,
-  "aec-wta-daljak-isacol-2026-11-08": 1794156636.9702458
+  "aec-wta-daljak-isacol-2026-11-08": 1794156636.9702458,
+  "aec-wta-katsco-martor-2026-11-09": 1794157838.4240572
  }
 }
