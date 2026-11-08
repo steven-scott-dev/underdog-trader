@@ -1,17 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 11:30 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-08 11:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 10 / 100 (main 2, bounce 8)
-- Realized P&L: +0.05
+- Realized P&L: +0.15
 
 ## Open paper positions
-- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.1325, unrealized +0.0963 (TP 0.1350 / SL 0.0270)
-- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
-- **Maria Torres** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
+- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Maria Torres** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
+- 2026-11-08 11:35 ET: Falcons [bounce] — take-profit @ 0.1350 → +0.1000
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-08 10:15 ET: Yes [bounce] — stop-loss @ 0.0100 → -0.0857
 - 2026-11-08 08:55 ET: Anna Blinkova [main] — stop-loss @ 0.0000 → -0.5000
@@ -21,4 +21,4 @@ Updated: 2026-11-08 11:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Falcons", "reason": "take-profit", "pnl": 0.1}`
