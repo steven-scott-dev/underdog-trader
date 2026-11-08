@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-08T18:40:39.437063-05:00",
+ "updated": "2026-11-08T18:45:40.613255-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 4.0,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-08",
   "bets": 32,
   "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.1805
+  "realized": 0.1148
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-gb-ne-2026-11-08",
-   "game": "nfl:GB@NE",
-   "side": "short",
-   "team": "Patriots",
-   "entry": 0.0875,
-   "qty": 1.1429,
-   "tp": 0.175,
-   "sl": 0.035,
-   "opened": "2026-11-08 18:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.0625
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nfl-dal-ind-2026-11-08",
-   "game": "nfl:DAL@IND",
-   "side": "long",
-   "team": "Cowboys",
-   "entry": 0.2575,
-   "qty": 1.9417,
-   "tp": 0.6438,
-   "sl": 0.103,
-   "opened": "2026-11-08 16:15 ET",
-   "mode": "main",
-   "last_bid": 0.275,
-   "closed": "2026-11-08 16:25 ET",
-   "exit": 0.6438,
-   "pnl": 0.7501,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
@@ -196,8 +165,32 @@
    "exit": 0.0325,
    "pnl": -0.0618,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-gb-ne-2026-11-08",
+   "game": "nfl:GB@NE",
+   "side": "short",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-08 18:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.0625,
+   "closed": "2026-11-08 18:45 ET",
+   "exit": 0.03,
+   "pnl": -0.0657,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Patriots",
+   "reason": "stop-loss",
+   "pnl": -0.0657
+  }
+ ]
 }

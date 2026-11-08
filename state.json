@@ -2,22 +2,8 @@
  "date": "2026-11-08",
  "bets": 32,
  "bounce_bets": 24,
- "realized": 0.1805,
- "paper_positions": [
-  {
-   "market": "aec-nfl-gb-ne-2026-11-08",
-   "game": "nfl:GB@NE",
-   "side": "short",
-   "team": "Patriots",
-   "entry": 0.0875,
-   "qty": 1.1429,
-   "tp": 0.175,
-   "sl": 0.035,
-   "opened": "2026-11-08 18:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.0625
-  }
- ],
+ "realized": 0.1148,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -545,6 +531,23 @@
    "exit": 0.0325,
    "pnl": -0.0618,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-gb-ne-2026-11-08",
+   "game": "nfl:GB@NE",
+   "side": "short",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-08 18:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.0625,
+   "closed": "2026-11-08 18:45 ET",
+   "exit": 0.03,
+   "pnl": -0.0657,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -704,6 +707,7 @@
   "aec-wta-markos-linnos-2026-11-08": 1794176139.743592,
   "aec-nba-phi-chi-2026-11-08": 1794178834.0098302,
   "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064,
-  "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341
+  "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341,
+  "aec-nfl-gb-ne-2026-11-08": 1794183338.535117
  }
 }
