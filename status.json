@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T10:15:36.087205-05:00",
+ "updated": "2026-11-08T10:20:36.093851-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-08",
   "bets": 6,
@@ -117,12 +117,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Yes",
-   "reason": "stop-loss",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
