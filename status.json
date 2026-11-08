@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T15:25:51.793665-05:00",
+ "updated": "2026-11-08T15:30:48.274454-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.5,
+ "duration_s": 12.2,
  "daily": {
   "date": "2026-11-08",
-  "bets": 18,
+  "bets": 19,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.245
+  "realized": 0.1005
  },
  "paper_positions": [
   {
@@ -26,32 +26,6 @@
    "last_bid": 0.08
   },
   {
-   "market": "aec-nhl-fla-bos-2026-11-08",
-   "game": "nhl:FLA@BOS",
-   "side": "long",
-   "team": "Panthers",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-08 14:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
-  {
-   "market": "aec-nfl-det-mia-2026-11-08",
-   "game": "nfl:DET@MIA",
-   "side": "short",
-   "team": "Dolphins",
-   "entry": 0.0825,
-   "qty": 1.2121,
-   "tp": 0.165,
-   "sl": 0.033,
-   "opened": "2026-11-08 15:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
    "side": "short",
@@ -62,44 +36,23 @@
    "sl": 0.04,
    "opened": "2026-11-08 15:20 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.125
+  },
+  {
+   "market": "aec-nfl-cle-no-2026-11-08",
+   "game": "nfl:CLE@NO",
+   "side": "long",
+   "team": "Browns",
+   "entry": 0.3425,
+   "qty": 1.4599,
+   "tp": 0.8563,
+   "sl": 0.137,
+   "opened": "2026-11-08 15:30 ET",
+   "mode": "main",
+   "last_bid": 0.3425
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-annbli-soflan-2026-11-08",
-   "game": "wta:Lansere@Blinkova",
-   "side": "long",
-   "team": "Anna Blinkova",
-   "entry": 0.22,
-   "qty": 2.2727,
-   "tp": 0.55,
-   "sl": 0.088,
-   "opened": "2026-11-08 08:35 ET",
-   "mode": "main",
-   "last_bid": 0.35,
-   "closed": "2026-11-08 08:55 ET",
-   "exit": 0.0,
-   "pnl": -0.5,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "atc-epl-cry-liv-2026-11-08-cry",
-   "game": "epl:LIV@CRY",
-   "side": "long",
-   "team": "Yes",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 09:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-08 10:15 ET",
-   "exit": 0.01,
-   "pnl": -0.0857,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-daljak-isacol-2026-11-08",
    "game": "wta:Collazos@Jakupovic",
@@ -235,8 +188,66 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-fla-bos-2026-11-08",
+   "game": "nhl:FLA@BOS",
+   "side": "long",
+   "team": "Panthers",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-08 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-08 15:30 ET",
+   "exit": 0.02,
+   "pnl": -0.0778,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-det-mia-2026-11-08",
+   "game": "nfl:DET@MIA",
+   "side": "short",
+   "team": "Dolphins",
+   "entry": 0.0825,
+   "qty": 1.2121,
+   "tp": 0.165,
+   "sl": 0.033,
+   "opened": "2026-11-08 15:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-08 15:30 ET",
+   "exit": 0.0275,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Panthers",
+   "reason": "stop-loss",
+   "pnl": -0.0778
+  },
+  {
+   "type": "paper_close",
+   "team": "Dolphins",
+   "reason": "stop-loss",
+   "pnl": -0.0667
+  },
+  {
+   "type": "buy",
+   "game": "nfl:CLE@NO",
+   "market": "aec-nfl-cle-no-2026-11-08",
+   "side": "long",
+   "team": "Browns",
+   "ask": 0.3425,
+   "qty": 1.4599,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
