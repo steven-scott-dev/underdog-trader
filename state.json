@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 3,
+ "bets": 4,
  "bounce_bets": 3,
  "realized": -0.05,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-annbli-soflan-2026-11-08",
+   "game": "wta:Lansere@Blinkova",
+   "side": "short",
+   "team": "Sofya Lansere",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-08 08:10 ET",
+   "mode": "main",
+   "last_bid": 0.27
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -73,8 +87,8 @@
   ],
   "aec-wta-annbli-soflan-2026-11-08": [
    [
-    1794140438.343007,
-    0.1
+    1794143433.5801244,
+    0.27
    ]
   ]
  },
