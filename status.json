@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T08:55:36.333880-05:00",
+ "updated": "2026-11-08T09:00:35.972440-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-08",
   "bets": 5,
@@ -100,12 +100,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Anna Blinkova",
-   "reason": "stop-loss",
-   "pnl": -0.5
-  }
- ]
+ "actions": []
 }

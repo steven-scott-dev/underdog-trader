@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 08:55 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-08 09:00 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 5 / 100 (main 2, bounce 3)
@@ -17,4 +17,4 @@ Updated: 2026-11-08 08:55 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Anna Blinkova", "reason": "stop-loss", "pnl": -0.5}`
+- _none_
