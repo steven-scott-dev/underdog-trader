@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 10:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-08 11:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
-- Bets placed: 6 / 100 (main 2, bounce 4)
+- Bets placed: 7 / 100 (main 2, bounce 5)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- _none_
+- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0675, unrealized +0.0000 (TP 0.1350 / SL 0.0270)
 
 ## Recent history
 - 2026-11-08 10:15 ET: Yes [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -18,4 +18,4 @@ Updated: 2026-11-08 10:55 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:CIN@ATL", "market": "aec-nfl-cin-atl-2026-11-08", "side": "short", "team": "Falcons", "ask": 0.0675, "qty": 1.4815, "stake": 0.1, "mode": "bounce"}`

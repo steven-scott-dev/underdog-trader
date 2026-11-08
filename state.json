@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 6,
- "bounce_bets": 4,
+ "bets": 7,
+ "bounce_bets": 5,
  "realized": 0.1143,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-cin-atl-2026-11-08",
+   "game": "nfl:CIN@ATL",
+   "side": "short",
+   "team": "Falcons",
+   "entry": 0.0675,
+   "qty": 1.4815,
+   "tp": 0.135,
+   "sl": 0.027,
+   "opened": "2026-11-08 11:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.0675
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -132,6 +146,12 @@
    [
     1794149436.5139906,
     0.07
+   ]
+  ],
+  "aec-nfl-cin-atl-2026-11-08": [
+   [
+    1794153635.3294065,
+    0.0675
    ]
   ]
  },
