@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:20 ET · Mode: **PAPER** · Result: OK (13.1s)
+Updated: 2026-11-08 15:25 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
 - Bets placed: 18 / 100 (main 2, bounce 16)
@@ -9,8 +9,8 @@ Updated: 2026-11-08 15:20 ET · Mode: **PAPER** · Result: OK (13.1s)
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 - **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.0750, unrealized -0.0091 (TP 0.1650 / SL 0.0330)
-- **Colts** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.0500, unrealized -0.0394 (TP 0.1650 / SL 0.0330)
+- **Colts** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-08 14:25 ET: Jaume Munar [bounce] — take-profit @ 0.0800 → +0.1000
@@ -23,4 +23,4 @@ Updated: 2026-11-08 15:20 ET · Mode: **PAPER** · Result: OK (13.1s)
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:DAL@IND", "market": "aec-nfl-dal-ind-2026-11-08", "side": "short", "team": "Colts", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_

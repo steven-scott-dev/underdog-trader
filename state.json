@@ -41,7 +41,7 @@
    "sl": 0.033,
    "opened": "2026-11-08 15:05 ET",
    "mode": "bounce",
-   "last_bid": 0.075
+   "last_bid": 0.05
   },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
@@ -54,7 +54,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 15:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.06
   }
  ],
  "paper_history": [
