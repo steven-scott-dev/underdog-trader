@@ -1,8 +1,8 @@
 {
  "date": "2026-11-08",
- "bets": 19,
+ "bets": 20,
  "bounce_bets": 16,
- "realized": 0.1005,
+ "realized": 0.2005,
  "paper_positions": [
   {
    "market": "atc-nfl-phi-nyg-series-2026-phi",
@@ -18,19 +18,6 @@
    "last_bid": 0.08
   },
   {
-   "market": "aec-nfl-dal-ind-2026-11-08",
-   "game": "nfl:DAL@IND",
-   "side": "short",
-   "team": "Colts",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 15:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.125
-  },
-  {
    "market": "aec-nfl-cle-no-2026-11-08",
    "game": "nfl:CLE@NO",
    "side": "long",
@@ -41,7 +28,20 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.3425
+   "last_bid": 0.295
+  },
+  {
+   "market": "aec-nfl-den-car-2026-11-08",
+   "game": "nfl:DEN@CAR",
+   "side": "short",
+   "team": "Panthers",
+   "entry": 0.1625,
+   "qty": 3.0769,
+   "tp": 0.4062,
+   "sl": 0.065,
+   "opened": "2026-11-08 15:35 ET",
+   "mode": "main",
+   "last_bid": 0.1625
   }
  ],
  "paper_history": [
@@ -316,6 +316,23 @@
    "exit": 0.0275,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-dal-ind-2026-11-08",
+   "game": "nfl:DAL@IND",
+   "side": "short",
+   "team": "Colts",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 15:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.125,
+   "closed": "2026-11-08 15:35 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -408,6 +425,12 @@
    [
     1794169837.0600755,
     0.3425
+   ]
+  ],
+  "aec-nfl-den-car-2026-11-08": [
+   [
+    1794170138.4109082,
+    0.1625
    ]
   ]
  },
