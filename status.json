@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T17:20:43.029133-05:00",
+ "updated": "2026-11-08T17:25:44.812391-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 12.0,
  "daily": {
   "date": "2026-11-08",
-  "bets": 27,
+  "bets": 28,
   "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.5268
+  "realized": 0.6268
  },
  "paper_positions": [
   {
@@ -23,40 +23,23 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.065
+   "last_bid": 0.0825
   },
   {
    "market": "aec-nba-phi-chi-2026-11-08",
    "game": "nba:PHI@CHI",
    "side": "short",
    "team": "Bulls",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-08 17:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.15
+   "entry": 0.2,
+   "qty": 2.5,
+   "tp": 0.5,
+   "sl": 0.08,
+   "opened": "2026-11-08 17:25 ET",
+   "mode": "main",
+   "last_bid": 0.2
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-det-mia-2026-11-08",
-   "game": "nfl:DET@MIA",
-   "side": "short",
-   "team": "Dolphins",
-   "entry": 0.0825,
-   "qty": 1.2121,
-   "tp": 0.165,
-   "sl": 0.033,
-   "opened": "2026-11-08 15:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.05,
-   "closed": "2026-11-08 15:30 ET",
-   "exit": 0.0275,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
@@ -209,8 +192,43 @@
    "exit": 0.2,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-phi-chi-2026-11-08",
+   "game": "nba:PHI@CHI",
+   "side": "short",
+   "team": "Bulls",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-08 17:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.15,
+   "closed": "2026-11-08 17:25 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Bulls",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nba:PHI@CHI",
+   "market": "aec-nba-phi-chi-2026-11-08",
+   "side": "short",
+   "team": "Bulls",
+   "ask": 0.2,
+   "qty": 2.5,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
