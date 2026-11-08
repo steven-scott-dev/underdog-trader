@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T17:30:46.165509-05:00",
+ "updated": "2026-11-08T17:35:39.570147-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.4,
+ "duration_s": 3.4,
  "daily": {
   "date": "2026-11-08",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.075
+   "last_bid": 0.08
   },
   {
    "market": "aec-nhl-veg-buf-2026-11-08",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 17:30 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -212,23 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bulls",
-   "reason": "stop-loss",
-   "pnl": -0.35
-  },
-  {
-   "type": "buy",
-   "game": "nhl:VGK@BUF",
-   "market": "aec-nhl-veg-buf-2026-11-08",
-   "side": "short",
-   "team": "Sabres",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
