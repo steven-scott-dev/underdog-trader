@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T17:55:36.866197-05:00",
+ "updated": "2026-11-08T17:57:28.993299-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-08",
   "bets": 30,
@@ -23,7 +23,7 @@
    "sl": 0.034,
    "opened": "2026-11-08 17:50 ET",
    "mode": "bounce",
-   "last_bid": 0.0825
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Raiders",
-   "reason": "stop-loss",
-   "pnl": -0.0618
-  }
- ]
+ "actions": []
 }
