@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:45 ET · Mode: **PAPER** · Result: OK (13.8s)
+Updated: 2026-11-08 15:50 ET · Mode: **PAPER** · Result: OK (13.4s)
 
 ## Today
 - Bets placed: 20 / 100 (main 4, bounce 16)
@@ -8,7 +8,7 @@ Updated: 2026-11-08 15:45 ET · Mode: **PAPER** · Result: OK (13.8s)
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.7475, unrealized +0.5913 (TP 0.8563 / SL 0.1370)
+- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.7100, unrealized +0.5365 (TP 0.8563 / SL 0.1370)
 
 ## Recent history
 - 2026-11-08 15:45 ET: Panthers [main] — stop-loss @ 0.0400 → -0.3769
@@ -21,4 +21,4 @@ Updated: 2026-11-08 15:45 ET · Mode: **PAPER** · Result: OK (13.8s)
 - 2026-11-08 12:15 ET: Elias Ymer [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Panthers", "reason": "stop-loss", "pnl": -0.3769}`
+- _none_
