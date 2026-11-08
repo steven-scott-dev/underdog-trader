@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 11,
- "bounce_bets": 9,
+ "bets": 12,
+ "bounce_bets": 10,
  "realized": 0.1075,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-margon-maruri-2026-11-08",
+   "game": "wta:Uribe@Gonzalez",
+   "side": "short",
+   "team": "Maria Jose Sanchez Uribe",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-08 12:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -240,6 +254,12 @@
   "aec-wta-daljak-isacol-2026-11-08": [
    [
     1794154540.147211,
+    0.08
+   ]
+  ],
+  "aec-wta-margon-maruri-2026-11-08": [
+   [
+    1794158736.7555504,
     0.08
    ]
   ]
