@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 1,
- "bounce_bets": 1,
+ "bets": 2,
+ "bounce_bets": 2,
  "realized": -0.075,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-claliu-aleeal-2026-11-08",
+   "game": "wta:Eala@Liu",
+   "side": "short",
+   "team": "Alexandra Eala",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-08 04:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -28,6 +42,12 @@
   "aec-nhl-van-edm-2026-11-07": [
    [
     1794114637.8591247,
+    0.04
+   ]
+  ],
+  "aec-wta-claliu-aleeal-2026-11-08": [
+   [
+    1794130541.1693213,
     0.04
    ]
   ]
