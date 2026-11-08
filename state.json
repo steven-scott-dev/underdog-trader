@@ -1,21 +1,21 @@
 {
  "date": "2026-11-08",
- "bets": 31,
- "bounce_bets": 23,
- "realized": 0.2423,
+ "bets": 32,
+ "bounce_bets": 24,
+ "realized": 0.1805,
  "paper_positions": [
   {
-   "market": "aec-nfl-ari-sea-2026-11-08",
-   "game": "nfl:ARI@SEA",
-   "side": "long",
-   "team": "Cardinals",
-   "entry": 0.085,
-   "qty": 1.1765,
-   "tp": 0.17,
-   "sl": 0.034,
-   "opened": "2026-11-08 17:50 ET",
+   "market": "aec-nfl-gb-ne-2026-11-08",
+   "game": "nfl:GB@NE",
+   "side": "short",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-08 18:35 ET",
    "mode": "bounce",
-   "last_bid": 0.035
+   "last_bid": 0.0875
   }
  ],
  "paper_history": [
@@ -528,6 +528,23 @@
    "exit": 0.015,
    "pnl": -0.0727,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-ari-sea-2026-11-08",
+   "game": "nfl:ARI@SEA",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "tp": 0.17,
+   "sl": 0.034,
+   "opened": "2026-11-08 17:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.035,
+   "closed": "2026-11-08 18:35 ET",
+   "exit": 0.0325,
+   "pnl": -0.0618,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -661,6 +678,12 @@
     1794178238.521263,
     0.085
    ]
+  ],
+  "aec-nfl-gb-ne-2026-11-08": [
+   [
+    1794180935.7403464,
+    0.0875
+   ]
   ]
  },
  "cooldowns": {
@@ -680,6 +703,7 @@
   "aec-nfl-dal-ind-2026-11-08": 1794175242.338833,
   "aec-wta-markos-linnos-2026-11-08": 1794176139.743592,
   "aec-nba-phi-chi-2026-11-08": 1794178834.0098302,
-  "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064
+  "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064,
+  "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341
  }
 }

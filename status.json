@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-08T18:30:40.948459-05:00",
+ "updated": "2026-11-08T18:35:37.483496-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-11-08",
-  "bets": 31,
-  "bounce_bets": 23,
+  "bets": 32,
+  "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2423
+  "realized": 0.1805
  },
  "paper_positions": [
   {
-   "market": "aec-nfl-ari-sea-2026-11-08",
-   "game": "nfl:ARI@SEA",
-   "side": "long",
-   "team": "Cardinals",
-   "entry": 0.085,
-   "qty": 1.1765,
-   "tp": 0.17,
-   "sl": 0.034,
-   "opened": "2026-11-08 17:50 ET",
+   "market": "aec-nfl-gb-ne-2026-11-08",
+   "game": "nfl:GB@NE",
+   "side": "short",
+   "team": "Patriots",
+   "entry": 0.0875,
+   "qty": 1.1429,
+   "tp": 0.175,
+   "sl": 0.035,
+   "opened": "2026-11-08 18:35 ET",
    "mode": "bounce",
-   "last_bid": 0.035
+   "last_bid": 0.0875
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-cle-no-2026-11-08",
-   "game": "nfl:CLE@NO",
-   "side": "long",
-   "team": "Browns",
-   "entry": 0.3425,
-   "qty": 1.4599,
-   "tp": 0.8563,
-   "sl": 0.137,
-   "opened": "2026-11-08 15:30 ET",
-   "mode": "main",
-   "last_bid": 0.3125,
-   "closed": "2026-11-08 16:20 ET",
-   "exit": 0.125,
-   "pnl": -0.3175,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-dal-ind-2026-11-08",
    "game": "nfl:DAL@IND",
@@ -196,15 +179,43 @@
    "exit": 0.015,
    "pnl": -0.0727,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-ari-sea-2026-11-08",
+   "game": "nfl:ARI@SEA",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "tp": 0.17,
+   "sl": 0.034,
+   "opened": "2026-11-08 17:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.035,
+   "closed": "2026-11-08 18:35 ET",
+   "exit": 0.0325,
+   "pnl": -0.0618,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Raiders",
+   "team": "Cardinals",
    "reason": "stop-loss",
-   "pnl": -0.0727
+   "pnl": -0.0618
+  },
+  {
+   "type": "buy",
+   "game": "nfl:GB@NE",
+   "market": "aec-nfl-gb-ne-2026-11-08",
+   "side": "short",
+   "team": "Patriots",
+   "ask": 0.0875,
+   "qty": 1.1429,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
