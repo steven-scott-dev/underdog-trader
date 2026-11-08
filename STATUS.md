@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:10 ET · Mode: **PAPER** · Result: OK (12.3s)
+Updated: 2026-11-08 15:15 ET · Mode: **PAPER** · Result: OK (13.1s)
 
 ## Today
 - Bets placed: 17 / 100 (main 2, bounce 15)
@@ -9,7 +9,7 @@ Updated: 2026-11-08 15:10 ET · Mode: **PAPER** · Result: OK (12.3s)
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 - **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.0775, unrealized -0.0061 (TP 0.1650 / SL 0.0330)
+- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.1200, unrealized +0.0455 (TP 0.1650 / SL 0.0330)
 
 ## Recent history
 - 2026-11-08 14:25 ET: Jaume Munar [bounce] — take-profit @ 0.0800 → +0.1000
