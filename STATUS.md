@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 12:15 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-08 12:20 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 12:15 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-08 08:35 ET: Sofya Lansere [main] — take-profit @ 0.6750 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Elias Ymer", "reason": "take-profit", "pnl": 0.1}`
+- _none_

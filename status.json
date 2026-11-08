@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:15:37.852383-05:00",
+ "updated": "2026-11-08T12:20:36.402142-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Elias Ymer",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
