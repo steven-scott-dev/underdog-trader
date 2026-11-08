@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 14:00 ET · Mode: **PAPER** · Result: OK (12.7s)
+Updated: 2026-11-08 14:05 ET · Mode: **PAPER** · Result: OK (13.7s)
 
 ## Today
 - Bets placed: 14 / 100 (main 2, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 14:00 ET · Mode: **PAPER** · Result: OK (12.7s)
 - 2026-11-08 10:15 ET: Yes [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Panthers", "reason": "take-profit", "pnl": 0.1}`
+- _none_
