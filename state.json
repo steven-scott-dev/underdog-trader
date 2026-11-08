@@ -1,8 +1,8 @@
 {
  "date": "2026-11-08",
- "bets": 28,
- "bounce_bets": 20,
- "realized": 0.6268,
+ "bets": 29,
+ "bounce_bets": 21,
+ "realized": 0.2768,
  "paper_positions": [
   {
    "market": "aec-nfl-lv-sf-2026-11-08",
@@ -15,20 +15,20 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.0825
+   "last_bid": 0.075
   },
   {
-   "market": "aec-nba-phi-chi-2026-11-08",
-   "game": "nba:PHI@CHI",
+   "market": "aec-nhl-veg-buf-2026-11-08",
+   "game": "nhl:VGK@BUF",
    "side": "short",
-   "team": "Bulls",
-   "entry": 0.2,
-   "qty": 2.5,
-   "tp": 0.5,
-   "sl": 0.08,
-   "opened": "2026-11-08 17:25 ET",
-   "mode": "main",
-   "last_bid": 0.2
+   "team": "Sabres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 17:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -473,6 +473,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-phi-chi-2026-11-08",
+   "game": "nba:PHI@CHI",
+   "side": "short",
+   "team": "Bulls",
+   "entry": 0.2,
+   "qty": 2.5,
+   "tp": 0.5,
+   "sl": 0.08,
+   "opened": "2026-11-08 17:25 ET",
+   "mode": "main",
+   "last_bid": 0.2,
+   "closed": "2026-11-08 17:30 ET",
+   "exit": 0.06,
+   "pnl": -0.35,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -594,6 +611,12 @@
     1794174340.7871654,
     0.085
    ]
+  ],
+  "aec-nhl-veg-buf-2026-11-08": [
+   [
+    1794177035.6706738,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -611,6 +634,7 @@
   "atc-nfl-phi-nyg-series-2026-phi": 1794174641.8589797,
   "aec-nfl-cle-no-2026-11-08": 1794174641.8753674,
   "aec-nfl-dal-ind-2026-11-08": 1794175242.338833,
-  "aec-wta-markos-linnos-2026-11-08": 1794176139.743592
+  "aec-wta-markos-linnos-2026-11-08": 1794176139.743592,
+  "aec-nba-phi-chi-2026-11-08": 1794178834.0098302
  }
 }
