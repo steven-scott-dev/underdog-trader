@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 07:20 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-08 07:25 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
@@ -14,4 +14,4 @@ Updated: 2026-11-08 07:20 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Lansere@Blinkova", "market": "aec-wta-annbli-soflan-2026-11-08", "side": "short", "team": "Sofya Lansere", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_

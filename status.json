@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T07:20:38.343807-05:00",
+ "updated": "2026-11-08T07:25:34.237989-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-08",
   "bets": 3,
@@ -63,17 +63,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Lansere@Blinkova",
-   "market": "aec-wta-annbli-soflan-2026-11-08",
-   "side": "short",
-   "team": "Sofya Lansere",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
