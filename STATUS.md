@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 16:05 ET · Mode: **PAPER** · Result: OK (13.2s)
+Updated: 2026-11-08 16:10 ET · Mode: **PAPER** · Result: OK (11.7s)
 
 ## Today
 - Bets placed: 21 / 100 (main 5, bounce 16)
@@ -8,8 +8,8 @@ Updated: 2026-11-08 16:05 ET · Mode: **PAPER** · Result: OK (13.2s)
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.3000, unrealized -0.0620 (TP 0.8563 / SL 0.1370)
-- **Colts** (short/main) — 2.0408 @ 0.2450, now ~0.2900, unrealized +0.0918 (TP 0.6125 / SL 0.0980)
+- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.4350, unrealized +0.1350 (TP 0.8563 / SL 0.1370)
+- **Colts** (short/main) — 2.0408 @ 0.2450, now ~0.2825, unrealized +0.0765 (TP 0.6125 / SL 0.0980)
 
 ## Recent history
 - 2026-11-08 15:45 ET: Panthers [main] — stop-loss @ 0.0400 → -0.3769
