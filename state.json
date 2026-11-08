@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 31,
  "bounce_bets": 23,
- "realized": 0.315,
+ "realized": 0.2423,
  "paper_positions": [
   {
    "market": "aec-nfl-ari-sea-2026-11-08",
@@ -16,19 +16,6 @@
    "opened": "2026-11-08 17:50 ET",
    "mode": "bounce",
    "last_bid": 0.035
-  },
-  {
-   "market": "aec-nfl-lv-sf-2026-11-08",
-   "game": "nfl:LV@SF",
-   "side": "long",
-   "team": "Raiders",
-   "entry": 0.055,
-   "qty": 1.8182,
-   "tp": 0.11,
-   "sl": 0.022,
-   "opened": "2026-11-08 18:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.055
   }
  ],
  "paper_history": [
@@ -524,6 +511,23 @@
    "exit": 0.0325,
    "pnl": -0.0618,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-lv-sf-2026-11-08",
+   "game": "nfl:LV@SF",
+   "side": "long",
+   "team": "Raiders",
+   "entry": 0.055,
+   "qty": 1.8182,
+   "tp": 0.11,
+   "sl": 0.022,
+   "opened": "2026-11-08 18:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.055,
+   "closed": "2026-11-08 18:30 ET",
+   "exit": 0.015,
+   "pnl": -0.0727,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -676,6 +680,6 @@
   "aec-nfl-dal-ind-2026-11-08": 1794175242.338833,
   "aec-wta-markos-linnos-2026-11-08": 1794176139.743592,
   "aec-nba-phi-chi-2026-11-08": 1794178834.0098302,
-  "aec-nfl-lv-sf-2026-11-08": 1794180334.7548409
+  "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064
  }
 }
