@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 09:45 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-08 09:50 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 5 / 100 (main 2, bounce 3)
+- Bets placed: 6 / 100 (main 2, bounce 4)
 - Realized P&L: +0.20
 
 ## Open paper positions
-- _none_
+- **Yes** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-08 08:55 ET: Anna Blinkova [main] — stop-loss @ 0.0000 → -0.5000
@@ -17,4 +17,4 @@ Updated: 2026-11-08 09:45 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "epl:LIV@CRY", "market": "atc-epl-cry-liv-2026-11-08-cry", "side": "long", "team": "Yes", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`

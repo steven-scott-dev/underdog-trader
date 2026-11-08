@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 5,
- "bounce_bets": 3,
+ "bets": 6,
+ "bounce_bets": 4,
  "realized": 0.2,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "atc-epl-cry-liv-2026-11-08-cry",
+   "game": "epl:LIV@CRY",
+   "side": "long",
+   "team": "Yes",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 09:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -109,6 +123,12 @@
    [
     1794144933.8840017,
     0.22
+   ]
+  ],
+  "atc-epl-cry-liv-2026-11-08-cry": [
+   [
+    1794149436.5139906,
+    0.07
    ]
   ]
  },
