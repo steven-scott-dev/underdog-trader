@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T13:05:48.423889-05:00",
+ "updated": "2026-11-08T13:10:51.325977-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.6,
+ "duration_s": 14.8,
  "daily": {
   "date": "2026-11-08",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-08 13:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nfl:NYG@PHI",
-   "market": "atc-nfl-phi-nyg-series-2026-phi",
-   "side": "long",
-   "team": "Yes",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
