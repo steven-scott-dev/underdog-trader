@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 16:55 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-08 17:00 ET · Mode: **PAPER** · Result: OK (3.7s)
 
 ## Today
 - Bets placed: 26 / 100 (main 7, bounce 19)
 - Realized P&L: +0.53
 
 ## Open paper positions
-- **Raiders** (long/bounce) — 1.1765 @ 0.0850, now ~0.0650, unrealized -0.0235 (TP 0.1700 / SL 0.0340)
+- **Raiders** (long/bounce) — 1.1765 @ 0.0850, now ~0.0925, unrealized +0.0088 (TP 0.1700 / SL 0.0340)
 
 ## Recent history
 - 2026-11-08 16:50 ET: Bulls [bounce] — take-profit @ 0.2000 → +0.1000
