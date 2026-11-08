@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T15:05:48.461899-05:00",
+ "updated": "2026-11-08T15:10:49.912545-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.2,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-08",
   "bets": 17,
@@ -49,7 +49,7 @@
    "sl": 0.033,
    "opened": "2026-11-08 15:05 ET",
    "mode": "bounce",
-   "last_bid": 0.0825
+   "last_bid": 0.0775
   }
  ],
  "paper_history": [
@@ -225,17 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nfl:DET@MIA",
-   "market": "aec-nfl-det-mia-2026-11-08",
-   "side": "short",
-   "team": "Dolphins",
-   "ask": 0.0825,
-   "qty": 1.2121,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

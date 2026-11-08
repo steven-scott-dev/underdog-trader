@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:05 ET · Mode: **PAPER** · Result: OK (12.2s)
+Updated: 2026-11-08 15:10 ET · Mode: **PAPER** · Result: OK (12.3s)
 
 ## Today
 - Bets placed: 17 / 100 (main 2, bounce 15)
@@ -9,7 +9,7 @@ Updated: 2026-11-08 15:05 ET · Mode: **PAPER** · Result: OK (12.2s)
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 - **Panthers** (long/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
-- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.0825, unrealized +0.0000 (TP 0.1650 / SL 0.0330)
+- **Dolphins** (short/bounce) — 1.2121 @ 0.0825, now ~0.0775, unrealized -0.0061 (TP 0.1650 / SL 0.0330)
 
 ## Recent history
 - 2026-11-08 14:25 ET: Jaume Munar [bounce] — take-profit @ 0.0800 → +0.1000
@@ -22,4 +22,4 @@ Updated: 2026-11-08 15:05 ET · Mode: **PAPER** · Result: OK (12.2s)
 - 2026-11-08 11:20 ET: Isabella Collazos [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:DET@MIA", "market": "aec-nfl-det-mia-2026-11-08", "side": "short", "team": "Dolphins", "ask": 0.0825, "qty": 1.2121, "stake": 0.1, "mode": "bounce"}`
+- _none_
