@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 13:50 ET · Mode: **PAPER** · Result: OK (13.2s)
+Updated: 2026-11-08 13:55 ET · Mode: **PAPER** · Result: OK (13.5s)
 
 ## Today
-- Bets placed: 13 / 100 (main 2, bounce 11)
+- Bets placed: 14 / 100 (main 2, bounce 12)
 - Realized P&L: +0.04
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Panthers** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-08 12:35 ET: Maria Jose Sanchez Uribe [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +21,4 @@ Updated: 2026-11-08 13:50 ET · Mode: **PAPER** · Result: OK (13.2s)
 - 2026-11-08 08:55 ET: Anna Blinkova [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:FLA@BOS", "market": "aec-nhl-fla-bos-2026-11-08", "side": "long", "team": "Panthers", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
