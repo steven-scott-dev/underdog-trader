@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-08T08:50:34.822491-05:00",
+ "updated": "2026-11-08T08:55:36.333880-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-11-08",
   "bets": 5,
   "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.7
+  "realized": 0.2
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-annbli-soflan-2026-11-08",
-   "game": "wta:Lansere@Blinkova",
-   "side": "long",
-   "team": "Anna Blinkova",
-   "entry": 0.22,
-   "qty": 2.2727,
-   "tp": 0.55,
-   "sl": 0.088,
-   "opened": "2026-11-08 08:35 ET",
-   "mode": "main",
-   "last_bid": 0.35
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -94,8 +80,32 @@
    "exit": 0.675,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-annbli-soflan-2026-11-08",
+   "game": "wta:Lansere@Blinkova",
+   "side": "long",
+   "team": "Anna Blinkova",
+   "entry": 0.22,
+   "qty": 2.2727,
+   "tp": 0.55,
+   "sl": 0.088,
+   "opened": "2026-11-08 08:35 ET",
+   "mode": "main",
+   "last_bid": 0.35,
+   "closed": "2026-11-08 08:55 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Anna Blinkova",
+   "reason": "stop-loss",
+   "pnl": -0.5
+  }
+ ]
 }
