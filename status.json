@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-08T12:10:35.080966-05:00",
+ "updated": "2026-11-08T12:15:37.852383-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-08",
   "bets": 11,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0075
+  "realized": 0.1075
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-eliyme-juacer-2026-11-08",
-   "game": "atp:Cerundolo@Ymer",
-   "side": "long",
-   "team": "Elias Ymer",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 11:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nhl-van-edm-2026-11-07",
-   "game": "nhl:VAN@EDM",
-   "side": "long",
-   "team": "Canucks",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-08 00:10 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-11-08 00:25 ET",
-   "exit": 0.01,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-claliu-aleeal-2026-11-08",
    "game": "wta:Eala@Liu",
@@ -196,8 +165,32 @@
    "exit": 0.025,
    "pnl": -0.0643,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-eliyme-juacer-2026-11-08",
+   "game": "atp:Cerundolo@Ymer",
+   "side": "long",
+   "team": "Elias Ymer",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 11:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-11-08 12:15 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Elias Ymer",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
