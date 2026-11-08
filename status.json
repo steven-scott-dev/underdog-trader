@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-08T10:10:37.445072-05:00",
+ "updated": "2026-11-08T10:15:36.087205-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-08",
   "bets": 6,
   "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2
+  "realized": 0.1143
  },
- "paper_positions": [
-  {
-   "market": "atc-epl-cry-liv-2026-11-08-cry",
-   "game": "epl:LIV@CRY",
-   "side": "long",
-   "team": "Yes",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 09:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -111,8 +97,32 @@
    "exit": 0.0,
    "pnl": -0.5,
    "reason": "stop-loss"
+  },
+  {
+   "market": "atc-epl-cry-liv-2026-11-08-cry",
+   "game": "epl:LIV@CRY",
+   "side": "long",
+   "team": "Yes",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 09:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-08 10:15 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Yes",
+   "reason": "stop-loss",
+   "pnl": -0.0857
+  }
+ ]
 }
