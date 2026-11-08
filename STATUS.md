@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 15:35 ET · Mode: **PAPER** · Result: OK (13.6s)
+Updated: 2026-11-08 15:40 ET · Mode: **PAPER** · Result: OK (12.2s)
 
 ## Today
 - Bets placed: 20 / 100 (main 4, bounce 16)
@@ -8,8 +8,8 @@ Updated: 2026-11-08 15:35 ET · Mode: **PAPER** · Result: OK (13.6s)
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.2950, unrealized -0.0693 (TP 0.8563 / SL 0.1370)
-- **Panthers** (short/main) — 3.0769 @ 0.1625, now ~0.1625, unrealized +0.0000 (TP 0.4062 / SL 0.0650)
+- **Browns** (long/main) — 1.4599 @ 0.3425, now ~0.6325, unrealized +0.4234 (TP 0.8563 / SL 0.1370)
+- **Panthers** (short/main) — 3.0769 @ 0.1625, now ~0.1350, unrealized -0.0846 (TP 0.4062 / SL 0.0650)
 
 ## Recent history
 - 2026-11-08 15:35 ET: Colts [bounce] — take-profit @ 0.2000 → +0.1000
@@ -22,5 +22,4 @@ Updated: 2026-11-08 15:35 ET · Mode: **PAPER** · Result: OK (13.6s)
 - 2026-11-08 12:00 ET: Falcons [bounce] — stop-loss @ 0.0250 → -0.0643
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Colts", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "nfl:DEN@CAR", "market": "aec-nfl-den-car-2026-11-08", "side": "short", "team": "Panthers", "ask": 0.1625, "qty": 3.0769, "stake": 0.5, "mode": "main"}`
+- _none_

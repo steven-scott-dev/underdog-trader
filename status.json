@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T15:35:49.486666-05:00",
+ "updated": "2026-11-08T15:40:48.968082-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.6,
+ "duration_s": 12.2,
  "daily": {
   "date": "2026-11-08",
   "bets": 20,
@@ -36,7 +36,7 @@
    "sl": 0.137,
    "opened": "2026-11-08 15:30 ET",
    "mode": "main",
-   "last_bid": 0.295
+   "last_bid": 0.6325
   },
   {
    "market": "aec-nfl-den-car-2026-11-08",
@@ -49,7 +49,7 @@
    "sl": 0.065,
    "opened": "2026-11-08 15:35 ET",
    "mode": "main",
-   "last_bid": 0.1625
+   "last_bid": 0.135
   }
  ],
  "paper_history": [
@@ -225,23 +225,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Colts",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "nfl:DEN@CAR",
-   "market": "aec-nfl-den-car-2026-11-08",
-   "side": "short",
-   "team": "Panthers",
-   "ask": 0.1625,
-   "qty": 3.0769,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
