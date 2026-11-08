@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 10,
- "bounce_bets": 8,
+ "bets": 11,
+ "bounce_bets": 9,
  "realized": 0.0718,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-11-08 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.11
+  },
+  {
+   "market": "aec-nfl-cin-atl-2026-11-08",
+   "game": "nfl:CIN@ATL",
+   "side": "short",
+   "team": "Falcons",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 11:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -201,8 +214,8 @@
   ],
   "aec-nfl-cin-atl-2026-11-08": [
    [
-    1794153635.3294065,
-    0.0675
+    1794156335.038416,
+    0.07
    ]
   ],
   "aec-atp-eliyme-juacer-2026-11-08": [
