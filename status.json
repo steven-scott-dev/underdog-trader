@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T17:40:36.536216-05:00",
+ "updated": "2026-11-08T17:45:35.274267-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-08",
   "bets": 29,
@@ -23,7 +23,7 @@
    "sl": 0.034,
    "opened": "2026-11-08 16:45 ET",
    "mode": "bounce",
-   "last_bid": 0.075
+   "last_bid": 0.085
   },
   {
    "market": "aec-nhl-veg-buf-2026-11-08",
@@ -36,7 +36,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 17:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
