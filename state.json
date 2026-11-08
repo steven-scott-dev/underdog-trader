@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 17,
- "bounce_bets": 15,
+ "bets": 18,
+ "bounce_bets": 16,
  "realized": 0.245,
  "paper_positions": [
   {
@@ -41,7 +41,20 @@
    "sl": 0.033,
    "opened": "2026-11-08 15:05 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.075
+  },
+  {
+   "market": "aec-nfl-dal-ind-2026-11-08",
+   "game": "nfl:DAL@IND",
+   "side": "short",
+   "team": "Colts",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 15:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -362,6 +375,12 @@
    [
     1794168337.113133,
     0.0825
+   ]
+  ],
+  "aec-nfl-dal-ind-2026-11-08": [
+   [
+    1794169236.2022123,
+    0.1
    ]
   ]
  },
