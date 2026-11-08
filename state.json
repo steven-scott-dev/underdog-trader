@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 11,
  "bounce_bets": 9,
- "realized": 0.0718,
+ "realized": 0.0075,
  "paper_positions": [
   {
    "market": "aec-atp-eliyme-juacer-2026-11-08",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-nfl-cin-atl-2026-11-08",
-   "game": "nfl:CIN@ATL",
-   "side": "short",
-   "team": "Falcons",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 11:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.0925
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -184,6 +171,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-cin-atl-2026-11-08",
+   "game": "nfl:CIN@ATL",
+   "side": "short",
+   "team": "Falcons",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 11:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.0925,
+   "closed": "2026-11-08 12:00 ET",
+   "exit": 0.025,
+   "pnl": -0.0643,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -243,6 +247,7 @@
   "aec-wta-annbli-soflan-2026-11-08": 1794147935.7859097,
   "atc-epl-cry-liv-2026-11-08-cry": 1794152734.4294376,
   "aec-wta-daljak-isacol-2026-11-08": 1794156636.9702458,
-  "aec-wta-katsco-martor-2026-11-09": 1794157838.4240572
+  "aec-wta-katsco-martor-2026-11-09": 1794157838.4240572,
+  "aec-nfl-cin-atl-2026-11-08": 1794159034.2177572
  }
 }
