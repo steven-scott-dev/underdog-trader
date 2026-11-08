@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 11:25 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-08 11:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 10 / 100 (main 2, bounce 8)
 - Realized P&L: +0.05
 
 ## Open paper positions
-- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0950, unrealized +0.0407 (TP 0.1350 / SL 0.0270)
-- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.1325, unrealized +0.0963 (TP 0.1350 / SL 0.0270)
+- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 - **Maria Torres** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
