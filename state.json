@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 8,
- "bounce_bets": 6,
+ "bets": 10,
+ "bounce_bets": 8,
  "realized": 0.1143,
  "paper_positions": [
   {
@@ -29,6 +29,32 @@
    "opened": "2026-11-08 11:05 ET",
    "mode": "bounce",
    "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-katsco-martor-2026-11-09",
+   "game": "wta:Murcia@Scott",
+   "side": "short",
+   "team": "Maria Torres",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 11:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-daljak-isacol-2026-11-08",
+   "game": "wta:Collazos@Jakupovic",
+   "side": "short",
+   "team": "Isabella Collazos",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-08 11:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -171,6 +197,18 @@
    [
     1794153939.7221315,
     0.1
+   ]
+  ],
+  "aec-wta-katsco-martor-2026-11-09": [
+   [
+    1794154540.0198112,
+    0.1
+   ]
+  ],
+  "aec-wta-daljak-isacol-2026-11-08": [
+   [
+    1794154540.147211,
+    0.08
    ]
   ]
  },
