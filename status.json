@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T12:00:35.981481-05:00",
+ "updated": "2026-11-08T12:05:34.987550-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-08",
   "bets": 11,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-08 11:05 ET",
    "mode": "bounce",
-   "last_bid": 0.16
+   "last_bid": 0.15
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Falcons",
-   "reason": "stop-loss",
-   "pnl": -0.0643
-  }
- ]
+ "actions": []
 }
