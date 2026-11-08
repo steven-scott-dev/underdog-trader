@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 08:25 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-08 08:30 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 4 / 100 (main 1, bounce 3)
 - Realized P&L: -0.05
 
 ## Open paper positions
-- **Sofya Lansere** (short/main) — 1.8519 @ 0.2700, now ~0.2900, unrealized +0.0370 (TP 0.6750 / SL 0.1080)
+- **Sofya Lansere** (short/main) — 1.8519 @ 0.2700, now ~0.5900, unrealized +0.5926 (TP 0.6750 / SL 0.1080)
 
 ## Recent history
 - 2026-11-08 07:35 ET: Sofya Lansere [bounce] — take-profit @ 0.2000 → +0.1000
