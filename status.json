@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-08T16:40:50.529286-05:00",
+ "updated": "2026-11-08T16:45:42.185336-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.7,
+ "duration_s": 3.0,
  "daily": {
   "date": "2026-11-08",
-  "bets": 25,
-  "bounce_bets": 18,
+  "bets": 26,
+  "bounce_bets": 19,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.5268
+  "realized": 0.4268
  },
  "paper_positions": [
-  {
-   "market": "aec-wta-markos-linnos-2026-11-08",
-   "game": "wta:Noskova@Kostyuk",
-   "side": "long",
-   "team": "Marta Kostyuk",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-08 16:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
-  },
   {
    "market": "aec-nba-phi-chi-2026-11-08",
    "game": "nba:PHI@CHI",
@@ -37,26 +24,22 @@
    "opened": "2026-11-08 16:30 ET",
    "mode": "bounce",
    "last_bid": 0.11
+  },
+  {
+   "market": "aec-nfl-lv-sf-2026-11-08",
+   "game": "nfl:LV@SF",
+   "side": "long",
+   "team": "Raiders",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "tp": 0.17,
+   "sl": 0.034,
+   "opened": "2026-11-08 16:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.085
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-thitir-jaumun-2026-11-08",
-   "game": "atp:Munar@Tirante",
-   "side": "short",
-   "team": "Jaume Munar",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-08 14:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-11-08 14:25 ET",
-   "exit": 0.08,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nhl-fla-bos-2026-11-08",
    "game": "nhl:FLA@BOS",
@@ -209,8 +192,43 @@
    "exit": 0.085,
    "pnl": -0.3794,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-markos-linnos-2026-11-08",
+   "game": "wta:Noskova@Kostyuk",
+   "side": "long",
+   "team": "Marta Kostyuk",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 16:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-08 16:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Marta Kostyuk",
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "buy",
+   "game": "nfl:LV@SF",
+   "market": "aec-nfl-lv-sf-2026-11-08",
+   "side": "long",
+   "team": "Raiders",
+   "ask": 0.085,
+   "qty": 1.1765,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
