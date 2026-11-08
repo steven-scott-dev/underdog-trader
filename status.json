@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T11:00:36.328121-05:00",
+ "updated": "2026-11-08T11:05:39.847687-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-08",
-  "bets": 7,
-  "bounce_bets": 5,
+  "bets": 8,
+  "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.1143
@@ -23,7 +23,20 @@
    "sl": 0.027,
    "opened": "2026-11-08 11:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0675
+   "last_bid": 0.065
+  },
+  {
+   "market": "aec-atp-eliyme-juacer-2026-11-08",
+   "game": "atp:Cerundolo@Ymer",
+   "side": "long",
+   "team": "Elias Ymer",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 11:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -134,12 +147,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nfl:CIN@ATL",
-   "market": "aec-nfl-cin-atl-2026-11-08",
-   "side": "short",
-   "team": "Falcons",
-   "ask": 0.0675,
-   "qty": 1.4815,
+   "game": "atp:Cerundolo@Ymer",
+   "market": "aec-atp-eliyme-juacer-2026-11-08",
+   "side": "long",
+   "team": "Elias Ymer",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }

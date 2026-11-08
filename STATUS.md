@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 11:00 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-08 11:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
-- Bets placed: 7 / 100 (main 2, bounce 5)
+- Bets placed: 8 / 100 (main 2, bounce 6)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0675, unrealized +0.0000 (TP 0.1350 / SL 0.0270)
+- **Falcons** (short/bounce) — 1.4815 @ 0.0675, now ~0.0650, unrealized -0.0037 (TP 0.1350 / SL 0.0270)
+- **Elias Ymer** (long/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-08 10:15 ET: Yes [bounce] — stop-loss @ 0.0100 → -0.0857
@@ -18,4 +19,4 @@ Updated: 2026-11-08 11:00 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-08 00:25 ET: Canucks [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:CIN@ATL", "market": "aec-nfl-cin-atl-2026-11-08", "side": "short", "team": "Falcons", "ask": 0.0675, "qty": 1.4815, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Cerundolo@Ymer", "market": "aec-atp-eliyme-juacer-2026-11-08", "side": "long", "team": "Elias Ymer", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

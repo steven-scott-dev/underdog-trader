@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 7,
- "bounce_bets": 5,
+ "bets": 8,
+ "bounce_bets": 6,
  "realized": 0.1143,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.027,
    "opened": "2026-11-08 11:00 ET",
    "mode": "bounce",
-   "last_bid": 0.0675
+   "last_bid": 0.065
+  },
+  {
+   "market": "aec-atp-eliyme-juacer-2026-11-08",
+   "game": "atp:Cerundolo@Ymer",
+   "side": "long",
+   "team": "Elias Ymer",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-08 11:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
   }
  ],
  "paper_history": [
@@ -152,6 +165,12 @@
    [
     1794153635.3294065,
     0.0675
+   ]
+  ],
+  "aec-atp-eliyme-juacer-2026-11-08": [
+   [
+    1794153939.7221315,
+    0.1
    ]
   ]
  },
