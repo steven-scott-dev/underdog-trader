@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 14,
- "bounce_bets": 12,
+ "bets": 15,
+ "bounce_bets": 13,
  "realized": 0.145,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-11-08 13:05 ET",
    "mode": "bounce",
    "last_bid": 0.08
+  },
+  {
+   "market": "aec-atp-thitir-jaumun-2026-11-08",
+   "game": "atp:Munar@Tirante",
+   "side": "short",
+   "team": "Jaume Munar",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-08 14:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -307,6 +320,12 @@
    [
     1794164155.2012112,
     0.07
+   ]
+  ],
+  "aec-atp-thitir-jaumun-2026-11-08": [
+   [
+    1794165657.0844805,
+    0.04
    ]
   ]
  },

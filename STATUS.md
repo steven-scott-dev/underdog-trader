@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 14:15 ET · Mode: **PAPER** · Result: OK (14.0s)
+Updated: 2026-11-08 14:20 ET · Mode: **PAPER** · Result: OK (13.3s)
 
 ## Today
-- Bets placed: 14 / 100 (main 2, bounce 12)
+- Bets placed: 15 / 100 (main 2, bounce 13)
 - Realized P&L: +0.14
 
 ## Open paper positions
 - **Yes** (long/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Jaume Munar** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-08 14:00 ET: Panthers [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-11-08 14:15 ET · Mode: **PAPER** · Result: OK (14.0s)
 - 2026-11-08 10:15 ET: Yes [bounce] — stop-loss @ 0.0100 → -0.0857
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Munar@Tirante", "market": "aec-atp-thitir-jaumun-2026-11-08", "side": "short", "team": "Jaume Munar", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
