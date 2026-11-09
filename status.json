@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T03:30:36.371499-05:00",
+ "updated": "2026-11-09T03:35:39.162414-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-09",
   "bets": 1,
@@ -32,12 +32,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Janice Tjen",
-   "reason": "stop-loss",
-   "pnl": -0.5
-  }
- ]
+ "actions": []
 }
