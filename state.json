@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 34,
- "bounce_bets": 25,
+ "bets": 35,
+ "bounce_bets": 26,
  "realized": -0.322,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-tb-chi-2026-11-08",
+   "game": "nfl:TB@CHI",
+   "side": "long",
+   "team": "Buccaneers",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-08 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.095
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -732,6 +746,12 @@
    [
     1794187249.971324,
     0.07
+   ]
+  ],
+  "aec-nfl-tb-chi-2026-11-08": [
+   [
+    1794188736.7191,
+    0.095
    ]
   ]
  },
