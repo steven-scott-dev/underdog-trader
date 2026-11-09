@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 09:35 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-09 09:40 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 4 / 100 (main 1, bounce 3)
@@ -16,4 +16,4 @@ Updated: 2026-11-09 09:35 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-09 03:30 ET: Janice Tjen [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tomas Machac", "reason": "settled", "pnl": -0.0857}`
+- _none_

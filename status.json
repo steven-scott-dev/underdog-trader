@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:35:38.145767-05:00",
+ "updated": "2026-11-09T09:40:40.382273-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.5,
@@ -83,12 +83,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Tomas Machac",
-   "reason": "settled",
-   "pnl": -0.0857
-  }
- ]
+ "actions": []
 }
