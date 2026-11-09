@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T12:30:40.611187-05:00",
+ "updated": "2026-11-09T12:35:37.138720-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-09",
-  "bets": 9,
+  "bets": 10,
   "bounce_bets": 8,
   "max_total": 100,
   "max_open": 5,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-09 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   },
   {
    "market": "aec-wta-margon-marrib-2026-11-09",
@@ -36,7 +36,20 @@
    "sl": 0.016,
    "opened": "2026-11-09 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.02
+  },
+  {
+   "market": "aec-wta-tatmar-luigio-2026-11-09",
+   "game": "wta:Giovannini@Maria",
+   "side": "long",
+   "team": "Tatjana Maria",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "tp": 0.875,
+   "sl": 0.14,
+   "opened": "2026-11-09 12:35 ET",
+   "mode": "main",
+   "last_bid": 0.35
   }
  ],
  "paper_history": [
@@ -161,5 +174,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Giovannini@Maria",
+   "market": "aec-wta-tatmar-luigio-2026-11-09",
+   "side": "long",
+   "team": "Tatjana Maria",
+   "ask": 0.35,
+   "qty": 1.4286,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
