@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 16:10 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-09 16:15 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 16:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-09 13:50 ET: Maria Fernanda Herazo Gonzalez [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yuliana Lizarazo", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
