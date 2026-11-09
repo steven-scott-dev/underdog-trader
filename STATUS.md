@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 21:25 ET · Mode: **PAPER** · Result: OK (12.6s)
+Updated: 2026-11-08 21:31 ET · Mode: **PAPER** · Result: OK (20.3s)
 
 ## Today
 - Bets placed: 37 / 100 (main 9, bounce 28)
 - Realized P&L: -0.40
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0850, unrealized -0.0105 (TP 0.1900 / SL 0.0380)
-- **Penguins** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0650, unrealized -0.0316 (TP 0.1900 / SL 0.0380)
+- **Penguins** (long/bounce) — 1.4286 @ 0.0700, now ~0.0500, unrealized -0.0286 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-08 21:25 ET: Bucks [bounce] — stop-loss @ 0.0200 → -0.0750
@@ -21,5 +21,4 @@ Updated: 2026-11-08 21:25 ET · Mode: **PAPER** · Result: OK (12.6s)
 - 2026-11-08 17:50 ET: Sabres [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.075}`
-- `{"type": "buy", "game": "nhl:PIT@ANA", "market": "aec-nhl-pit-ana-2026-11-08", "side": "long", "team": "Penguins", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
