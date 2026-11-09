@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 37,
  "bounce_bets": 28,
- "realized": -0.397,
+ "realized": -0.4684,
  "paper_positions": [
   {
    "market": "aec-nfl-tb-chi-2026-11-08",
@@ -16,19 +16,6 @@
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
    "last_bid": 0.105
-  },
-  {
-   "market": "aec-nhl-pit-ana-2026-11-08",
-   "game": "nhl:PIT@ANA",
-   "side": "long",
-   "team": "Penguins",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -626,6 +613,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-pit-ana-2026-11-08",
+   "game": "nhl:PIT@ANA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-08 22:05 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -819,6 +823,7 @@
   "aec-nfl-gb-ne-2026-11-08": 1794183338.535117,
   "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848,
   "aec-nba-bkn-dal-2026-11-08": 1794189940.012898,
-  "aec-nba-bos-mil-2026-11-08": 1794192937.820369
+  "aec-nba-bos-mil-2026-11-08": 1794192937.820369,
+  "aec-nhl-pit-ana-2026-11-08": 1794195337.4734344
  }
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:00:38.011947-05:00",
+ "updated": "2026-11-08T22:05:38.776171-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.8,
@@ -9,7 +9,7 @@
   "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.397
+  "realized": -0.4684
  },
  "paper_positions": [
   {
@@ -24,39 +24,9 @@
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
    "last_bid": 0.105
-  },
-  {
-   "market": "aec-nhl-pit-ana-2026-11-08",
-   "game": "nhl:PIT@ANA",
-   "side": "long",
-   "team": "Penguins",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 21:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-phi-chi-2026-11-08",
-   "game": "nba:PHI@CHI",
-   "side": "short",
-   "team": "Bulls",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-08 17:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.15,
-   "closed": "2026-11-08 17:25 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-nba-phi-chi-2026-11-08",
    "game": "nba:PHI@CHI",
@@ -209,8 +179,32 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-pit-ana-2026-11-08",
+   "game": "nhl:PIT@ANA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 21:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-08 22:05 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Penguins",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  }
+ ]
 }
