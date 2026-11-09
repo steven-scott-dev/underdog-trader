@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-09T14:30:56.546150-05:00",
+ "updated": "2026-11-09T14:35:48.145049-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-09",
   "bets": 13,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.3582
+  "realized": -0.793
  },
  "paper_positions": [
   {
@@ -23,40 +23,10 @@
    "sl": 0.108,
    "opened": "2026-11-09 14:25 ET",
    "mode": "main",
-   "last_bid": 0.3
-  },
-  {
-   "market": "aec-wta-eliman-vererj-2026-11-09",
-   "game": "wta:Erjavec@Mandlik",
-   "side": "short",
-   "team": "Veronika Erjavec",
-   "entry": 0.23,
-   "qty": 2.1739,
-   "tp": 0.575,
-   "sl": 0.092,
-   "opened": "2026-11-09 14:30 ET",
-   "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.22
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-alemic-yanhan-2026-11-08",
-   "game": "atp:Hanfmann@Michelsen",
-   "side": "short",
-   "team": "Yannick Hanfmann",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-09 07:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.07,
-   "closed": "2026-11-09 08:00 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-jamduc-camnor-2026-11-08",
    "game": "atp:Norrie@Duckworth",
@@ -209,20 +179,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eliman-vererj-2026-11-09",
+   "game": "wta:Erjavec@Mandlik",
+   "side": "short",
+   "team": "Veronika Erjavec",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-11-09 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.23,
+   "closed": "2026-11-09 14:35 ET",
+   "exit": 0.03,
+   "pnl": -0.4348,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Erjavec@Mandlik",
-   "market": "aec-wta-eliman-vererj-2026-11-09",
-   "side": "short",
+   "type": "paper_close",
    "team": "Veronika Erjavec",
-   "ask": 0.23,
-   "qty": 2.1739,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.4348
   }
  ]
 }

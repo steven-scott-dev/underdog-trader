@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "bets": 13,
  "bounce_bets": 9,
- "realized": -0.3582,
+ "realized": -0.793,
  "paper_positions": [
   {
    "market": "aec-atp-tometc-maxdah-2026-11-08",
@@ -15,20 +15,7 @@
    "sl": 0.108,
    "opened": "2026-11-09 14:25 ET",
    "mode": "main",
-   "last_bid": 0.3
-  },
-  {
-   "market": "aec-wta-eliman-vererj-2026-11-09",
-   "game": "wta:Erjavec@Mandlik",
-   "side": "short",
-   "team": "Veronika Erjavec",
-   "entry": 0.23,
-   "qty": 2.1739,
-   "tp": 0.575,
-   "sl": 0.092,
-   "opened": "2026-11-09 14:30 ET",
-   "mode": "main",
-   "last_bid": 0.23
+   "last_bid": 0.22
   }
  ],
  "paper_history": [
@@ -218,6 +205,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-eliman-vererj-2026-11-09",
+   "game": "wta:Erjavec@Mandlik",
+   "side": "short",
+   "team": "Veronika Erjavec",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-11-09 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.23,
+   "closed": "2026-11-09 14:35 ET",
+   "exit": 0.03,
+   "pnl": -0.4348,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -296,6 +300,7 @@
   "aec-wta-polher-varlep-2026-11-09": 1794244536.506326,
   "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628,
   "aec-wta-margon-marrib-2026-11-09": 1794252051.0598397,
-  "aec-atp-tometc-maxdah-2026-11-08": 1794252343.2921877
+  "aec-atp-tometc-maxdah-2026-11-08": 1794252343.2921877,
+  "aec-wta-eliman-vererj-2026-11-09": 1794254746.811258
  }
 }
