@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 20:15 ET · Mode: **PAPER** · Result: OK (3.5s)
+Updated: 2026-11-08 20:20 ET · Mode: **PAPER** · Result: OK (3.9s)
 
 ## Today
-- Bets placed: 33 / 100 (main 9, bounce 24)
+- Bets placed: 34 / 100 (main 9, bounce 25)
 - Realized P&L: -0.25
 
 ## Open paper positions
-- _none_
+- **Nets** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-08 19:20 ET: Jessica Pegula [main] — stop-loss @ 0.0700 → -0.3654
@@ -20,4 +20,4 @@ Updated: 2026-11-08 20:15 ET · Mode: **PAPER** · Result: OK (3.5s)
 - 2026-11-08 17:25 ET: Bulls [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:BKN@DAL", "market": "aec-nba-bkn-dal-2026-11-08", "side": "long", "team": "Nets", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
