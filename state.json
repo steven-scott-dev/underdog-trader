@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 7,
  "bounce_bets": 6,
- "realized": -0.7757,
- "paper_positions": [
-  {
-   "market": "aec-wta-laupig-daljak-2026-11-09",
-   "game": "wta:Jakupovic@Pigossi",
-   "side": "short",
-   "team": "Dalila Jakupovic",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-09 11:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": -0.8632,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -120,6 +106,23 @@
    "exit": 0.01,
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-laupig-daljak-2026-11-09",
+   "game": "wta:Jakupovic@Pigossi",
+   "side": "short",
+   "team": "Dalila Jakupovic",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-09 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-09 11:50 ET",
+   "exit": 0.01,
+   "pnl": -0.0875,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -171,6 +174,7 @@
   "aec-wta-jantje-maglin-2026-11-08": 1794214835.4864328,
   "aec-atp-jamduc-camnor-2026-11-08": 1794231038.4225817,
   "aec-atp-adoval-ugohum-2026-11-08": 1794237953.0031233,
-  "aec-wta-polher-varlep-2026-11-09": 1794244536.506326
+  "aec-wta-polher-varlep-2026-11-09": 1794244536.506326,
+  "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628
  }
 }
