@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T23:30:38.978211-05:00",
+ "updated": "2026-11-08T23:35:34.478709-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-08",
   "bets": 41,
@@ -23,7 +23,7 @@
    "sl": 0.126,
    "opened": "2026-11-08 23:30 ET",
    "mode": "main",
-   "last_bid": 0.315
+   "last_bid": 0.2525
   }
  ],
  "paper_history": [
@@ -199,23 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Buccaneers",
-   "reason": "take-profit",
-   "pnl": 0.1
-  },
-  {
-   "type": "buy",
-   "game": "nfl:TB@CHI",
-   "market": "aec-nfl-tb-chi-2026-11-08",
-   "side": "long",
-   "team": "Buccaneers",
-   "ask": 0.315,
-   "qty": 1.5873,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }

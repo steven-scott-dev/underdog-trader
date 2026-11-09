@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 23:30 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-08 23:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 41 / 100 (main 11, bounce 30)
 - Realized P&L: -0.56
 
 ## Open paper positions
-- **Buccaneers** (long/main) — 1.5873 @ 0.3150, now ~0.3150, unrealized +0.0000 (TP 0.7875 / SL 0.1260)
+- **Buccaneers** (long/main) — 1.5873 @ 0.3150, now ~0.2525, unrealized -0.0992 (TP 0.7875 / SL 0.1260)
 
 ## Recent history
 - 2026-11-08 23:30 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
@@ -20,5 +20,4 @@ Updated: 2026-11-08 23:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-08 19:20 ET: Jessica Pegula [main] — stop-loss @ 0.0700 → -0.3654
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Buccaneers", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "buy", "game": "nfl:TB@CHI", "market": "aec-nfl-tb-chi-2026-11-08", "side": "long", "team": "Buccaneers", "ask": 0.315, "qty": 1.5873, "stake": 0.5, "mode": "main"}`
+- _none_
