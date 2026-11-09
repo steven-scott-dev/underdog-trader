@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T21:31:01.029359-05:00",
+ "updated": "2026-11-08T21:32:58.483343-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 20.3,
+ "duration_s": 12.4,
  "daily": {
   "date": "2026-11-08",
   "bets": 37,
@@ -23,7 +23,7 @@
    "sl": 0.038,
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.065
+   "last_bid": 0.075
   },
   {
    "market": "aec-nhl-pit-ana-2026-11-08",
