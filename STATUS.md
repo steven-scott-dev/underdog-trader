@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 16:00 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 16:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
 - Realized P&L: -1.32
 
 ## Open paper positions
-- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-09 15:55 ET: Leo Borg [bounce] — stop-loss @ 0.0100 → -0.0800
