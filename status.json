@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T22:05:38.776171-05:00",
+ "updated": "2026-11-08T22:10:40.504536-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-08",
   "bets": 37,
@@ -23,7 +23,7 @@
    "sl": 0.038,
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.105
+   "last_bid": 0.125
   }
  ],
  "paper_history": [
@@ -199,12 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Penguins",
-   "reason": "stop-loss",
-   "pnl": -0.0714
-  }
- ]
+ "actions": []
 }

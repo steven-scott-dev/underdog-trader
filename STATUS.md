@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:05 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-08 22:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 37 / 100 (main 9, bounce 28)
 - Realized P&L: -0.47
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1050, unrealized +0.0105 (TP 0.1900 / SL 0.0380)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1250, unrealized +0.0316 (TP 0.1900 / SL 0.0380)
 
 ## Recent history
 - 2026-11-08 22:05 ET: Penguins [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -20,4 +20,4 @@ Updated: 2026-11-08 22:05 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-08 17:55 ET: Raiders [bounce] — stop-loss @ 0.0325 → -0.0618
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Penguins", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
