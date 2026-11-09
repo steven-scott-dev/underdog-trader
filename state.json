@@ -2,22 +2,8 @@
  "date": "2026-11-08",
  "bets": 34,
  "bounce_bets": 25,
- "realized": -0.2506,
- "paper_positions": [
-  {
-   "market": "aec-nba-bkn-dal-2026-11-08",
-   "game": "nba:BKN@DAL",
-   "side": "long",
-   "team": "Nets",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-08 20:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": -0.322,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -579,6 +565,23 @@
    "exit": 0.07,
    "pnl": -0.3654,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bkn-dal-2026-11-08",
+   "game": "nba:BKN@DAL",
+   "side": "long",
+   "team": "Nets",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 20:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-08 20:35 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -752,6 +755,7 @@
   "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064,
   "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341,
   "aec-nfl-gb-ne-2026-11-08": 1794183338.535117,
-  "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848
+  "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848,
+  "aec-nba-bkn-dal-2026-11-08": 1794189940.012898
  }
 }
