@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 03:05 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-11-09 03:10 ET · Mode: **PAPER** · Result: OK (0.7s)
 
 ## Today
 - Bets placed: 1 / 100 (main 1, bounce 0)
 - Realized P&L: +0.00
 
 ## Open paper positions
-- **Janice Tjen** (long/main) — 2.1739 @ 0.2300, now ~0.3700, unrealized +0.3043 (TP 0.5750 / SL 0.0920)
+- **Janice Tjen** (long/main) — 2.1739 @ 0.2300, now ~0.2800, unrealized +0.1087 (TP 0.5750 / SL 0.0920)
 
 ## Recent history
 - _none yet_
