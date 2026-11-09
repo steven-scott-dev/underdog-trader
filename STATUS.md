@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:15 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-11-08 22:20 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 37 / 100 (main 9, bounce 28)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 22:15 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-11-08 18:30 ET: Raiders [bounce] — stop-loss @ 0.0150 → -0.0727
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Buccaneers", "reason": "take-profit", "pnl": 0.1}`
+- _none_

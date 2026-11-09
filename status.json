@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T22:15:41.361790-05:00",
+ "updated": "2026-11-08T22:20:43.875224-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-08",
   "bets": 37,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Buccaneers",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
