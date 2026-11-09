@@ -1,9 +1,23 @@
 {
  "date": "2026-11-09",
- "bets": 4,
- "bounce_bets": 3,
+ "bets": 5,
+ "bounce_bets": 4,
  "realized": -0.5857,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-adoval-ugohum-2026-11-08",
+   "game": "atp:Humbert@Vallejo",
+   "side": "long",
+   "team": "Adolfo Vallejo",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-09 09:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -98,6 +112,12 @@
    [
     1794234640.895698,
     0.07
+   ]
+  ],
+  "aec-atp-adoval-ugohum-2026-11-08": [
+   [
+    1794235849.3123534,
+    0.05
    ]
   ]
  },
