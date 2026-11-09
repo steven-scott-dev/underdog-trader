@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "bets": 17,
  "bounce_bets": 13,
- "realized": -1.237,
+ "realized": -1.317,
  "paper_positions": [
   {
    "market": "aec-wta-ireesc-yulliz-2026-11-09",
@@ -16,19 +16,6 @@
    "opened": "2026-11-09 15:00 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-atp-lbe-tobsam-2026-11-09",
-   "game": "atp:Samuel@Borg",
-   "side": "long",
-   "team": "Leo Borg",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-09 15:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -286,6 +273,23 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-lbe-tobsam-2026-11-09",
+   "game": "atp:Samuel@Borg",
+   "side": "long",
+   "team": "Leo Borg",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-09 15:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-09 15:55 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -384,6 +388,7 @@
   "aec-wta-margon-marrib-2026-11-09": 1794252051.0598397,
   "aec-atp-tometc-maxdah-2026-11-08": 1794255054.7922666,
   "aec-wta-eliman-vererj-2026-11-09": 1794254746.811258,
-  "aec-wta-tamzid-julgra-2026-11-09": 1794257734.1589918
+  "aec-wta-tamzid-julgra-2026-11-09": 1794257734.1589918,
+  "aec-atp-lbe-tobsam-2026-11-09": 1794259536.4749074
  }
 }

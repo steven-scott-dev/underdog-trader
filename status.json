@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-09T15:51:11.062785-05:00",
+ "updated": "2026-11-09T15:55:38.087944-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-09",
   "bets": 17,
   "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.237
+  "realized": -1.317
  },
  "paper_positions": [
   {
@@ -24,39 +24,9 @@
    "opened": "2026-11-09 15:00 ET",
    "mode": "bounce",
    "last_bid": 0.06
-  },
-  {
-   "market": "aec-atp-lbe-tobsam-2026-11-09",
-   "game": "atp:Samuel@Borg",
-   "side": "long",
-   "team": "Leo Borg",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-09 15:30 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-polher-varlep-2026-11-09",
-   "game": "wta:Lepchenko@Hercog",
-   "side": "short",
-   "team": "Varvara Lepchenko",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 11:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-09 11:45 ET",
-   "exit": 0.01,
-   "pnl": -0.09,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-laupig-daljak-2026-11-09",
    "game": "wta:Jakupovic@Pigossi",
@@ -209,8 +179,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-lbe-tobsam-2026-11-09",
+   "game": "atp:Samuel@Borg",
+   "side": "long",
+   "team": "Leo Borg",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-09 15:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-09 15:55 ET",
+   "exit": 0.01,
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Leo Borg",
+   "reason": "stop-loss",
+   "pnl": -0.08
+  }
+ ]
 }
