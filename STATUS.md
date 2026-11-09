@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 19:20 ET · Mode: **PAPER** · Result: OK (4.3s)
+Updated: 2026-11-08 19:25 ET · Mode: **PAPER** · Result: OK (3.7s)
 
 ## Today
 - Bets placed: 33 / 100 (main 9, bounce 24)
@@ -20,4 +20,4 @@ Updated: 2026-11-08 19:20 ET · Mode: **PAPER** · Result: OK (4.3s)
 - 2026-11-08 17:25 ET: Bulls [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Jessica Pegula", "reason": "stop-loss", "pnl": -0.3654}`
+- _none_

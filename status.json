@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T19:20:43.208807-05:00",
+ "updated": "2026-11-08T19:25:40.381746-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 4.3,
+ "duration_s": 3.7,
  "daily": {
   "date": "2026-11-08",
   "bets": 33,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Jessica Pegula",
-   "reason": "stop-loss",
-   "pnl": -0.3654
-  }
- ]
+ "actions": []
 }
