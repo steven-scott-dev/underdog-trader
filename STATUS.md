@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 13:40 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-09 13:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
 - Realized P&L: -0.19
 
 ## Open paper positions
-- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
-- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-09 13:40 ET: Tatjana Maria [main] — take-profit @ 0.8750 → +0.7500
@@ -21,4 +21,4 @@ Updated: 2026-11-09 13:40 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-09 08:00 ET: Yannick Hanfmann [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tatjana Maria", "reason": "take-profit", "pnl": 0.75}`
+- _none_
