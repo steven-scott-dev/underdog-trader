@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "bets": 6,
- "bounce_bets": 5,
+ "bets": 7,
+ "bounce_bets": 6,
  "realized": -0.6857,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.04,
    "opened": "2026-11-09 11:25 ET",
    "mode": "bounce",
-   "last_bid": 0.15
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-laupig-daljak-2026-11-09",
+   "game": "wta:Jakupovic@Pigossi",
+   "side": "short",
+   "team": "Dalila Jakupovic",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-09 11:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -141,6 +154,12 @@
    [
     1794241537.2490726,
     0.1
+   ]
+  ],
+  "aec-wta-laupig-daljak-2026-11-09": [
+   [
+    1794242435.4196131,
+    0.08
    ]
   ]
  },
