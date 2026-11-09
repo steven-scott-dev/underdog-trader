@@ -1,21 +1,21 @@
 {
  "date": "2026-11-08",
- "bets": 40,
+ "bets": 41,
  "bounce_bets": 30,
- "realized": -0.6642,
+ "realized": -0.5642,
  "paper_positions": [
   {
    "market": "aec-nfl-tb-chi-2026-11-08",
    "game": "nfl:TB@CHI",
    "side": "long",
    "team": "Buccaneers",
-   "entry": 0.095,
-   "qty": 1.0526,
-   "tp": 0.19,
-   "sl": 0.038,
-   "opened": "2026-11-08 22:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.1525
+   "entry": 0.315,
+   "qty": 1.5873,
+   "tp": 0.7875,
+   "sl": 0.126,
+   "opened": "2026-11-08 23:30 ET",
+   "mode": "main",
+   "last_bid": 0.315
   }
  ],
  "paper_history": [
@@ -681,6 +681,23 @@
    "exit": 0.05,
    "pnl": -0.3958,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-tb-chi-2026-11-08",
+   "game": "nfl:TB@CHI",
+   "side": "long",
+   "team": "Buccaneers",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-08 22:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.1525,
+   "closed": "2026-11-08 23:30 ET",
+   "exit": 0.19,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -835,8 +852,8 @@
   ],
   "aec-nfl-tb-chi-2026-11-08": [
    [
-    1794195935.491519,
-    0.095
+    1794198638.3000937,
+    0.315
    ]
   ],
   "aec-nba-bos-mil-2026-11-08": [

@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 23:25 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-08 23:30 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
-- Bets placed: 40 / 100 (main 10, bounce 30)
-- Realized P&L: -0.66
+- Bets placed: 41 / 100 (main 11, bounce 30)
+- Realized P&L: -0.56
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1525, unrealized +0.0605 (TP 0.1900 / SL 0.0380)
+- **Buccaneers** (long/main) — 1.5873 @ 0.3150, now ~0.3150, unrealized +0.0000 (TP 0.7875 / SL 0.1260)
 
 ## Recent history
+- 2026-11-08 23:30 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
 - 2026-11-08 23:25 ET: Kings [main] — stop-loss @ 0.0500 → -0.3958
 - 2026-11-08 23:05 ET: Kings [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-08 22:15 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
@@ -17,7 +18,7 @@ Updated: 2026-11-08 23:25 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-08 21:25 ET: Bucks [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-11-08 20:35 ET: Nets [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-08 19:20 ET: Jessica Pegula [main] — stop-loss @ 0.0700 → -0.3654
-- 2026-11-08 18:45 ET: Patriots [bounce] — stop-loss @ 0.0300 → -0.0657
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Kings", "reason": "stop-loss", "pnl": -0.3958}`
+- `{"type": "paper_close", "team": "Buccaneers", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nfl:TB@CHI", "market": "aec-nfl-tb-chi-2026-11-08", "side": "long", "team": "Buccaneers", "ask": 0.315, "qty": 1.5873, "stake": 0.5, "mode": "main"}`

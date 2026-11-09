@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-08T23:25:35.374803-05:00",
+ "updated": "2026-11-08T23:30:38.978211-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-08",
-  "bets": 40,
+  "bets": 41,
   "bounce_bets": 30,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.6642
+  "realized": -0.5642
  },
  "paper_positions": [
   {
@@ -17,33 +17,16 @@
    "game": "nfl:TB@CHI",
    "side": "long",
    "team": "Buccaneers",
-   "entry": 0.095,
-   "qty": 1.0526,
-   "tp": 0.19,
-   "sl": 0.038,
-   "opened": "2026-11-08 22:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.1525
+   "entry": 0.315,
+   "qty": 1.5873,
+   "tp": 0.7875,
+   "sl": 0.126,
+   "opened": "2026-11-08 23:30 ET",
+   "mode": "main",
+   "last_bid": 0.315
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nfl-lv-sf-2026-11-08",
-   "game": "nfl:LV@SF",
-   "side": "long",
-   "team": "Raiders",
-   "entry": 0.055,
-   "qty": 1.8182,
-   "tp": 0.11,
-   "sl": 0.022,
-   "opened": "2026-11-08 18:25 ET",
-   "mode": "bounce",
-   "last_bid": 0.055,
-   "closed": "2026-11-08 18:30 ET",
-   "exit": 0.015,
-   "pnl": -0.0727,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nfl-ari-sea-2026-11-08",
    "game": "nfl:ARI@SEA",
@@ -196,15 +179,43 @@
    "exit": 0.05,
    "pnl": -0.3958,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-tb-chi-2026-11-08",
+   "game": "nfl:TB@CHI",
+   "side": "long",
+   "team": "Buccaneers",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-08 22:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.1525,
+   "closed": "2026-11-08 23:30 ET",
+   "exit": 0.19,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Kings",
-   "reason": "stop-loss",
-   "pnl": -0.3958
+   "team": "Buccaneers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  },
+  {
+   "type": "buy",
+   "game": "nfl:TB@CHI",
+   "market": "aec-nfl-tb-chi-2026-11-08",
+   "side": "long",
+   "team": "Buccaneers",
+   "ask": 0.315,
+   "qty": 1.5873,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
