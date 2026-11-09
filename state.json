@@ -1,7 +1,7 @@
 {
  "date": "2026-11-08",
- "bets": 35,
- "bounce_bets": 26,
+ "bets": 36,
+ "bounce_bets": 27,
  "realized": -0.322,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.038,
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.1425
+  },
+  {
+   "market": "aec-nba-bos-mil-2026-11-08",
+   "game": "nba:BOS@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-08 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -752,6 +765,12 @@
    [
     1794188736.7191,
     0.095
+   ]
+  ],
+  "aec-nba-bos-mil-2026-11-08": [
+   [
+    1794189337.999082,
+    0.08
    ]
   ]
  },
