@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "bets": 16,
  "bounce_bets": 12,
- "realized": -1.1745,
+ "realized": -1.237,
  "paper_positions": [
   {
    "market": "aec-wta-ireesc-yulliz-2026-11-09",
@@ -15,20 +15,7 @@
    "sl": 0.04,
    "opened": "2026-11-09 15:00 ET",
    "mode": "bounce",
-   "last_bid": 0.1
-  },
-  {
-   "market": "aec-wta-tamzid-julgra-2026-11-09",
-   "game": "wta:Grabher@Zidansek",
-   "side": "long",
-   "team": "Tamara Zidansek",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-09 15:20 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -269,6 +256,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-tamzid-julgra-2026-11-09",
+   "game": "wta:Grabher@Zidansek",
+   "side": "long",
+   "team": "Tamara Zidansek",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-09 15:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-09 15:25 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -360,6 +364,7 @@
   "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628,
   "aec-wta-margon-marrib-2026-11-09": 1794252051.0598397,
   "aec-atp-tometc-maxdah-2026-11-08": 1794255054.7922666,
-  "aec-wta-eliman-vererj-2026-11-09": 1794254746.811258
+  "aec-wta-eliman-vererj-2026-11-09": 1794254746.811258,
+  "aec-wta-tamzid-julgra-2026-11-09": 1794257734.1589918
  }
 }
