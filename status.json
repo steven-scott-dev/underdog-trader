@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-09T13:16:12.030297-05:00",
+ "updated": "2026-11-09T13:31:28.258701-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-09",
-  "bets": 10,
-  "bounce_bets": 8,
+  "bets": 11,
+  "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.9382
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-09 12:15 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-tatmar-luigio-2026-11-09",
@@ -36,7 +36,20 @@
    "sl": 0.14,
    "opened": "2026-11-09 12:35 ET",
    "mode": "main",
-   "last_bid": 0.52
+   "last_bid": 0.65
+  },
+  {
+   "market": "aec-wta-margon-marrib-2026-11-09",
+   "game": "wta:Ribera@Gonzalez",
+   "side": "long",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-09 13:31 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -178,5 +191,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Ribera@Gonzalez",
+   "market": "aec-wta-margon-marrib-2026-11-09",
+   "side": "long",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "ask": 0.04,
+   "qty": 2.5,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
