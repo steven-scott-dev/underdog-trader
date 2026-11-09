@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 15:55 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-09 16:00 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 15:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-09 13:40 ET: Tatjana Maria [main] — take-profit @ 0.8750 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Leo Borg", "reason": "stop-loss", "pnl": -0.08}`
+- _none_
