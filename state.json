@@ -1,9 +1,23 @@
 {
  "date": "2026-11-09",
- "bets": 13,
- "bounce_bets": 9,
+ "bets": 14,
+ "bounce_bets": 10,
  "realized": -1.2745,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-tamzid-julgra-2026-11-09",
+   "game": "wta:Grabher@Zidansek",
+   "side": "long",
+   "team": "Tamara Zidansek",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-09 14:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -293,6 +307,12 @@
    [
     1794252656.2216895,
     0.23
+   ]
+  ],
+  "aec-wta-tamzid-julgra-2026-11-09": [
+   [
+    1794254136.8651054,
+    0.07
    ]
   ]
  },
