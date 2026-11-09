@@ -1,18 +1,44 @@
 {
- "updated": "2026-11-09T02:45:34.045446-05:00",
+ "updated": "2026-11-09T02:50:36.209754-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-09",
-  "bets": 0,
+  "bets": 1,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-jantje-maglin-2026-11-08",
+   "game": "wta:Linette@Tjen",
+   "side": "long",
+   "team": "Janice Tjen",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-11-09 02:50 ET",
+   "mode": "main",
+   "last_bid": 0.23
+  }
+ ],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Linette@Tjen",
+   "market": "aec-wta-jantje-maglin-2026-11-08",
+   "side": "long",
+   "team": "Janice Tjen",
+   "ask": 0.23,
+   "qty": 2.1739,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
