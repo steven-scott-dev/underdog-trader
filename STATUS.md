@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:50 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-08 22:55 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 39 / 100 (main 9, bounce 30)
 - Realized P&L: -0.37
 
 ## Open paper positions
-- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0850, unrealized -0.0105 (TP 0.1900 / SL 0.0380)
+- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1025, unrealized +0.0079 (TP 0.1900 / SL 0.0380)
 
 ## Recent history
 - 2026-11-08 22:15 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
