@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 16:45 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-09 16:50 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
 - Realized P&L: -1.39
 
 ## Open paper positions
-- **Karolina Muchova** (short/bounce) — 1.4286 @ 0.0700, now ~0.0800, unrealized +0.0143 (TP 0.1400 / SL 0.0280)
+- **Karolina Muchova** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-09 16:10 ET: Yuliana Lizarazo [bounce] — stop-loss @ 0.0300 → -0.0700
