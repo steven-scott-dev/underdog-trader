@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T21:40:40.839428-05:00",
+ "updated": "2026-11-08T21:45:49.491132-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-11-08",
   "bets": 37,
@@ -23,7 +23,7 @@
    "sl": 0.038,
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1025
+   "last_bid": 0.115
   },
   {
    "market": "aec-nhl-pit-ana-2026-11-08",
@@ -36,7 +36,7 @@
    "sl": 0.028,
    "opened": "2026-11-08 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
