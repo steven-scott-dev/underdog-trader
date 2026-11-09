@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-09T07:20:47.390540-05:00",
+ "updated": "2026-11-09T07:25:38.929605-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-09",
-  "bets": 1,
-  "bounce_bets": 0,
+  "bets": 2,
+  "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.5
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-alemic-yanhan-2026-11-08",
+   "game": "atp:Hanfmann@Michelsen",
+   "side": "short",
+   "team": "Yannick Hanfmann",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-09 07:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -32,5 +46,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Hanfmann@Michelsen",
+   "market": "aec-atp-alemic-yanhan-2026-11-08",
+   "side": "short",
+   "team": "Yannick Hanfmann",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
