@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 19:10 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-08 19:15 ET · Mode: **PAPER** · Result: OK (3.2s)
 
 ## Today
 - Bets placed: 33 / 100 (main 9, bounce 24)
 - Realized P&L: +0.11
 
 ## Open paper positions
-- **Jessica Pegula** (short/main) — 1.9231 @ 0.2600, now ~0.2600, unrealized +0.0000 (TP 0.6500 / SL 0.1040)
+- **Jessica Pegula** (short/main) — 1.9231 @ 0.2600, now ~0.1600, unrealized -0.1923 (TP 0.6500 / SL 0.1040)
 
 ## Recent history
 - 2026-11-08 18:45 ET: Patriots [bounce] — stop-loss @ 0.0300 → -0.0657
@@ -20,4 +20,4 @@ Updated: 2026-11-08 19:10 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-08 16:50 ET: Bulls [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Pegula@Gauff", "market": "aec-wta-cocgau-jespeg-2026-11-08", "side": "short", "team": "Jessica Pegula", "ask": 0.26, "qty": 1.9231, "stake": 0.5, "mode": "main"}`
+- _none_
