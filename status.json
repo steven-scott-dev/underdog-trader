@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-09T09:25:42.672969-05:00",
+ "updated": "2026-11-09T09:30:41.091667-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.1,
  "daily": {
   "date": "2026-11-09",
-  "bets": 3,
-  "bounce_bets": 2,
+  "bets": 4,
+  "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.5
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tommac-borgoj-2026-11-09",
+   "game": "atp:Gojo@Machac",
+   "side": "long",
+   "team": "Tomas Machac",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-09 09:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -66,5 +80,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Gojo@Machac",
+   "market": "aec-atp-tommac-borgoj-2026-11-09",
+   "side": "long",
+   "team": "Tomas Machac",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
