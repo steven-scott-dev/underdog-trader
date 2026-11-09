@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T23:05:40.543038-05:00",
+ "updated": "2026-11-08T23:10:36.512191-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-08",
-  "bets": 39,
+  "bets": 40,
   "bounce_bets": 30,
   "max_total": 100,
   "max_open": 5,
@@ -23,7 +23,20 @@
    "sl": 0.038,
    "opened": "2026-11-08 22:45 ET",
    "mode": "bounce",
-   "last_bid": 0.095
+   "last_bid": 0.0725
+  },
+  {
+   "market": "aec-nba-mia-sac-2026-11-08",
+   "game": "nba:MIA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "tp": 0.6,
+   "sl": 0.096,
+   "opened": "2026-11-08 23:10 ET",
+   "mode": "main",
+   "last_bid": 0.24
   }
  ],
  "paper_history": [
@@ -201,10 +214,15 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "paper_close",
+   "type": "buy",
+   "game": "nba:MIA@SAC",
+   "market": "aec-nba-mia-sac-2026-11-08",
+   "side": "short",
    "team": "Kings",
-   "reason": "take-profit",
-   "pnl": 0.1
+   "ask": 0.24,
+   "qty": 2.0833,
+   "stake": 0.5,
+   "mode": "main"
   }
  ]
 }
