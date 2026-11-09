@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T18:25:47.530243-05:00",
+ "updated": "2026-11-09T18:30:47.538962-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-09",
   "bets": 19,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Elina Svitolina",
-   "reason": "stop-loss",
-   "pnl": -0.07
-  }
- ]
+ "actions": []
 }

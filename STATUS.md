@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 18:25 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-09 18:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 19 / 100 (main 4, bounce 15)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 18:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-09 14:35 ET: Veronika Erjavec [main] — stop-loss @ 0.0300 → -0.4348
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Elina Svitolina", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
