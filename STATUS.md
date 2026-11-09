@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 13:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 13:50 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
-- Realized P&L: -0.19
+- Realized P&L: -0.29
 
 ## Open paper positions
-- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
-- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
+- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1300, unrealized +0.0300 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
+- 2026-11-09 13:50 ET: Maria Fernanda Herazo Gonzalez [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-09 13:40 ET: Tatjana Maria [main] — take-profit @ 0.8750 → +0.7500
 - 2026-11-09 12:50 ET: Maria Fernanda Herazo Gonzalez [bounce] — stop-loss @ 0.0100 → -0.0750
 - 2026-11-09 11:50 ET: Dalila Jakupovic [bounce] — stop-loss @ 0.0100 → -0.0875
@@ -18,7 +18,6 @@ Updated: 2026-11-09 13:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-09 09:55 ET: Adolfo Vallejo [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-09 09:35 ET: Tomas Machac [bounce] — settled @ 0.0100 → -0.0857
 - 2026-11-09 08:00 ET: James Duckworth [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-11-09 08:00 ET: Yannick Hanfmann [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Maria Fernanda Herazo Gonzalez", "reason": "stop-loss", "pnl": -0.1}`
