@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T14:25:49.112815-05:00",
+ "updated": "2026-11-09T14:30:56.546150-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-09",
-  "bets": 12,
+  "bets": 13,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
@@ -23,7 +23,20 @@
    "sl": 0.108,
    "opened": "2026-11-09 14:25 ET",
    "mode": "main",
-   "last_bid": 0.27
+   "last_bid": 0.3
+  },
+  {
+   "market": "aec-wta-eliman-vererj-2026-11-09",
+   "game": "wta:Erjavec@Mandlik",
+   "side": "short",
+   "team": "Veronika Erjavec",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-11-09 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.23
   }
  ],
  "paper_history": [
@@ -202,12 +215,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "atp:Dahlin@Etcheverry",
-   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "game": "wta:Erjavec@Mandlik",
+   "market": "aec-wta-eliman-vererj-2026-11-09",
    "side": "short",
-   "team": "Max Dahlin",
-   "ask": 0.27,
-   "qty": 1.8519,
+   "team": "Veronika Erjavec",
+   "ask": 0.23,
+   "qty": 2.1739,
    "stake": 0.5,
    "mode": "main"
   }

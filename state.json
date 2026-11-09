@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 9,
  "realized": -0.3582,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.108,
    "opened": "2026-11-09 14:25 ET",
    "mode": "main",
-   "last_bid": 0.27
+   "last_bid": 0.3
+  },
+  {
+   "market": "aec-wta-eliman-vererj-2026-11-09",
+   "game": "wta:Erjavec@Mandlik",
+   "side": "short",
+   "team": "Veronika Erjavec",
+   "entry": 0.23,
+   "qty": 2.1739,
+   "tp": 0.575,
+   "sl": 0.092,
+   "opened": "2026-11-09 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.23
   }
  ],
  "paper_history": [
@@ -267,6 +280,12 @@
    [
     1794245736.943942,
     0.35
+   ]
+  ],
+  "aec-wta-eliman-vererj-2026-11-09": [
+   [
+    1794252656.2216895,
+    0.23
    ]
   ]
  },
