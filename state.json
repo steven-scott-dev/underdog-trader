@@ -1,9 +1,36 @@
 {
  "date": "2026-11-09",
- "bets": 7,
- "bounce_bets": 6,
+ "bets": 9,
+ "bounce_bets": 8,
  "realized": -0.8632,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "game": "atp:Dahlin@Etcheverry",
+   "side": "short",
+   "team": "Max Dahlin",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  },
+  {
+   "market": "aec-wta-margon-marrib-2026-11-09",
+   "game": "wta:Ribera@Gonzalez",
+   "side": "long",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-09 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -167,6 +194,18 @@
    [
     1794242435.4196131,
     0.08
+   ]
+  ],
+  "aec-atp-tometc-maxdah-2026-11-08": [
+   [
+    1794244540.2958562,
+    0.1
+   ]
+  ],
+  "aec-wta-margon-marrib-2026-11-09": [
+   [
+    1794244541.305457,
+    0.04
    ]
   ]
  },
