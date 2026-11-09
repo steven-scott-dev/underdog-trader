@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-08T22:10:40.504536-05:00",
+ "updated": "2026-11-08T22:15:41.361790-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-08",
   "bets": 37,
   "bounce_bets": 28,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.4684
+  "realized": -0.3684
  },
- "paper_positions": [
-  {
-   "market": "aec-nfl-tb-chi-2026-11-08",
-   "game": "nfl:TB@CHI",
-   "side": "long",
-   "team": "Buccaneers",
-   "entry": 0.095,
-   "qty": 1.0526,
-   "tp": 0.19,
-   "sl": 0.038,
-   "opened": "2026-11-08 20:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.125
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nba-phi-chi-2026-11-08",
-   "game": "nba:PHI@CHI",
-   "side": "short",
-   "team": "Bulls",
-   "entry": 0.2,
-   "qty": 2.5,
-   "tp": 0.5,
-   "sl": 0.08,
-   "opened": "2026-11-08 17:25 ET",
-   "mode": "main",
-   "last_bid": 0.2,
-   "closed": "2026-11-08 17:30 ET",
-   "exit": 0.06,
-   "pnl": -0.35,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nhl-veg-buf-2026-11-08",
    "game": "nhl:VGK@BUF",
@@ -196,8 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-tb-chi-2026-11-08",
+   "game": "nfl:TB@CHI",
+   "side": "long",
+   "team": "Buccaneers",
+   "entry": 0.095,
+   "qty": 1.0526,
+   "tp": 0.19,
+   "sl": 0.038,
+   "opened": "2026-11-08 20:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.125,
+   "closed": "2026-11-08 22:15 ET",
+   "exit": 0.19,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Buccaneers",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

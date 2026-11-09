@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-08 22:15 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 37 / 100 (main 9, bounce 28)
-- Realized P&L: -0.47
+- Realized P&L: -0.37
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1250, unrealized +0.0316 (TP 0.1900 / SL 0.0380)
+- _none_
 
 ## Recent history
+- 2026-11-08 22:15 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
 - 2026-11-08 22:05 ET: Penguins [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-08 21:25 ET: Bucks [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-11-08 20:35 ET: Nets [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -17,7 +18,6 @@ Updated: 2026-11-08 22:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-08 18:45 ET: Patriots [bounce] — stop-loss @ 0.0300 → -0.0657
 - 2026-11-08 18:35 ET: Cardinals [bounce] — stop-loss @ 0.0325 → -0.0618
 - 2026-11-08 18:30 ET: Raiders [bounce] — stop-loss @ 0.0150 → -0.0727
-- 2026-11-08 17:55 ET: Raiders [bounce] — stop-loss @ 0.0325 → -0.0618
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Buccaneers", "reason": "take-profit", "pnl": 0.1}`
