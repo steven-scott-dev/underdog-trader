@@ -2,8 +2,9 @@
  "date": "2026-11-09",
  "bets": 1,
  "bounce_bets": 0,
- "realized": 0.0,
- "paper_positions": [
+ "realized": -0.5,
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
    "game": "wta:Linette@Tjen",
@@ -15,10 +16,13 @@
    "sl": 0.092,
    "opened": "2026-11-09 02:50 ET",
    "mode": "main",
-   "last_bid": 0.15
+   "last_bid": 0.15,
+   "closed": "2026-11-09 03:30 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_history": [],
  "px_hist": {
   "aec-wta-jantje-maglin-2026-11-08": [
@@ -27,5 +31,8 @@
     0.23
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-jantje-maglin-2026-11-08": 1794214835.4864328
  }
 }
