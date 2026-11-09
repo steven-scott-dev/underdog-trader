@@ -1,8 +1,8 @@
 {
  "date": "2026-11-08",
- "bets": 36,
- "bounce_bets": 27,
- "realized": -0.322,
+ "bets": 37,
+ "bounce_bets": 28,
+ "realized": -0.397,
  "paper_positions": [
   {
    "market": "aec-nfl-tb-chi-2026-11-08",
@@ -15,20 +15,20 @@
    "sl": 0.038,
    "opened": "2026-11-08 20:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1125
+   "last_bid": 0.085
   },
   {
-   "market": "aec-nba-bos-mil-2026-11-08",
-   "game": "nba:BOS@MIL",
-   "side": "short",
-   "team": "Bucks",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-08 20:55 ET",
+   "market": "aec-nhl-pit-ana-2026-11-08",
+   "game": "nhl:PIT@ANA",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-08 21:25 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.07
   }
  ],
  "paper_history": [
@@ -609,6 +609,23 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bos-mil-2026-11-08",
+   "game": "nba:BOS@MIL",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-08 20:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-08 21:25 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -772,6 +789,12 @@
     1794189337.999082,
     0.08
    ]
+  ],
+  "aec-nhl-pit-ana-2026-11-08": [
+   [
+    1794191149.5851624,
+    0.07
+   ]
   ]
  },
  "cooldowns": {
@@ -795,6 +818,7 @@
   "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341,
   "aec-nfl-gb-ne-2026-11-08": 1794183338.535117,
   "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848,
-  "aec-nba-bkn-dal-2026-11-08": 1794189940.012898
+  "aec-nba-bkn-dal-2026-11-08": 1794189940.012898,
+  "aec-nba-bos-mil-2026-11-08": 1794192937.820369
  }
 }
