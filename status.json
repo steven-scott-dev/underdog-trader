@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T07:25:38.929605-05:00",
+ "updated": "2026-11-09T07:30:34.072902-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-09",
   "bets": 2,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-09 07:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -46,17 +46,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Hanfmann@Michelsen",
-   "market": "aec-atp-alemic-yanhan-2026-11-08",
-   "side": "short",
-   "team": "Yannick Hanfmann",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
