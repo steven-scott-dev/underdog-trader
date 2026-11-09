@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T15:30:40.363530-05:00",
+ "updated": "2026-11-09T15:35:37.943620-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-09",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-09 15:00 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.05
   },
   {
    "market": "aec-atp-lbe-tobsam-2026-11-09",
@@ -36,7 +36,7 @@
    "sl": 0.02,
    "opened": "2026-11-09 15:30 ET",
    "mode": "bounce",
-   "last_bid": 0.05
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Samuel@Borg",
-   "market": "aec-atp-lbe-tobsam-2026-11-09",
-   "side": "long",
-   "team": "Leo Borg",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

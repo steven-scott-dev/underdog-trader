@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 15:30 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-09 15:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
 - Realized P&L: -1.24
 
 ## Open paper positions
-- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
-- **Leo Borg** (long/bounce) — 2.0 @ 0.0500, now ~0.0500, unrealized +0.0000 (TP 0.1000 / SL 0.0200)
+- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0500, unrealized -0.0500 (TP 0.2000 / SL 0.0400)
+- **Leo Borg** (long/bounce) — 2.0 @ 0.0500, now ~0.0400, unrealized -0.0200 (TP 0.1000 / SL 0.0200)
 
 ## Recent history
 - 2026-11-09 15:25 ET: Tamara Zidansek [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -21,4 +21,4 @@ Updated: 2026-11-09 15:30 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-09 12:50 ET: Maria Fernanda Herazo Gonzalez [bounce] — stop-loss @ 0.0100 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Samuel@Borg", "market": "aec-atp-lbe-tobsam-2026-11-09", "side": "long", "team": "Leo Borg", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
