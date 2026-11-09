@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-09T16:05:45.047987-05:00",
+ "updated": "2026-11-09T16:10:50.800782-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-09",
   "bets": 17,
   "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.317
+  "realized": -1.387
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-ireesc-yulliz-2026-11-09",
-   "game": "wta:Lizarazo@Burillo",
-   "side": "short",
-   "team": "Yuliana Lizarazo",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 15:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-laupig-daljak-2026-11-09",
-   "game": "wta:Jakupovic@Pigossi",
-   "side": "short",
-   "team": "Dalila Jakupovic",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-09 11:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.04,
-   "closed": "2026-11-09 11:50 ET",
-   "exit": 0.01,
-   "pnl": -0.0875,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-margon-marrib-2026-11-09",
    "game": "wta:Ribera@Gonzalez",
@@ -196,8 +165,32 @@
    "exit": 0.01,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-ireesc-yulliz-2026-11-09",
+   "game": "wta:Lizarazo@Burillo",
+   "side": "short",
+   "team": "Yuliana Lizarazo",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 15:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-09 16:10 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Yuliana Lizarazo",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }
