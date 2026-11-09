@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-08T19:15:41.533147-05:00",
+ "updated": "2026-11-08T19:20:43.208807-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.2,
+ "duration_s": 4.3,
  "daily": {
   "date": "2026-11-08",
   "bets": 33,
   "bounce_bets": 24,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.1148
+  "realized": -0.2506
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-cocgau-jespeg-2026-11-08",
-   "game": "wta:Pegula@Gauff",
-   "side": "short",
-   "team": "Jessica Pegula",
-   "entry": 0.26,
-   "qty": 1.9231,
-   "tp": 0.65,
-   "sl": 0.104,
-   "opened": "2026-11-08 19:10 ET",
-   "mode": "main",
-   "last_bid": 0.16
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-nfl-dal-ind-2026-11-08",
-   "game": "nfl:DAL@IND",
-   "side": "short",
-   "team": "Colts",
-   "entry": 0.3525,
-   "qty": 1.4184,
-   "tp": 0.8812,
-   "sl": 0.141,
-   "opened": "2026-11-08 16:25 ET",
-   "mode": "main",
-   "last_bid": 0.3525,
-   "closed": "2026-11-08 16:30 ET",
-   "exit": 0.085,
-   "pnl": -0.3794,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-markos-linnos-2026-11-08",
    "game": "wta:Noskova@Kostyuk",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0657,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-cocgau-jespeg-2026-11-08",
+   "game": "wta:Pegula@Gauff",
+   "side": "short",
+   "team": "Jessica Pegula",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "tp": 0.65,
+   "sl": 0.104,
+   "opened": "2026-11-08 19:10 ET",
+   "mode": "main",
+   "last_bid": 0.16,
+   "closed": "2026-11-08 19:20 ET",
+   "exit": 0.07,
+   "pnl": -0.3654,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Jessica Pegula",
+   "reason": "stop-loss",
+   "pnl": -0.3654
+  }
+ ]
 }

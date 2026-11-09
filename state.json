@@ -2,22 +2,8 @@
  "date": "2026-11-08",
  "bets": 33,
  "bounce_bets": 24,
- "realized": 0.1148,
- "paper_positions": [
-  {
-   "market": "aec-wta-cocgau-jespeg-2026-11-08",
-   "game": "wta:Pegula@Gauff",
-   "side": "short",
-   "team": "Jessica Pegula",
-   "entry": 0.26,
-   "qty": 1.9231,
-   "tp": 0.65,
-   "sl": 0.104,
-   "opened": "2026-11-08 19:10 ET",
-   "mode": "main",
-   "last_bid": 0.16
-  }
- ],
+ "realized": -0.2506,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -562,6 +548,23 @@
    "exit": 0.03,
    "pnl": -0.0657,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-cocgau-jespeg-2026-11-08",
+   "game": "wta:Pegula@Gauff",
+   "side": "short",
+   "team": "Jessica Pegula",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "tp": 0.65,
+   "sl": 0.104,
+   "opened": "2026-11-08 19:10 ET",
+   "mode": "main",
+   "last_bid": 0.16,
+   "closed": "2026-11-08 19:20 ET",
+   "exit": 0.07,
+   "pnl": -0.3654,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -728,6 +731,7 @@
   "aec-nba-phi-chi-2026-11-08": 1794178834.0098302,
   "aec-nfl-lv-sf-2026-11-08": 1794182438.4631064,
   "aec-nfl-ari-sea-2026-11-08": 1794182735.0627341,
-  "aec-nfl-gb-ne-2026-11-08": 1794183338.535117
+  "aec-nfl-gb-ne-2026-11-08": 1794183338.535117,
+  "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848
  }
 }
