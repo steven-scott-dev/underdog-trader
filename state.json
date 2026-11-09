@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 5,
  "bounce_bets": 4,
- "realized": -0.5857,
- "paper_positions": [
-  {
-   "market": "aec-atp-adoval-ugohum-2026-11-08",
-   "game": "atp:Humbert@Vallejo",
-   "side": "long",
-   "team": "Adolfo Vallejo",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-09 09:50 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": -0.6857,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -86,6 +72,23 @@
    "exit": 0.01,
    "pnl": -0.0857,
    "reason": "settled"
+  },
+  {
+   "market": "aec-atp-adoval-ugohum-2026-11-08",
+   "game": "atp:Humbert@Vallejo",
+   "side": "long",
+   "team": "Adolfo Vallejo",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-09 09:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-09 09:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -123,6 +126,7 @@
  },
  "cooldowns": {
   "aec-wta-jantje-maglin-2026-11-08": 1794214835.4864328,
-  "aec-atp-jamduc-camnor-2026-11-08": 1794231038.4225817
+  "aec-atp-jamduc-camnor-2026-11-08": 1794231038.4225817,
+  "aec-atp-adoval-ugohum-2026-11-08": 1794237953.0031233
  }
 }
