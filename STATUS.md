@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 13:31 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 13:35 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
 - Realized P&L: -0.94
 
 ## Open paper positions
-- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1100, unrealized +0.0100 (TP 0.2000 / SL 0.0400)
-- **Tatjana Maria** (long/main) — 1.4286 @ 0.3500, now ~0.6500, unrealized +0.4286 (TP 0.8750 / SL 0.1400)
-- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Tatjana Maria** (long/main) — 1.4286 @ 0.3500, now ~0.8200, unrealized +0.6714 (TP 0.8750 / SL 0.1400)
+- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-09 12:50 ET: Maria Fernanda Herazo Gonzalez [bounce] — stop-loss @ 0.0100 → -0.0750
@@ -22,4 +22,4 @@ Updated: 2026-11-09 13:31 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-09 03:30 ET: Janice Tjen [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Ribera@Gonzalez", "market": "aec-wta-margon-marrib-2026-11-09", "side": "long", "team": "Maria Fernanda Herazo Gonzalez", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
