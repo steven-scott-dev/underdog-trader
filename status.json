@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T14:40:56.205633-05:00",
+ "updated": "2026-11-09T14:45:50.818331-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-09",
   "bets": 13,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Max Dahlin",
-   "reason": "stop-loss",
-   "pnl": -0.4815
-  }
- ]
+ "actions": []
 }

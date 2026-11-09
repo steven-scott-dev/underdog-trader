@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 14:40 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 14:45 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 13 / 100 (main 4, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 14:40 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-09 11:45 ET: Varvara Lepchenko [bounce] — stop-loss @ 0.0100 → -0.0900
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Max Dahlin", "reason": "stop-loss", "pnl": -0.4815}`
+- _none_
