@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T11:50:41.448425-05:00",
+ "updated": "2026-11-09T11:55:35.091784-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-09",
   "bets": 7,
@@ -134,12 +134,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Dalila Jakupovic",
-   "reason": "stop-loss",
-   "pnl": -0.0875
-  }
- ]
+ "actions": []
 }
