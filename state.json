@@ -15,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-11-08 22:30 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.1
   },
   {
    "market": "aec-nfl-tb-chi-2026-11-08",
@@ -28,7 +28,7 @@
    "sl": 0.038,
    "opened": "2026-11-08 22:45 ET",
    "mode": "bounce",
-   "last_bid": 0.1025
+   "last_bid": 0.095
   }
  ],
  "paper_history": [
