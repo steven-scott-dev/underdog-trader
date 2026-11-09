@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 11,
  "bounce_bets": 9,
- "realized": -0.2882,
- "paper_positions": [
-  {
-   "market": "aec-atp-tometc-maxdah-2026-11-08",
-   "game": "atp:Dahlin@Etcheverry",
-   "side": "short",
-   "team": "Max Dahlin",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  }
- ],
+ "realized": -0.3582,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -188,6 +174,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "game": "atp:Dahlin@Etcheverry",
+   "side": "short",
+   "team": "Max Dahlin",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-11-09 13:55 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -259,6 +262,7 @@
   "aec-atp-adoval-ugohum-2026-11-08": 1794237953.0031233,
   "aec-wta-polher-varlep-2026-11-09": 1794244536.506326,
   "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628,
-  "aec-wta-margon-marrib-2026-11-09": 1794252051.0598397
+  "aec-wta-margon-marrib-2026-11-09": 1794252051.0598397,
+  "aec-atp-tometc-maxdah-2026-11-08": 1794252343.2921877
  }
 }
