@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 21:50 ET · Mode: **PAPER** · Result: OK (3.9s)
+Updated: 2026-11-08 21:55 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 37 / 100 (main 9, bounce 28)
 - Realized P&L: -0.40
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1325, unrealized +0.0395 (TP 0.1900 / SL 0.0380)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1050, unrealized +0.0105 (TP 0.1900 / SL 0.0380)
 - **Penguins** (long/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
