@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 17:10 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-09 17:15 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 17:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-09 13:55 ET: Max Dahlin [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Karolina Muchova", "reason": "take-profit", "pnl": 0.1}`
+- _none_
