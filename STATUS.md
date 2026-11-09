@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:40 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-08 22:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 38 / 100 (main 9, bounce 29)
+- Bets placed: 39 / 100 (main 9, bounce 30)
 - Realized P&L: -0.37
 
 ## Open paper positions
-- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0700, unrealized -0.0222 (TP 0.1800 / SL 0.0360)
+- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.1500, unrealized +0.0667 (TP 0.1800 / SL 0.0360)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0950, unrealized +0.0000 (TP 0.1900 / SL 0.0380)
 
 ## Recent history
 - 2026-11-08 22:15 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
@@ -20,4 +21,4 @@ Updated: 2026-11-08 22:40 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-08 18:30 ET: Raiders [bounce] — stop-loss @ 0.0150 → -0.0727
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:TB@CHI", "market": "aec-nfl-tb-chi-2026-11-08", "side": "long", "team": "Buccaneers", "ask": 0.095, "qty": 1.0526, "stake": 0.1, "mode": "bounce"}`
