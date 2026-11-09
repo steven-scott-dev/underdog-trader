@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:05:50.886191-05:00",
+ "updated": "2026-11-09T17:10:41.130875-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.3,
@@ -9,41 +9,10 @@
   "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.387
+  "realized": -1.287
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-arysab-karmuc-2026-11-09",
-   "game": "wta:Muchova@Sabalenka",
-   "side": "short",
-   "team": "Karolina Muchova",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-09 16:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-margon-marrib-2026-11-09",
-   "game": "wta:Ribera@Gonzalez",
-   "side": "long",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-09 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.02,
-   "closed": "2026-11-09 12:50 ET",
-   "exit": 0.01,
-   "pnl": -0.075,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-tatmar-luigio-2026-11-09",
    "game": "wta:Giovannini@Maria",
@@ -196,8 +165,32 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-arysab-karmuc-2026-11-09",
+   "game": "wta:Muchova@Sabalenka",
+   "side": "short",
+   "team": "Karolina Muchova",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-09 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-09 17:10 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Karolina Muchova",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }

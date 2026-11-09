@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 18,
  "bounce_bets": 14,
- "realized": -1.387,
- "paper_positions": [
-  {
-   "market": "aec-wta-arysab-karmuc-2026-11-09",
-   "game": "wta:Muchova@Sabalenka",
-   "side": "short",
-   "team": "Karolina Muchova",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-09 16:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "realized": -1.287,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -307,6 +293,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-arysab-karmuc-2026-11-09",
+   "game": "wta:Muchova@Sabalenka",
+   "side": "short",
+   "team": "Karolina Muchova",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-09 16:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-09 17:10 ET",
+   "exit": 0.14,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
