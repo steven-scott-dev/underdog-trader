@@ -2,7 +2,7 @@
  "date": "2026-11-09",
  "bets": 10,
  "bounce_bets": 8,
- "realized": -0.8632,
+ "realized": -0.9382,
  "paper_positions": [
   {
    "market": "aec-atp-tometc-maxdah-2026-11-08",
@@ -18,19 +18,6 @@
    "last_bid": 0.08
   },
   {
-   "market": "aec-wta-margon-marrib-2026-11-09",
-   "game": "wta:Ribera@Gonzalez",
-   "side": "long",
-   "team": "Maria Fernanda Herazo Gonzalez",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-09 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  },
-  {
    "market": "aec-wta-tatmar-luigio-2026-11-09",
    "game": "wta:Giovannini@Maria",
    "side": "long",
@@ -41,7 +28,7 @@
    "sl": 0.14,
    "opened": "2026-11-09 12:35 ET",
    "mode": "main",
-   "last_bid": 0.4
+   "last_bid": 0.36
   }
  ],
  "paper_history": [
@@ -163,6 +150,23 @@
    "exit": 0.01,
    "pnl": -0.0875,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-margon-marrib-2026-11-09",
+   "game": "wta:Ribera@Gonzalez",
+   "side": "long",
+   "team": "Maria Fernanda Herazo Gonzalez",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-09 12:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-09 12:50 ET",
+   "exit": 0.01,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -233,6 +237,7 @@
   "aec-atp-jamduc-camnor-2026-11-08": 1794231038.4225817,
   "aec-atp-adoval-ugohum-2026-11-08": 1794237953.0031233,
   "aec-wta-polher-varlep-2026-11-09": 1794244536.506326,
-  "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628
+  "aec-wta-laupig-daljak-2026-11-09": 1794244840.6595628,
+  "aec-wta-margon-marrib-2026-11-09": 1794248437.0214007
  }
 }
