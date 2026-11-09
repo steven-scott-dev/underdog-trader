@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 12:25 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-09 12:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 9 / 100 (main 1, bounce 8)
 - Realized P&L: -0.86
 
 ## Open paper positions
-- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
-- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Max Dahlin** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Maria Fernanda Herazo Gonzalez** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-09 11:50 ET: Dalila Jakupovic [bounce] — stop-loss @ 0.0100 → -0.0875
