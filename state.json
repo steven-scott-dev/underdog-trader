@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
- "bets": 2,
- "bounce_bets": 1,
+ "bets": 3,
+ "bounce_bets": 2,
  "realized": -0.5,
  "paper_positions": [
   {
@@ -15,7 +15,20 @@
    "sl": 0.036,
    "opened": "2026-11-09 07:25 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-atp-jamduc-camnor-2026-11-08",
+   "game": "atp:Norrie@Duckworth",
+   "side": "long",
+   "team": "James Duckworth",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-09 07:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -49,6 +62,12 @@
    [
     1794227138.500478,
     0.09
+   ]
+  ],
+  "aec-atp-jamduc-camnor-2026-11-08": [
+   [
+    1794228937.0292423,
+    0.04
    ]
   ]
  },
