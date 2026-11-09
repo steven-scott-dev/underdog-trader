@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 08:00 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-09 08:05 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 3 / 100 (main 1, bounce 2)
@@ -15,5 +15,4 @@ Updated: 2026-11-09 08:00 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-09 03:30 ET: Janice Tjen [main] — stop-loss @ 0.0000 → -0.5000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Yannick Hanfmann", "reason": "take-profit", "pnl": 0.1}`
-- `{"type": "paper_close", "team": "James Duckworth", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
