@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 22:25 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-08 22:30 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
-- Bets placed: 37 / 100 (main 9, bounce 28)
+- Bets placed: 38 / 100 (main 9, bounce 29)
 - Realized P&L: -0.37
 
 ## Open paper positions
-- _none_
+- **Kings** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-08 22:15 ET: Buccaneers [bounce] — take-profit @ 0.1900 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-08 22:25 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-08 18:30 ET: Raiders [bounce] — stop-loss @ 0.0150 → -0.0727
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:MIA@SAC", "market": "aec-nba-mia-sac-2026-11-08", "side": "short", "team": "Kings", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

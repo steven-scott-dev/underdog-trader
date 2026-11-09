@@ -1,9 +1,23 @@
 {
  "date": "2026-11-08",
- "bets": 37,
- "bounce_bets": 28,
+ "bets": 38,
+ "bounce_bets": 29,
  "realized": -0.3684,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-mia-sac-2026-11-08",
+   "game": "nba:MIA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-08 22:30 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-van-edm-2026-11-07",
@@ -801,6 +815,12 @@
    [
     1794191149.5851624,
     0.07
+   ]
+  ],
+  "aec-nba-mia-sac-2026-11-08": [
+   [
+    1794195037.495003,
+    0.09
    ]
   ]
  },
