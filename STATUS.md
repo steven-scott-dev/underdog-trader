@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 20:55 ET · Mode: **PAPER** · Result: OK (2.4s)
+Updated: 2026-11-08 21:00 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 36 / 100 (main 9, bounce 27)
 - Realized P&L: -0.32
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.1425, unrealized +0.0500 (TP 0.1900 / SL 0.0380)
-- **Bucks** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0950, unrealized +0.0000 (TP 0.1900 / SL 0.0380)
+- **Bucks** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-08 20:35 ET: Nets [bounce] — stop-loss @ 0.0200 → -0.0714
@@ -21,4 +21,4 @@ Updated: 2026-11-08 20:55 ET · Mode: **PAPER** · Result: OK (2.4s)
 - 2026-11-08 17:30 ET: Bulls [main] — stop-loss @ 0.0600 → -0.3500
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:BOS@MIL", "market": "aec-nba-bos-mil-2026-11-08", "side": "short", "team": "Bucks", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
