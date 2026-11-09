@@ -1,9 +1,23 @@
 {
  "date": "2026-11-09",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 9,
  "realized": -0.3582,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "game": "atp:Dahlin@Etcheverry",
+   "side": "short",
+   "team": "Max Dahlin",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-09 14:25 ET",
+   "mode": "main",
+   "last_bid": 0.27
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -239,8 +253,8 @@
   ],
   "aec-atp-tometc-maxdah-2026-11-08": [
    [
-    1794244540.2958562,
-    0.1
+    1794252348.7220485,
+    0.27
    ]
   ],
   "aec-wta-margon-marrib-2026-11-09": [

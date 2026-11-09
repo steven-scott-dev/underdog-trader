@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-09T14:20:45.968536-05:00",
+ "updated": "2026-11-09T14:25:49.112815-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.2,
  "daily": {
   "date": "2026-11-09",
-  "bets": 11,
+  "bets": 12,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.3582
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "game": "atp:Dahlin@Etcheverry",
+   "side": "short",
+   "team": "Max Dahlin",
+   "entry": 0.27,
+   "qty": 1.8519,
+   "tp": 0.675,
+   "sl": 0.108,
+   "opened": "2026-11-09 14:25 ET",
+   "mode": "main",
+   "last_bid": 0.27
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-atp-alemic-yanhan-2026-11-08",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Dahlin@Etcheverry",
+   "market": "aec-atp-tometc-maxdah-2026-11-08",
+   "side": "short",
+   "team": "Max Dahlin",
+   "ask": 0.27,
+   "qty": 1.8519,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

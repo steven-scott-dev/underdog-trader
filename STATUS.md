@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 14:20 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-09 14:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 11 / 100 (main 2, bounce 9)
+- Bets placed: 12 / 100 (main 3, bounce 9)
 - Realized P&L: -0.36
 
 ## Open paper positions
-- _none_
+- **Max Dahlin** (short/main) — 1.8519 @ 0.2700, now ~0.2700, unrealized +0.0000 (TP 0.6750 / SL 0.1080)
 
 ## Recent history
 - 2026-11-09 13:55 ET: Max Dahlin [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-11-09 14:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-09 09:35 ET: Tomas Machac [bounce] — settled @ 0.0100 → -0.0857
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Dahlin@Etcheverry", "market": "aec-atp-tometc-maxdah-2026-11-08", "side": "short", "team": "Max Dahlin", "ask": 0.27, "qty": 1.8519, "stake": 0.5, "mode": "main"}`
