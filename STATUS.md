@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 15:05 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 15:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 15 / 100 (main 4, bounce 11)
 - Realized P&L: -1.17
 
 ## Open paper positions
-- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0600, unrealized -0.0400 (TP 0.2000 / SL 0.0400)
+- **Yuliana Lizarazo** (short/bounce) — 1.0 @ 0.1000, now ~0.0400, unrealized -0.0600 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-09 15:05 ET: Tamara Zidansek [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-09 15:05 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-09 11:50 ET: Dalila Jakupovic [bounce] — stop-loss @ 0.0100 → -0.0875
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tamara Zidansek", "reason": "take-profit", "pnl": 0.1}`
+- _none_
