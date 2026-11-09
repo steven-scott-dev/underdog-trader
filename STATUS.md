@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 18:10 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-09 18:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 18 / 100 (main 4, bounce 14)
+- Bets placed: 19 / 100 (main 4, bounce 15)
 - Realized P&L: -1.29
 
 ## Open paper positions
-- _none_
+- **Elina Svitolina** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-09 17:10 ET: Karolina Muchova [bounce] — take-profit @ 0.1400 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-09 18:10 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-09 13:55 ET: Max Dahlin [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Svitolina@Andreeva", "market": "aec-wta-mirand-elisvi-2026-11-09", "side": "short", "team": "Elina Svitolina", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`

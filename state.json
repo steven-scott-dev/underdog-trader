@@ -1,9 +1,23 @@
 {
  "date": "2026-11-09",
- "bets": 18,
- "bounce_bets": 14,
+ "bets": 19,
+ "bounce_bets": 15,
  "realized": -1.287,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-mirand-elisvi-2026-11-09",
+   "game": "wta:Svitolina@Andreeva",
+   "side": "short",
+   "team": "Elina Svitolina",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -402,6 +416,12 @@
    [
     1794260442.7761908,
     0.07
+   ]
+  ],
+  "aec-wta-mirand-elisvi-2026-11-09": [
+   [
+    1794266152.9620867,
+    0.1
    ]
   ]
  },
