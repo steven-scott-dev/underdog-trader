@@ -2,7 +2,7 @@
  "date": "2026-11-08",
  "bets": 40,
  "bounce_bets": 30,
- "realized": -0.2684,
+ "realized": -0.6642,
  "paper_positions": [
   {
    "market": "aec-nfl-tb-chi-2026-11-08",
@@ -15,20 +15,7 @@
    "sl": 0.038,
    "opened": "2026-11-08 22:45 ET",
    "mode": "bounce",
-   "last_bid": 0.05
-  },
-  {
-   "market": "aec-nba-mia-sac-2026-11-08",
-   "game": "nba:MIA@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.24,
-   "qty": 2.0833,
-   "tp": 0.6,
-   "sl": 0.096,
-   "opened": "2026-11-08 23:10 ET",
-   "mode": "main",
-   "last_bid": 0.11
+   "last_bid": 0.1525
   }
  ],
  "paper_history": [
@@ -677,6 +664,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-mia-sac-2026-11-08",
+   "game": "nba:MIA@SAC",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "tp": 0.6,
+   "sl": 0.096,
+   "opened": "2026-11-08 23:10 ET",
+   "mode": "main",
+   "last_bid": 0.11,
+   "closed": "2026-11-08 23:25 ET",
+   "exit": 0.05,
+   "pnl": -0.3958,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -877,6 +881,7 @@
   "aec-wta-cocgau-jespeg-2026-11-08": 1794185439.4945848,
   "aec-nba-bkn-dal-2026-11-08": 1794189940.012898,
   "aec-nba-bos-mil-2026-11-08": 1794192937.820369,
-  "aec-nhl-pit-ana-2026-11-08": 1794195337.4734344
+  "aec-nhl-pit-ana-2026-11-08": 1794195337.4734344,
+  "aec-nba-mia-sac-2026-11-08": 1794200133.8494747
  }
 }
