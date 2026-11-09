@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 13:55 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-09 14:00 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 11 / 100 (main 2, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 13:55 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-09 09:35 ET: Tomas Machac [bounce] — settled @ 0.0100 → -0.0857
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Max Dahlin", "reason": "stop-loss", "pnl": -0.07}`
+- _none_
