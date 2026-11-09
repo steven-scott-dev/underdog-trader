@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-08 23:10 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-08 23:15 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 40 / 100 (main 10, bounce 30)
 - Realized P&L: -0.27
 
 ## Open paper positions
-- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0725, unrealized -0.0237 (TP 0.1900 / SL 0.0380)
-- **Kings** (short/main) — 2.0833 @ 0.2400, now ~0.2400, unrealized +0.0000 (TP 0.6000 / SL 0.0960)
+- **Buccaneers** (long/bounce) — 1.0526 @ 0.0950, now ~0.0850, unrealized -0.0105 (TP 0.1900 / SL 0.0380)
+- **Kings** (short/main) — 2.0833 @ 0.2400, now ~0.3600, unrealized +0.2500 (TP 0.6000 / SL 0.0960)
 
 ## Recent history
 - 2026-11-08 23:05 ET: Kings [bounce] — take-profit @ 0.1800 → +0.1000
@@ -21,4 +21,4 @@ Updated: 2026-11-08 23:10 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-08 18:35 ET: Cardinals [bounce] — stop-loss @ 0.0325 → -0.0618
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MIA@SAC", "market": "aec-nba-mia-sac-2026-11-08", "side": "short", "team": "Kings", "ask": 0.24, "qty": 2.0833, "stake": 0.5, "mode": "main"}`
+- _none_
