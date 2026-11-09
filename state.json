@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 19,
  "bounce_bets": 15,
- "realized": -1.287,
- "paper_positions": [
-  {
-   "market": "aec-wta-mirand-elisvi-2026-11-09",
-   "game": "wta:Svitolina@Andreeva",
-   "side": "short",
-   "team": "Elina Svitolina",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 18:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "realized": -1.357,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -324,6 +310,23 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-mirand-elisvi-2026-11-09",
+   "game": "wta:Svitolina@Andreeva",
+   "side": "short",
+   "team": "Elina Svitolina",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-09 18:25 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -436,6 +439,7 @@
   "aec-wta-eliman-vererj-2026-11-09": 1794254746.811258,
   "aec-wta-tamzid-julgra-2026-11-09": 1794257734.1589918,
   "aec-atp-lbe-tobsam-2026-11-09": 1794259536.4749074,
-  "aec-wta-ireesc-yulliz-2026-11-09": 1794260449.4797845
+  "aec-wta-ireesc-yulliz-2026-11-09": 1794260449.4797845,
+  "aec-wta-mirand-elisvi-2026-11-09": 1794268546.9207802
  }
 }

@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-09T18:20:56.001192-05:00",
+ "updated": "2026-11-09T18:25:47.530243-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.7,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-09",
   "bets": 19,
   "bounce_bets": 15,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.287
+  "realized": -1.357
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-mirand-elisvi-2026-11-09",
-   "game": "wta:Svitolina@Andreeva",
-   "side": "short",
-   "team": "Elina Svitolina",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 18:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-tatmar-luigio-2026-11-09",
-   "game": "wta:Giovannini@Maria",
-   "side": "long",
-   "team": "Tatjana Maria",
-   "entry": 0.35,
-   "qty": 1.4286,
-   "tp": 0.875,
-   "sl": 0.14,
-   "opened": "2026-11-09 12:35 ET",
-   "mode": "main",
-   "last_bid": 0.82,
-   "closed": "2026-11-09 13:40 ET",
-   "exit": 0.875,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-margon-marrib-2026-11-09",
    "game": "wta:Ribera@Gonzalez",
@@ -196,8 +165,32 @@
    "exit": 0.14,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-mirand-elisvi-2026-11-09",
+   "game": "wta:Svitolina@Andreeva",
+   "side": "short",
+   "team": "Elina Svitolina",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-09 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-09 18:25 ET",
+   "exit": 0.03,
+   "pnl": -0.07,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Elina Svitolina",
+   "reason": "stop-loss",
+   "pnl": -0.07
+  }
+ ]
 }

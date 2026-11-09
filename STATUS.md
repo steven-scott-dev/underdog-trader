@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 18:20 ET · Mode: **PAPER** · Result: OK (0.7s)
+Updated: 2026-11-09 18:25 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 19 / 100 (main 4, bounce 15)
-- Realized P&L: -1.29
+- Realized P&L: -1.36
 
 ## Open paper positions
-- **Elina Svitolina** (short/bounce) — 1.0 @ 0.1000, now ~0.0800, unrealized -0.0200 (TP 0.2000 / SL 0.0400)
+- _none_
 
 ## Recent history
+- 2026-11-09 18:25 ET: Elina Svitolina [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-11-09 17:10 ET: Karolina Muchova [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-11-09 16:10 ET: Yuliana Lizarazo [bounce] — stop-loss @ 0.0300 → -0.0700
 - 2026-11-09 15:55 ET: Leo Borg [bounce] — stop-loss @ 0.0100 → -0.0800
@@ -17,7 +18,6 @@ Updated: 2026-11-09 18:20 ET · Mode: **PAPER** · Result: OK (0.7s)
 - 2026-11-09 15:05 ET: Tamara Zidansek [bounce] — take-profit @ 0.1400 → +0.1000
 - 2026-11-09 14:40 ET: Max Dahlin [main] — stop-loss @ 0.0100 → -0.4815
 - 2026-11-09 14:35 ET: Veronika Erjavec [main] — stop-loss @ 0.0300 → -0.4348
-- 2026-11-09 13:55 ET: Max Dahlin [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Elina Svitolina", "reason": "stop-loss", "pnl": -0.07}`
