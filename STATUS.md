@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 12:09 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-10 12:15 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 9 / 100 (main 3, bounce 6)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 12:09 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-10 07:50 ET: Adrian Mannarino [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Julia Riera", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
