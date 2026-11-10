@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-09T22:15:49.396098-05:00",
+ "updated": "2026-11-09T22:20:46.439962-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 11.6,
+ "duration_s": 11.8,
  "daily": {
   "date": "2026-11-09",
   "bets": 22,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.7813
+  "realized": -2.2044
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-ind-dal-2026-11-09",
-   "game": "nba:IND@DAL",
-   "side": "long",
-   "team": "Pacers",
-   "entry": 0.39,
-   "qty": 1.2821,
-   "tp": 0.975,
-   "sl": 0.156,
-   "opened": "2026-11-09 22:00 ET",
-   "mode": "main",
-   "last_bid": 0.27
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-eliman-vererj-2026-11-09",
-   "game": "wta:Erjavec@Mandlik",
-   "side": "short",
-   "team": "Veronika Erjavec",
-   "entry": 0.23,
-   "qty": 2.1739,
-   "tp": 0.575,
-   "sl": 0.092,
-   "opened": "2026-11-09 14:30 ET",
-   "mode": "main",
-   "last_bid": 0.23,
-   "closed": "2026-11-09 14:35 ET",
-   "exit": 0.03,
-   "pnl": -0.4348,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-atp-tometc-maxdah-2026-11-08",
    "game": "atp:Dahlin@Etcheverry",
@@ -196,8 +165,32 @@
    "exit": 0.13,
    "pnl": -0.3243,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-ind-dal-2026-11-09",
+   "game": "nba:IND@DAL",
+   "side": "long",
+   "team": "Pacers",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-11-09 22:00 ET",
+   "mode": "main",
+   "last_bid": 0.27,
+   "closed": "2026-11-09 22:20 ET",
+   "exit": 0.06,
+   "pnl": -0.4231,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Pacers",
+   "reason": "stop-loss",
+   "pnl": -0.4231
+  }
+ ]
 }
