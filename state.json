@@ -2,22 +2,8 @@
  "date": "2026-11-09",
  "bets": 21,
  "bounce_bets": 16,
- "realized": -1.457,
- "paper_positions": [
-  {
-   "market": "aec-nba-mem-tor-2026-11-09",
-   "game": "nba:MEM@TOR",
-   "side": "short",
-   "team": "Raptors",
-   "entry": 0.37,
-   "qty": 1.3514,
-   "tp": 0.925,
-   "sl": 0.148,
-   "opened": "2026-11-09 21:30 ET",
-   "mode": "main",
-   "last_bid": 0.37
-  }
- ],
+ "realized": -1.7813,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -358,6 +344,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-mem-tor-2026-11-09",
+   "game": "nba:MEM@TOR",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-11-09 21:30 ET",
+   "mode": "main",
+   "last_bid": 0.37,
+   "closed": "2026-11-09 21:35 ET",
+   "exit": 0.13,
+   "pnl": -0.3243,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -484,6 +487,7 @@
   "aec-atp-lbe-tobsam-2026-11-09": 1794259536.4749074,
   "aec-wta-ireesc-yulliz-2026-11-09": 1794260449.4797845,
   "aec-wta-mirand-elisvi-2026-11-09": 1794268546.9207802,
-  "aec-nba-cle-cha-2026-11-09": 1794276637.4055262
+  "aec-nba-cle-cha-2026-11-09": 1794276637.4055262,
+  "aec-nba-mem-tor-2026-11-09": 1794279936.856853
  }
 }

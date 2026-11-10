@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-09T21:30:43.537615-05:00",
+ "updated": "2026-11-09T21:35:39.114145-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.6,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-11-09",
   "bets": 21,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.457
+  "realized": -1.7813
  },
- "paper_positions": [
-  {
-   "market": "aec-nba-mem-tor-2026-11-09",
-   "game": "nba:MEM@TOR",
-   "side": "short",
-   "team": "Raptors",
-   "entry": 0.37,
-   "qty": 1.3514,
-   "tp": 0.925,
-   "sl": 0.148,
-   "opened": "2026-11-09 21:30 ET",
-   "mode": "main",
-   "last_bid": 0.37
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-tometc-maxdah-2026-11-08",
-   "game": "atp:Dahlin@Etcheverry",
-   "side": "short",
-   "team": "Max Dahlin",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-09 12:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.13,
-   "closed": "2026-11-09 13:55 ET",
-   "exit": 0.03,
-   "pnl": -0.07,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-eliman-vererj-2026-11-09",
    "game": "wta:Erjavec@Mandlik",
@@ -196,20 +165,32 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-mem-tor-2026-11-09",
+   "game": "nba:MEM@TOR",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-11-09 21:30 ET",
+   "mode": "main",
+   "last_bid": 0.37,
+   "closed": "2026-11-09 21:35 ET",
+   "exit": 0.13,
+   "pnl": -0.3243,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nba:MEM@TOR",
-   "market": "aec-nba-mem-tor-2026-11-09",
-   "side": "short",
+   "type": "paper_close",
    "team": "Raptors",
-   "ask": 0.37,
-   "qty": 1.3514,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.3243
   }
  ]
 }
