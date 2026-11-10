@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 18,
- "bounce_bets": 11,
+ "bets": 19,
+ "bounce_bets": 12,
  "realized": 1.8541,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "game": "wta:Alves@Samson",
+   "side": "long",
+   "team": "Laura Samson",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-10 16:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.06
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -400,6 +414,12 @@
    [
     1794346537.9948833,
     0.07
+   ]
+  ],
+  "aec-wta-lausam-caralv-2026-11-09": [
+   [
+    1794347737.4720411,
+    0.06
    ]
   ]
  },
