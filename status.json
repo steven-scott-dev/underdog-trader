@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T11:28:19.835232-05:00",
+ "updated": "2026-11-10T11:32:20.428517-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-10",
   "bets": 6,
@@ -23,7 +23,7 @@
    "sl": 0.116,
    "opened": "2026-11-10 11:28 ET",
    "mode": "main",
-   "last_bid": 0.29
+   "last_bid": 0.33
   }
  ],
  "paper_history": [
@@ -114,17 +114,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Kecmanovic@Rinderknech",
-   "market": "aec-atp-artrin-miokec-2026-11-08",
-   "side": "short",
-   "team": "Miomir Kecmanovic",
-   "ask": 0.29,
-   "qty": 1.7241,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
