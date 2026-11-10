@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 23:25 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-09 23:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 24 / 100 (main 6, bounce 18)
 - Realized P&L: -2.28
 
 ## Open paper positions
-- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0500, unrealized -0.0444 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-09 23:05 ET: Vikings [bounce] — stop-loss @ 0.0125 → -0.0783
