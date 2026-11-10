@@ -1,30 +1,17 @@
 {
- "updated": "2026-11-10T14:30:36.781565-05:00",
+ "updated": "2026-11-10T14:35:43.392614-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.8,
  "daily": {
   "date": "2026-11-10",
   "bets": 16,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.6384
+  "realized": 2.5717
  },
  "paper_positions": [
-  {
-   "market": "aec-atp-lormus-tobsam-2026-11-10",
-   "game": "atp:Samuel@Musetti",
-   "side": "short",
-   "team": "Toby Samuel",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-10 14:15 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  },
   {
    "market": "aec-wta-katsco-andgar-2026-11-09",
    "game": "wta:Garcia@Scott",
@@ -36,7 +23,7 @@
    "sl": 0.1,
    "opened": "2026-11-10 14:30 ET",
    "mode": "main",
-   "last_bid": 0.25
+   "last_bid": 0.26
   },
   {
    "market": "aec-wta-biaand-rebmas-2026-11-09",
@@ -49,27 +36,10 @@
    "sl": 0.128,
    "opened": "2026-11-10 14:30 ET",
    "mode": "main",
-   "last_bid": 0.32
+   "last_bid": 0.15
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-atp-lorson-quehal-2026-11-10",
-   "game": "atp:Halys@Sonego",
-   "side": "short",
-   "team": "Quentin Halys",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-10 09:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-10 10:01 ET",
-   "exit": 0.16,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-artrin-miokec-2026-11-08",
    "game": "atp:Kecmanovic@Rinderknech",
@@ -222,31 +192,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-lormus-tobsam-2026-11-10",
+   "game": "atp:Samuel@Musetti",
+   "side": "short",
+   "team": "Toby Samuel",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 14:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-10 14:35 ET",
+   "exit": 0.03,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Garcia@Scott",
-   "market": "aec-wta-katsco-andgar-2026-11-09",
-   "side": "long",
-   "team": "Katrina Scott",
-   "ask": 0.25,
-   "qty": 2.0,
-   "stake": 0.5,
-   "mode": "main"
-  },
-  {
-   "type": "buy",
-   "game": "wta:Masarova@Andreescu",
-   "market": "aec-wta-biaand-rebmas-2026-11-09",
-   "side": "short",
-   "team": "Rebeka Masarova",
-   "ask": 0.32,
-   "qty": 1.5625,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Toby Samuel",
+   "reason": "stop-loss",
+   "pnl": -0.0667
   }
  ]
 }
