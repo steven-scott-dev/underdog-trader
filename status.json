@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-10T16:55:37.685204-05:00",
+ "updated": "2026-11-10T17:00:36.334794-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-10",
   "bets": 19,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.8541
+  "realized": 1.9541
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-lausam-caralv-2026-11-09",
-   "game": "wta:Alves@Samson",
-   "side": "long",
-   "team": "Laura Samson",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-10 16:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-alitub-julrie-2026-11-09",
-   "game": "wta:Riera@Tubello",
-   "side": "short",
-   "team": "Julia Riera",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-10 12:04 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-10 12:09 ET",
-   "exit": 0.02,
-   "pnl": -0.0667,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-lucbro-julpar-2026-11-09",
    "game": "wta:Pareja@Bronzetti",
@@ -196,20 +165,32 @@
    "exit": 0.02,
    "pnl": -0.0714,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "game": "wta:Alves@Samson",
+   "side": "long",
+   "team": "Laura Samson",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-10 16:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-10 17:00 ET",
+   "exit": 0.12,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Alves@Samson",
-   "market": "aec-wta-lausam-caralv-2026-11-09",
-   "side": "long",
+   "type": "paper_close",
    "team": "Laura Samson",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
