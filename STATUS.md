@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 17:25 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-10 17:30 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 20 / 100 (main 8, bounce 12)
 - Realized P&L: +1.95
 
 ## Open paper positions
-- **Valentina Mediorreal** (short/main) — 2.0833 @ 0.2400, now ~0.2400, unrealized +0.0000 (TP 0.6000 / SL 0.0960)
+- **Valentina Mediorreal** (short/main) — 2.0833 @ 0.2400, now ~0.2700, unrealized +0.0625 (TP 0.6000 / SL 0.0960)
 
 ## Recent history
 - 2026-11-10 17:00 ET: Laura Samson [bounce] — take-profit @ 0.1200 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-10 17:25 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-10 13:38 ET: Zizou Bergs [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Arias@Carle", "market": "aec-wta-marcar-valmed-2026-11-09", "side": "short", "team": "Valentina Mediorreal", "ask": 0.24, "qty": 2.0833, "stake": 0.5, "mode": "main"}`
+- _none_
