@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:20 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-10 14:25 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 14 / 100 (main 5, bounce 9)
 - Realized P&L: +2.64
 
 ## Open paper positions
-- **Toby Samuel** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Toby Samuel** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-10 13:41 ET: Maria Torres [bounce] — stop-loss @ 0.0300 → -0.0625
