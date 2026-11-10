@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 16:10 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-10 16:15 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 17 / 100 (main 7, bounce 10)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 16:10 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-10 13:01 ET: Lucia Bronzetti [main] — take-profit @ 0.7500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Marta Kostyuk", "reason": "take-profit", "pnl": 0.1}`
+- _none_
