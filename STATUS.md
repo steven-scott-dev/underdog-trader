@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 15:00 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-10 15:05 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 16 / 100 (main 7, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 15:00 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-10 12:09 ET: Julia Riera [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Katrina Scott", "reason": "stop-loss", "pnl": -0.34}`
+- _none_
