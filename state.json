@@ -1,21 +1,21 @@
 {
  "date": "2026-11-09",
- "bets": 23,
- "bounce_bets": 17,
- "realized": -2.2044,
+ "bets": 24,
+ "bounce_bets": 18,
+ "realized": -2.2827,
  "paper_positions": [
   {
-   "market": "aec-nfl-buf-min-2026-11-09",
-   "game": "nfl:BUF@MIN",
+   "market": "aec-nhl-phi-van-2026-11-09",
+   "game": "nhl:PHI@VAN",
    "side": "short",
-   "team": "Vikings",
-   "entry": 0.0575,
-   "qty": 1.7391,
-   "tp": 0.115,
-   "sl": 0.023,
-   "opened": "2026-11-09 22:55 ET",
+   "team": "Canucks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-09 23:05 ET",
    "mode": "bounce",
-   "last_bid": 0.0475
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -392,6 +392,23 @@
    "exit": 0.06,
    "pnl": -0.4231,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-buf-min-2026-11-09",
+   "game": "nfl:BUF@MIN",
+   "side": "short",
+   "team": "Vikings",
+   "entry": 0.0575,
+   "qty": 1.7391,
+   "tp": 0.115,
+   "sl": 0.023,
+   "opened": "2026-11-09 22:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.0475,
+   "closed": "2026-11-09 23:05 ET",
+   "exit": 0.0125,
+   "pnl": -0.0783,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -515,6 +532,12 @@
     1794282934.784748,
     0.0575
    ]
+  ],
+  "aec-nhl-phi-van-2026-11-09": [
+   [
+    1794283543.2270849,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
@@ -532,6 +555,7 @@
   "aec-wta-mirand-elisvi-2026-11-09": 1794268546.9207802,
   "aec-nba-cle-cha-2026-11-09": 1794276637.4055262,
   "aec-nba-mem-tor-2026-11-09": 1794279936.856853,
-  "aec-nba-ind-dal-2026-11-09": 1794282634.9163325
+  "aec-nba-ind-dal-2026-11-09": 1794282634.9163325,
+  "aec-nfl-buf-min-2026-11-09": 1794285341.920514
  }
 }
