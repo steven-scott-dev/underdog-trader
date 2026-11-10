@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 1,
- "bounce_bets": 0,
+ "bets": 2,
+ "bounce_bets": 1,
  "realized": 0.75,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-adrman-aleshe-2026-11-10",
+   "game": "atp:Shevchenko@Mannarino",
+   "side": "long",
+   "team": "Adrian Mannarino",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-10 07:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -29,6 +43,12 @@
    [
     1794286838.2381728,
     0.14
+   ]
+  ],
+  "aec-atp-adrman-aleshe-2026-11-10": [
+   [
+    1794314436.893873,
+    0.1
    ]
   ]
  }
