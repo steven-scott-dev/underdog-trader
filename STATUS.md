@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 17:30 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-10 17:35 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 20 / 100 (main 8, bounce 12)
 - Realized P&L: +1.95
 
 ## Open paper positions
-- **Valentina Mediorreal** (short/main) — 2.0833 @ 0.2400, now ~0.2700, unrealized +0.0625 (TP 0.6000 / SL 0.0960)
+- **Valentina Mediorreal** (short/main) — 2.0833 @ 0.2400, now ~0.2000, unrealized -0.0833 (TP 0.6000 / SL 0.0960)
 
 ## Recent history
 - 2026-11-10 17:00 ET: Laura Samson [bounce] — take-profit @ 0.1200 → +0.1000
