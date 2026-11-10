@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 21:55 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-09 22:00 ET · Mode: **PAPER** · Result: OK (2.7s)
 
 ## Today
-- Bets placed: 21 / 100 (main 5, bounce 16)
+- Bets placed: 22 / 100 (main 6, bounce 16)
 - Realized P&L: -1.78
 
 ## Open paper positions
-- _none_
+- **Pacers** (long/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
 - 2026-11-09 21:35 ET: Raptors [main] — stop-loss @ 0.1300 → -0.3243
@@ -20,4 +20,4 @@ Updated: 2026-11-09 21:55 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-09 15:05 ET: Tamara Zidansek [bounce] — take-profit @ 0.1400 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:IND@DAL", "market": "aec-nba-ind-dal-2026-11-09", "side": "long", "team": "Pacers", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
