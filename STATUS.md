@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 17:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-10 17:50 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 21 / 100 (main 9, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 17:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-10 14:35 ET: Toby Samuel [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Carolina M. Alves", "reason": "stop-loss", "pnl": -0.375}`
+- _none_

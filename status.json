@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T17:45:41.197003-05:00",
+ "updated": "2026-11-10T17:50:38.898076-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-10",
   "bets": 21,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Carolina M. Alves",
-   "reason": "stop-loss",
-   "pnl": -0.375
-  }
- ]
+ "actions": []
 }
