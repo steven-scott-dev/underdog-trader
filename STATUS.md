@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 13:41 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-10 13:46 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 13 / 100 (main 5, bounce 8)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 13:41 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maria Torres", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_
