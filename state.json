@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 3,
  "bounce_bets": 2,
- "realized": 0.67,
- "paper_positions": [
-  {
-   "market": "aec-atp-alemic-juacer-2026-11-10",
-   "game": "atp:Cerundolo@Michelsen",
-   "side": "short",
-   "team": "Juan Manuel Cerundolo",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-10 07:45 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 0.5843,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -52,6 +38,23 @@
    "exit": 0.02,
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alemic-juacer-2026-11-10",
+   "game": "atp:Cerundolo@Michelsen",
+   "side": "short",
+   "team": "Juan Manuel Cerundolo",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-10 07:45 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-10 07:55 ET",
+   "exit": 0.01,
+   "pnl": -0.0857,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -76,6 +79,7 @@
   ]
  },
  "cooldowns": {
-  "aec-atp-adrman-aleshe-2026-11-10": 1794316836.2979665
+  "aec-atp-adrman-aleshe-2026-11-10": 1794316836.2979665,
+  "aec-atp-alemic-juacer-2026-11-10": 1794317140.1462007
  }
 }
