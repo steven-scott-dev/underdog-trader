@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 3,
- "bounce_bets": 2,
+ "bets": 4,
+ "bounce_bets": 3,
  "realized": 0.5843,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-lorson-quehal-2026-11-10",
+   "game": "atp:Halys@Sonego",
+   "side": "short",
+   "team": "Quentin Halys",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-10 09:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -75,6 +89,12 @@
    [
     1794314736.4462242,
     0.07
+   ]
+  ],
+  "aec-atp-lorson-quehal-2026-11-10": [
+   [
+    1794322554.5867906,
+    0.08
    ]
   ]
  },
