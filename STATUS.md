@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 12:38 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-10 12:43 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 9 / 100 (main 3, bounce 6)
+- Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: +1.27
 
 ## Open paper positions
-- _none_
+- **Lucia Bronzetti** (long/main) — 1.6667 @ 0.3000, now ~0.3000, unrealized +0.0000 (TP 0.7500 / SL 0.1200)
 
 ## Recent history
 - 2026-11-10 12:09 ET: Julia Riera [bounce] — stop-loss @ 0.0200 → -0.0667
@@ -20,4 +20,4 @@ Updated: 2026-11-10 12:38 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-10 07:50 ET: Adrian Mannarino [bounce] — stop-loss @ 0.0200 → -0.0800
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Pareja@Bronzetti", "market": "aec-wta-lucbro-julpar-2026-11-09", "side": "long", "team": "Lucia Bronzetti", "ask": 0.3, "qty": 1.6667, "stake": 0.5, "mode": "main"}`
