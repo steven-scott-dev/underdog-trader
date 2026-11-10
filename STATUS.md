@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 17:00 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-10 17:05 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 19 / 100 (main 7, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 17:00 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-10 13:38 ET: Zizou Bergs [bounce] — stop-loss @ 0.0300 → -0.0667
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Samson", "reason": "take-profit", "pnl": 0.1}`
+- _none_
