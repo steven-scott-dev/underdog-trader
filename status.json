@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-10T18:10:42.458121-05:00",
+ "updated": "2026-11-10T18:15:42.072248-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-10",
-  "bets": 21,
-  "bounce_bets": 12,
+  "bets": 22,
+  "bounce_bets": 13,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.2458
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-cocgau-linnos-2026-11-10",
+   "game": "wta:Noskova@Gauff",
+   "side": "long",
+   "team": "Coco Gauff",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 18:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-atp-holrun-zizber-2026-11-08",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Noskova@Gauff",
+   "market": "aec-wta-cocgau-linnos-2026-11-10",
+   "side": "long",
+   "team": "Coco Gauff",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
