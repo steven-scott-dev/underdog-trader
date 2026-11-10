@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:15 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-10 14:20 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 14 / 100 (main 5, bounce 9)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 14:15 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Samuel@Musetti", "market": "aec-atp-lormus-tobsam-2026-11-10", "side": "short", "team": "Toby Samuel", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
