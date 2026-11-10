@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T23:05:43.685578-05:00",
+ "updated": "2026-11-09T23:10:36.701959-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-09",
   "bets": 24,
@@ -23,7 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-09 23:05 ET",
    "mode": "bounce",
-   "last_bid": 0.09
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -199,23 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Vikings",
-   "reason": "stop-loss",
-   "pnl": -0.0783
-  },
-  {
-   "type": "buy",
-   "game": "nhl:PHI@VAN",
-   "market": "aec-nhl-phi-van-2026-11-09",
-   "side": "short",
-   "team": "Canucks",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

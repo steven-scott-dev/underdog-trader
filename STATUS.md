@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 23:05 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-09 23:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 24 / 100 (main 6, bounce 18)
 - Realized P&L: -2.28
 
 ## Open paper positions
-- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
+- **Canucks** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-09 23:05 ET: Vikings [bounce] — stop-loss @ 0.0125 → -0.0783
@@ -20,5 +20,4 @@ Updated: 2026-11-09 23:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-09 15:55 ET: Leo Borg [bounce] — stop-loss @ 0.0100 → -0.0800
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Vikings", "reason": "stop-loss", "pnl": -0.0783}`
-- `{"type": "buy", "game": "nhl:PHI@VAN", "market": "aec-nhl-phi-van-2026-11-09", "side": "short", "team": "Canucks", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
