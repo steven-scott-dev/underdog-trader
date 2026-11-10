@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 00:10 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-10 00:15 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 1 / 100 (main 1, bounce 0)
@@ -13,4 +13,4 @@ Updated: 2026-11-10 00:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Canucks", "reason": "take-profit", "pnl": 0.75}`
+- _none_
