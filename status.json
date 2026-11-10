@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:55:36.023389-05:00",
+ "updated": "2026-11-09T23:00:43.189015-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 2.0,
@@ -23,7 +23,7 @@
    "sl": 0.023,
    "opened": "2026-11-09 22:55 ET",
    "mode": "bounce",
-   "last_bid": 0.0575
+   "last_bid": 0.0475
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nfl:BUF@MIN",
-   "market": "aec-nfl-buf-min-2026-11-09",
-   "side": "short",
-   "team": "Vikings",
-   "ask": 0.0575,
-   "qty": 1.7391,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 22:55 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-09 23:00 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 23 / 100 (main 6, bounce 17)
 - Realized P&L: -2.20
 
 ## Open paper positions
-- **Vikings** (short/bounce) — 1.7391 @ 0.0575, now ~0.0575, unrealized +0.0000 (TP 0.1150 / SL 0.0230)
+- **Vikings** (short/bounce) — 1.7391 @ 0.0575, now ~0.0475, unrealized -0.0174 (TP 0.1150 / SL 0.0230)
 
 ## Recent history
 - 2026-11-09 22:20 ET: Pacers [main] — stop-loss @ 0.0600 → -0.4231
@@ -20,4 +20,4 @@ Updated: 2026-11-09 22:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-09 15:25 ET: Tamara Zidansek [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:BUF@MIN", "market": "aec-nfl-buf-min-2026-11-09", "side": "short", "team": "Vikings", "ask": 0.0575, "qty": 1.7391, "stake": 0.1, "mode": "bounce"}`
+- _none_
