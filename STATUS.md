@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 22:20 ET · Mode: **PAPER** · Result: OK (11.8s)
+Updated: 2026-11-09 22:25 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 22 / 100 (main 6, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 22:20 ET · Mode: **PAPER** · Result: OK (11.8s)
 - 2026-11-09 15:25 ET: Tamara Zidansek [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Pacers", "reason": "stop-loss", "pnl": -0.4231}`
+- _none_
