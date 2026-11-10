@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-10T11:11:40.441194-05:00",
+ "updated": "2026-11-10T11:16:48.290249-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-10",
   "bets": 5,
   "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.6843
+  "realized": 0.7843
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-artrin-miokec-2026-11-08",
-   "game": "atp:Kecmanovic@Rinderknech",
-   "side": "long",
-   "team": "Arthur Rinderknech",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-10 11:02 ET",
-   "mode": "bounce",
-   "last_bid": 0.13
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -94,8 +80,32 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-artrin-miokec-2026-11-08",
+   "game": "atp:Kecmanovic@Rinderknech",
+   "side": "long",
+   "team": "Arthur Rinderknech",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-10 11:02 ET",
+   "mode": "bounce",
+   "last_bid": 0.13,
+   "closed": "2026-11-10 11:16 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Arthur Rinderknech",
+   "reason": "take-profit",
+   "pnl": 0.1
+  }
+ ]
 }
