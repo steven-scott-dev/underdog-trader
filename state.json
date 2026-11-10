@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 16,
- "bounce_bets": 9,
+ "bets": 17,
+ "bounce_bets": 10,
  "realized": 1.8255,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-markos-jespeg-2026-11-10",
+   "game": "wta:Pegula@Kostyuk",
+   "side": "long",
+   "team": "Marta Kostyuk",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 16:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -354,6 +368,12 @@
    [
     1794339036.7802694,
     0.32
+   ]
+  ],
+  "aec-wta-markos-jespeg-2026-11-10": [
+   [
+    1794344741.1977673,
+    0.09
    ]
   ]
  },

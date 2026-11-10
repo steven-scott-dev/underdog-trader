@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 16:00 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-10 16:05 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
-- Bets placed: 16 / 100 (main 7, bounce 9)
+- Bets placed: 17 / 100 (main 7, bounce 10)
 - Realized P&L: +1.83
 
 ## Open paper positions
-- _none_
+- **Marta Kostyuk** (long/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-10 15:00 ET: Katrina Scott [main] — stop-loss @ 0.0800 → -0.3400
@@ -20,4 +20,4 @@ Updated: 2026-11-10 16:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-10 12:09 ET: Julia Riera [bounce] — stop-loss @ 0.0200 → -0.0667
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Pegula@Kostyuk", "market": "aec-wta-markos-jespeg-2026-11-10", "side": "long", "team": "Marta Kostyuk", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
