@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 16:35 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-10 16:40 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 18 / 100 (main 7, bounce 11)
 - Realized P&L: +1.93
 
 ## Open paper positions
-- **Valentina Mediorreal** (short/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
+- **Valentina Mediorreal** (short/bounce) — 1.4286 @ 0.0700, now ~0.0300, unrealized -0.0571 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-10 16:10 ET: Marta Kostyuk [bounce] — take-profit @ 0.1800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-10 16:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-10 13:01 ET: Lucia Bronzetti [main] — take-profit @ 0.7500 → +0.7500
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Arias@Carle", "market": "aec-wta-marcar-valmed-2026-11-09", "side": "short", "team": "Valentina Mediorreal", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
