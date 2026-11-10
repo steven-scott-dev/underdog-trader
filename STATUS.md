@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:50 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-10 14:55 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 16 / 100 (main 7, bounce 9)
 - Realized P&L: +2.17
 
 ## Open paper positions
-- **Katrina Scott** (long/main) — 2.0 @ 0.2500, now ~0.2600, unrealized +0.0200 (TP 0.6250 / SL 0.1000)
+- **Katrina Scott** (long/main) — 2.0 @ 0.2500, now ~0.3100, unrealized +0.1200 (TP 0.6250 / SL 0.1000)
 
 ## Recent history
 - 2026-11-10 14:45 ET: Rebeka Masarova [main] — stop-loss @ 0.0600 → -0.4062
