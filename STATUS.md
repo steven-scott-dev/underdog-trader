@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 20:30 ET · Mode: **PAPER** · Result: OK (3.3s)
+Updated: 2026-11-09 20:35 ET · Mode: **PAPER** · Result: OK (3.2s)
 
 ## Today
-- Bets placed: 19 / 100 (main 4, bounce 15)
+- Bets placed: 20 / 100 (main 4, bounce 16)
 - Realized P&L: -1.36
 
 ## Open paper positions
-- _none_
+- **Cavaliers** (long/bounce) — 1.4286 @ 0.0700, now ~0.0700, unrealized +0.0000 (TP 0.1400 / SL 0.0280)
 
 ## Recent history
 - 2026-11-09 18:25 ET: Elina Svitolina [bounce] — stop-loss @ 0.0300 → -0.0700
@@ -20,4 +20,4 @@ Updated: 2026-11-09 20:30 ET · Mode: **PAPER** · Result: OK (3.3s)
 - 2026-11-09 14:35 ET: Veronika Erjavec [main] — stop-loss @ 0.0300 → -0.4348
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:CLE@CHA", "market": "aec-nba-cle-cha-2026-11-09", "side": "long", "team": "Cavaliers", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
