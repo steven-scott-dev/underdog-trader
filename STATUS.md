@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 12:52 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-10 12:57 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: +1.27
 
 ## Open paper positions
-- **Lucia Bronzetti** (long/main) — 1.6667 @ 0.3000, now ~0.6900, unrealized +0.6500 (TP 0.7500 / SL 0.1200)
+- **Lucia Bronzetti** (long/main) — 1.6667 @ 0.3000, now ~0.4900, unrealized +0.3167 (TP 0.7500 / SL 0.1200)
 
 ## Recent history
 - 2026-11-10 12:09 ET: Julia Riera [bounce] — stop-loss @ 0.0200 → -0.0667
