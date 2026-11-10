@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 20:40 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-09 20:45 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 20 / 100 (main 4, bounce 16)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 20:40 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-09 14:40 ET: Max Dahlin [main] — stop-loss @ 0.0100 → -0.4815
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Cavaliers", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
