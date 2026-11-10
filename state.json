@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 9,
  "bounce_bets": 6,
- "realized": 1.3343,
- "paper_positions": [
-  {
-   "market": "aec-wta-alitub-julrie-2026-11-09",
-   "game": "wta:Riera@Tubello",
-   "side": "short",
-   "team": "Julia Riera",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-10 12:04 ET",
-   "mode": "bounce",
-   "last_bid": 0.06
-  }
- ],
+ "realized": 1.2676,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -154,6 +140,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-alitub-julrie-2026-11-09",
+   "game": "wta:Riera@Tubello",
+   "side": "short",
+   "team": "Julia Riera",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-10 12:04 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-10 12:09 ET",
+   "exit": 0.02,
+   "pnl": -0.0667,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -208,6 +211,7 @@
  "cooldowns": {
   "aec-atp-adrman-aleshe-2026-11-10": 1794316836.2979665,
   "aec-atp-alemic-juacer-2026-11-10": 1794317140.1462007,
-  "aec-atp-artrin-miokec-2026-11-08": 1794331308.7619162
+  "aec-atp-artrin-miokec-2026-11-08": 1794331308.7619162,
+  "aec-wta-alitub-julrie-2026-11-09": 1794332382.8833861
  }
 }
