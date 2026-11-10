@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-09 23:45 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-09 23:50 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 24 / 100 (main 6, bounce 18)
@@ -20,4 +20,4 @@ Updated: 2026-11-09 23:45 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-09 16:10 ET: Yuliana Lizarazo [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Canucks", "reason": "stop-loss", "pnl": -0.0667}`
+- _none_
