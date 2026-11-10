@@ -1,13 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:25 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-10 14:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
-- Bets placed: 14 / 100 (main 5, bounce 9)
+- Bets placed: 16 / 100 (main 7, bounce 9)
 - Realized P&L: +2.64
 
 ## Open paper positions
-- **Toby Samuel** (short/bounce) — 1.1111 @ 0.0900, now ~0.0800, unrealized -0.0111 (TP 0.1800 / SL 0.0360)
+- **Toby Samuel** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Katrina Scott** (long/main) — 2.0 @ 0.2500, now ~0.2500, unrealized +0.0000 (TP 0.6250 / SL 0.1000)
+- **Rebeka Masarova** (short/main) — 1.5625 @ 0.3200, now ~0.3200, unrealized +0.0000 (TP 0.8000 / SL 0.1280)
 
 ## Recent history
 - 2026-11-10 13:41 ET: Maria Torres [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +22,5 @@ Updated: 2026-11-10 14:25 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Garcia@Scott", "market": "aec-wta-katsco-andgar-2026-11-09", "side": "long", "team": "Katrina Scott", "ask": 0.25, "qty": 2.0, "stake": 0.5, "mode": "main"}`
+- `{"type": "buy", "game": "wta:Masarova@Andreescu", "market": "aec-wta-biaand-rebmas-2026-11-09", "side": "short", "team": "Rebeka Masarova", "ask": 0.32, "qty": 1.5625, "stake": 0.5, "mode": "main"}`

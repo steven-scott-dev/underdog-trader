@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "bets": 14,
+ "bets": 16,
  "bounce_bets": 9,
  "realized": 2.6384,
  "paper_positions": [
@@ -15,7 +15,33 @@
    "sl": 0.036,
    "opened": "2026-11-10 14:15 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.06
+  },
+  {
+   "market": "aec-wta-katsco-andgar-2026-11-09",
+   "game": "wta:Garcia@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.25,
+   "qty": 2.0,
+   "tp": 0.625,
+   "sl": 0.1,
+   "opened": "2026-11-10 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.25
+  },
+  {
+   "market": "aec-wta-biaand-rebmas-2026-11-09",
+   "game": "wta:Masarova@Andreescu",
+   "side": "short",
+   "team": "Rebeka Masarova",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "tp": 0.8,
+   "sl": 0.128,
+   "opened": "2026-11-10 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.32
   }
  ],
  "paper_history": [
@@ -305,6 +331,18 @@
    [
     1794338143.001646,
     0.09
+   ]
+  ],
+  "aec-wta-katsco-andgar-2026-11-09": [
+   [
+    1794339036.6655812,
+    0.25
+   ]
+  ],
+  "aec-wta-biaand-rebmas-2026-11-09": [
+   [
+    1794339036.7802694,
+    0.32
    ]
   ]
  },
