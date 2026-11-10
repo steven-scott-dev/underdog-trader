@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 10:01 ET · Mode: **PAPER** · Result: OK (1.0s)
+Updated: 2026-11-10 10:06 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 4 / 100 (main 1, bounce 3)
@@ -16,4 +16,4 @@ Updated: 2026-11-10 10:01 ET · Mode: **PAPER** · Result: OK (1.0s)
 - 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Quentin Halys", "reason": "take-profit", "pnl": 0.1}`
+- _none_
