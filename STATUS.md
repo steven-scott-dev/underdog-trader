@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:40 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-10 14:45 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 16 / 100 (main 7, bounce 9)
-- Realized P&L: +2.57
+- Realized P&L: +2.17
 
 ## Open paper positions
-- **Katrina Scott** (long/main) — 2.0 @ 0.2500, now ~0.2500, unrealized +0.0000 (TP 0.6250 / SL 0.1000)
-- **Rebeka Masarova** (short/main) — 1.5625 @ 0.3200, now ~0.1400, unrealized -0.2812 (TP 0.8000 / SL 0.1280)
+- **Katrina Scott** (long/main) — 2.0 @ 0.2500, now ~0.1900, unrealized -0.1200 (TP 0.6250 / SL 0.1000)
 
 ## Recent history
+- 2026-11-10 14:45 ET: Rebeka Masarova [main] — stop-loss @ 0.0600 → -0.4062
 - 2026-11-10 14:35 ET: Toby Samuel [bounce] — stop-loss @ 0.0300 → -0.0667
 - 2026-11-10 13:41 ET: Maria Torres [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-10 13:38 ET: Zizou Bergs [bounce] — stop-loss @ 0.0300 → -0.0667
@@ -18,7 +18,6 @@ Updated: 2026-11-10 14:40 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-10 13:01 ET: Lucia Bronzetti [main] — take-profit @ 0.7500 → +0.7500
 - 2026-11-10 12:09 ET: Julia Riera [bounce] — stop-loss @ 0.0200 → -0.0667
 - 2026-11-10 12:04 ET: Julieta Pareja [bounce] — take-profit @ 0.1800 → +0.1000
-- 2026-11-10 11:51 ET: Arthur Rinderknech [main] — stop-loss @ 0.1000 → -0.3000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Rebeka Masarova", "reason": "stop-loss", "pnl": -0.4062}`
