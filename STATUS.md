@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 11:42 ET · Mode: **PAPER** · Result: OK (3.1s)
+Updated: 2026-11-10 11:47 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 7 / 100 (main 3, bounce 4)
 - Realized P&L: +1.53
 
 ## Open paper positions
-- **Arthur Rinderknech** (long/main) — 2.0 @ 0.2500, now ~0.2800, unrealized +0.0600 (TP 0.6250 / SL 0.1000)
+- **Arthur Rinderknech** (long/main) — 2.0 @ 0.2500, now ~0.2000, unrealized -0.1000 (TP 0.6250 / SL 0.1000)
 
 ## Recent history
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
