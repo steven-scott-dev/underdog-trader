@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 17,
- "bounce_bets": 10,
+ "bets": 18,
+ "bounce_bets": 11,
  "realized": 1.9255,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-wta-marcar-valmed-2026-11-09",
+   "game": "wta:Arias@Carle",
+   "side": "short",
+   "team": "Valentina Mediorreal",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-10 16:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.07
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -377,6 +391,12 @@
    [
     1794344741.1977673,
     0.09
+   ]
+  ],
+  "aec-wta-marcar-valmed-2026-11-09": [
+   [
+    1794346537.9948833,
+    0.07
    ]
   ]
  },
