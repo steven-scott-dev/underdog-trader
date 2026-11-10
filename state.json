@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 21,
  "bounce_bets": 12,
- "realized": 1.6208,
- "paper_positions": [
-  {
-   "market": "aec-wta-lausam-caralv-2026-11-09",
-   "game": "wta:Alves@Samson",
-   "side": "short",
-   "team": "Carolina M. Alves",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-11-10 17:40 ET",
-   "mode": "main",
-   "last_bid": 0.28
-  }
- ],
+ "realized": 1.2458,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -358,6 +344,23 @@
    "exit": 0.08,
    "pnl": -0.3333,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "game": "wta:Alves@Samson",
+   "side": "short",
+   "team": "Carolina M. Alves",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-11-10 17:40 ET",
+   "mode": "main",
+   "last_bid": 0.28,
+   "closed": "2026-11-10 17:45 ET",
+   "exit": 0.07,
+   "pnl": -0.375,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -467,6 +470,7 @@
   "aec-atp-lormus-tobsam-2026-11-10": 1794341141.851582,
   "aec-wta-biaand-rebmas-2026-11-09": 1794341743.5423586,
   "aec-wta-katsco-andgar-2026-11-09": 1794342639.535308,
-  "aec-wta-marcar-valmed-2026-11-09": 1794352236.6298165
+  "aec-wta-marcar-valmed-2026-11-09": 1794352236.6298165,
+  "aec-wta-lausam-caralv-2026-11-09": 1794352539.9692452
  }
 }
