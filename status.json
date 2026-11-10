@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:05:41.409558-05:00",
+ "updated": "2026-11-10T16:10:36.568885-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.3,
@@ -9,41 +9,10 @@
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.8255
+  "realized": 1.9255
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-markos-jespeg-2026-11-10",
-   "game": "wta:Pegula@Kostyuk",
-   "side": "long",
-   "team": "Marta Kostyuk",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-10 16:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.09
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-artrin-miokec-2026-11-08",
-   "game": "atp:Kecmanovic@Rinderknech",
-   "side": "long",
-   "team": "Arthur Rinderknech",
-   "entry": 0.25,
-   "qty": 2.0,
-   "tp": 0.625,
-   "sl": 0.1,
-   "opened": "2026-11-10 11:37 ET",
-   "mode": "main",
-   "last_bid": 0.2,
-   "closed": "2026-11-10 11:51 ET",
-   "exit": 0.1,
-   "pnl": -0.3,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-lucbro-julpar-2026-11-09",
    "game": "wta:Pareja@Bronzetti",
@@ -196,20 +165,32 @@
    "exit": 0.08,
    "pnl": -0.34,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-markos-jespeg-2026-11-10",
+   "game": "wta:Pegula@Kostyuk",
+   "side": "long",
+   "team": "Marta Kostyuk",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 16:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.09,
+   "closed": "2026-11-10 16:10 ET",
+   "exit": 0.18,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Pegula@Kostyuk",
-   "market": "aec-wta-markos-jespeg-2026-11-10",
-   "side": "long",
+   "type": "paper_close",
    "team": "Marta Kostyuk",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
