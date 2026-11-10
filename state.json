@@ -1,9 +1,23 @@
 {
  "date": "2026-11-09",
- "bets": 22,
- "bounce_bets": 16,
+ "bets": 23,
+ "bounce_bets": 17,
  "realized": -2.2044,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nfl-buf-min-2026-11-09",
+   "game": "nfl:BUF@MIN",
+   "side": "short",
+   "team": "Vikings",
+   "entry": 0.0575,
+   "qty": 1.7391,
+   "tp": 0.115,
+   "sl": 0.023,
+   "opened": "2026-11-09 22:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.0575
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-jantje-maglin-2026-11-08",
@@ -494,6 +508,12 @@
    [
     1794279645.379862,
     0.39
+   ]
+  ],
+  "aec-nfl-buf-min-2026-11-09": [
+   [
+    1794282934.784748,
+    0.0575
    ]
   ]
  },
