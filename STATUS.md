@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 13:06 ET · Mode: **PAPER** · Result: OK (1.4s)
+Updated: 2026-11-10 13:11 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 13:06 ET · Mode: **PAPER** · Result: OK (1.4s)
 - 2026-11-10 10:01 ET: Quentin Halys [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Julieta Pareja", "reason": "take-profit", "pnl": 0.75}`
+- _none_
