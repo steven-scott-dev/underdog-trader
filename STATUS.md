@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 14:10 ET · Mode: **PAPER** · Result: OK (3.1s)
+Updated: 2026-11-10 14:15 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 13 / 100 (main 5, bounce 8)
+- Bets placed: 14 / 100 (main 5, bounce 9)
 - Realized P&L: +2.64
 
 ## Open paper positions
-- _none_
+- **Toby Samuel** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-10 13:41 ET: Maria Torres [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -20,4 +20,4 @@ Updated: 2026-11-10 14:10 ET · Mode: **PAPER** · Result: OK (3.1s)
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Samuel@Musetti", "market": "aec-atp-lormus-tobsam-2026-11-10", "side": "short", "team": "Toby Samuel", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

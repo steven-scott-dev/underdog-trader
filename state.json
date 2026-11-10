@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 13,
- "bounce_bets": 8,
+ "bets": 14,
+ "bounce_bets": 9,
  "realized": 2.6384,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-lormus-tobsam-2026-11-10",
+   "game": "atp:Samuel@Musetti",
+   "side": "short",
+   "team": "Toby Samuel",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 14:15 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -284,6 +298,12 @@
   "aec-atp-holrun-zizber-2026-11-08": [
    [
     1794335781.6556852,
+    0.09
+   ]
+  ],
+  "aec-atp-lormus-tobsam-2026-11-10": [
+   [
+    1794338143.001646,
     0.09
    ]
   ]
