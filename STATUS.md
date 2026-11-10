@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 16:45 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-11-10 16:50 ET · Mode: **PAPER** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 18 / 100 (main 7, bounce 11)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 16:45 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-11-10 13:06 ET: Julieta Pareja [main] — take-profit @ 0.4500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Valentina Mediorreal", "reason": "stop-loss", "pnl": -0.0714}`
+- _none_
