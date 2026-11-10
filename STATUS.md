@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 13:26 ET · Mode: **PAPER** · Result: OK (2.6s)
+Updated: 2026-11-10 13:31 ET · Mode: **PAPER** · Result: OK (2.9s)
 
 ## Today
-- Bets placed: 11 / 100 (main 5, bounce 6)
+- Bets placed: 12 / 100 (main 5, bounce 7)
 - Realized P&L: +2.77
 
 ## Open paper positions
-- _none_
+- **Maria Torres** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-10 13:06 ET: Julieta Pareja [main] — take-profit @ 0.4500 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-11-10 13:26 ET · Mode: **PAPER** · Result: OK (2.6s)
 - 2026-11-10 10:01 ET: Quentin Halys [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Murcia@Ortenzi", "market": "aec-wta-jazort-martor-2026-11-10", "side": "short", "team": "Maria Torres", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
