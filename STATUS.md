@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 07:55 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-10 08:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 3 / 100 (main 1, bounce 2)
@@ -15,4 +15,4 @@ Updated: 2026-11-10 07:55 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Juan Manuel Cerundolo", "reason": "stop-loss", "pnl": -0.0857}`
+- _none_
