@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 00:05 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-10 00:10 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 1 / 100 (main 1, bounce 0)
-- Realized P&L: +0.00
+- Realized P&L: +0.75
 
 ## Open paper positions
-- **Canucks** (short/main) — 3.5714 @ 0.1400, now ~0.1700, unrealized +0.1071 (TP 0.3500 / SL 0.0560)
+- _none_
 
 ## Recent history
-- _none yet_
+- 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Canucks", "reason": "take-profit", "pnl": 0.75}`

@@ -1,17 +1,18 @@
 {
- "updated": "2026-11-10T00:05:37.503101-05:00",
+ "updated": "2026-11-10T00:10:36.850657-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-10",
   "bets": 1,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": 0.75
  },
- "paper_positions": [
+ "paper_positions": [],
+ "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
    "game": "nhl:PHI@VAN",
@@ -23,10 +24,20 @@
    "sl": 0.056,
    "opened": "2026-11-10 00:00 ET",
    "mode": "main",
-   "last_bid": 0.17
+   "last_bid": 0.17,
+   "closed": "2026-11-10 00:10 ET",
+   "exit": 0.35,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
- "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Canucks",
+   "reason": "take-profit",
+   "pnl": 0.75
+  }
+ ]
 }
