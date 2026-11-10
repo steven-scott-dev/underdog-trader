@@ -1,21 +1,21 @@
 {
  "date": "2026-11-10",
- "bets": 10,
+ "bets": 11,
  "bounce_bets": 6,
- "realized": 1.2676,
+ "realized": 2.0176,
  "paper_positions": [
   {
    "market": "aec-wta-lucbro-julpar-2026-11-09",
    "game": "wta:Pareja@Bronzetti",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "entry": 0.3,
-   "qty": 1.6667,
-   "tp": 0.75,
-   "sl": 0.12,
-   "opened": "2026-11-10 12:43 ET",
+   "side": "short",
+   "team": "Julieta Pareja",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-11-10 13:01 ET",
    "mode": "main",
-   "last_bid": 0.49
+   "last_bid": 0.18
   }
  ],
  "paper_history": [
@@ -171,6 +171,23 @@
    "exit": 0.02,
    "pnl": -0.0667,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-lucbro-julpar-2026-11-09",
+   "game": "wta:Pareja@Bronzetti",
+   "side": "long",
+   "team": "Lucia Bronzetti",
+   "entry": 0.3,
+   "qty": 1.6667,
+   "tp": 0.75,
+   "sl": 0.12,
+   "opened": "2026-11-10 12:43 ET",
+   "mode": "main",
+   "last_bid": 0.49,
+   "closed": "2026-11-10 13:01 ET",
+   "exit": 0.75,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -211,8 +228,8 @@
   ],
   "aec-wta-lucbro-julpar-2026-11-09": [
    [
-    1794332580.6787698,
-    0.3
+    1794333717.2107337,
+    0.18
    ]
   ],
   "aec-wta-alitub-julrie-2026-11-09": [
