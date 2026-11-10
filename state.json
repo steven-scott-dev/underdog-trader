@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 16,
  "bounce_bets": 9,
- "realized": 2.1655,
- "paper_positions": [
-  {
-   "market": "aec-wta-katsco-andgar-2026-11-09",
-   "game": "wta:Garcia@Scott",
-   "side": "long",
-   "team": "Katrina Scott",
-   "entry": 0.25,
-   "qty": 2.0,
-   "tp": 0.625,
-   "sl": 0.1,
-   "opened": "2026-11-10 14:30 ET",
-   "mode": "main",
-   "last_bid": 0.31
-  }
- ],
+ "realized": 1.8255,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -273,6 +259,23 @@
    "exit": 0.06,
    "pnl": -0.4062,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-katsco-andgar-2026-11-09",
+   "game": "wta:Garcia@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.25,
+   "qty": 2.0,
+   "tp": 0.625,
+   "sl": 0.1,
+   "opened": "2026-11-10 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.31,
+   "closed": "2026-11-10 15:00 ET",
+   "exit": 0.08,
+   "pnl": -0.34,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -362,6 +365,7 @@
   "aec-atp-holrun-zizber-2026-11-08": 1794337707.6526425,
   "aec-wta-jazort-martor-2026-11-10": 1794337870.051855,
   "aec-atp-lormus-tobsam-2026-11-10": 1794341141.851582,
-  "aec-wta-biaand-rebmas-2026-11-09": 1794341743.5423586
+  "aec-wta-biaand-rebmas-2026-11-09": 1794341743.5423586,
+  "aec-wta-katsco-andgar-2026-11-09": 1794342639.535308
  }
 }

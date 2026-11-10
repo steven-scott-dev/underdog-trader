@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-10T14:55:42.099934-05:00",
+ "updated": "2026-11-10T15:00:40.378337-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-10",
   "bets": 16,
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.1655
+  "realized": 1.8255
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-katsco-andgar-2026-11-09",
-   "game": "wta:Garcia@Scott",
-   "side": "long",
-   "team": "Katrina Scott",
-   "entry": 0.25,
-   "qty": 2.0,
-   "tp": 0.625,
-   "sl": 0.1,
-   "opened": "2026-11-10 14:30 ET",
-   "mode": "main",
-   "last_bid": 0.31
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-atp-artrin-miokec-2026-11-08",
-   "game": "atp:Kecmanovic@Rinderknech",
-   "side": "short",
-   "team": "Miomir Kecmanovic",
-   "entry": 0.29,
-   "qty": 1.7241,
-   "tp": 0.725,
-   "sl": 0.116,
-   "opened": "2026-11-10 11:28 ET",
-   "mode": "main",
-   "last_bid": 0.33,
-   "closed": "2026-11-10 11:37 ET",
-   "exit": 0.725,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-atp-artrin-miokec-2026-11-08",
    "game": "atp:Kecmanovic@Rinderknech",
@@ -196,8 +165,32 @@
    "exit": 0.06,
    "pnl": -0.4062,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-katsco-andgar-2026-11-09",
+   "game": "wta:Garcia@Scott",
+   "side": "long",
+   "team": "Katrina Scott",
+   "entry": 0.25,
+   "qty": 2.0,
+   "tp": 0.625,
+   "sl": 0.1,
+   "opened": "2026-11-10 14:30 ET",
+   "mode": "main",
+   "last_bid": 0.31,
+   "closed": "2026-11-10 15:00 ET",
+   "exit": 0.08,
+   "pnl": -0.34,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Katrina Scott",
+   "reason": "stop-loss",
+   "pnl": -0.34
+  }
+ ]
 }
