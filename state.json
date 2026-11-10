@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "bets": 12,
- "bounce_bets": 7,
+ "bets": 13,
+ "bounce_bets": 8,
  "realized": 2.7676,
  "paper_positions": [
   {
@@ -16,6 +16,19 @@
    "opened": "2026-11-10 13:31 ET",
    "mode": "bounce",
    "last_bid": 0.08
+  },
+  {
+   "market": "aec-atp-holrun-zizber-2026-11-08",
+   "game": "atp:Bergs@Rune",
+   "side": "short",
+   "team": "Zizou Bergs",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 13:36 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -259,6 +272,12 @@
    [
     1794335494.8974736,
     0.08
+   ]
+  ],
+  "aec-atp-holrun-zizber-2026-11-08": [
+   [
+    1794335781.6556852,
+    0.09
    ]
   ]
  },
