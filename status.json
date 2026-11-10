@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-10T16:40:42.657200-05:00",
+ "updated": "2026-11-10T16:45:38.197940-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-10",
   "bets": 18,
   "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.9255
+  "realized": 1.8541
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-marcar-valmed-2026-11-09",
-   "game": "wta:Arias@Carle",
-   "side": "short",
-   "team": "Valentina Mediorreal",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-10 16:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-lucbro-julpar-2026-11-09",
-   "game": "wta:Pareja@Bronzetti",
-   "side": "short",
-   "team": "Julieta Pareja",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-10 11:51 ET",
-   "mode": "bounce",
-   "last_bid": 0.17,
-   "closed": "2026-11-10 12:04 ET",
-   "exit": 0.18,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-alitub-julrie-2026-11-09",
    "game": "wta:Riera@Tubello",
@@ -196,8 +165,32 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marcar-valmed-2026-11-09",
+   "game": "wta:Arias@Carle",
+   "side": "short",
+   "team": "Valentina Mediorreal",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "tp": 0.14,
+   "sl": 0.028,
+   "opened": "2026-11-10 16:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.03,
+   "closed": "2026-11-10 16:45 ET",
+   "exit": 0.02,
+   "pnl": -0.0714,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Valentina Mediorreal",
+   "reason": "stop-loss",
+   "pnl": -0.0714
+  }
+ ]
 }
