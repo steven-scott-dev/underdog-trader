@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 11:37 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-11-10 11:42 ET · Mode: **PAPER** · Result: OK (3.1s)
 
 ## Today
 - Bets placed: 7 / 100 (main 3, bounce 4)
 - Realized P&L: +1.53
 
 ## Open paper positions
-- **Arthur Rinderknech** (long/main) — 2.0 @ 0.2500, now ~0.2500, unrealized +0.0000 (TP 0.6250 / SL 0.1000)
+- **Arthur Rinderknech** (long/main) — 2.0 @ 0.2500, now ~0.2800, unrealized +0.0600 (TP 0.6250 / SL 0.1000)
 
 ## Recent history
 - 2026-11-10 11:37 ET: Miomir Kecmanovic [main] — take-profit @ 0.7250 → +0.7500
@@ -18,5 +18,4 @@ Updated: 2026-11-10 11:37 ET · Mode: **PAPER** · Result: OK (2.3s)
 - 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Miomir Kecmanovic", "reason": "take-profit", "pnl": 0.75}`
-- `{"type": "buy", "game": "atp:Kecmanovic@Rinderknech", "market": "aec-atp-artrin-miokec-2026-11-08", "side": "long", "team": "Arthur Rinderknech", "ask": 0.25, "qty": 2.0, "stake": 0.5, "mode": "main"}`
+- _none_
