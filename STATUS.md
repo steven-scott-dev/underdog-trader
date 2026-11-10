@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 11:16 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-10 11:22 ET · Mode: **PAPER** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 5 / 100 (main 1, bounce 4)
@@ -17,4 +17,4 @@ Updated: 2026-11-10 11:16 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-10 00:10 ET: Canucks [main] — take-profit @ 0.3500 → +0.7500
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Arthur Rinderknech", "reason": "take-profit", "pnl": 0.1}`
+- _none_

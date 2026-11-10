@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T11:16:48.290249-05:00",
+ "updated": "2026-11-10T11:22:23.273924-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-10",
   "bets": 5,
@@ -100,12 +100,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Arthur Rinderknech",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
