@@ -1,21 +1,21 @@
 {
  "date": "2026-11-10",
- "bets": 20,
+ "bets": 21,
  "bounce_bets": 12,
- "realized": 1.9541,
+ "realized": 1.6208,
  "paper_positions": [
   {
-   "market": "aec-wta-marcar-valmed-2026-11-09",
-   "game": "wta:Arias@Carle",
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "game": "wta:Alves@Samson",
    "side": "short",
-   "team": "Valentina Mediorreal",
-   "entry": 0.24,
-   "qty": 2.0833,
-   "tp": 0.6,
-   "sl": 0.096,
-   "opened": "2026-11-10 17:25 ET",
+   "team": "Carolina M. Alves",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-11-10 17:40 ET",
    "mode": "main",
-   "last_bid": 0.2
+   "last_bid": 0.28
   }
  ],
  "paper_history": [
@@ -341,6 +341,23 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marcar-valmed-2026-11-09",
+   "game": "wta:Arias@Carle",
+   "side": "short",
+   "team": "Valentina Mediorreal",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "tp": 0.6,
+   "sl": 0.096,
+   "opened": "2026-11-10 17:25 ET",
+   "mode": "main",
+   "last_bid": 0.2,
+   "closed": "2026-11-10 17:40 ET",
+   "exit": 0.08,
+   "pnl": -0.3333,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -435,8 +452,8 @@
   ],
   "aec-wta-lausam-caralv-2026-11-09": [
    [
-    1794347737.4720411,
-    0.06
+    1794350437.862026,
+    0.28
    ]
   ]
  },
@@ -450,6 +467,6 @@
   "aec-atp-lormus-tobsam-2026-11-10": 1794341141.851582,
   "aec-wta-biaand-rebmas-2026-11-09": 1794341743.5423586,
   "aec-wta-katsco-andgar-2026-11-09": 1794342639.535308,
-  "aec-wta-marcar-valmed-2026-11-09": 1794348936.4152527
+  "aec-wta-marcar-valmed-2026-11-09": 1794352236.6298165
  }
 }

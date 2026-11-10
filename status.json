@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-10T17:35:46.314201-05:00",
+ "updated": "2026-11-10T17:40:38.059718-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-10",
-  "bets": 20,
+  "bets": 21,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.9541
+  "realized": 1.6208
  },
  "paper_positions": [
   {
-   "market": "aec-wta-marcar-valmed-2026-11-09",
-   "game": "wta:Arias@Carle",
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "game": "wta:Alves@Samson",
    "side": "short",
-   "team": "Valentina Mediorreal",
-   "entry": 0.24,
-   "qty": 2.0833,
-   "tp": 0.6,
-   "sl": 0.096,
-   "opened": "2026-11-10 17:25 ET",
+   "team": "Carolina M. Alves",
+   "entry": 0.28,
+   "qty": 1.7857,
+   "tp": 0.7,
+   "sl": 0.112,
+   "opened": "2026-11-10 17:40 ET",
    "mode": "main",
-   "last_bid": 0.2
+   "last_bid": 0.28
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-lucbro-julpar-2026-11-09",
-   "game": "wta:Pareja@Bronzetti",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "entry": 0.3,
-   "qty": 1.6667,
-   "tp": 0.75,
-   "sl": 0.12,
-   "opened": "2026-11-10 12:43 ET",
-   "mode": "main",
-   "last_bid": 0.49,
-   "closed": "2026-11-10 13:01 ET",
-   "exit": 0.75,
-   "pnl": 0.75,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-lucbro-julpar-2026-11-09",
    "game": "wta:Pareja@Bronzetti",
@@ -196,8 +179,43 @@
    "exit": 0.12,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-marcar-valmed-2026-11-09",
+   "game": "wta:Arias@Carle",
+   "side": "short",
+   "team": "Valentina Mediorreal",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "tp": 0.6,
+   "sl": 0.096,
+   "opened": "2026-11-10 17:25 ET",
+   "mode": "main",
+   "last_bid": 0.2,
+   "closed": "2026-11-10 17:40 ET",
+   "exit": 0.08,
+   "pnl": -0.3333,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Valentina Mediorreal",
+   "reason": "stop-loss",
+   "pnl": -0.3333
+  },
+  {
+   "type": "buy",
+   "game": "wta:Alves@Samson",
+   "market": "aec-wta-lausam-caralv-2026-11-09",
+   "side": "short",
+   "team": "Carolina M. Alves",
+   "ask": 0.28,
+   "qty": 1.7857,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
