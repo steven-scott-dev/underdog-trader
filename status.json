@@ -1,17 +1,32 @@
 {
- "updated": "2026-11-11T00:00:38.279499-05:00",
+ "updated": "2026-11-11T00:05:35.758398-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-11",
-  "bets": 1,
-  "bounce_bets": 1,
+  "bets": 2,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": -0.0625
  },
  "paper_positions": [
+  {
+   "market": "aec-nhl-nas-la-2026-11-10",
+   "game": "nhl:NSH@LA",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-11 00:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
+ "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
    "game": "nba:ORL@SAC",
@@ -23,20 +38,29 @@
    "sl": 0.032,
    "opened": "2026-11-11 00:00 ET",
    "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.08,
+   "closed": "2026-11-11 00:05 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
- "paper_history": [],
  "live_positions": {},
  "actions": [
   {
+   "type": "paper_close",
+   "team": "Kings",
+   "reason": "stop-loss",
+   "pnl": -0.0625
+  },
+  {
    "type": "buy",
-   "game": "nba:ORL@SAC",
-   "market": "aec-nba-orl-sac-2026-11-10",
+   "game": "nhl:NSH@LA",
+   "market": "aec-nhl-nas-la-2026-11-10",
    "side": "short",
    "team": "Kings",
-   "ask": 0.08,
-   "qty": 1.25,
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }
