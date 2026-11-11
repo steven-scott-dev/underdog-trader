@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 20:40 ET · Mode: **PAPER** · Result: OK (12.0s)
+Updated: 2026-11-10 20:45 ET · Mode: **PAPER** · Result: OK (3.3s)
 
 ## Today
 - Bets placed: 24 / 100 (main 9, bounce 15)
 - Realized P&L: +1.06
 
 ## Open paper positions
-- **Maple Leafs** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Maple Leafs** (short/bounce) — 1.0 @ 0.1000, now ~0.1900, unrealized +0.0900 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
