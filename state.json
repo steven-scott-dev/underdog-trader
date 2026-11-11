@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 23,
  "bounce_bets": 14,
- "realized": 1.1458,
- "paper_positions": [
-  {
-   "market": "aec-nba-mil-ny-2026-11-10",
-   "game": "nba:MIL@NY",
-   "side": "long",
-   "team": "Bucks",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-10 20:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.04
-  }
- ],
+ "realized": 1.0569,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -392,6 +378,23 @@
    "exit": 0.0,
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-mil-ny-2026-11-10",
+   "game": "nba:MIL@NY",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 20:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.04,
+   "closed": "2026-11-10 20:20 ET",
+   "exit": 0.01,
+   "pnl": -0.0889,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -515,6 +518,7 @@
   "aec-wta-katsco-andgar-2026-11-09": 1794342639.535308,
   "aec-wta-marcar-valmed-2026-11-09": 1794352236.6298165,
   "aec-wta-lausam-caralv-2026-11-09": 1794352539.9692452,
-  "aec-wta-cocgau-linnos-2026-11-10": 1794355242.1825533
+  "aec-wta-cocgau-linnos-2026-11-10": 1794355242.1825533,
+  "aec-nba-mil-ny-2026-11-10": 1794361840.6667972
  }
 }

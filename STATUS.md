@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 20:15 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-10 20:20 ET · Mode: **PAPER** · Result: OK (13.4s)
 
 ## Today
 - Bets placed: 23 / 100 (main 9, bounce 14)
-- Realized P&L: +1.15
+- Realized P&L: +1.06
 
 ## Open paper positions
-- **Bucks** (long/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
+- _none_
 
 ## Recent history
+- 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
 - 2026-11-10 18:30 ET: Coco Gauff [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-10 17:45 ET: Carolina M. Alves [main] — stop-loss @ 0.0700 → -0.3750
 - 2026-11-10 17:40 ET: Valentina Mediorreal [main] — stop-loss @ 0.0800 → -0.3333
@@ -17,7 +18,6 @@ Updated: 2026-11-10 20:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-10 16:45 ET: Valentina Mediorreal [bounce] — stop-loss @ 0.0200 → -0.0714
 - 2026-11-10 16:10 ET: Marta Kostyuk [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-10 15:00 ET: Katrina Scott [main] — stop-loss @ 0.0800 → -0.3400
-- 2026-11-10 14:45 ET: Rebeka Masarova [main] — stop-loss @ 0.0600 → -0.4062
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.0889}`
