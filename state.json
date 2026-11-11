@@ -1,21 +1,21 @@
 {
  "date": "2026-11-11",
- "bets": 13,
- "bounce_bets": 11,
- "realized": 0.7675,
+ "bets": 14,
+ "bounce_bets": 12,
+ "realized": 1.5175,
  "paper_positions": [
   {
-   "market": "aec-atp-aleshe-casruu-2026-11-11",
-   "game": "atp:Ruud@Shevchenko",
-   "side": "long",
-   "team": "Alexander Shevchenko",
-   "entry": 0.37,
-   "qty": 1.3514,
-   "tp": 0.925,
-   "sl": 0.148,
-   "opened": "2026-11-11 14:00 ET",
-   "mode": "main",
-   "last_bid": 0.45
+   "market": "aec-wta-biaand-laupig-2026-11-11",
+   "game": "wta:Pigossi@Andreescu",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-11 14:25 ET",
+   "mode": "bounce",
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -222,6 +222,23 @@
    "exit": 0.08,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-atp-aleshe-casruu-2026-11-11",
+   "game": "atp:Ruud@Shevchenko",
+   "side": "long",
+   "team": "Alexander Shevchenko",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-11-11 14:00 ET",
+   "mode": "main",
+   "last_bid": 0.45,
+   "closed": "2026-11-11 14:25 ET",
+   "exit": 0.925,
+   "pnl": 0.75,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -276,7 +293,7 @@
   ],
   "aec-wta-biaand-laupig-2026-11-11": [
    [
-    1794423342.9283543,
+    1794425144.78422,
     0.04
    ]
   ],
