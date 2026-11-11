@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 13:05 ET · Mode: **PAPER** · Result: OK (2.3s)
+Updated: 2026-11-11 13:10 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 9 / 100 (main 1, bounce 8)
 - Realized P&L: +0.73
 
 ## Open paper positions
-- **Laura Pigossi** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- **Laura Pigossi** (short/bounce) — 1.25 @ 0.0800, now ~0.0600, unrealized -0.0250 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
