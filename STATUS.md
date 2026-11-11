@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 14:05 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-11 14:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 13 / 100 (main 2, bounce 11)
-- Realized P&L: +0.67
+- Realized P&L: +0.77
 
 ## Open paper positions
-- **Laura Pigossi** (short/bounce) — 2.5 @ 0.0400, now ~0.0700, unrealized +0.0750 (TP 0.0800 / SL 0.0160)
-- **Alexander Shevchenko** (long/main) — 1.3514 @ 0.3700, now ~0.3900, unrealized +0.0270 (TP 0.9250 / SL 0.1480)
+- **Alexander Shevchenko** (long/main) — 1.3514 @ 0.3700, now ~0.7300, unrealized +0.4865 (TP 0.9250 / SL 0.1480)
 
 ## Recent history
+- 2026-11-11 14:10 ET: Laura Pigossi [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-11-11 13:55 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-11 13:45 ET: Alexander Shevchenko [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-11-11 13:20 ET: Laura Pigossi [bounce] — stop-loss @ 0.0300 → -0.0625
@@ -18,7 +18,6 @@ Updated: 2026-11-11 14:05 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-11 12:10 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-11-11 11:50 ET: Cameron Norrie [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-11 11:45 ET: Tatjana Maria [bounce] — stop-loss @ 0.0000 → -0.1000
-- 2026-11-11 11:06 ET: Carole Monnet [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Laura Pigossi", "reason": "take-profit", "pnl": 0.1}`
