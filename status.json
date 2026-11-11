@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-11T15:57:45.272437-05:00",
+ "updated": "2026-11-11T16:00:39.693542-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-11",
-  "bets": 14,
+  "bets": 15,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
   "realized": 1.6175
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-miokec-holrun-2026-11-11",
+   "game": "atp:Rune@Kecmanovic",
+   "side": "long",
+   "team": "Miomir Kecmanovic",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-11-11 16:00 ET",
+   "mode": "main",
+   "last_bid": 0.39
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-wta-tatmar-alitub-2026-11-11",
@@ -185,5 +199,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Rune@Kecmanovic",
+   "market": "aec-atp-miokec-holrun-2026-11-11",
+   "side": "long",
+   "team": "Miomir Kecmanovic",
+   "ask": 0.39,
+   "qty": 1.2821,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

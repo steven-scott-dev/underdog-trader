@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 15:57 ET · Mode: **PAPER** · Result: OK (1.5s)
+Updated: 2026-11-11 16:00 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
-- Bets placed: 14 / 100 (main 2, bounce 12)
+- Bets placed: 15 / 100 (main 3, bounce 12)
 - Realized P&L: +1.62
 
 ## Open paper positions
-- _none_
+- **Miomir Kecmanovic** (long/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
 
 ## Recent history
 - 2026-11-11 14:30 ET: Laura Pigossi [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-11 15:57 ET · Mode: **PAPER** · Result: OK (1.5s)
 - 2026-11-11 12:10 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Rune@Kecmanovic", "market": "aec-atp-miokec-holrun-2026-11-11", "side": "long", "team": "Miomir Kecmanovic", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`

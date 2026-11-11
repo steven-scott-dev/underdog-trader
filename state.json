@@ -1,9 +1,23 @@
 {
  "date": "2026-11-11",
- "bets": 14,
+ "bets": 15,
  "bounce_bets": 12,
  "realized": 1.6175,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-miokec-holrun-2026-11-11",
+   "game": "atp:Rune@Kecmanovic",
+   "side": "long",
+   "team": "Miomir Kecmanovic",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "tp": 0.975,
+   "sl": 0.156,
+   "opened": "2026-11-11 16:00 ET",
+   "mode": "main",
+   "last_bid": 0.39
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -310,6 +324,12 @@
    [
     1794423036.7726212,
     0.06
+   ]
+  ],
+  "aec-atp-miokec-holrun-2026-11-11": [
+   [
+    1794430839.5094566,
+    0.39
    ]
   ]
  },
