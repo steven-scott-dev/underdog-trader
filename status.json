@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:40:35.955126-05:00",
+ "updated": "2026-11-11T13:45:40.729798-05:00",
  "mode": "paper",
  "ok": true,
  "duration_s": 1.7,
@@ -9,23 +9,9 @@
   "bounce_bets": 9,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.6675
+  "realized": 0.7675
  },
- "paper_positions": [
-  {
-   "market": "aec-atp-aleshe-casruu-2026-11-11",
-   "game": "atp:Ruud@Shevchenko",
-   "side": "long",
-   "team": "Alexander Shevchenko",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-11 13:40 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -179,20 +165,32 @@
    "exit": 0.03,
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-aleshe-casruu-2026-11-11",
+   "game": "atp:Ruud@Shevchenko",
+   "side": "long",
+   "team": "Alexander Shevchenko",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-11 13:40 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-11 13:45 ET",
+   "exit": 0.16,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "atp:Ruud@Shevchenko",
-   "market": "aec-atp-aleshe-casruu-2026-11-11",
-   "side": "long",
+   "type": "paper_close",
    "team": "Alexander Shevchenko",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "reason": "take-profit",
+   "pnl": 0.1
   }
  ]
 }
