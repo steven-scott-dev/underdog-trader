@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 21:05 ET · Mode: **PAPER** · Result: OK (12.5s)
+Updated: 2026-11-10 21:10 ET · Mode: **PAPER** · Result: OK (13.6s)
 
 ## Today
-- Bets placed: 24 / 100 (main 9, bounce 15)
+- Bets placed: 25 / 100 (main 9, bounce 16)
 - Realized P&L: +1.16
 
 ## Open paper positions
-- _none_
+- **Blue Jackets** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-10 21:05 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-10 21:05 ET · Mode: **PAPER** · Result: OK (12.5s)
 - 2026-11-10 16:10 ET: Marta Kostyuk [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Maple Leafs", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nhl:FLA@CBJ", "market": "aec-nhl-fla-cbj-2026-11-10", "side": "short", "team": "Blue Jackets", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
