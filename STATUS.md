@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 12:15 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-11 12:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 8 / 100 (main 1, bounce 7)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 12:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Andrea Lazaro Garcia", "reason": "take-profit", "pnl": 0.7375}`
+- _none_
