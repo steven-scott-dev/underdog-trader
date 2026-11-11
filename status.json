@@ -1,17 +1,31 @@
 {
- "updated": "2026-11-11T11:15:40.485115-05:00",
+ "updated": "2026-11-11T11:20:42.311470-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-11",
-  "bets": 4,
-  "bounce_bets": 4,
+  "bets": 5,
+  "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0675
  },
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tayfri-camnor-2026-11-11",
+   "game": "atp:Norrie@Fritz",
+   "side": "short",
+   "team": "Cameron Norrie",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-11 11:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -83,5 +97,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Norrie@Fritz",
+   "market": "aec-atp-tayfri-camnor-2026-11-11",
+   "side": "short",
+   "team": "Cameron Norrie",
+   "ask": 0.09,
+   "qty": 1.1111,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }

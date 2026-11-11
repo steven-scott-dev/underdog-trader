@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 11:15 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-11 11:20 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
-- Bets placed: 4 / 100 (main 0, bounce 4)
+- Bets placed: 5 / 100 (main 0, bounce 5)
 - Realized P&L: +0.07
 
 ## Open paper positions
-- _none_
+- **Cameron Norrie** (short/bounce) — 1.1111 @ 0.0900, now ~0.0900, unrealized +0.0000 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-11 11:06 ET: Carole Monnet [bounce] — take-profit @ 0.1800 → +0.1000
@@ -16,4 +16,4 @@ Updated: 2026-11-11 11:15 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Norrie@Fritz", "market": "aec-atp-tayfri-camnor-2026-11-11", "side": "short", "team": "Cameron Norrie", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`

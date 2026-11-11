@@ -1,9 +1,23 @@
 {
  "date": "2026-11-11",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": 0.0675,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-tayfri-camnor-2026-11-11",
+   "game": "atp:Norrie@Fritz",
+   "side": "short",
+   "team": "Cameron Norrie",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-11 11:20 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -97,6 +111,12 @@
   "aec-wta-polher-carmon-2026-11-11": [
    [
     1794412539.8377025,
+    0.09
+   ]
+  ],
+  "aec-atp-tayfri-camnor-2026-11-11": [
+   [
+    1794414042.0253766,
     0.09
    ]
   ]
