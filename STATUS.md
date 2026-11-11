@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 20:10 ET · Mode: **PAPER** · Result: OK (3.9s)
+Updated: 2026-11-10 20:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 23 / 100 (main 9, bounce 14)
 - Realized P&L: +1.15
 
 ## Open paper positions
-- **Bucks** (long/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
+- **Bucks** (long/bounce) — 1.1111 @ 0.0900, now ~0.0400, unrealized -0.0556 (TP 0.1800 / SL 0.0360)
 
 ## Recent history
 - 2026-11-10 18:30 ET: Coco Gauff [bounce] — stop-loss @ 0.0000 → -0.1000
