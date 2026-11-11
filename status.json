@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T18:26:53.648605-05:00",
+ "updated": "2026-11-11T18:30:38.278761-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-11",
   "bets": 17,
@@ -23,7 +23,7 @@
    "sl": 0.016,
    "opened": "2026-11-11 18:26 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.03
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Andreeva@Sabalenka",
-   "market": "aec-wta-arysab-mirand-2026-11-11",
-   "side": "long",
-   "team": "Aryna Sabalenka",
-   "ask": 0.04,
-   "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }

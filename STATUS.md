@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 18:26 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-11 18:30 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
 - Realized P&L: +0.81
 
 ## Open paper positions
-- **Aryna Sabalenka** (long/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Aryna Sabalenka** (long/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-11 17:10 ET: Karolina Muchova [main] — stop-loss @ 0.0900 → -0.3636
@@ -20,4 +20,4 @@ Updated: 2026-11-11 18:26 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-11 13:20 ET: Laura Pigossi [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Andreeva@Sabalenka", "market": "aec-wta-arysab-mirand-2026-11-11", "side": "long", "team": "Aryna Sabalenka", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
