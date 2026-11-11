@@ -1,9 +1,36 @@
 {
  "date": "2026-11-10",
- "bets": 25,
+ "bets": 27,
  "bounce_bets": 16,
  "realized": 1.2569,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-col-tor-2026-11-10",
+   "game": "nhl:COL@TOR",
+   "side": "short",
+   "team": "Maple Leafs",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-11-10 21:20 ET",
+   "mode": "main",
+   "last_bid": 0.16
+  },
+  {
+   "market": "aec-nhl-was-ott-2026-11-10",
+   "game": "nhl:WSH@OTT",
+   "side": "long",
+   "team": "Capitals",
+   "entry": 0.2,
+   "qty": 2.5,
+   "tp": 0.5,
+   "sl": 0.08,
+   "opened": "2026-11-10 21:20 ET",
+   "mode": "main",
+   "last_bid": 0.2
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -541,14 +568,20 @@
   ],
   "aec-nhl-col-tor-2026-11-10": [
    [
-    1794360644.149044,
-    0.1
+    1794363638.947132,
+    0.16
    ]
   ],
   "aec-nhl-fla-cbj-2026-11-10": [
    [
     1794363038.3836064,
     0.1
+   ]
+  ],
+  "aec-nhl-was-ott-2026-11-10": [
+   [
+    1794363639.3391263,
+    0.2
    ]
   ]
  },

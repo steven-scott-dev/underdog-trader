@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 21:15 ET · Mode: **PAPER** · Result: OK (11.9s)
+Updated: 2026-11-10 21:20 ET · Mode: **PAPER** · Result: OK (2.6s)
 
 ## Today
-- Bets placed: 25 / 100 (main 9, bounce 16)
+- Bets placed: 27 / 100 (main 11, bounce 16)
 - Realized P&L: +1.26
 
 ## Open paper positions
-- _none_
+- **Maple Leafs** (short/main) — 3.125 @ 0.1600, now ~0.1600, unrealized +0.0000 (TP 0.4000 / SL 0.0640)
+- **Capitals** (long/main) — 2.5 @ 0.2000, now ~0.2000, unrealized +0.0000 (TP 0.5000 / SL 0.0800)
 
 ## Recent history
 - 2026-11-10 21:15 ET: Blue Jackets [bounce] — take-profit @ 0.2000 → +0.1000
@@ -20,4 +21,5 @@ Updated: 2026-11-10 21:15 ET · Mode: **PAPER** · Result: OK (11.9s)
 - 2026-11-10 16:45 ET: Valentina Mediorreal [bounce] — stop-loss @ 0.0200 → -0.0714
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Blue Jackets", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "nhl:COL@TOR", "market": "aec-nhl-col-tor-2026-11-10", "side": "short", "team": "Maple Leafs", "ask": 0.16, "qty": 3.125, "stake": 0.5, "mode": "main"}`
+- `{"type": "buy", "game": "nhl:WSH@OTT", "market": "aec-nhl-was-ott-2026-11-10", "side": "long", "team": "Capitals", "ask": 0.2, "qty": 2.5, "stake": 0.5, "mode": "main"}`
