@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-11T12:10:40.368947-05:00",
+ "updated": "2026-11-11T12:15:40.261918-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-11",
   "bets": 8,
   "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.0075
+  "realized": 0.73
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-andgar-jazort-2026-11-11",
-   "game": "wta:Ortenzi@Garcia",
-   "side": "long",
-   "team": "Andrea Lazaro Garcia",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-11-11 11:40 ET",
-   "mode": "main",
-   "last_bid": 0.73
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -145,15 +131,32 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-andgar-jazort-2026-11-11",
+   "game": "wta:Ortenzi@Garcia",
+   "side": "long",
+   "team": "Andrea Lazaro Garcia",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-11-11 11:40 ET",
+   "mode": "main",
+   "last_bid": 0.73,
+   "closed": "2026-11-11 12:15 ET",
+   "exit": 0.99,
+   "pnl": 0.7375,
+   "reason": "take-profit"
   }
  ],
  "live_positions": {},
  "actions": [
   {
    "type": "paper_close",
-   "team": "Sofia Costoulas",
-   "reason": "stop-loss",
-   "pnl": -0.075
+   "team": "Andrea Lazaro Garcia",
+   "reason": "take-profit",
+   "pnl": 0.7375
   }
  ]
 }

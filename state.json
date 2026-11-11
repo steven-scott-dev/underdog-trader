@@ -2,22 +2,8 @@
  "date": "2026-11-11",
  "bets": 8,
  "bounce_bets": 7,
- "realized": -0.0075,
- "paper_positions": [
-  {
-   "market": "aec-wta-andgar-jazort-2026-11-11",
-   "game": "wta:Ortenzi@Garcia",
-   "side": "long",
-   "team": "Andrea Lazaro Garcia",
-   "entry": 0.4,
-   "qty": 1.25,
-   "tp": 0.99,
-   "sl": 0.16,
-   "opened": "2026-11-11 11:40 ET",
-   "mode": "main",
-   "last_bid": 0.73
-  }
- ],
+ "realized": 0.73,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -137,6 +123,23 @@
    "exit": 0.02,
    "pnl": -0.075,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-andgar-jazort-2026-11-11",
+   "game": "wta:Ortenzi@Garcia",
+   "side": "long",
+   "team": "Andrea Lazaro Garcia",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-11-11 11:40 ET",
+   "mode": "main",
+   "last_bid": 0.73,
+   "closed": "2026-11-11 12:15 ET",
+   "exit": 0.99,
+   "pnl": 0.7375,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
