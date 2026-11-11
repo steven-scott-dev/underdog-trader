@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 20:20 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-11-10 20:25 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 23 / 100 (main 9, bounce 14)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 20:20 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-11-10 15:00 ET: Katrina Scott [main] — stop-loss @ 0.0800 → -0.3400
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Bucks", "reason": "stop-loss", "pnl": -0.0889}`
+- _none_

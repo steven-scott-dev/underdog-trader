@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T20:20:53.481011-05:00",
+ "updated": "2026-11-10T20:25:43.732403-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 13.4,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-10",
   "bets": 23,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Bucks",
-   "reason": "stop-loss",
-   "pnl": -0.0889
-  }
- ]
+ "actions": []
 }
