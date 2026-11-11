@@ -1,49 +1,18 @@
 {
- "updated": "2026-11-10T22:40:37.773198-05:00",
+ "updated": "2026-11-10T22:45:38.530921-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-10",
   "bets": 31,
   "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.4506
+  "realized": 2.9506
  },
- "paper_positions": [
-  {
-   "market": "aec-nhl-det-stl-2026-11-10",
-   "game": "nhl:DET@STL",
-   "side": "long",
-   "team": "Red Wings",
-   "entry": 0.15,
-   "qty": 3.3333,
-   "tp": 0.375,
-   "sl": 0.06,
-   "opened": "2026-11-10 22:35 ET",
-   "mode": "main",
-   "last_bid": 0.1
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
-  {
-   "market": "aec-wta-lausam-caralv-2026-11-09",
-   "game": "wta:Alves@Samson",
-   "side": "short",
-   "team": "Carolina M. Alves",
-   "entry": 0.28,
-   "qty": 1.7857,
-   "tp": 0.7,
-   "sl": 0.112,
-   "opened": "2026-11-10 17:40 ET",
-   "mode": "main",
-   "last_bid": 0.28,
-   "closed": "2026-11-10 17:45 ET",
-   "exit": 0.07,
-   "pnl": -0.375,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-wta-cocgau-linnos-2026-11-10",
    "game": "wta:Noskova@Gauff",
@@ -196,8 +165,32 @@
    "exit": 0.1,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-det-stl-2026-11-10",
+   "game": "nhl:DET@STL",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.15,
+   "qty": 3.3333,
+   "tp": 0.375,
+   "sl": 0.06,
+   "opened": "2026-11-10 22:35 ET",
+   "mode": "main",
+   "last_bid": 0.1,
+   "closed": "2026-11-10 22:45 ET",
+   "exit": 0.0,
+   "pnl": -0.5,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Red Wings",
+   "reason": "stop-loss",
+   "pnl": -0.5
+  }
+ ]
 }

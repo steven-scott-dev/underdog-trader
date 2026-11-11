@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 22:40 ET · Mode: **PAPER** · Result: OK (2.2s)
+Updated: 2026-11-10 22:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 31 / 100 (main 14, bounce 17)
-- Realized P&L: +3.45
+- Realized P&L: +2.95
 
 ## Open paper positions
-- **Red Wings** (long/main) — 3.3333 @ 0.1500, now ~0.1000, unrealized -0.1667 (TP 0.3750 / SL 0.0600)
+- _none_
 
 ## Recent history
+- 2026-11-10 22:45 ET: Red Wings [main] — stop-loss @ 0.0000 → -0.5000
 - 2026-11-10 22:05 ET: 76ers [bounce] — take-profit @ 0.1000 → +0.1000
 - 2026-11-10 22:00 ET: Blue Jackets [main] — stop-loss @ 0.0200 → -0.4375
 - 2026-11-10 22:00 ET: Canadiens [main] — settled @ 0.9900 → +2.2500
@@ -17,7 +18,6 @@ Updated: 2026-11-10 22:40 ET · Mode: **PAPER** · Result: OK (2.2s)
 - 2026-11-10 21:35 ET: Maple Leafs [main] — stop-loss @ 0.0100 → -0.4688
 - 2026-11-10 21:15 ET: Blue Jackets [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-11-10 21:05 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
-- 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Red Wings", "reason": "stop-loss", "pnl": -0.5}`
