@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T14:00:37.106487-05:00",
+ "updated": "2026-11-11T14:05:37.901181-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-11",
   "bets": 13,
@@ -23,7 +23,7 @@
    "sl": 0.016,
    "opened": "2026-11-11 13:55 ET",
    "mode": "bounce",
-   "last_bid": 0.04
+   "last_bid": 0.07
   },
   {
    "market": "aec-atp-aleshe-casruu-2026-11-11",
@@ -36,7 +36,7 @@
    "sl": 0.148,
    "opened": "2026-11-11 14:00 ET",
    "mode": "main",
-   "last_bid": 0.37
+   "last_bid": 0.39
   }
  ],
  "paper_history": [
@@ -212,17 +212,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "atp:Ruud@Shevchenko",
-   "market": "aec-atp-aleshe-casruu-2026-11-11",
-   "side": "long",
-   "team": "Alexander Shevchenko",
-   "ask": 0.37,
-   "qty": 1.3514,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ]
+ "actions": []
 }
