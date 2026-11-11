@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 22:35 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-10 22:40 ET · Mode: **PAPER** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 31 / 100 (main 14, bounce 17)
 - Realized P&L: +3.45
 
 ## Open paper positions
-- **Red Wings** (long/main) — 3.3333 @ 0.1500, now ~0.1500, unrealized +0.0000 (TP 0.3750 / SL 0.0600)
+- **Red Wings** (long/main) — 3.3333 @ 0.1500, now ~0.1000, unrealized -0.1667 (TP 0.3750 / SL 0.0600)
 
 ## Recent history
 - 2026-11-10 22:05 ET: 76ers [bounce] — take-profit @ 0.1000 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-10 22:35 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:DET@STL", "market": "aec-nhl-det-stl-2026-11-10", "side": "long", "team": "Red Wings", "ask": 0.15, "qty": 3.3333, "stake": 0.5, "mode": "main"}`
+- _none_
