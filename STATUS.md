@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 13:45 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-11 13:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 10 / 100 (main 1, bounce 9)
+- Bets placed: 11 / 100 (main 1, bounce 10)
 - Realized P&L: +0.77
 
 ## Open paper positions
-- _none_
+- **Lucia Bronzetti** (long/bounce) — 1.6667 @ 0.0600, now ~0.0600, unrealized +0.0000 (TP 0.1200 / SL 0.0240)
 
 ## Recent history
 - 2026-11-11 13:45 ET: Alexander Shevchenko [bounce] — take-profit @ 0.1600 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-11 13:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 - 2026-11-11 10:55 ET: Borna Gojo [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Alexander Shevchenko", "reason": "take-profit", "pnl": 0.1}`
+- `{"type": "buy", "game": "wta:Mandlik@Bronzetti", "market": "aec-wta-lucbro-eliman-2026-11-11", "side": "long", "team": "Lucia Bronzetti", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
