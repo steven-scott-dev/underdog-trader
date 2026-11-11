@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-11T11:40:38.096505-05:00",
+ "updated": "2026-11-11T11:45:38.241063-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-11",
   "bets": 7,
   "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0675
+  "realized": -0.0325
  },
  "paper_positions": [
   {
@@ -23,20 +23,7 @@
    "sl": 0.036,
    "opened": "2026-11-11 11:20 ET",
    "mode": "bounce",
-   "last_bid": 0.11
-  },
-  {
-   "market": "aec-wta-tatmar-alitub-2026-11-11",
-   "game": "wta:Tubello@Maria",
-   "side": "long",
-   "team": "Tatjana Maria",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-11 11:36 ET",
-   "mode": "bounce",
-   "last_bid": 0.07
+   "last_bid": 0.06
   },
   {
    "market": "aec-wta-andgar-jazort-2026-11-11",
@@ -49,7 +36,7 @@
    "sl": 0.16,
    "opened": "2026-11-11 11:40 ET",
    "mode": "main",
-   "last_bid": 0.4
+   "last_bid": 0.36
   }
  ],
  "paper_history": [
@@ -120,20 +107,32 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-tatmar-alitub-2026-11-11",
+   "game": "wta:Tubello@Maria",
+   "side": "long",
+   "team": "Tatjana Maria",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-11 11:36 ET",
+   "mode": "bounce",
+   "last_bid": 0.07,
+   "closed": "2026-11-11 11:45 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Ortenzi@Garcia",
-   "market": "aec-wta-andgar-jazort-2026-11-11",
-   "side": "long",
-   "team": "Andrea Lazaro Garcia",
-   "ask": 0.4,
-   "qty": 1.25,
-   "stake": 0.5,
-   "mode": "main"
+   "type": "paper_close",
+   "team": "Tatjana Maria",
+   "reason": "stop-loss",
+   "pnl": -0.1
   }
  ]
 }
