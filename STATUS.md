@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 11:20 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-11 11:25 ET · Mode: **PAPER** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
@@ -16,4 +16,4 @@ Updated: 2026-11-11 11:20 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Norrie@Fritz", "market": "aec-atp-tayfri-camnor-2026-11-11", "side": "short", "team": "Cameron Norrie", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
