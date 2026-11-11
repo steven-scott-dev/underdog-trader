@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 16:50 ET · Mode: **PAPER** · Result: OK (2.0s)
+Updated: 2026-11-11 16:55 ET · Mode: **PAPER** · Result: OK (2.5s)
 
 ## Today
-- Bets placed: 15 / 100 (main 3, bounce 12)
+- Bets placed: 16 / 100 (main 4, bounce 12)
 - Realized P&L: +1.17
 
 ## Open paper positions
-- _none_
+- **Karolina Muchova** (short/main) — 1.5152 @ 0.3300, now ~0.3300, unrealized +0.0000 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-11-11 16:05 ET: Miomir Kecmanovic [main] — stop-loss @ 0.0400 → -0.4487
@@ -20,4 +20,4 @@ Updated: 2026-11-11 16:50 ET · Mode: **PAPER** · Result: OK (2.0s)
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Muchova@Svitolina", "market": "aec-wta-elisvi-karmuc-2026-11-11", "side": "short", "team": "Karolina Muchova", "ask": 0.33, "qty": 1.5152, "stake": 0.5, "mode": "main"}`
