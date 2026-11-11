@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T16:05:39.690850-05:00",
+ "updated": "2026-11-11T16:10:39.108940-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 0.8,
  "daily": {
   "date": "2026-11-11",
   "bets": 15,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Miomir Kecmanovic",
-   "reason": "stop-loss",
-   "pnl": -0.4487
-  }
- ]
+ "actions": []
 }

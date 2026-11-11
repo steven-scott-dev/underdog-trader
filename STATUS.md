@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 16:05 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-11 16:10 ET · Mode: **PAPER** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 15 / 100 (main 3, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 16:05 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Miomir Kecmanovic", "reason": "stop-loss", "pnl": -0.4487}`
+- _none_
