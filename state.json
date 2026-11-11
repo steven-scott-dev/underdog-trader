@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 30,
+ "bets": 31,
  "bounce_bets": 17,
  "realized": 3.4506,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nhl-det-stl-2026-11-10",
+   "game": "nhl:DET@STL",
+   "side": "long",
+   "team": "Red Wings",
+   "entry": 0.15,
+   "qty": 3.3333,
+   "tp": 0.375,
+   "sl": 0.06,
+   "opened": "2026-11-10 22:35 ET",
+   "mode": "main",
+   "last_bid": 0.15
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -652,6 +666,12 @@
    [
     1794366039.2730277,
     0.05
+   ]
+  ],
+  "aec-nhl-det-stl-2026-11-10": [
+   [
+    1794368136.0721188,
+    0.15
    ]
   ]
  },
