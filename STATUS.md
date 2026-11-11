@@ -1,23 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 23:55 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-11 00:00 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
-- Bets placed: 32 / 100 (main 14, bounce 18)
-- Realized P&L: +2.95
+- Bets placed: 1 / 100 (main 0, bounce 1)
+- Realized P&L: +0.00
 
 ## Open paper positions
-- **Kings** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
+- **Kings** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
-- 2026-11-10 22:45 ET: Red Wings [main] — stop-loss @ 0.0000 → -0.5000
-- 2026-11-10 22:05 ET: 76ers [bounce] — take-profit @ 0.1000 → +0.1000
-- 2026-11-10 22:00 ET: Blue Jackets [main] — stop-loss @ 0.0200 → -0.4375
-- 2026-11-10 22:00 ET: Canadiens [main] — settled @ 0.9900 → +2.2500
-- 2026-11-10 21:40 ET: Capitals [main] — take-profit @ 0.5000 → +0.7500
-- 2026-11-10 21:35 ET: Maple Leafs [main] — stop-loss @ 0.0100 → -0.4688
-- 2026-11-10 21:15 ET: Blue Jackets [bounce] — take-profit @ 0.2000 → +0.1000
-- 2026-11-10 21:05 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
+- _none yet_
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:ORL@SAC", "market": "aec-nba-orl-sac-2026-11-10", "side": "short", "team": "Kings", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
