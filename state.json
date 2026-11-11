@@ -2,22 +2,8 @@
  "date": "2026-11-11",
  "bets": 16,
  "bounce_bets": 12,
- "realized": 1.1688,
- "paper_positions": [
-  {
-   "market": "aec-wta-elisvi-karmuc-2026-11-11",
-   "game": "wta:Muchova@Svitolina",
-   "side": "short",
-   "team": "Karolina Muchova",
-   "entry": 0.33,
-   "qty": 1.5152,
-   "tp": 0.825,
-   "sl": 0.132,
-   "opened": "2026-11-11 16:55 ET",
-   "mode": "main",
-   "last_bid": 0.15
-  }
- ],
+ "realized": 0.8052,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -273,6 +259,23 @@
    "exit": 0.04,
    "pnl": -0.4487,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-elisvi-karmuc-2026-11-11",
+   "game": "wta:Muchova@Svitolina",
+   "side": "short",
+   "team": "Karolina Muchova",
+   "entry": 0.33,
+   "qty": 1.5152,
+   "tp": 0.825,
+   "sl": 0.132,
+   "opened": "2026-11-11 16:55 ET",
+   "mode": "main",
+   "last_bid": 0.15,
+   "closed": "2026-11-11 17:10 ET",
+   "exit": 0.09,
+   "pnl": -0.3636,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -363,6 +366,7 @@
   "aec-wta-lausam-sofcos-2026-11-11": 1794418839.1817203,
   "aec-wta-biaand-laupig-2026-11-11": 1794423035.1679587,
   "aec-wta-lucbro-eliman-2026-11-11": 1794425141.3856316,
-  "aec-atp-miokec-holrun-2026-11-11": 1794432939.014167
+  "aec-atp-miokec-holrun-2026-11-11": 1794432939.014167,
+  "aec-wta-elisvi-karmuc-2026-11-11": 1794436837.6897676
  }
 }
