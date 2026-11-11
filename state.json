@@ -1,21 +1,21 @@
 {
  "date": "2026-11-11",
- "bets": 3,
- "bounce_bets": 3,
- "realized": -0.1325,
+ "bets": 4,
+ "bounce_bets": 4,
+ "realized": -0.0325,
  "paper_positions": [
   {
-   "market": "aec-atp-borgoj-ugohum-2026-11-11",
-   "game": "atp:Humbert@Gojo",
-   "side": "long",
-   "team": "Borna Gojo",
-   "entry": 0.1,
-   "qty": 1.0,
-   "tp": 0.2,
-   "sl": 0.04,
-   "opened": "2026-11-11 10:35 ET",
+   "market": "aec-wta-polher-carmon-2026-11-11",
+   "game": "wta:Monnet@Hercog",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-11 10:55 ET",
    "mode": "bounce",
-   "last_bid": 0.12
+   "last_bid": 0.09
   }
  ],
  "paper_history": [
@@ -52,6 +52,23 @@
    "exit": 0.03,
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-borgoj-ugohum-2026-11-11",
+   "game": "atp:Humbert@Gojo",
+   "side": "long",
+   "team": "Borna Gojo",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-11 10:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.12,
+   "closed": "2026-11-11 10:55 ET",
+   "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
@@ -72,6 +89,12 @@
    [
     1794411337.503525,
     0.1
+   ]
+  ],
+  "aec-wta-polher-carmon-2026-11-11": [
+   [
+    1794412539.8377025,
+    0.09
    ]
   ]
  },
