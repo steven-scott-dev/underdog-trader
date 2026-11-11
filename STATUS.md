@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 22:05 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-10 22:07 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 30 / 100 (main 13, bounce 17)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 22:05 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
 
 ## Last run actions
-- `{"type": "paper_close", "team": "76ers", "reason": "take-profit", "pnl": 0.1}`
+- _none_

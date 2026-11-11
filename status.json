@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T22:05:37.066936-05:00",
+ "updated": "2026-11-10T22:07:43.875742-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-10",
   "bets": 30,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "76ers",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
