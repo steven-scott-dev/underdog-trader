@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 23:45 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-10 23:50 ET · Mode: **PAPER** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 32 / 100 (main 14, bounce 18)
 - Realized P&L: +2.95
 
 ## Open paper positions
-- **Kings** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Kings** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-10 22:45 ET: Red Wings [main] — stop-loss @ 0.0000 → -0.5000
@@ -20,4 +20,4 @@ Updated: 2026-11-10 23:45 ET · Mode: **PAPER** · Result: OK (1.1s)
 - 2026-11-10 21:05 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:NSH@LA", "market": "aec-nhl-nas-la-2026-11-10", "side": "short", "team": "Kings", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
