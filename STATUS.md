@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 14:10 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-11 14:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 13 / 100 (main 2, bounce 11)
 - Realized P&L: +0.77
 
 ## Open paper positions
-- **Alexander Shevchenko** (long/main) — 1.3514 @ 0.3700, now ~0.7300, unrealized +0.4865 (TP 0.9250 / SL 0.1480)
+- **Alexander Shevchenko** (long/main) — 1.3514 @ 0.3700, now ~0.3800, unrealized +0.0135 (TP 0.9250 / SL 0.1480)
 
 ## Recent history
 - 2026-11-11 14:10 ET: Laura Pigossi [bounce] — take-profit @ 0.0800 → +0.1000
@@ -20,4 +20,4 @@ Updated: 2026-11-11 14:10 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-11 11:45 ET: Tatjana Maria [bounce] — stop-loss @ 0.0000 → -0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Pigossi", "reason": "take-profit", "pnl": 0.1}`
+- _none_
