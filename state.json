@@ -2,22 +2,8 @@
  "date": "2026-11-11",
  "bets": 17,
  "bounce_bets": 13,
- "realized": 0.8052,
- "paper_positions": [
-  {
-   "market": "aec-wta-arysab-mirand-2026-11-11",
-   "game": "wta:Andreeva@Sabalenka",
-   "side": "long",
-   "team": "Aryna Sabalenka",
-   "entry": 0.04,
-   "qty": 2.5,
-   "tp": 0.08,
-   "sl": 0.016,
-   "opened": "2026-11-11 18:26 ET",
-   "mode": "bounce",
-   "last_bid": 0.02
-  }
- ],
+ "realized": 0.7052,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -290,6 +276,23 @@
    "exit": 0.09,
    "pnl": -0.3636,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-arysab-mirand-2026-11-11",
+   "game": "wta:Andreeva@Sabalenka",
+   "side": "long",
+   "team": "Aryna Sabalenka",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-11 18:26 ET",
+   "mode": "bounce",
+   "last_bid": 0.02,
+   "closed": "2026-11-11 18:40 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -387,6 +390,7 @@
   "aec-wta-biaand-laupig-2026-11-11": 1794423035.1679587,
   "aec-wta-lucbro-eliman-2026-11-11": 1794425141.3856316,
   "aec-atp-miokec-holrun-2026-11-11": 1794432939.014167,
-  "aec-wta-elisvi-karmuc-2026-11-11": 1794436837.6897676
+  "aec-wta-elisvi-karmuc-2026-11-11": 1794436837.6897676,
+  "aec-wta-arysab-mirand-2026-11-11": 1794442237.4916797
  }
 }
