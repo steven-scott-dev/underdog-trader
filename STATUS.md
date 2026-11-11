@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 12:50 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-11 12:55 ET · Mode: **PAPER** · Result: OK (2.0s)
 
 ## Today
-- Bets placed: 8 / 100 (main 1, bounce 7)
+- Bets placed: 9 / 100 (main 1, bounce 8)
 - Realized P&L: +0.73
 
 ## Open paper positions
-- _none_
+- **Laura Pigossi** (short/bounce) — 1.25 @ 0.0800, now ~0.0800, unrealized +0.0000 (TP 0.1600 / SL 0.0320)
 
 ## Recent history
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
@@ -20,4 +20,4 @@ Updated: 2026-11-11 12:50 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Pigossi@Andreescu", "market": "aec-wta-biaand-laupig-2026-11-11", "side": "short", "team": "Laura Pigossi", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
