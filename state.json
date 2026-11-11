@@ -1,9 +1,23 @@
 {
  "date": "2026-11-10",
- "bets": 22,
- "bounce_bets": 13,
+ "bets": 23,
+ "bounce_bets": 14,
  "realized": 1.1458,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-nba-mil-ny-2026-11-10",
+   "game": "nba:MIL@NY",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-10 20:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.09
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -479,6 +493,12 @@
   "aec-wta-cocgau-linnos-2026-11-10": [
    [
     1794352542.0708108,
+    0.09
+   ]
+  ],
+  "aec-nba-mil-ny-2026-11-10": [
+   [
+    1794358840.584171,
     0.09
    ]
   ]
