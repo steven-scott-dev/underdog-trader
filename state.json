@@ -1,21 +1,21 @@
 {
  "date": "2026-11-11",
- "bets": 11,
- "bounce_bets": 10,
- "realized": 0.7675,
+ "bets": 12,
+ "bounce_bets": 11,
+ "realized": 0.6675,
  "paper_positions": [
   {
-   "market": "aec-wta-lucbro-eliman-2026-11-11",
-   "game": "wta:Mandlik@Bronzetti",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-11 13:50 ET",
+   "market": "aec-wta-biaand-laupig-2026-11-11",
+   "game": "wta:Pigossi@Andreescu",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-11 13:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
@@ -188,6 +188,23 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-lucbro-eliman-2026-11-11",
+   "game": "wta:Mandlik@Bronzetti",
+   "side": "long",
+   "team": "Lucia Bronzetti",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-11 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-11 13:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -242,8 +259,8 @@
   ],
   "aec-wta-biaand-laupig-2026-11-11": [
    [
-    1794419747.0693576,
-    0.08
+    1794423342.9283543,
+    0.04
    ]
   ],
   "aec-atp-aleshe-casruu-2026-11-11": [
@@ -264,6 +281,7 @@
   "aec-nhl-nas-la-2026-11-10": 1794376535.4940338,
   "aec-wta-tatmar-alitub-2026-11-11": 1794417337.4018445,
   "aec-wta-lausam-sofcos-2026-11-11": 1794418839.1817203,
-  "aec-wta-biaand-laupig-2026-11-11": 1794423035.1679587
+  "aec-wta-biaand-laupig-2026-11-11": 1794423035.1679587,
+  "aec-wta-lucbro-eliman-2026-11-11": 1794425141.3856316
  }
 }

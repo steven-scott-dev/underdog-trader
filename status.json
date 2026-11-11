@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-11T13:50:37.465326-05:00",
+ "updated": "2026-11-11T13:55:42.929199-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-11",
-  "bets": 11,
-  "bounce_bets": 10,
+  "bets": 12,
+  "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.7675
+  "realized": 0.6675
  },
  "paper_positions": [
   {
-   "market": "aec-wta-lucbro-eliman-2026-11-11",
-   "game": "wta:Mandlik@Bronzetti",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-11 13:50 ET",
+   "market": "aec-wta-biaand-laupig-2026-11-11",
+   "game": "wta:Pigossi@Andreescu",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "tp": 0.08,
+   "sl": 0.016,
+   "opened": "2026-11-11 13:55 ET",
    "mode": "bounce",
-   "last_bid": 0.06
+   "last_bid": 0.04
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-nba-orl-sac-2026-11-10",
-   "game": "nba:ORL@SAC",
-   "side": "short",
-   "team": "Kings",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-11 00:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.08,
-   "closed": "2026-11-11 00:05 ET",
-   "exit": 0.03,
-   "pnl": -0.0625,
-   "reason": "stop-loss"
-  },
   {
    "market": "aec-nhl-nas-la-2026-11-10",
    "game": "nhl:NSH@LA",
@@ -196,18 +179,41 @@
    "exit": 0.16,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-lucbro-eliman-2026-11-11",
+   "game": "wta:Mandlik@Bronzetti",
+   "side": "long",
+   "team": "Lucia Bronzetti",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "tp": 0.12,
+   "sl": 0.024,
+   "opened": "2026-11-11 13:50 ET",
+   "mode": "bounce",
+   "last_bid": 0.06,
+   "closed": "2026-11-11 13:55 ET",
+   "exit": 0.0,
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Mandlik@Bronzetti",
-   "market": "aec-wta-lucbro-eliman-2026-11-11",
-   "side": "long",
+   "type": "paper_close",
    "team": "Lucia Bronzetti",
-   "ask": 0.06,
-   "qty": 1.6667,
+   "reason": "stop-loss",
+   "pnl": -0.1
+  },
+  {
+   "type": "buy",
+   "game": "wta:Pigossi@Andreescu",
+   "market": "aec-wta-biaand-laupig-2026-11-11",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "ask": 0.04,
+   "qty": 2.5,
    "stake": 0.1,
    "mode": "bounce"
   }
