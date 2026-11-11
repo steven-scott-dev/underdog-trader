@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 11,
  "realized": 0.6675,
  "paper_positions": [
@@ -16,6 +16,19 @@
    "opened": "2026-11-11 13:55 ET",
    "mode": "bounce",
    "last_bid": 0.04
+  },
+  {
+   "market": "aec-atp-aleshe-casruu-2026-11-11",
+   "game": "atp:Ruud@Shevchenko",
+   "side": "long",
+   "team": "Alexander Shevchenko",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "tp": 0.925,
+   "sl": 0.148,
+   "opened": "2026-11-11 14:00 ET",
+   "mode": "main",
+   "last_bid": 0.37
   }
  ],
  "paper_history": [
@@ -265,8 +278,8 @@
   ],
   "aec-atp-aleshe-casruu-2026-11-11": [
    [
-    1794422435.0534055,
-    0.08
+    1794423636.7592402,
+    0.37
    ]
   ],
   "aec-wta-lucbro-eliman-2026-11-11": [

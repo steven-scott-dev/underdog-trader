@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 13:55 ET · Mode: **PAPER** · Result: OK (1.8s)
+Updated: 2026-11-11 14:00 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 12 / 100 (main 1, bounce 11)
+- Bets placed: 13 / 100 (main 2, bounce 11)
 - Realized P&L: +0.67
 
 ## Open paper positions
 - **Laura Pigossi** (short/bounce) — 2.5 @ 0.0400, now ~0.0400, unrealized +0.0000 (TP 0.0800 / SL 0.0160)
+- **Alexander Shevchenko** (long/main) — 1.3514 @ 0.3700, now ~0.3700, unrealized +0.0000 (TP 0.9250 / SL 0.1480)
 
 ## Recent history
 - 2026-11-11 13:55 ET: Lucia Bronzetti [bounce] — stop-loss @ 0.0000 → -0.1000
@@ -20,5 +21,4 @@ Updated: 2026-11-11 13:55 ET · Mode: **PAPER** · Result: OK (1.8s)
 - 2026-11-11 11:06 ET: Carole Monnet [bounce] — take-profit @ 0.1800 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Lucia Bronzetti", "reason": "stop-loss", "pnl": -0.1}`
-- `{"type": "buy", "game": "wta:Pigossi@Andreescu", "market": "aec-wta-biaand-laupig-2026-11-11", "side": "short", "team": "Laura Pigossi", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "atp:Ruud@Shevchenko", "market": "aec-atp-aleshe-casruu-2026-11-11", "side": "long", "team": "Alexander Shevchenko", "ask": 0.37, "qty": 1.3514, "stake": 0.5, "mode": "main"}`
