@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "bets": 6,
+ "bets": 7,
  "bounce_bets": 6,
  "realized": 0.0675,
  "paper_positions": [
@@ -15,7 +15,7 @@
    "sl": 0.036,
    "opened": "2026-11-11 11:20 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
   },
   {
    "market": "aec-wta-tatmar-alitub-2026-11-11",
@@ -28,7 +28,20 @@
    "sl": 0.04,
    "opened": "2026-11-11 11:36 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.07
+  },
+  {
+   "market": "aec-wta-andgar-jazort-2026-11-11",
+   "game": "wta:Ortenzi@Garcia",
+   "side": "long",
+   "team": "Andrea Lazaro Garcia",
+   "entry": 0.4,
+   "qty": 1.25,
+   "tp": 0.99,
+   "sl": 0.16,
+   "opened": "2026-11-11 11:40 ET",
+   "mode": "main",
+   "last_bid": 0.4
   }
  ],
  "paper_history": [
@@ -137,6 +150,12 @@
    [
     1794414991.5001442,
     0.1
+   ]
+  ],
+  "aec-wta-andgar-jazort-2026-11-11": [
+   [
+    1794415237.988835,
+    0.4
    ]
   ]
  },
