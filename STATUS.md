@@ -1,16 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 11:45 ET · Mode: **PAPER** · Result: OK (1.3s)
+Updated: 2026-11-11 11:50 ET · Mode: **PAPER** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 7 / 100 (main 1, bounce 6)
-- Realized P&L: -0.03
+- Realized P&L: +0.07
 
 ## Open paper positions
-- **Cameron Norrie** (short/bounce) — 1.1111 @ 0.0900, now ~0.0600, unrealized -0.0333 (TP 0.1800 / SL 0.0360)
-- **Andrea Lazaro Garcia** (long/main) — 1.25 @ 0.4000, now ~0.3600, unrealized -0.0500 (TP 0.9900 / SL 0.1600)
+- **Andrea Lazaro Garcia** (long/main) — 1.25 @ 0.4000, now ~0.3800, unrealized -0.0250 (TP 0.9900 / SL 0.1600)
 
 ## Recent history
+- 2026-11-11 11:50 ET: Cameron Norrie [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-11 11:45 ET: Tatjana Maria [bounce] — stop-loss @ 0.0000 → -0.1000
 - 2026-11-11 11:06 ET: Carole Monnet [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-11 10:55 ET: Borna Gojo [bounce] — take-profit @ 0.2000 → +0.1000
@@ -18,4 +18,4 @@ Updated: 2026-11-11 11:45 ET · Mode: **PAPER** · Result: OK (1.3s)
 - 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Tatjana Maria", "reason": "stop-loss", "pnl": -0.1}`
+- `{"type": "paper_close", "team": "Cameron Norrie", "reason": "take-profit", "pnl": 0.1}`
