@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T21:50:40.730210-05:00",
+ "updated": "2026-11-10T21:55:35.970557-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-10",
-  "bets": 28,
+  "bets": 29,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
@@ -23,7 +23,20 @@
    "sl": 0.072,
    "opened": "2026-11-10 21:35 ET",
    "mode": "main",
-   "last_bid": 0.38
+   "last_bid": 0.41
+  },
+  {
+   "market": "aec-nhl-fla-cbj-2026-11-10",
+   "game": "nhl:FLA@CBJ",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-11-10 21:55 ET",
+   "mode": "main",
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -199,5 +212,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:FLA@CBJ",
+   "market": "aec-nhl-fla-cbj-2026-11-10",
+   "side": "short",
+   "team": "Blue Jackets",
+   "ask": 0.16,
+   "qty": 3.125,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }

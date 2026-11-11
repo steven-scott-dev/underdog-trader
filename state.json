@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "bets": 28,
+ "bets": 29,
  "bounce_bets": 16,
  "realized": 1.5381,
  "paper_positions": [
@@ -15,7 +15,20 @@
    "sl": 0.072,
    "opened": "2026-11-10 21:35 ET",
    "mode": "main",
-   "last_bid": 0.38
+   "last_bid": 0.41
+  },
+  {
+   "market": "aec-nhl-fla-cbj-2026-11-10",
+   "game": "nhl:FLA@CBJ",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-11-10 21:55 ET",
+   "mode": "main",
+   "last_bid": 0.16
   }
  ],
  "paper_history": [
@@ -595,8 +608,8 @@
   ],
   "aec-nhl-fla-cbj-2026-11-10": [
    [
-    1794363038.3836064,
-    0.1
+    1794365735.4842737,
+    0.16
    ]
   ],
   "aec-nhl-was-ott-2026-11-10": [
