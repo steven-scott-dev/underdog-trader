@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 13:15 ET · Mode: **PAPER** · Result: OK (2.1s)
+Updated: 2026-11-11 13:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 9 / 100 (main 1, bounce 8)
-- Realized P&L: +0.73
+- Realized P&L: +0.67
 
 ## Open paper positions
-- **Laura Pigossi** (short/bounce) — 1.25 @ 0.0800, now ~0.0500, unrealized -0.0375 (TP 0.1600 / SL 0.0320)
+- _none_
 
 ## Recent history
+- 2026-11-11 13:20 ET: Laura Pigossi [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
 - 2026-11-11 12:10 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0200 → -0.0750
 - 2026-11-11 11:50 ET: Cameron Norrie [bounce] — take-profit @ 0.1800 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-11-11 13:15 ET · Mode: **PAPER** · Result: OK (2.1s)
 - 2026-11-11 11:06 ET: Carole Monnet [bounce] — take-profit @ 0.1800 → +0.1000
 - 2026-11-11 10:55 ET: Borna Gojo [bounce] — take-profit @ 0.2000 → +0.1000
 - 2026-11-11 00:25 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0700
-- 2026-11-11 00:05 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- _none_
+- `{"type": "paper_close", "team": "Laura Pigossi", "reason": "stop-loss", "pnl": -0.0625}`

@@ -1,31 +1,17 @@
 {
- "updated": "2026-11-11T13:15:36.068497-05:00",
+ "updated": "2026-11-11T13:20:36.099577-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-11",
   "bets": 9,
   "bounce_bets": 8,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.73
+  "realized": 0.6675
  },
- "paper_positions": [
-  {
-   "market": "aec-wta-biaand-laupig-2026-11-11",
-   "game": "wta:Pigossi@Andreescu",
-   "side": "short",
-   "team": "Laura Pigossi",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-11 12:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -162,8 +148,32 @@
    "exit": 0.99,
    "pnl": 0.7375,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-biaand-laupig-2026-11-11",
+   "game": "wta:Pigossi@Andreescu",
+   "side": "short",
+   "team": "Laura Pigossi",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-11 12:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-11 13:20 ET",
+   "exit": 0.03,
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "paper_close",
+   "team": "Laura Pigossi",
+   "reason": "stop-loss",
+   "pnl": -0.0625
+  }
+ ]
 }
