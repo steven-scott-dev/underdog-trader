@@ -2,22 +2,8 @@
  "date": "2026-11-11",
  "bets": 4,
  "bounce_bets": 4,
- "realized": -0.0325,
- "paper_positions": [
-  {
-   "market": "aec-wta-polher-carmon-2026-11-11",
-   "game": "wta:Monnet@Hercog",
-   "side": "short",
-   "team": "Carole Monnet",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "tp": 0.18,
-   "sl": 0.036,
-   "opened": "2026-11-11 10:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 0.0675,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -67,6 +53,23 @@
    "last_bid": 0.12,
    "closed": "2026-11-11 10:55 ET",
    "exit": 0.2,
+   "pnl": 0.1,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-polher-carmon-2026-11-11",
+   "game": "wta:Monnet@Hercog",
+   "side": "short",
+   "team": "Carole Monnet",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "tp": 0.18,
+   "sl": 0.036,
+   "opened": "2026-11-11 10:55 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-11 11:06 ET",
+   "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
   }
