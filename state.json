@@ -1,9 +1,23 @@
 {
  "date": "2026-11-11",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": -0.1325,
- "paper_positions": [],
+ "paper_positions": [
+  {
+   "market": "aec-atp-borgoj-ugohum-2026-11-11",
+   "game": "atp:Humbert@Gojo",
+   "side": "long",
+   "team": "Borna Gojo",
+   "entry": 0.1,
+   "qty": 1.0,
+   "tp": 0.2,
+   "sl": 0.04,
+   "opened": "2026-11-11 10:35 ET",
+   "mode": "bounce",
+   "last_bid": 0.1
+  }
+ ],
  "paper_history": [
   {
    "market": "aec-nba-orl-sac-2026-11-10",
@@ -51,6 +65,12 @@
   "aec-nhl-nas-la-2026-11-10": [
    [
     1794373535.4583483,
+    0.1
+   ]
+  ],
+  "aec-atp-borgoj-ugohum-2026-11-11": [
+   [
+    1794411337.503525,
     0.1
    ]
   ]
