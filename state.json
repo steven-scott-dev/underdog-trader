@@ -1,34 +1,21 @@
 {
  "date": "2026-11-10",
- "bets": 29,
- "bounce_bets": 16,
- "realized": 1.5381,
+ "bets": 30,
+ "bounce_bets": 17,
+ "realized": 3.3506,
  "paper_positions": [
   {
-   "market": "aec-nhl-min-mon-2026-11-10",
-   "game": "nhl:MIN@MTL",
+   "market": "aec-nba-bos-phi-2026-11-10",
+   "game": "nba:BOS@PHI",
    "side": "short",
-   "team": "Canadiens",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-11-10 21:35 ET",
-   "mode": "main",
-   "last_bid": 0.41
-  },
-  {
-   "market": "aec-nhl-fla-cbj-2026-11-10",
-   "game": "nhl:FLA@CBJ",
-   "side": "short",
-   "team": "Blue Jackets",
-   "entry": 0.16,
-   "qty": 3.125,
-   "tp": 0.4,
-   "sl": 0.064,
-   "opened": "2026-11-10 21:55 ET",
-   "mode": "main",
-   "last_bid": 0.16
+   "team": "76ers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-10 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
@@ -490,6 +477,40 @@
    "exit": 0.5,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-min-mon-2026-11-10",
+   "game": "nhl:MIN@MTL",
+   "side": "short",
+   "team": "Canadiens",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-11-10 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.41,
+   "closed": "2026-11-10 22:00 ET",
+   "exit": 0.99,
+   "pnl": 2.25,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-fla-cbj-2026-11-10",
+   "game": "nhl:FLA@CBJ",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-11-10 21:55 ET",
+   "mode": "main",
+   "last_bid": 0.16,
+   "closed": "2026-11-10 22:00 ET",
+   "exit": 0.02,
+   "pnl": -0.4375,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -623,6 +644,12 @@
     1794364539.1314495,
     0.18
    ]
+  ],
+  "aec-nba-bos-phi-2026-11-10": [
+   [
+    1794366039.2730277,
+    0.05
+   ]
   ]
  },
  "cooldowns": {
@@ -639,6 +666,7 @@
   "aec-wta-lausam-caralv-2026-11-09": 1794352539.9692452,
   "aec-wta-cocgau-linnos-2026-11-10": 1794355242.1825533,
   "aec-nba-mil-ny-2026-11-10": 1794361840.6667972,
-  "aec-nhl-col-tor-2026-11-10": 1794366337.9797666
+  "aec-nhl-col-tor-2026-11-10": 1794366337.9797666,
+  "aec-nhl-fla-cbj-2026-11-10": 1794367838.7901504
  }
 }

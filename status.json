@@ -1,79 +1,32 @@
 {
- "updated": "2026-11-10T21:55:35.970557-05:00",
+ "updated": "2026-11-10T22:00:40.311189-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-10",
-  "bets": 29,
-  "bounce_bets": 16,
+  "bets": 30,
+  "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.5381
+  "realized": 3.3506
  },
  "paper_positions": [
   {
-   "market": "aec-nhl-min-mon-2026-11-10",
-   "game": "nhl:MIN@MTL",
+   "market": "aec-nba-bos-phi-2026-11-10",
+   "game": "nba:BOS@PHI",
    "side": "short",
-   "team": "Canadiens",
-   "entry": 0.18,
-   "qty": 2.7778,
-   "tp": 0.45,
-   "sl": 0.072,
-   "opened": "2026-11-10 21:35 ET",
-   "mode": "main",
-   "last_bid": 0.41
-  },
-  {
-   "market": "aec-nhl-fla-cbj-2026-11-10",
-   "game": "nhl:FLA@CBJ",
-   "side": "short",
-   "team": "Blue Jackets",
-   "entry": 0.16,
-   "qty": 3.125,
-   "tp": 0.4,
-   "sl": 0.064,
-   "opened": "2026-11-10 21:55 ET",
-   "mode": "main",
-   "last_bid": 0.16
+   "team": "76ers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-10 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05
   }
  ],
  "paper_history": [
-  {
-   "market": "aec-wta-marcar-valmed-2026-11-09",
-   "game": "wta:Arias@Carle",
-   "side": "short",
-   "team": "Valentina Mediorreal",
-   "entry": 0.07,
-   "qty": 1.4286,
-   "tp": 0.14,
-   "sl": 0.028,
-   "opened": "2026-11-10 16:35 ET",
-   "mode": "bounce",
-   "last_bid": 0.03,
-   "closed": "2026-11-10 16:45 ET",
-   "exit": 0.02,
-   "pnl": -0.0714,
-   "reason": "stop-loss"
-  },
-  {
-   "market": "aec-wta-lausam-caralv-2026-11-09",
-   "game": "wta:Alves@Samson",
-   "side": "long",
-   "team": "Laura Samson",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "tp": 0.12,
-   "sl": 0.024,
-   "opened": "2026-11-10 16:55 ET",
-   "mode": "bounce",
-   "last_bid": 0.06,
-   "closed": "2026-11-10 17:00 ET",
-   "exit": 0.12,
-   "pnl": 0.1,
-   "reason": "take-profit"
-  },
   {
    "market": "aec-wta-marcar-valmed-2026-11-09",
    "game": "wta:Arias@Carle",
@@ -209,20 +162,66 @@
    "exit": 0.5,
    "pnl": 0.75,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-min-mon-2026-11-10",
+   "game": "nhl:MIN@MTL",
+   "side": "short",
+   "team": "Canadiens",
+   "entry": 0.18,
+   "qty": 2.7778,
+   "tp": 0.45,
+   "sl": 0.072,
+   "opened": "2026-11-10 21:35 ET",
+   "mode": "main",
+   "last_bid": 0.41,
+   "closed": "2026-11-10 22:00 ET",
+   "exit": 0.99,
+   "pnl": 2.25,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-fla-cbj-2026-11-10",
+   "game": "nhl:FLA@CBJ",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.16,
+   "qty": 3.125,
+   "tp": 0.4,
+   "sl": 0.064,
+   "opened": "2026-11-10 21:55 ET",
+   "mode": "main",
+   "last_bid": 0.16,
+   "closed": "2026-11-10 22:00 ET",
+   "exit": 0.02,
+   "pnl": -0.4375,
+   "reason": "stop-loss"
   }
  ],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:FLA@CBJ",
-   "market": "aec-nhl-fla-cbj-2026-11-10",
-   "side": "short",
+   "type": "paper_close",
+   "team": "Canadiens",
+   "reason": "settled",
+   "pnl": 2.25
+  },
+  {
+   "type": "paper_close",
    "team": "Blue Jackets",
-   "ask": 0.16,
-   "qty": 3.125,
-   "stake": 0.5,
-   "mode": "main"
+   "reason": "stop-loss",
+   "pnl": -0.4375
+  },
+  {
+   "type": "buy",
+   "game": "nba:BOS@PHI",
+   "market": "aec-nba-bos-phi-2026-11-10",
+   "side": "short",
+   "team": "76ers",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ]
 }
