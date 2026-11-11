@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 22:45 ET · Mode: **PAPER** · Result: OK (1.9s)
+Updated: 2026-11-10 22:50 ET · Mode: **PAPER** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 31 / 100 (main 14, bounce 17)
@@ -20,4 +20,4 @@ Updated: 2026-11-10 22:45 ET · Mode: **PAPER** · Result: OK (1.9s)
 - 2026-11-10 21:05 ET: Maple Leafs [bounce] — take-profit @ 0.2000 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Red Wings", "reason": "stop-loss", "pnl": -0.5}`
+- _none_
