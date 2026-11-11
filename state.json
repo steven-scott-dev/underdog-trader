@@ -2,22 +2,8 @@
  "date": "2026-11-10",
  "bets": 30,
  "bounce_bets": 17,
- "realized": 3.3506,
- "paper_positions": [
-  {
-   "market": "aec-nba-bos-phi-2026-11-10",
-   "game": "nba:BOS@PHI",
-   "side": "short",
-   "team": "76ers",
-   "entry": 0.05,
-   "qty": 2.0,
-   "tp": 0.1,
-   "sl": 0.02,
-   "opened": "2026-11-10 22:00 ET",
-   "mode": "bounce",
-   "last_bid": 0.05
-  }
- ],
+ "realized": 3.4506,
+ "paper_positions": [],
  "paper_history": [
   {
    "market": "aec-nhl-phi-van-2026-11-09",
@@ -511,6 +497,23 @@
    "exit": 0.02,
    "pnl": -0.4375,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bos-phi-2026-11-10",
+   "game": "nba:BOS@PHI",
+   "side": "short",
+   "team": "76ers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "tp": 0.1,
+   "sl": 0.02,
+   "opened": "2026-11-10 22:00 ET",
+   "mode": "bounce",
+   "last_bid": 0.05,
+   "closed": "2026-11-10 22:05 ET",
+   "exit": 0.1,
+   "pnl": 0.1,
+   "reason": "take-profit"
   }
  ],
  "live_history": [],
