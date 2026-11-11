@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T11:07:04.941279-05:00",
+ "updated": "2026-11-11T11:10:40.416984-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 12.8,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-11",
   "bets": 4,
@@ -83,12 +83,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Carole Monnet",
-   "reason": "take-profit",
-   "pnl": 0.1
-  }
- ]
+ "actions": []
 }
