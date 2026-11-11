@@ -2,7 +2,7 @@
  "date": "2026-11-11",
  "bets": 8,
  "bounce_bets": 7,
- "realized": 0.0675,
+ "realized": -0.0075,
  "paper_positions": [
   {
    "market": "aec-wta-andgar-jazort-2026-11-11",
@@ -15,20 +15,7 @@
    "sl": 0.16,
    "opened": "2026-11-11 11:40 ET",
    "mode": "main",
-   "last_bid": 0.69
-  },
-  {
-   "market": "aec-wta-lausam-sofcos-2026-11-11",
-   "game": "wta:Costoulas@Samson",
-   "side": "short",
-   "team": "Sofia Costoulas",
-   "entry": 0.08,
-   "qty": 1.25,
-   "tp": 0.16,
-   "sl": 0.032,
-   "opened": "2026-11-11 12:05 ET",
-   "mode": "bounce",
-   "last_bid": 0.08
+   "last_bid": 0.73
   }
  ],
  "paper_history": [
@@ -133,6 +120,23 @@
    "exit": 0.18,
    "pnl": 0.1,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-lausam-sofcos-2026-11-11",
+   "game": "wta:Costoulas@Samson",
+   "side": "short",
+   "team": "Sofia Costoulas",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-11 12:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08,
+   "closed": "2026-11-11 12:10 ET",
+   "exit": 0.02,
+   "pnl": -0.075,
+   "reason": "stop-loss"
   }
  ],
  "live_history": [],
@@ -189,6 +193,7 @@
  "cooldowns": {
   "aec-nba-orl-sac-2026-11-10": 1794375334.3321812,
   "aec-nhl-nas-la-2026-11-10": 1794376535.4940338,
-  "aec-wta-tatmar-alitub-2026-11-11": 1794417337.4018445
+  "aec-wta-tatmar-alitub-2026-11-11": 1794417337.4018445,
+  "aec-wta-lausam-sofcos-2026-11-11": 1794418839.1817203
  }
 }
