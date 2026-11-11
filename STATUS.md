@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 13:20 ET · Mode: **PAPER** · Result: OK (1.2s)
+Updated: 2026-11-11 13:22 ET · Mode: **PAPER** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 9 / 100 (main 1, bounce 8)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 13:20 ET · Mode: **PAPER** · Result: OK (1.2s)
 - 2026-11-11 00:25 ET: Kings [bounce] — stop-loss @ 0.0300 → -0.0700
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Pigossi", "reason": "stop-loss", "pnl": -0.0625}`
+- _none_

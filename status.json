@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T13:20:36.099577-05:00",
+ "updated": "2026-11-11T13:22:22.563657-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-11",
   "bets": 9,
@@ -168,12 +168,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Laura Pigossi",
-   "reason": "stop-loss",
-   "pnl": -0.0625
-  }
- ]
+ "actions": []
 }
