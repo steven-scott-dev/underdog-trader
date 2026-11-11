@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 16:00 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-11 16:05 ET · Mode: **PAPER** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 15 / 100 (main 3, bounce 12)
-- Realized P&L: +1.62
+- Realized P&L: +1.17
 
 ## Open paper positions
-- **Miomir Kecmanovic** (long/main) — 1.2821 @ 0.3900, now ~0.3900, unrealized +0.0000 (TP 0.9750 / SL 0.1560)
+- _none_
 
 ## Recent history
+- 2026-11-11 16:05 ET: Miomir Kecmanovic [main] — stop-loss @ 0.0400 → -0.4487
 - 2026-11-11 14:30 ET: Laura Pigossi [bounce] — take-profit @ 0.0800 → +0.1000
 - 2026-11-11 14:25 ET: Alexander Shevchenko [main] — take-profit @ 0.9250 → +0.7500
 - 2026-11-11 14:10 ET: Laura Pigossi [bounce] — take-profit @ 0.0800 → +0.1000
@@ -17,7 +18,6 @@ Updated: 2026-11-11 16:00 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-11 13:45 ET: Alexander Shevchenko [bounce] — take-profit @ 0.1600 → +0.1000
 - 2026-11-11 13:20 ET: Laura Pigossi [bounce] — stop-loss @ 0.0300 → -0.0625
 - 2026-11-11 12:15 ET: Andrea Lazaro Garcia [main] — take-profit @ 0.9900 → +0.7375
-- 2026-11-11 12:10 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Rune@Kecmanovic", "market": "aec-atp-miokec-holrun-2026-11-11", "side": "long", "team": "Miomir Kecmanovic", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
+- `{"type": "paper_close", "team": "Miomir Kecmanovic", "reason": "stop-loss", "pnl": -0.4487}`
