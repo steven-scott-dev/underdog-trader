@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 20:30 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-11-10 20:35 ET · Mode: **PAPER** · Result: OK (11.8s)
 
 ## Today
 - Bets placed: 24 / 100 (main 9, bounce 15)
 - Realized P&L: +1.06
 
 ## Open paper positions
-- **Maple Leafs** (short/bounce) — 1.0 @ 0.1000, now ~0.1000, unrealized +0.0000 (TP 0.2000 / SL 0.0400)
+- **Maple Leafs** (short/bounce) — 1.0 @ 0.1000, now ~0.0900, unrealized -0.0100 (TP 0.2000 / SL 0.0400)
 
 ## Recent history
 - 2026-11-10 20:20 ET: Bucks [bounce] — stop-loss @ 0.0100 → -0.0889
@@ -20,4 +20,4 @@ Updated: 2026-11-10 20:30 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-11-10 15:00 ET: Katrina Scott [main] — stop-loss @ 0.0800 → -0.3400
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:COL@TOR", "market": "aec-nhl-col-tor-2026-11-10", "side": "short", "team": "Maple Leafs", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
