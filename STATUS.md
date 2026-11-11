@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 21:25 ET · Mode: **PAPER** · Result: OK (1.7s)
+Updated: 2026-11-10 21:30 ET · Mode: **PAPER** · Result: OK (14.1s)
 
 ## Today
 - Bets placed: 27 / 100 (main 11, bounce 16)
 - Realized P&L: +1.26
 
 ## Open paper positions
-- **Maple Leafs** (short/main) — 3.125 @ 0.1600, now ~0.1400, unrealized -0.0625 (TP 0.4000 / SL 0.0640)
-- **Capitals** (long/main) — 2.5 @ 0.2000, now ~0.4300, unrealized +0.5750 (TP 0.5000 / SL 0.0800)
+- **Maple Leafs** (short/main) — 3.125 @ 0.1600, now ~0.1000, unrealized -0.1875 (TP 0.4000 / SL 0.0640)
+- **Capitals** (long/main) — 2.5 @ 0.2000, now ~0.4800, unrealized +0.7000 (TP 0.5000 / SL 0.0800)
 
 ## Recent history
 - 2026-11-10 21:15 ET: Blue Jackets [bounce] — take-profit @ 0.2000 → +0.1000

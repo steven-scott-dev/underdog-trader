@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T21:25:37.517360-05:00",
+ "updated": "2026-11-10T21:30:49.347603-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 14.1,
  "daily": {
   "date": "2026-11-10",
   "bets": 27,
@@ -23,7 +23,7 @@
    "sl": 0.064,
    "opened": "2026-11-10 21:20 ET",
    "mode": "main",
-   "last_bid": 0.14
+   "last_bid": 0.1
   },
   {
    "market": "aec-nhl-was-ott-2026-11-10",
@@ -36,7 +36,7 @@
    "sl": 0.08,
    "opened": "2026-11-10 21:20 ET",
    "mode": "main",
-   "last_bid": 0.43
+   "last_bid": 0.48
   }
  ],
  "paper_history": [
