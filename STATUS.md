@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-10 21:40 ET · Mode: **PAPER** · Result: OK (13.4s)
+Updated: 2026-11-10 21:45 ET · Mode: **PAPER** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 28 / 100 (main 12, bounce 16)
 - Realized P&L: +1.54
 
 ## Open paper positions
-- **Canadiens** (short/main) — 2.7778 @ 0.1800, now ~0.1300, unrealized -0.1389 (TP 0.4500 / SL 0.0720)
+- **Canadiens** (short/main) — 2.7778 @ 0.1800, now ~0.0900, unrealized -0.2500 (TP 0.4500 / SL 0.0720)
 
 ## Recent history
 - 2026-11-10 21:40 ET: Capitals [main] — take-profit @ 0.5000 → +0.7500
@@ -20,4 +20,4 @@ Updated: 2026-11-10 21:40 ET · Mode: **PAPER** · Result: OK (13.4s)
 - 2026-11-10 17:40 ET: Valentina Mediorreal [main] — stop-loss @ 0.0800 → -0.3333
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Capitals", "reason": "take-profit", "pnl": 0.75}`
+- _none_
