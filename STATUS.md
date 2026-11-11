@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 18:30 ET · Mode: **PAPER** · Result: OK (1.1s)
+Updated: 2026-11-11 18:35 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
 - Realized P&L: +0.81
 
 ## Open paper positions
-- **Aryna Sabalenka** (long/bounce) — 2.5 @ 0.0400, now ~0.0300, unrealized -0.0250 (TP 0.0800 / SL 0.0160)
+- **Aryna Sabalenka** (long/bounce) — 2.5 @ 0.0400, now ~0.0200, unrealized -0.0500 (TP 0.0800 / SL 0.0160)
 
 ## Recent history
 - 2026-11-11 17:10 ET: Karolina Muchova [main] — stop-loss @ 0.0900 → -0.3636
