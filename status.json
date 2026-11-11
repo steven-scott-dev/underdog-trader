@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T17:10:38.117291-05:00",
+ "updated": "2026-11-11T17:15:40.589010-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-11",
   "bets": 16,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Karolina Muchova",
-   "reason": "stop-loss",
-   "pnl": -0.3636
-  }
- ]
+ "actions": []
 }

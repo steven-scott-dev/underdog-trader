@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 17:10 ET · Mode: **PAPER** · Result: OK (0.8s)
+Updated: 2026-11-11 17:15 ET · Mode: **PAPER** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 16 / 100 (main 4, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 17:10 ET · Mode: **PAPER** · Result: OK (0.8s)
 - 2026-11-11 13:20 ET: Laura Pigossi [bounce] — stop-loss @ 0.0300 → -0.0625
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Karolina Muchova", "reason": "stop-loss", "pnl": -0.3636}`
+- _none_
