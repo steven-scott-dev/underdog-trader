@@ -1,13 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 17:01 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-11 17:05 ET · Mode: **PAPER** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 16 / 100 (main 4, bounce 12)
 - Realized P&L: +1.17
 
 ## Open paper positions
-- **Karolina Muchova** (short/main) — 1.5152 @ 0.3300, now ~0.2400, unrealized -0.1364 (TP 0.8250 / SL 0.1320)
+- **Karolina Muchova** (short/main) — 1.5152 @ 0.3300, now ~0.1500, unrealized -0.2727 (TP 0.8250 / SL 0.1320)
 
 ## Recent history
 - 2026-11-11 16:05 ET: Miomir Kecmanovic [main] — stop-loss @ 0.0400 → -0.4487
