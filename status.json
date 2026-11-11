@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T12:01:00.119113-05:00",
+ "updated": "2026-11-11T12:05:37.237714-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-11",
-  "bets": 7,
-  "bounce_bets": 6,
+  "bets": 8,
+  "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0675
@@ -23,7 +23,20 @@
    "sl": 0.16,
    "opened": "2026-11-11 11:40 ET",
    "mode": "main",
-   "last_bid": 0.47
+   "last_bid": 0.69
+  },
+  {
+   "market": "aec-wta-lausam-sofcos-2026-11-11",
+   "game": "wta:Costoulas@Samson",
+   "side": "short",
+   "team": "Sofia Costoulas",
+   "entry": 0.08,
+   "qty": 1.25,
+   "tp": 0.16,
+   "sl": 0.032,
+   "opened": "2026-11-11 12:05 ET",
+   "mode": "bounce",
+   "last_bid": 0.08
   }
  ],
  "paper_history": [
@@ -131,5 +144,17 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Costoulas@Samson",
+   "market": "aec-wta-lausam-sofcos-2026-11-11",
+   "side": "short",
+   "team": "Sofia Costoulas",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ]
 }
