@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T18:40:38.136599-05:00",
+ "updated": "2026-11-11T18:45:34.490869-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-11",
   "bets": 17,
@@ -185,12 +185,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "paper_close",
-   "team": "Aryna Sabalenka",
-   "reason": "stop-loss",
-   "pnl": -0.1
-  }
- ]
+ "actions": []
 }

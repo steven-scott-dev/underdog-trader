@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 18:40 ET · Mode: **PAPER** · Result: OK (0.9s)
+Updated: 2026-11-11 18:45 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 17 / 100 (main 4, bounce 13)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 18:40 ET · Mode: **PAPER** · Result: OK (0.9s)
 - 2026-11-11 13:45 ET: Alexander Shevchenko [bounce] — take-profit @ 0.1600 → +0.1000
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Aryna Sabalenka", "reason": "stop-loss", "pnl": -0.1}`
+- _none_
