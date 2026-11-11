@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 14:30 ET · Mode: **PAPER** · Result: OK (1.6s)
+Updated: 2026-11-11 14:35 ET · Mode: **PAPER** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 14 / 100 (main 2, bounce 12)
@@ -20,4 +20,4 @@ Updated: 2026-11-11 14:30 ET · Mode: **PAPER** · Result: OK (1.6s)
 - 2026-11-11 12:10 ET: Sofia Costoulas [bounce] — stop-loss @ 0.0200 → -0.0750
 
 ## Last run actions
-- `{"type": "paper_close", "team": "Laura Pigossi", "reason": "take-profit", "pnl": 0.1}`
+- _none_
