@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T11:50:39.890881-05:00",
+ "updated": "2026-11-12T11:55:39.178703-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-12",
-  "bets": 3,
+  "bets": 4,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -21,8 +21,8 @@
    "market": "aec-atp-thitir-aleshe-2026-11-12",
    "side": "short",
    "team": "Alexander Shevchenko",
-   "ask": 0.23,
-   "qty": 2.1739,
+   "ask": 0.27,
+   "qty": 1.8519,
    "stake": 0.5,
    "mode": "main"
   }
