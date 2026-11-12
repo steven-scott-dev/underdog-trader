@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T21:55:34.347126-05:00",
+ "updated": "2026-11-11T22:00:37.558025-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 0.8,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-11",
   "bets": 18,
@@ -199,5 +199,28 @@
   }
  ],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:DEN@MEM",
+   "market": "aec-nba-den-mem-2026-11-11",
+   "side": "short",
+   "team": "Grizzlies",
+   "ask": 0.24,
+   "qty": 2.0833,
+   "stake": 0.5,
+   "mode": "main"
+  },
+  {
+   "type": "buy",
+   "game": "nhl:NYR@CGY",
+   "market": "aec-nhl-nyr-cgy-2026-11-11",
+   "side": "short",
+   "team": "Flames",
+   "ask": 0.16,
+   "qty": 3.125,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ]
 }
