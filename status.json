@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T22:05:36.970400-05:00",
+ "updated": "2026-11-11T22:10:35.889484-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-11",
   "bets": 18,
@@ -206,8 +206,8 @@
    "market": "aec-nba-den-mem-2026-11-11",
    "side": "short",
    "team": "Grizzlies",
-   "ask": 0.16,
-   "qty": 3.125,
+   "ask": 0.12,
+   "qty": 4.1667,
    "stake": 0.5,
    "mode": "main"
   },
@@ -217,8 +217,8 @@
    "market": "aec-nhl-nyr-cgy-2026-11-11",
    "side": "short",
    "team": "Flames",
-   "ask": 0.13,
-   "qty": 3.8462,
+   "ask": 0.11,
+   "qty": 4.5455,
    "stake": 0.5,
    "mode": "main"
   }
