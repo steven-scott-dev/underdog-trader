@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "bets": 4,
+ "bets": 5,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -40,6 +40,15 @@
    "team": "Alexander Shevchenko",
    "entry": 0.27,
    "qty": 1.8519,
+   "mode": "main"
+  },
+  {
+   "market": "aec-atp-lormus-ugohum-2026-11-12",
+   "opened": "2026-11-12 16:30 ET",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.38,
+   "qty": 1.3158,
    "mode": "main"
   }
  ],
@@ -90,6 +99,12 @@
    [
     1794502538.5563025,
     0.27
+   ]
+  ],
+  "aec-atp-lormus-ugohum-2026-11-12": [
+   [
+    1794519035.9998949,
+    0.38
    ]
   ]
  }
