@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:00:39.539827-05:00",
+ "updated": "2026-11-12T00:05:37.191279-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.3,
@@ -21,8 +21,8 @@
    "market": "aec-nba-okc-por-2026-11-11",
    "side": "short",
    "team": "Trail Blazers",
-   "ask": 0.36,
-   "qty": 1.3889,
+   "ask": 0.38,
+   "qty": 1.3158,
    "stake": 0.5,
    "mode": "main"
   }
