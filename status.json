@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T16:35:44.098350-05:00",
+ "updated": "2026-11-12T16:40:35.290744-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-12",
-  "bets": 6,
+  "bets": 7,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -21,8 +21,8 @@
    "market": "aec-atp-lormus-ugohum-2026-11-12",
    "side": "short",
    "team": "Ugo Humbert",
-   "ask": 0.4,
-   "qty": 1.25,
+   "ask": 0.39,
+   "qty": 1.2821,
    "stake": 0.5,
    "mode": "main"
   }
