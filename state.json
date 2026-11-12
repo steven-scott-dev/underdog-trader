@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "bets": 5,
+ "bets": 6,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -49,6 +49,15 @@
    "team": "Ugo Humbert",
    "entry": 0.38,
    "qty": 1.3158,
+   "mode": "main"
+  },
+  {
+   "market": "aec-atp-lormus-ugohum-2026-11-12",
+   "opened": "2026-11-12 16:35 ET",
+   "side": "short",
+   "team": "Ugo Humbert",
+   "entry": 0.4,
+   "qty": 1.25,
    "mode": "main"
   }
  ],
@@ -105,6 +114,10 @@
    [
     1794519035.9998949,
     0.38
+   ],
+   [
+    1794519343.4783459,
+    0.4
    ]
   ]
  }
