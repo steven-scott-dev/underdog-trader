@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -22,6 +22,15 @@
    "team": "Alexander Shevchenko",
    "entry": 0.17,
    "qty": 2.9412,
+   "mode": "main"
+  },
+  {
+   "market": "aec-atp-thitir-aleshe-2026-11-12",
+   "opened": "2026-11-12 11:50 ET",
+   "side": "short",
+   "team": "Alexander Shevchenko",
+   "entry": 0.23,
+   "qty": 2.1739,
    "mode": "main"
   }
  ],
@@ -64,6 +73,10 @@
    [
     1794501938.625591,
     0.17
+   ],
+   [
+    1794502238.8948634,
+    0.23
    ]
   ]
  }
