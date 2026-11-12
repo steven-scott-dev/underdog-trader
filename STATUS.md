@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-12 16:40 ET · Mode: **LIVE** · Result: OK (1.4s)
+Updated: 2026-11-12 16:45 ET · Mode: **LIVE** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 7 / 100 (main 7, bounce 0)
@@ -19,7 +19,7 @@ Updated: 2026-11-12 16:40 ET · Mode: **LIVE** · Result: OK (1.4s)
 - `{"market": "aec-atp-thitir-aleshe-2026-11-12", "opened": "2026-11-12 11:45 ET", "side": "short", "team": "Alexander Shevchenko", "entry": 0.16, "qty": 3.125, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Humbert@Musetti", "market": "aec-atp-lormus-ugohum-2026-11-12", "side": "short", "team": "Ugo Humbert", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
