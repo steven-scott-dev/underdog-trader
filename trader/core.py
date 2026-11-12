@@ -494,7 +494,7 @@ def place_buy(client, cfg, market_slug, side, ask, errors=None):
               "price": {"value": f"{ask:.4f}", "currency": "USD"},
               "quantity": qty, "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL"}
     try:
-        prev = client.orders.preview(params)
+        prev = client.orders.preview({"request": params})
         log(f"  preview ok: {str(prev)[:160]}")
     except Exception as e:
         log(f"  preview failed, skipping buy: {e}")
