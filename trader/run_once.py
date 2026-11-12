@@ -75,6 +75,13 @@ def build_status_md(res):
     for act in acts[-10:]:
         a(f"- `{json.dumps(act)}`")
     a("")
+    a("## Order errors")
+    errs = res.get("errors") or []
+    if not errs:
+        a("- _none_")
+    for err in errs[-10:]:
+        a(f"- `{json.dumps(err)}`")
+    a("")
     return "\n".join(L)
 
 
@@ -92,6 +99,7 @@ def main():
         "paper_history": res.get("paper_history"),
         "live_positions": res.get("live_positions"),
         "actions": res.get("actions"),
+        "errors": res.get("errors") or [],
     }, indent=1, default=str))
     summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary_path:

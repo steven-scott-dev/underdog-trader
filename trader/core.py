@@ -486,7 +486,7 @@ def resolve_side(client, market_slug, pos):
     return None
 
 
-def place_buy(client, cfg, market_slug, side, ask):
+def place_buy(client, cfg, market_slug, side, ask, errors=None):
     qty = round(cfg["stake_usd"] / ask, 4)
     intent = "ORDER_INTENT_BUY_LONG" if side == "long" else "ORDER_INTENT_BUY_SHORT"
     params = {"marketSlug": market_slug, "intent": intent,
@@ -498,8 +498,20 @@ def place_buy(client, cfg, market_slug, side, ask):
         log(f"  preview ok: {str(prev)[:160]}")
     except Exception as e:
         log(f"  preview failed, skipping buy: {e}")
+        if errors is not None:
+            errors.append({"market": market_slug, "side": side, "ask": ask,
+                           "stage": "preview", "error": str(e)[:300],
+                           "time": now_et_str()})
         return None
-    order = client.orders.create(params)
+    try:
+        order = client.orders.create(params)
+    except Exception as e:
+        log(f"  order create failed, skipping buy: {e}")
+        if errors is not None:
+            errors.append({"market": market_slug, "side": side, "ask": ask,
+                           "stage": "create", "error": str(e)[:300],
+                           "time": now_et_str()})
+        return None
     log(f"  LIVE BUY {qty} @ {ask:.4f} ({side}) id={order.get('id')}")
     return {"id": order.get("id"), "qty": qty, "price": ask}
 
@@ -532,6 +544,7 @@ def run_pass():
     cfg = load_config()
     paper = not cfg["live_mode"]
     actions = []
+    errors = []
     log(f"pass starting in {'PAPER (dry run)' if paper else 'LIVE'} mode")
 
     client = make_client(cfg)
@@ -716,7 +729,8 @@ def run_pass():
                 log(f"  PAPER BUY [{mode}] {qty} {desc} @ {ask:.4f} "
                     f"(${(qty*ask):.2f}), TP @ {tp:.4f}, SL @ {sl:.4f}")
             else:
-                buy = place_buy(client, bcfg, meta["market_slug"], dog, ask)
+                buy = place_buy(client, bcfg, meta["market_slug"], dog, ask,
+                                errors)
                 if buy:
                     held_slugs.add(meta["market_slug"])
                     open_reserves.append(buy["qty"] * buy["price"]
@@ -738,7 +752,8 @@ def run_pass():
     log(f"pass done in {dt}s, {len(actions)} action(s)")
     save_state(state)
     return {"ok": True, "mode": "paper" if paper else "live",
-            "duration_s": dt, "actions": actions, "log": _log_lines,
+            "duration_s": dt, "actions": actions, "errors": errors,
+            "log": _log_lines,
             "paper_positions": state["paper_positions"],
             "paper_history": state["paper_history"][-10:],
             "live_positions": positions,
