@@ -1,11 +1,21 @@
 {
  "date": "2026-11-12",
- "bets": 0,
+ "bets": 1,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": [],
+ "live_history": [
+  {
+   "market": "aec-atp-thitir-aleshe-2026-11-12",
+   "opened": "2026-11-12 11:45 ET",
+   "side": "short",
+   "team": "Alexander Shevchenko",
+   "entry": 0.16,
+   "qty": 3.125,
+   "mode": "main"
+  }
+ ],
  "px_hist": {
   "aec-nba-okc-por-2026-11-11": [
    [
@@ -35,6 +45,12 @@
    [
     1794463233.8912866,
     0.14
+   ]
+  ],
+  "aec-atp-thitir-aleshe-2026-11-12": [
+   [
+    1794501912.534323,
+    0.16
    ]
   ]
  }

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T11:40:35.986913-05:00",
+ "updated": "2026-11-12T11:45:13.029461-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-12",
-  "bets": 0,
+  "bets": 1,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -14,6 +14,18 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Shevchenko@Tirante",
+   "market": "aec-atp-thitir-aleshe-2026-11-12",
+   "side": "short",
+   "team": "Alexander Shevchenko",
+   "ask": 0.16,
+   "qty": 3.125,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
