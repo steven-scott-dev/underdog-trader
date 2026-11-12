@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-12 11:55 ET · Mode: **LIVE** · Result: OK (2.0s)
+Updated: 2026-11-12 12:00 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 4 / 100 (main 4, bounce 0)
@@ -16,7 +16,7 @@ Updated: 2026-11-12 11:55 ET · Mode: **LIVE** · Result: OK (2.0s)
 - `{"market": "aec-atp-thitir-aleshe-2026-11-12", "opened": "2026-11-12 11:45 ET", "side": "short", "team": "Alexander Shevchenko", "entry": 0.16, "qty": 3.125, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Shevchenko@Tirante", "market": "aec-atp-thitir-aleshe-2026-11-12", "side": "short", "team": "Alexander Shevchenko", "ask": 0.27, "qty": 1.8519, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
