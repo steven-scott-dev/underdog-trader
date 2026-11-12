@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T20:15:44.986167-05:00",
+ "updated": "2026-11-11T20:21:11.255383-05:00",
  "mode": "paper",
  "ok": true,
- "duration_s": 3.4,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-11",
   "bets": 18,
@@ -23,7 +23,7 @@
    "sl": 0.04,
    "opened": "2026-11-11 20:15 ET",
    "mode": "bounce",
-   "last_bid": 0.1
+   "last_bid": 0.11
   }
  ],
  "paper_history": [
@@ -199,17 +199,5 @@
   }
  ],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:SA@CHI",
-   "market": "aec-nba-sa-chi-2026-11-11",
-   "side": "short",
-   "team": "Bulls",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ]
+ "actions": []
 }
