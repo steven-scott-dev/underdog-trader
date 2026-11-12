@@ -471,6 +471,32 @@ def open_sell_exists(client, market_slug):
     return False
 
 
+def has_open_order(client, market_slug):
+    """True if any open (unfilled) order exists on this market, False if
+    none, None if the read failed. Used before a live buy: a resting buy
+    order is not a filled position, so the positions check alone cannot
+    see it -- without this, every pass re-buys the same market while the
+    trigger holds."""
+    try:
+        try:
+            orders = client.orders.list({"marketSlug": market_slug})
+        except TypeError:
+            orders = client.orders.list()
+    except Exception as e:
+        log(f"  open-orders read failed: {e}")
+        return None
+    items = orders.get("orders", orders) if isinstance(orders, dict) else orders
+    for o in items or []:
+        if not isinstance(o, dict):
+            continue
+        if o.get("marketSlug", market_slug) != market_slug:
+            continue
+        if o.get("state") in ("ORDER_STATE_NEW", "ORDER_STATE_PENDING_NEW",
+                              "ORDER_STATE_PARTIALLY_FILLED"):
+            return True
+    return False
+
+
 def resolve_side(client, market_slug, pos):
     """Which side ('long'/'short') a position is on, via teamId/outcome."""
     info = side_info(client, market_slug)
@@ -517,7 +543,9 @@ def place_buy(client, cfg, market_slug, side, ask, errors=None):
 
 
 def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty):
-    target = round(entry_px * cfg["take_profit_mult"], 4)
+    # markets allow 2-decimal prices only (0.975 was rejected); round the
+    # target to cents so the TP order is accepted.
+    target = round(entry_px * cfg["take_profit_mult"], 2)
     if target >= 1.0:
         target = 0.99
     exists = open_sell_exists(client, market_slug)
@@ -670,6 +698,17 @@ def run_pass():
             if meta["market_slug"] in held_slugs:
                 log("  already holding this game, skipping")
                 continue
+            if not paper:
+                # live only: a resting buy order is not a filled position,
+                # so check open orders too -- otherwise every pass re-buys
+                # the same market while the trigger holds.
+                open_order = has_open_order(client, meta["market_slug"])
+                if open_order is None:
+                    log("  cannot verify open orders; skipping buy this run")
+                    continue
+                if open_order:
+                    log("  already have an open order on this game, skipping")
+                    continue
             cd_until = (state.get("cooldowns") or {}).get(meta["market_slug"], 0)
             if time.time() < cd_until:
                 log("  in stop-loss cooldown, skipping")
