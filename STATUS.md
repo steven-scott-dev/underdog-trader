@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-11 23:50 ET · Mode: **LIVE** · Result: OK (1.5s)
+Updated: 2026-11-11 23:55 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 18 / 100 (main 4, bounce 14)
@@ -13,4 +13,4 @@ Updated: 2026-11-11 23:50 ET · Mode: **LIVE** · Result: OK (1.5s)
 - _none yet_
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:GS@HOU", "market": "aec-nba-gs-hou-2026-11-11", "side": "long", "team": "Warriors", "ask": 0.09, "qty": 5.5556, "stake": 0.5, "mode": "main"}`
