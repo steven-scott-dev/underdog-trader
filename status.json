@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T00:50:35.663218-05:00",
+ "updated": "2026-11-12T00:55:33.788364-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-12",
   "bets": 0,
@@ -14,5 +14,27 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": []
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:PIT@SJ",
+   "market": "aec-nhl-pit-sj-2026-11-11",
+   "side": "long",
+   "team": "Penguins",
+   "ask": 0.39,
+   "qty": 1.2821,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
+ "errors": [
+  {
+   "market": "aec-nhl-pit-sj-2026-11-11",
+   "side": "long",
+   "ask": 0.39,
+   "stage": "preview",
+   "error": "Request is required",
+   "time": "2026-11-12 00:55 ET"
+  }
+ ]
 }
