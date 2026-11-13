@@ -1,19 +1,19 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-13 17:50 ET · Mode: **LIVE** · Result: OK (0.8s)
+Updated: 2026-11-13 17:55 ET · Mode: **LIVE** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 0 / 100 (main 0, bounce 0)
+- Bets placed: 1 / 100 (main 1, bounce 0)
 - Realized P&L: +0.00
 
 ## Live positions
 - _none_
 
 ## Recent live history
-- _none yet_
+- `{"market": "aec-wta-arysab-elisvi-2026-11-13", "opened": "2026-11-13 17:55 ET", "side": "short", "team": "Elina Svitolina", "entry": 0.26, "qty": 1.9231, "mode": "main"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Svitolina@Sabalenka", "market": "aec-wta-arysab-elisvi-2026-11-13", "side": "short", "team": "Elina Svitolina", "ask": 0.26, "qty": 1.9231, "stake": 0.5, "mode": "main"}`
 
 ## Order errors
 - _none_
