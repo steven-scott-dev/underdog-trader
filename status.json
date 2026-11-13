@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-13T18:15:41.684245-05:00",
+ "updated": "2026-11-13T18:30:36.634215-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 0.7,
  "daily": {
   "date": "2026-11-13",
   "bets": 3,
@@ -14,18 +14,6 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Svitolina@Sabalenka",
-   "market": "aec-wta-arysab-elisvi-2026-11-13",
-   "side": "long",
-   "team": "Aryna Sabalenka",
-   "ask": 0.16,
-   "qty": 3.125,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
