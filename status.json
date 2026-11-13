@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T16:45:36.449831-05:00",
+ "updated": "2026-11-13T01:12:28.456480-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.1,
  "daily": {
-  "date": "2026-11-12",
-  "bets": 7,
+  "date": "2026-11-13",
+  "bets": 0,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
