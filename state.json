@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -23,17 +23,22 @@
    "entry": 0.4,
    "qty": 1.25,
    "mode": "main"
+  },
+  {
+   "market": "aec-wta-arysab-elisvi-2026-11-13",
+   "opened": "2026-11-13 18:15 ET",
+   "side": "long",
+   "team": "Aryna Sabalenka",
+   "entry": 0.16,
+   "qty": 3.125,
+   "mode": "main"
   }
  ],
  "px_hist": {
   "aec-wta-arysab-elisvi-2026-11-13": [
    [
-    1794610537.0189302,
-    0.26
-   ],
-   [
-    1794610838.775795,
-    0.4
+    1794611741.4640357,
+    0.16
    ]
   ]
  }
