@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -14,6 +14,15 @@
    "entry": 0.26,
    "qty": 1.9231,
    "mode": "main"
+  },
+  {
+   "market": "aec-wta-arysab-elisvi-2026-11-13",
+   "opened": "2026-11-13 18:00 ET",
+   "side": "short",
+   "team": "Elina Svitolina",
+   "entry": 0.4,
+   "qty": 1.25,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -21,6 +30,10 @@
    [
     1794610537.0189302,
     0.26
+   ],
+   [
+    1794610838.775795,
+    0.4
    ]
   ]
  }
