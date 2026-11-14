@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "bets": 3,
+ "bets": 5,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -32,6 +32,24 @@
    "entry": 0.16,
    "qty": 3.125,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-cle-mia-2026-11-13",
+   "opened": "2026-11-13 22:05 ET",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.2,
+   "qty": 2.5,
+   "mode": "main"
+  },
+  {
+   "market": "aec-nba-atl-chi-2026-11-13",
+   "opened": "2026-11-13 22:05 ET",
+   "side": "long",
+   "team": "Hawks",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -39,6 +57,18 @@
    [
     1794611741.4640357,
     0.16
+   ]
+  ],
+  "aec-nba-cle-mia-2026-11-13": [
+   [
+    1794625535.8527465,
+    0.2
+   ]
+  ],
+  "aec-nba-atl-chi-2026-11-13": [
+   [
+    1794625537.0013387,
+    0.37
    ]
   ]
  }
