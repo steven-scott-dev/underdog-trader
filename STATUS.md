@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-14 17:55 ET · Mode: **LIVE** · Result: OK (2.5s)
+Updated: 2026-11-14 18:15 ET · Mode: **LIVE** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 10 / 100 (main 10, bounce 0)
@@ -20,7 +20,7 @@ Updated: 2026-11-14 17:55 ET · Mode: **LIVE** · Result: OK (2.5s)
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 08:35 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.28, "qty": 1.7857, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:WPG@CHI", "market": "aec-nhl-wpg-chi-2026-11-14", "side": "long", "team": "Jets", "ask": 0.22, "qty": 2.2727, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
