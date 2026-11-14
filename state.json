@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "bets": 5,
+ "bets": 6,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -50,6 +50,15 @@
    "entry": 0.33,
    "qty": 1.5152,
    "mode": "main"
+  },
+  {
+   "market": "aec-atp-tayfri-thitir-2026-11-14",
+   "opened": "2026-11-14 09:00 ET",
+   "side": "short",
+   "team": "Thiago Agustin Tirante",
+   "entry": 0.4,
+   "qty": 1.25,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -67,6 +76,10 @@
    [
     1794664536.9315047,
     0.33
+   ],
+   [
+    1794664846.4169292,
+    0.4
    ]
   ]
  }
