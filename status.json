@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T00:45:35.823177-05:00",
+ "updated": "2026-11-14T00:50:35.106750-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.3,
  "daily": {
   "date": "2026-11-14",
-  "bets": 1,
+  "bets": 2,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -14,6 +14,18 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:OKC@LAC",
+   "market": "aec-nba-okc-lac-2026-11-13",
+   "side": "short",
+   "team": "Clippers",
+   "ask": 0.13,
+   "qty": 3.8462,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
