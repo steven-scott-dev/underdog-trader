@@ -1,9 +1,27 @@
 {
  "date": "2026-11-14",
- "bets": 0,
+ "bets": 1,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": []
+ "live_history": [
+  {
+   "market": "aec-nba-okc-lac-2026-11-13",
+   "opened": "2026-11-14 00:35 ET",
+   "side": "short",
+   "team": "Clippers",
+   "entry": 0.21,
+   "qty": 2.381,
+   "mode": "main"
+  }
+ ],
+ "px_hist": {
+  "aec-nba-okc-lac-2026-11-13": [
+   [
+    1794634536.0227919,
+    0.21
+   ]
+  ]
+ }
 }
