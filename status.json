@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T09:00:48.568214-05:00",
+ "updated": "2026-11-14T09:05:34.642332-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.8,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-14",
-  "bets": 6,
+  "bets": 7,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -21,8 +21,8 @@
    "market": "aec-atp-tayfri-thitir-2026-11-14",
    "side": "short",
    "team": "Thiago Agustin Tirante",
-   "ask": 0.4,
-   "qty": 1.25,
+   "ask": 0.31,
+   "qty": 1.6129,
    "stake": 0.5,
    "mode": "main"
   }
