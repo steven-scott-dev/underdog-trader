@@ -1,20 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-13 23:55 ET · Mode: **LIVE** · Result: OK (0.6s)
+Updated: 2026-11-14 00:00 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 5 / 100 (main 5, bounce 0)
+- Bets placed: 0 / 100 (main 0, bounce 0)
 - Realized P&L: +0.00
 
 ## Live positions
 - _none_
 
 ## Recent live history
-- `{"market": "aec-nba-atl-chi-2026-11-13", "opened": "2026-11-13 22:05 ET", "side": "long", "team": "Hawks", "entry": 0.37, "qty": 1.3514, "mode": "main"}`
-- `{"market": "aec-nba-cle-mia-2026-11-13", "opened": "2026-11-13 22:05 ET", "side": "long", "team": "Cavaliers", "entry": 0.2, "qty": 2.5, "mode": "main"}`
-- `{"market": "aec-wta-arysab-elisvi-2026-11-13", "opened": "2026-11-13 18:15 ET", "side": "long", "team": "Aryna Sabalenka", "entry": 0.16, "qty": 3.125, "mode": "main"}`
-- `{"market": "aec-wta-arysab-elisvi-2026-11-13", "opened": "2026-11-13 18:00 ET", "side": "short", "team": "Elina Svitolina", "entry": 0.4, "qty": 1.25, "mode": "main"}`
-- `{"market": "aec-wta-arysab-elisvi-2026-11-13", "opened": "2026-11-13 17:55 ET", "side": "short", "team": "Elina Svitolina", "entry": 0.26, "qty": 1.9231, "mode": "main"}`
+- _none yet_
 
 ## Last run actions
 - _none_
