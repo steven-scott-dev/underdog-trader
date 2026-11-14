@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-14 17:50 ET · Mode: **LIVE** · Result: OK (1.2s)
+Updated: 2026-11-14 17:55 ET · Mode: **LIVE** · Result: OK (2.5s)
 
 ## Today
-- Bets placed: 9 / 100 (main 9, bounce 0)
+- Bets placed: 10 / 100 (main 10, bounce 0)
 - Realized P&L: +0.00
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-nhl-wpg-chi-2026-11-14", "opened": "2026-11-14 17:55 ET", "side": "long", "team": "Jets", "entry": 0.22, "qty": 2.2727, "mode": "main"}`
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 09:15 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.36, "qty": 1.3889, "mode": "main"}`
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 09:10 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.34, "qty": 1.4706, "mode": "main"}`
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 09:05 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.31, "qty": 1.6129, "mode": "main"}`
@@ -17,10 +18,9 @@ Updated: 2026-11-14 17:50 ET · Mode: **LIVE** · Result: OK (1.2s)
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 08:55 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.33, "qty": 1.5152, "mode": "main"}`
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 08:40 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.26, "qty": 1.9231, "mode": "main"}`
 - `{"market": "aec-atp-tayfri-thitir-2026-11-14", "opened": "2026-11-14 08:35 ET", "side": "short", "team": "Thiago Agustin Tirante", "entry": 0.28, "qty": 1.7857, "mode": "main"}`
-- `{"market": "aec-nba-okc-lac-2026-11-13", "opened": "2026-11-14 00:50 ET", "side": "short", "team": "Clippers", "entry": 0.13, "qty": 3.8462, "mode": "main"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nhl:WPG@CHI", "market": "aec-nhl-wpg-chi-2026-11-14", "side": "long", "team": "Jets", "ask": 0.22, "qty": 2.2727, "stake": 0.5, "mode": "main"}`
 
 ## Order errors
 - _none_

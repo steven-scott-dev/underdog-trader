@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "bets": 9,
+ "bets": 10,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -86,6 +86,15 @@
    "entry": 0.36,
    "qty": 1.3889,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-wpg-chi-2026-11-14",
+   "opened": "2026-11-14 17:55 ET",
+   "side": "long",
+   "team": "Jets",
+   "entry": 0.22,
+   "qty": 2.2727,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -115,6 +124,12 @@
    [
     1794665738.1153877,
     0.36
+   ]
+  ],
+  "aec-nhl-wpg-chi-2026-11-14": [
+   [
+    1794696936.3874302,
+    0.22
    ]
   ]
  }
