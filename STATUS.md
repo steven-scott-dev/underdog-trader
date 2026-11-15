@@ -1,15 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-15 18:35 ET · Mode: **LIVE** · Result: OK (3.0s)
+Updated: 2026-11-15 18:40 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 12 / 100 (main 12, bounce 0)
-- Realized P&L: -0.92
+- Realized P&L: -1.21
 
 ## Live positions
+- CHA Hornets vs. LA Clippers: 1.28 @ avg 0.3230
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
+- `{"market": "aec-nba-cha-lac-2026-11-15", "closed": "2026-11-15 18:40 ET", "pnl": -0.2854, "reason": "stop-loss"}`
 - `{"market": "aec-nba-cha-lac-2026-11-15", "opened": "2026-11-15 18:35 ET", "side": "long", "team": "Hornets", "entry": 0.39, "qty": 1.2821, "mode": "main"}`
 - `{"market": "aec-nfl-mia-ind-2026-11-15", "closed": "2026-11-15 16:15 ET", "pnl": -0.5258, "reason": "stop-loss"}`
 - `{"market": "aec-atp-benshe-artfil-2026-11-15", "opened": "2026-11-15 16:10 ET", "side": "short", "team": "Arthur Fils", "entry": 0.21, "qty": 2.381, "mode": "main"}`
@@ -17,10 +19,9 @@ Updated: 2026-11-15 18:35 ET · Mode: **LIVE** · Result: OK (3.0s)
 - `{"market": "aec-nfl-hou-cle-2026-11-15", "closed": "2026-11-15 16:10 ET", "pnl": -0.3955, "reason": "stop-loss"}`
 - `{"market": "aec-atp-benshe-artfil-2026-11-15", "opened": "2026-11-15 16:05 ET", "side": "short", "team": "Arthur Fils", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 - `{"market": "aec-nfl-car-no-2026-11-15", "opened": "2026-11-15 16:05 ET", "side": "short", "team": "Saints", "entry": 0.2675, "qty": 1.8692, "mode": "main"}`
-- `{"market": "aec-nfl-hou-cle-2026-11-15", "opened": "2026-11-15 16:05 ET", "side": "long", "team": "Texans", "entry": 0.26, "qty": 1.9231, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:CHA@LAC", "market": "aec-nba-cha-lac-2026-11-15", "side": "long", "team": "Hornets", "ask": 0.39, "qty": 1.2821, "stake": 0.5, "mode": "main"}`
+- `{"type": "stop_loss", "market": "aec-nba-cha-lac-2026-11-15", "pnl": -0.2854}`
 
 ## Order errors
 - _none_
