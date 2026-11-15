@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 0,
  "realized": -0.9213,
  "paper_positions": [],
@@ -116,6 +116,15 @@
    "closed": "2026-11-15 16:15 ET",
    "pnl": -0.5258,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-cha-lac-2026-11-15",
+   "opened": "2026-11-15 18:35 ET",
+   "side": "long",
+   "team": "Hornets",
+   "entry": 0.39,
+   "qty": 1.2821,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -161,6 +170,12 @@
    [
     1794777041.9380553,
     0.21
+   ]
+  ],
+  "aec-nba-cha-lac-2026-11-15": [
+   [
+    1794785740.1110492,
+    0.39
    ]
   ]
  },

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T18:30:41.460526-05:00",
+ "updated": "2026-11-15T18:35:41.910552-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 3.0,
  "daily": {
   "date": "2026-11-15",
-  "bets": 11,
+  "bets": 12,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -17,12 +17,24 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3829,
+   "cash_value": 0.3781,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:CHA@LAC",
+   "market": "aec-nba-cha-lac-2026-11-15",
+   "side": "long",
+   "team": "Hornets",
+   "ask": 0.39,
+   "qty": 1.2821,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
