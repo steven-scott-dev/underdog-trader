@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "bets": 6,
+ "bets": 9,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -59,6 +59,33 @@
    "entry": 0.3,
    "qty": 1.6667,
    "mode": "main"
+  },
+  {
+   "market": "aec-nfl-hou-cle-2026-11-15",
+   "opened": "2026-11-15 16:05 ET",
+   "side": "long",
+   "team": "Texans",
+   "entry": 0.26,
+   "qty": 1.9231,
+   "mode": "main"
+  },
+  {
+   "market": "aec-nfl-car-no-2026-11-15",
+   "opened": "2026-11-15 16:05 ET",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.2675,
+   "qty": 1.8692,
+   "mode": "main"
+  },
+  {
+   "market": "aec-atp-benshe-artfil-2026-11-15",
+   "opened": "2026-11-15 16:05 ET",
+   "side": "short",
+   "team": "Arthur Fils",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -70,13 +97,13 @@
    [
     1794776442.1833713,
     0.3
+   ],
+   [
+    1794776736.1193352,
+    0.2675
    ]
   ],
   "aec-nfl-hou-cle-2026-11-15": [
-   [
-    1794775238.1297922,
-    0.305
-   ],
    [
     1794775835.784531,
     0.35
@@ -84,12 +111,22 @@
    [
     1794776136.6265419,
     0.17
+   ],
+   [
+    1794776735.063041,
+    0.26
    ]
   ],
   "aec-nfl-mia-ind-2026-11-15": [
    [
     1794775836.758538,
     0.37
+   ]
+  ],
+  "aec-atp-benshe-artfil-2026-11-15": [
+   [
+    1794776740.1548238,
+    0.32
    ]
   ]
  }
