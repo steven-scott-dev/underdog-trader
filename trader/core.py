@@ -657,7 +657,20 @@ def run_pass():
         can_bet = False
 
     # 2) scan games for new entries
-    held_slugs = set(positions) | {p["market"] for p in state["paper_positions"]}
+    # Live buys the bot itself recorded today, still open (no close entry):
+    # the portfolio read is flaky -- positions come back empty for hours --
+    # so the bot's own history is the reliable "already holding" source.
+    # A stop-lossed market leaves this set (its close entry removes it),
+    # so re-entry after the cooldown still works. A TP-filled market stays
+    # blocked for the day: the win is banked, no re-stack on the same game.
+    # This set also feeds the 5-open cap below (len(held_slugs)).
+    closed_live = {h["market"] for h in state.get("live_history", [])
+                   if "closed" in h}
+    open_bought = {h["market"] for h in state.get("live_history", [])
+                   if "opened" in h} - closed_live
+    held_slugs = (set(positions)
+                  | {p["market"] for p in state["paper_positions"]}
+                  | open_bought)
     for sport_key, rules in cfg["sports"].items():
         if not rules.get("enabled"):
             continue
