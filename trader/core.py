@@ -638,7 +638,7 @@ def run_pass():
         open_reserves = [max(0.0, p["qty"] * (p["entry"] - p["sl"]))
                          for p in state["paper_positions"]]
     else:
-        open_reserves = [max(0.0, pos["size"] * pos["avg_price"] * (1 - cfg["stop_loss_mult"]))
+        open_reserves = [max(0.0, pos["qty"] * pos["avg_px"] * (1 - cfg["stop_loss_mult"]))
                          for pos in positions.values()]
 
     def loss_ok(extra_reserve=0.0):
