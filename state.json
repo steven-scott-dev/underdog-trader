@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -113,6 +113,15 @@
    "entry": 0.13,
    "qty": 3.8462,
    "mode": "main"
+  },
+  {
+   "market": "aec-nfl-tb-det-2026-11-22",
+   "opened": "2026-11-14 21:30 ET",
+   "side": "long",
+   "team": "Buccaneers",
+   "entry": 0.4,
+   "qty": 1.25,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -160,6 +169,12 @@
    [
     1794709537.7808616,
     0.13
+   ]
+  ],
+  "aec-nfl-tb-det-2026-11-22": [
+   [
+    1794709843.6498373,
+    0.4
    ]
   ]
  }

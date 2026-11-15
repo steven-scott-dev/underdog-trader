@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T21:25:39.285848-05:00",
+ "updated": "2026-11-14T21:30:44.971083-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.7,
+ "duration_s": 3.0,
  "daily": {
   "date": "2026-11-14",
-  "bets": 12,
+  "bets": 13,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -17,12 +17,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nhl:EDM@TOR",
-   "market": "aec-nhl-edm-tor-2026-11-14",
-   "side": "short",
-   "team": "Maple Leafs",
-   "ask": 0.13,
-   "qty": 3.8462,
+   "game": "nhl:DET@TB",
+   "market": "aec-nfl-tb-det-2026-11-22",
+   "side": "long",
+   "team": "Buccaneers",
+   "ask": 0.4,
+   "qty": 1.25,
    "stake": 0.5,
    "mode": "main"
   }
