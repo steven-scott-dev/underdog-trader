@@ -2,7 +2,7 @@
  "date": "2026-11-15",
  "bets": 11,
  "bounce_bets": 0,
- "realized": -0.3955,
+ "realized": -0.9213,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -110,6 +110,12 @@
    "entry": 0.21,
    "qty": 2.381,
    "mode": "main"
+  },
+  {
+   "market": "aec-nfl-mia-ind-2026-11-15",
+   "closed": "2026-11-15 16:15 ET",
+   "pnl": -0.5258,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -159,6 +165,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nfl-hou-cle-2026-11-15": 1794778837.7794294
+  "aec-nfl-hou-cle-2026-11-15": 1794778837.7794294,
+  "aec-nfl-mia-ind-2026-11-15": 1794779133.245271
  }
 }
