@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T21:30:44.971083-05:00",
+ "updated": "2026-11-15T14:52:44.397012-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 1.4,
  "daily": {
-  "date": "2026-11-14",
-  "bets": 13,
+  "date": "2026-11-15",
+  "bets": 0,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -13,19 +13,16 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:DET@TB",
-   "market": "aec-nfl-tb-det-2026-11-22",
-   "side": "long",
-   "team": "Buccaneers",
-   "ask": 0.4,
+ "live_positions": {
+  "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
-   "stake": 0.5,
-   "mode": "main"
+   "avg_px": 0.424,
+   "cash_value": 0.4109,
+   "team_id": 77,
+   "outcome": "Buccaneers",
+   "title": "TB Buccaneers vs. DET Lions"
   }
- ],
+ },
+ "actions": [],
  "errors": []
 }
