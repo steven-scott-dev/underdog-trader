@@ -1,13 +1,12 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-15 18:40 ET · Mode: **LIVE** · Result: OK (1.7s)
+Updated: 2026-11-15 18:45 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 12 / 100 (main 12, bounce 0)
 - Realized P&L: -1.21
 
 ## Live positions
-- CHA Hornets vs. LA Clippers: 1.28 @ avg 0.3230
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
@@ -21,7 +20,7 @@ Updated: 2026-11-15 18:40 ET · Mode: **LIVE** · Result: OK (1.7s)
 - `{"market": "aec-nfl-car-no-2026-11-15", "opened": "2026-11-15 16:05 ET", "side": "short", "team": "Saints", "entry": 0.2675, "qty": 1.8692, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-cha-lac-2026-11-15", "pnl": -0.2854}`
+- _none_
 
 ## Order errors
 - _none_
