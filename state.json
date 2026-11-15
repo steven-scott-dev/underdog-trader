@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "bets": 10,
+ "bets": 11,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -95,6 +95,15 @@
    "entry": 0.22,
    "qty": 2.2727,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-phi-cbj-2026-11-14",
+   "opened": "2026-11-14 21:20 ET",
+   "side": "short",
+   "team": "Blue Jackets",
+   "entry": 0.21,
+   "qty": 2.381,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -130,6 +139,12 @@
    [
     1794696936.3874302,
     0.22
+   ]
+  ],
+  "aec-nhl-phi-cbj-2026-11-14": [
+   [
+    1794709239.6830995,
+    0.21
    ]
   ]
  }
