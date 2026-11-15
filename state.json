@@ -1,9 +1,27 @@
 {
  "date": "2026-11-15",
- "bets": 0,
+ "bets": 1,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": []
+ "live_history": [
+  {
+   "market": "aec-nfl-car-no-2026-11-15",
+   "opened": "2026-11-15 15:35 ET",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.3775,
+   "qty": 1.3245,
+   "mode": "main"
+  }
+ ],
+ "px_hist": {
+  "aec-nfl-car-no-2026-11-15": [
+   [
+    1794774938.592161,
+    0.3775
+   ]
+  ]
+ }
 }
