@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-15T16:15:34.658307-05:00",
+ "updated": "2026-11-15T16:20:42.422734-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-15",
   "bets": 11,
@@ -14,29 +14,15 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nfl-mia-ind-2026-11-15": {
-   "qty": 1.35,
-   "avg_px": 0.392,
-   "cash_value": 0.0034,
-   "team_id": 67,
-   "outcome": "Dolphins",
-   "title": "MIA Dolphins vs. IND Colts"
-  },
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.4046,
+   "cash_value": 0.4109,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-mia-ind-2026-11-15",
-   "pnl": -0.5258
-  }
- ],
+ "actions": [],
  "errors": []
 }
