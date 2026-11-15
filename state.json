@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -104,6 +104,15 @@
    "entry": 0.21,
    "qty": 2.381,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-edm-tor-2026-11-14",
+   "opened": "2026-11-14 21:25 ET",
+   "side": "short",
+   "team": "Maple Leafs",
+   "entry": 0.13,
+   "qty": 3.8462,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -145,6 +154,12 @@
    [
     1794709239.6830995,
     0.21
+   ]
+  ],
+  "aec-nhl-edm-tor-2026-11-14": [
+   [
+    1794709537.7808616,
+    0.13
    ]
   ]
  }
