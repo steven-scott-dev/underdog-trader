@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "bets": 2,
+ "bets": 5,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -23,6 +23,33 @@
    "entry": 0.305,
    "qty": 1.6393,
    "mode": "main"
+  },
+  {
+   "market": "aec-nfl-hou-cle-2026-11-15",
+   "opened": "2026-11-15 15:50 ET",
+   "side": "short",
+   "team": "Browns",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "mode": "main"
+  },
+  {
+   "market": "aec-nfl-mia-ind-2026-11-15",
+   "opened": "2026-11-15 15:50 ET",
+   "side": "long",
+   "team": "Dolphins",
+   "entry": 0.37,
+   "qty": 1.3514,
+   "mode": "main"
+  },
+  {
+   "market": "aec-nfl-car-no-2026-11-15",
+   "opened": "2026-11-15 15:50 ET",
+   "side": "short",
+   "team": "Saints",
+   "entry": 0.3525,
+   "qty": 1.4184,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -30,12 +57,26 @@
    [
     1794774938.592161,
     0.3775
+   ],
+   [
+    1794775837.3538933,
+    0.3525
    ]
   ],
   "aec-nfl-hou-cle-2026-11-15": [
    [
     1794775238.1297922,
     0.305
+   ],
+   [
+    1794775835.784531,
+    0.35
+   ]
+  ],
+  "aec-nfl-mia-ind-2026-11-15": [
+   [
+    1794775836.758538,
+    0.37
    ]
   ]
  }
