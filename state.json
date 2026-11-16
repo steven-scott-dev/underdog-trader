@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "bets": 2,
  "bounce_bets": 2,
- "realized": -0.16,
+ "realized": -0.24,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -35,6 +35,12 @@
    "closed": "2026-11-16 10:40 ET",
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-katsco-anazol-2026-11-16",
+   "closed": "2026-11-16 10:45 ET",
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -52,6 +58,6 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-katsco-anazol-2026-11-16": 1794845443.3283474
+  "aec-wta-katsco-anazol-2026-11-16": 1794845748.1608417
  }
 }
