@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": -0.24,
  "paper_positions": [],
  "paper_history": [],
@@ -59,6 +59,15 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-vickas-carmon-2026-11-16",
+   "opened": "2026-11-16 13:55 ET",
+   "side": "long",
+   "team": "Victoria Jimenez Kasintseva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -84,6 +93,12 @@
    [
     1794849650.8167782,
     0.05
+   ]
+  ],
+  "aec-wta-vickas-carmon-2026-11-16": [
+   [
+    1794855340.5970109,
+    0.1
    ]
   ]
  },
