@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T12:20:51.771655-05:00",
+ "updated": "2026-11-16T12:25:43.246565-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-16",
   "bets": 4,
@@ -23,18 +23,6 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Brancaccio@Costoulas",
-   "market": "aec-wta-sofcos-nurbra-2026-11-16",
-   "side": "short",
-   "team": "Nuria Brancaccio",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": []
 }

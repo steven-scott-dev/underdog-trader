@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-16 12:20 ET · Mode: **LIVE** · Result: OK (2.8s)
+Updated: 2026-11-16 12:25 ET · Mode: **LIVE** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
@@ -19,7 +19,7 @@ Updated: 2026-11-16 12:20 ET · Mode: **LIVE** · Result: OK (2.8s)
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "opened": "2026-11-16 10:32 ET", "side": "long", "team": "Katrina Scott", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Brancaccio@Costoulas", "market": "aec-wta-sofcos-nurbra-2026-11-16", "side": "short", "team": "Nuria Brancaccio", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
