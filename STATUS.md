@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-16 16:05 ET · Mode: **LIVE** · Result: OK (1.4s)
+Updated: 2026-11-16 16:10 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
@@ -20,7 +20,7 @@ Updated: 2026-11-16 16:05 ET · Mode: **LIVE** · Result: OK (1.4s)
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "closed": "2026-11-16 10:35 ET", "pnl": -0.08, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Cobolli@Medvedev", "market": "aec-atp-danmed-flacob-2026-11-15", "side": "short", "team": "Flavio Cobolli", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
