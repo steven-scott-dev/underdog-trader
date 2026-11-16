@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-15 20:20 ET · Mode: **LIVE** · Result: OK (2.5s)
+Updated: 2026-11-15 20:25 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 13 / 100 (main 13, bounce 0)
@@ -20,7 +20,7 @@ Updated: 2026-11-15 20:20 ET · Mode: **LIVE** · Result: OK (2.5s)
 - `{"market": "aec-atp-benshe-artfil-2026-11-15", "opened": "2026-11-15 16:05 ET", "side": "short", "team": "Arthur Fils", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:NY@TOR", "market": "aec-nba-ny-tor-2026-11-17", "side": "short", "team": "Raptors", "ask": 0.38, "qty": 1.3158, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
