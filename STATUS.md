@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-15 21:55 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-15 22:00 ET · Mode: **LIVE** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 14 / 100 (main 14, bounce 0)
@@ -20,7 +20,7 @@ Updated: 2026-11-15 21:55 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-nfl-hou-cle-2026-11-15", "closed": "2026-11-15 16:10 ET", "pnl": -0.3955, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:ATL@MIL", "market": "aec-nba-atl-mil-2026-11-15", "side": "short", "team": "Bucks", "ask": 0.24, "qty": 2.0833, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
