@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "bets": 13,
+ "bets": 14,
  "bounce_bets": 0,
  "realized": -1.2067,
  "paper_positions": [],
@@ -140,6 +140,15 @@
    "entry": 0.38,
    "qty": 1.3158,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-atl-mil-2026-11-15",
+   "opened": "2026-11-15 21:55 ET",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.24,
+   "qty": 2.0833,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -197,6 +206,12 @@
    [
     1794792043.02258,
     0.38
+   ]
+  ],
+  "aec-nba-atl-mil-2026-11-15": [
+   [
+    1794797735.8580832,
+    0.24
    ]
   ]
  },
