@@ -563,6 +563,15 @@ def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty):
     log(f"  take-profit resting: sell {qty} @ {target:.4f} id={order.get('id')}")
 
 
+def live_mode_of(state, slug):
+    """Mode ('main'/'bounce') of the most recent live buy of this market,
+    or None if the bot has no record of buying it."""
+    for h in reversed(state.get("live_history", [])):
+        if h.get("market") == slug and "opened" in h:
+            return h.get("mode")
+    return None
+
+
 # ---------------------------------------------------------------- one pass
 
 def run_pass():
@@ -622,8 +631,9 @@ def run_pass():
                     except Exception as e2:
                         log(f"  cancel failed: {e2}")
                 continue
-            # make sure a take-profit is resting
-            if side:
+            # make sure a take-profit is resting (main only -- bounce rides
+            # to settlement and exits only on the stop-loss, so no TP order)
+            if side and live_mode_of(state, slug) != "bounce":
                 try:
                     ensure_take_profit(client, cfg, slug, side, entry, pos["qty"])
                 except Exception as e:
@@ -766,7 +776,10 @@ def run_pass():
                       "qty": qty, "stake": bcfg["stake_usd"], "mode": mode}
             actions.append(action)
             if paper:
-                tp = min(round(ask * bcfg["take_profit_mult"], 4), 0.99)
+                # bounce rides to settlement: TP at 99c, so paper only exits
+                # on the stop-loss (or settlement) -- same as live
+                tp = 0.99 if mode == "bounce" else min(
+                    round(ask * bcfg["take_profit_mult"], 4), 0.99)
                 sl = round(ask * bcfg["stop_loss_mult"], 4)
                 state["paper_positions"].append({
                     "market": meta["market_slug"], "game": gid, "side": dog,
@@ -794,11 +807,16 @@ def run_pass():
                         "market": meta["market_slug"], "opened": now_et_str(),
                         "side": dog, "team": desc, "entry": buy["price"],
                         "qty": buy["qty"], "mode": mode})
-                    try:
-                        ensure_take_profit(client, bcfg, meta["market_slug"],
-                                           dog, buy["price"], buy["qty"])
-                    except Exception as e:
-                        log(f"  TP placement failed: {e} (will retry next run)")
+                    # bounce rides to settlement: no take-profit order, the
+                    # stop-loss (0.4x, managed in the pass) is the only exit
+                    if mode == "main":
+                        try:
+                            ensure_take_profit(client, bcfg, meta["market_slug"],
+                                               dog, buy["price"], buy["qty"])
+                        except Exception as e:
+                            log(f"  TP placement failed: {e} (will retry next run)")
+                    else:
+                        log("  bounce rides: no take-profit placed (stop-loss only)")
 
     dt = round(time.time() - t0, 1)
     log(f"pass done in {dt}s, {len(actions)} action(s)")
