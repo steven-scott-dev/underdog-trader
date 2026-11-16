@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T10:45:48.836698-05:00",
+ "updated": "2026-11-16T10:50:56.768398-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-16",
   "bets": 2,
@@ -21,22 +21,8 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
-  },
-  "aec-wta-katsco-anazol-2026-11-16": {
-   "qty": 2.0,
-   "avg_px": 0.05,
-   "cash_value": 0.02,
-   "team_id": 15417,
-   "outcome": "Katrina Scott",
-   "title": "Katrina Scott vs. Anastasia Zolotareva"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-katsco-anazol-2026-11-16",
-   "pnl": -0.08
-  }
- ],
+ "actions": [],
  "errors": []
 }

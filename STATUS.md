@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-16 10:45 ET · Mode: **LIVE** · Result: OK (1.4s)
+Updated: 2026-11-16 10:50 ET · Mode: **LIVE** · Result: OK (1.9s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
@@ -8,7 +8,6 @@ Updated: 2026-11-16 10:45 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- Katrina Scott vs. Anastasia Zolotareva: 2.0 @ avg 0.0500
 
 ## Recent live history
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "closed": "2026-11-16 10:45 ET", "pnl": -0.08, "reason": "stop-loss"}`
@@ -18,7 +17,7 @@ Updated: 2026-11-16 10:45 ET · Mode: **LIVE** · Result: OK (1.4s)
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "opened": "2026-11-16 10:32 ET", "side": "long", "team": "Katrina Scott", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-katsco-anazol-2026-11-16", "pnl": -0.08}`
+- _none_
 
 ## Order errors
 - _none_
