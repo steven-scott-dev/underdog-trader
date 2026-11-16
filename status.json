@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:00:40.183086-05:00",
+ "updated": "2026-11-15T19:05:35.549483-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.6,
@@ -17,7 +17,7 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3859,
+   "cash_value": 0.3796,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
