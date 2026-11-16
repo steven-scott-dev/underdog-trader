@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": -0.24,
  "paper_positions": [],
  "paper_history": [],
@@ -50,6 +50,15 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-sofcos-nurbra-2026-11-16",
+   "opened": "2026-11-16 12:20 ET",
+   "side": "short",
+   "team": "Nuria Brancaccio",
+   "entry": 0.05,
+   "qty": 2.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -69,6 +78,12 @@
    [
     1794849052.9223542,
     0.07
+   ]
+  ],
+  "aec-wta-sofcos-nurbra-2026-11-16": [
+   [
+    1794849650.8167782,
+    0.05
    ]
   ]
  },
