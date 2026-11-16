@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": -0.24,
  "paper_positions": [],
  "paper_history": [],
@@ -41,6 +41,15 @@
    "closed": "2026-11-16 10:45 ET",
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-guimar-martre-2026-11-16",
+   "opened": "2026-11-16 12:10 ET",
+   "side": "short",
+   "team": "Martina Trevisan",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -54,6 +63,12 @@
    [
     1794843124.6880639,
     0.08
+   ]
+  ],
+  "aec-wta-guimar-martre-2026-11-16": [
+   [
+    1794849052.9223542,
+    0.07
    ]
   ]
  },
