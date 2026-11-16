@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T14:30:35.900819-05:00",
+ "updated": "2026-11-16T14:35:37.258063-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-16",
   "bets": 5,
@@ -25,7 +25,7 @@
   "aec-wta-vickas-carmon-2026-11-16": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.37,
+   "cash_value": 0.14,
    "team_id": 4804,
    "outcome": "Victoria Jimenez Kasintseva",
    "title": "Victoria Jimenez Kasintseva vs. Carole Monnet"
