@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 0,
  "realized": -1.2067,
  "paper_positions": [],
@@ -131,6 +131,15 @@
    "closed": "2026-11-15 18:40 ET",
    "pnl": -0.2854,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-ny-tor-2026-11-17",
+   "opened": "2026-11-15 20:20 ET",
+   "side": "short",
+   "team": "Raptors",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -182,6 +191,12 @@
    [
     1794785740.1110492,
     0.39
+   ]
+  ],
+  "aec-nba-ny-tor-2026-11-17": [
+   [
+    1794792043.02258,
+    0.38
    ]
   ]
  },

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T20:15:38.554290-05:00",
+ "updated": "2026-11-15T20:20:44.557843-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-11-15",
-  "bets": 12,
+  "bets": 13,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -23,6 +23,18 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:NY@TOR",
+   "market": "aec-nba-ny-tor-2026-11-17",
+   "side": "short",
+   "team": "Raptors",
+   "ask": 0.38,
+   "qty": 1.3158,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
