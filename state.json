@@ -2,7 +2,7 @@
  "date": "2026-11-16",
  "bets": 5,
  "bounce_bets": 5,
- "realized": -0.24,
+ "realized": -0.32,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -68,6 +68,12 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-vickas-carmon-2026-11-16",
+   "closed": "2026-11-16 14:40 ET",
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -103,6 +109,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-katsco-anazol-2026-11-16": 1794845748.1608417
+  "aec-wta-katsco-anazol-2026-11-16": 1794845748.1608417,
+  "aec-wta-vickas-carmon-2026-11-16": 1794859846.257897
  }
 }
