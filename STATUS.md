@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-16 13:55 ET · Mode: **LIVE** · Result: OK (3.0s)
+Updated: 2026-11-16 14:00 ET · Mode: **LIVE** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
@@ -8,6 +8,7 @@ Updated: 2026-11-16 13:55 ET · Mode: **LIVE** · Result: OK (3.0s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
+- Victoria Jimenez Kasintseva vs. Carole Monnet: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-wta-vickas-carmon-2026-11-16", "opened": "2026-11-16 13:55 ET", "side": "long", "team": "Victoria Jimenez Kasintseva", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -20,7 +21,7 @@ Updated: 2026-11-16 13:55 ET · Mode: **LIVE** · Result: OK (3.0s)
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "opened": "2026-11-16 10:32 ET", "side": "long", "team": "Katrina Scott", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Monnet@Kasintseva", "market": "aec-wta-vickas-carmon-2026-11-16", "side": "long", "team": "Victoria Jimenez Kasintseva", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_

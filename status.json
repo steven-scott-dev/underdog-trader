@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T13:55:40.834572-05:00",
+ "updated": "2026-11-16T14:00:35.080910-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.0,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-16",
   "bets": 5,
@@ -21,20 +21,16 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
+  },
+  "aec-wta-vickas-carmon-2026-11-16": {
+   "qty": 1.0,
+   "avg_px": 0.11,
+   "cash_value": 0.17,
+   "team_id": 4804,
+   "outcome": "Victoria Jimenez Kasintseva",
+   "title": "Victoria Jimenez Kasintseva vs. Carole Monnet"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Monnet@Kasintseva",
-   "market": "aec-wta-vickas-carmon-2026-11-16",
-   "side": "long",
-   "team": "Victoria Jimenez Kasintseva",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": []
 }
