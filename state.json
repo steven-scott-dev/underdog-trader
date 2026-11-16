@@ -1,7 +1,7 @@
 {
  "date": "2026-11-16",
- "bets": 5,
- "bounce_bets": 5,
+ "bets": 6,
+ "bounce_bets": 6,
  "realized": -0.32,
  "paper_positions": [],
  "paper_history": [],
@@ -74,6 +74,15 @@
    "closed": "2026-11-16 14:40 ET",
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-danmed-flacob-2026-11-15",
+   "opened": "2026-11-16 16:05 ET",
+   "side": "short",
+   "team": "Flavio Cobolli",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -104,6 +113,12 @@
   "aec-wta-vickas-carmon-2026-11-16": [
    [
     1794855340.5970109,
+    0.1
+   ]
+  ],
+  "aec-atp-danmed-flacob-2026-11-15": [
+   [
+    1794863147.1184428,
     0.1
    ]
   ]

@@ -1,15 +1,16 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-16 16:00 ET · Mode: **LIVE** · Result: OK (1.9s)
+Updated: 2026-11-16 16:05 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
-- Bets placed: 5 / 100 (main 0, bounce 5)
+- Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: -0.32
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
+- `{"market": "aec-atp-danmed-flacob-2026-11-15", "opened": "2026-11-16 16:05 ET", "side": "short", "team": "Flavio Cobolli", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 - `{"market": "aec-wta-vickas-carmon-2026-11-16", "closed": "2026-11-16 14:40 ET", "pnl": -0.08, "reason": "stop-loss"}`
 - `{"market": "aec-wta-vickas-carmon-2026-11-16", "opened": "2026-11-16 13:55 ET", "side": "long", "team": "Victoria Jimenez Kasintseva", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 - `{"market": "aec-wta-sofcos-nurbra-2026-11-16", "opened": "2026-11-16 12:20 ET", "side": "short", "team": "Nuria Brancaccio", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
@@ -17,10 +18,9 @@ Updated: 2026-11-16 16:00 ET · Mode: **LIVE** · Result: OK (1.9s)
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "closed": "2026-11-16 10:45 ET", "pnl": -0.08, "reason": "stop-loss"}`
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "closed": "2026-11-16 10:40 ET", "pnl": -0.08, "reason": "stop-loss"}`
 - `{"market": "aec-wta-katsco-anazol-2026-11-16", "closed": "2026-11-16 10:35 ET", "pnl": -0.08, "reason": "stop-loss"}`
-- `{"market": "aec-wta-rebmas-dilche-2026-11-16", "opened": "2026-11-16 10:32 ET", "side": "short", "team": "Diletta Cherubini", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Cobolli@Medvedev", "market": "aec-atp-danmed-flacob-2026-11-15", "side": "short", "team": "Flavio Cobolli", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
 
 ## Order errors
 - _none_
