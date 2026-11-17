@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "bets": 3,
- "bounce_bets": 1,
+ "bets": 4,
+ "bounce_bets": 2,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -32,6 +32,15 @@
    "entry": 0.06,
    "qty": 1.6667,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-nadpod-varlep-2026-11-16",
+   "opened": "2026-11-17 10:30 ET",
+   "side": "short",
+   "team": "Varvara Lepchenko",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -51,6 +60,12 @@
    [
     1794929140.9625978,
     0.06
+   ]
+  ],
+  "aec-wta-nadpod-varlep-2026-11-16": [
+   [
+    1794929434.8200185,
+    0.08
    ]
   ]
  }

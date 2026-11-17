@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T10:25:41.884670-05:00",
+ "updated": "2026-11-17T10:30:35.882042-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-17",
-  "bets": 3,
-  "bounce_bets": 1,
+  "bets": 4,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
@@ -26,12 +26,12 @@
  "actions": [
   {
    "type": "buy",
-   "game": "wta:Semenistaja@Burillo",
-   "market": "aec-wta-ireesc-darsem-2026-11-16",
+   "game": "wta:Lepchenko@Podoroska",
+   "market": "aec-wta-nadpod-varlep-2026-11-16",
    "side": "short",
-   "team": "Darja Semenistaja",
-   "ask": 0.06,
-   "qty": 1.6667,
+   "team": "Varvara Lepchenko",
+   "ask": 0.08,
+   "qty": 1.25,
    "stake": 0.1,
    "mode": "bounce"
   }
