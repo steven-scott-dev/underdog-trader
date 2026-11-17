@@ -563,6 +563,16 @@ def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty):
     log(f"  take-profit resting: sell {qty} @ {target:.4f} id={order.get('id')}")
 
 
+def live_is_open(state, slug):
+    """True if the bot's latest live_history entry for this market is an
+    open buy, False if it is a close, None if the bot has no record of it
+    today (e.g. bought on a previous day -- manage normally)."""
+    for h in reversed(state.get("live_history", [])):
+        if h.get("market") == slug:
+            return "opened" in h
+    return None
+
+
 def live_mode_of(state, slug):
     """Mode ('main'/'bounce') of the most recent live buy of this market,
     or None if the bot has no record of buying it."""
@@ -608,6 +618,11 @@ def run_pass():
     else:
         for slug, pos in positions.items():
             if pos["qty"] <= 0 or pos["avg_px"] <= 0:
+                continue
+            # already closed today (e.g. stop-loss) but still showing in the
+            # portfolio read: don't close it again or double-count the loss
+            if live_is_open(state, slug) is False:
+                log(f"  skipping {slug}: already closed today, stale read")
                 continue
             side = resolve_side(client, slug, pos)
             entry = pos["avg_px"]
