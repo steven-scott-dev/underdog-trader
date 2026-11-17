@@ -1,28 +1,12 @@
 {
- "updated": "2026-11-17T07:30:35.862482-05:00",
- "mode": "live",
- "ok": true,
- "duration_s": 0.8,
- "daily": {
-  "date": "2026-11-17",
-  "bets": 1,
-  "bounce_bets": 0,
-  "max_total": 100,
-  "max_open": 5,
-  "realized": 0.0
- },
- "paper_positions": [],
- "paper_history": [],
- "live_positions": {
-  "aec-nfl-tb-det-2026-11-22": {
-   "qty": 1.25,
-   "avg_px": 0.424,
-   "cash_value": 0.3515,
-   "team_id": 77,
-   "outcome": "Buccaneers",
-   "title": "TB Buccaneers vs. DET Lions"
-  }
- },
- "actions": [],
+ "updated": "2026-11-17T07:35:35.312123-05:00",
+ "mode": null,
+ "ok": false,
+ "duration_s": null,
+ "daily": null,
+ "paper_positions": null,
+ "paper_history": null,
+ "live_positions": null,
+ "actions": null,
  "errors": []
 }
