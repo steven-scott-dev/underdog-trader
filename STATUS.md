@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-17 09:40 ET · Mode: **LIVE** · Result: OK (1.4s)
+Updated: 2026-11-17 09:45 ET · Mode: **LIVE** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 2 / 100 (main 2, bounce 0)
@@ -14,7 +14,7 @@ Updated: 2026-11-17 09:40 ET · Mode: **LIVE** · Result: OK (1.4s)
 - `{"market": "aec-nhl-van-uta-2026-11-16", "opened": "2026-11-17 00:00 ET", "side": "long", "team": "Canucks", "entry": 0.38, "qty": 1.3158, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Jodar@Fils", "market": "aec-atp-artfil-rafjod-2026-11-15", "side": "short", "team": "Rafael Jodar", "ask": 0.4, "qty": 1.25, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
