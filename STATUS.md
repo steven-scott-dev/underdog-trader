@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-17 00:00 ET · Mode: **LIVE** · Result: OK (2.3s)
+Updated: 2026-11-17 00:05 ET · Mode: **LIVE** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 1 / 100 (main 1, bounce 0)
@@ -8,12 +8,13 @@ Updated: 2026-11-17 00:00 ET · Mode: **LIVE** · Result: OK (2.3s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
+- VAN Canucks vs. UTA Mammoth: 1.31 @ avg 0.3730
 
 ## Recent live history
 - `{"market": "aec-nhl-van-uta-2026-11-16", "opened": "2026-11-17 00:00 ET", "side": "long", "team": "Canucks", "entry": 0.38, "qty": 1.3158, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:VAN@UTA", "market": "aec-nhl-van-uta-2026-11-16", "side": "long", "team": "Canucks", "ask": 0.38, "qty": 1.3158, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
