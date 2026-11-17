@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-17T00:05:38.641153-05:00",
+ "updated": "2026-11-17T00:10:35.151378-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 0.6,
  "daily": {
   "date": "2026-11-17",
   "bets": 1,
@@ -21,14 +21,6 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
-  },
-  "aec-nhl-van-uta-2026-11-16": {
-   "qty": 1.31,
-   "avg_px": 0.373,
-   "cash_value": 0.5764,
-   "team_id": 1511,
-   "outcome": "Canucks",
-   "title": "VAN Canucks vs. UTA Mammoth"
   }
  },
  "actions": [],
