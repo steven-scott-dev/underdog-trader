@@ -1,7 +1,7 @@
 {
  "date": "2026-11-17",
- "bets": 2,
- "bounce_bets": 0,
+ "bets": 3,
+ "bounce_bets": 1,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -23,6 +23,15 @@
    "entry": 0.4,
    "qty": 1.25,
    "mode": "main"
+  },
+  {
+   "market": "aec-wta-ireesc-darsem-2026-11-16",
+   "opened": "2026-11-17 10:25 ET",
+   "side": "short",
+   "team": "Darja Semenistaja",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -36,6 +45,12 @@
    [
     1794926439.73647,
     0.4
+   ]
+  ],
+  "aec-wta-ireesc-darsem-2026-11-16": [
+   [
+    1794929140.9625978,
+    0.06
    ]
   ]
  }
