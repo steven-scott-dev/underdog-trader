@@ -1,72 +1,9 @@
 {
- "date": "2026-11-17",
- "bets": 4,
- "bounce_bets": 2,
+ "date": "2026-11-18",
+ "bets": 0,
+ "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": [
-  {
-   "market": "aec-nhl-van-uta-2026-11-16",
-   "opened": "2026-11-17 00:00 ET",
-   "side": "long",
-   "team": "Canucks",
-   "entry": 0.38,
-   "qty": 1.3158,
-   "mode": "main"
-  },
-  {
-   "market": "aec-atp-artfil-rafjod-2026-11-15",
-   "opened": "2026-11-17 09:40 ET",
-   "side": "short",
-   "team": "Rafael Jodar",
-   "entry": 0.4,
-   "qty": 1.25,
-   "mode": "main"
-  },
-  {
-   "market": "aec-wta-ireesc-darsem-2026-11-16",
-   "opened": "2026-11-17 10:25 ET",
-   "side": "short",
-   "team": "Darja Semenistaja",
-   "entry": 0.06,
-   "qty": 1.6667,
-   "mode": "bounce"
-  },
-  {
-   "market": "aec-wta-nadpod-varlep-2026-11-16",
-   "opened": "2026-11-17 10:30 ET",
-   "side": "short",
-   "team": "Varvara Lepchenko",
-   "entry": 0.08,
-   "qty": 1.25,
-   "mode": "bounce"
-  }
- ],
- "px_hist": {
-  "aec-nhl-van-uta-2026-11-16": [
-   [
-    1794891638.9073231,
-    0.38
-   ]
-  ],
-  "aec-atp-artfil-rafjod-2026-11-15": [
-   [
-    1794926439.73647,
-    0.4
-   ]
-  ],
-  "aec-wta-ireesc-darsem-2026-11-16": [
-   [
-    1794929140.9625978,
-    0.06
-   ]
-  ],
-  "aec-wta-nadpod-varlep-2026-11-16": [
-   [
-    1794929434.8200185,
-    0.08
-   ]
-  ]
- }
+ "live_history": []
 }
