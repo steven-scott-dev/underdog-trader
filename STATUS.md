@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-18 08:40 ET · Mode: **LIVE** · Result: OK (1.5s)
+Updated: 2026-11-18 08:45 ET · Mode: **LIVE** · Result: OK (0.9s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
@@ -13,7 +13,7 @@ Updated: 2026-11-18 08:40 ET · Mode: **LIVE** · Result: OK (1.5s)
 - `{"market": "aec-atp-caralc-danmed-2026-11-15", "opened": "2026-11-18 08:40 ET", "side": "short", "team": "Daniil Medvedev", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Medvedev@Alcaraz", "market": "aec-atp-caralc-danmed-2026-11-15", "side": "short", "team": "Daniil Medvedev", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
