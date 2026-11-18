@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-18 11:15 ET · Mode: **LIVE** · Result: OK (1.3s)
+Updated: 2026-11-18 11:20 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
@@ -14,7 +14,7 @@ Updated: 2026-11-18 11:15 ET · Mode: **LIVE** · Result: OK (1.3s)
 - `{"market": "aec-atp-caralc-danmed-2026-11-15", "opened": "2026-11-18 08:40 ET", "side": "short", "team": "Daniil Medvedev", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Costoulas@Reales", "market": "aec-wta-guimar-sofcos-2026-11-18", "side": "short", "team": "Sofia Costoulas", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_

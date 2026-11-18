@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-18T11:15:41.398581-05:00",
+ "updated": "2026-11-18T11:20:41.145006-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-18",
   "bets": 2,
@@ -23,18 +23,6 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Costoulas@Reales",
-   "market": "aec-wta-guimar-sofcos-2026-11-18",
-   "side": "short",
-   "team": "Sofia Costoulas",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": []
 }
