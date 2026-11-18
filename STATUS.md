@@ -1,19 +1,19 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-18 08:35 ET · Mode: **LIVE** · Result: OK (1.1s)
+Updated: 2026-11-18 08:40 ET · Mode: **LIVE** · Result: OK (1.5s)
 
 ## Today
-- Bets placed: 0 / 100 (main 0, bounce 0)
+- Bets placed: 1 / 100 (main 0, bounce 1)
 - Realized P&L: +0.00
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
-- _none yet_
+- `{"market": "aec-atp-caralc-danmed-2026-11-15", "opened": "2026-11-18 08:40 ET", "side": "short", "team": "Daniil Medvedev", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "atp:Medvedev@Alcaraz", "market": "aec-atp-caralc-danmed-2026-11-15", "side": "short", "team": "Daniil Medvedev", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
 
 ## Order errors
 - _none_
