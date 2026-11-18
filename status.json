@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18T14:55:42.784982-05:00",
+ "updated": "2026-11-18T15:00:42.555156-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 3.1,
  "daily": {
   "date": "2026-11-18",
-  "bets": 3,
-  "bounce_bets": 3,
+  "bets": 4,
+  "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
@@ -23,6 +23,18 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Podoroska@Gormaz",
+   "market": "aec-wta-leygor-nadpod-2026-11-18",
+   "side": "short",
+   "team": "Nadia Podoroska",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": []
 }

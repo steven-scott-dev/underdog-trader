@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "bets": 3,
- "bounce_bets": 3,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -32,6 +32,15 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-leygor-nadpod-2026-11-18",
+   "opened": "2026-11-18 15:00 ET",
+   "side": "short",
+   "team": "Nadia Podoroska",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -50,6 +59,12 @@
   "aec-wta-rebmas-polher-2026-11-18": [
    [
     1795023936.649235,
+    0.08
+   ]
+  ],
+  "aec-wta-leygor-nadpod-2026-11-18": [
+   [
+    1795032042.2757835,
     0.08
    ]
   ]
