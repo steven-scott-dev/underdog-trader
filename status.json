@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18T12:40:40.705973-05:00",
+ "updated": "2026-11-18T12:45:37.049681-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-18",
-  "bets": 2,
-  "bounce_bets": 2,
+  "bets": 3,
+  "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
@@ -17,12 +17,24 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3202,
+   "cash_value": 0.3219,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Hercog@Masarova",
+   "market": "aec-wta-rebmas-polher-2026-11-18",
+   "side": "short",
+   "team": "Polona Hercog",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": []
 }

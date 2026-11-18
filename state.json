@@ -1,7 +1,7 @@
 {
  "date": "2026-11-18",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -23,6 +23,15 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-rebmas-polher-2026-11-18",
+   "opened": "2026-11-18 12:45 ET",
+   "side": "short",
+   "team": "Polona Hercog",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -35,6 +44,12 @@
   "aec-wta-guimar-sofcos-2026-11-18": [
    [
     1795018541.1829875,
+    0.08
+   ]
+  ],
+  "aec-wta-rebmas-polher-2026-11-18": [
+   [
+    1795023936.649235,
     0.08
    ]
   ]
