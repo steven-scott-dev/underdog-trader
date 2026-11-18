@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-18 15:00 ET · Mode: **LIVE** · Result: OK (3.1s)
+Updated: 2026-11-18 15:05 ET · Mode: **LIVE** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
@@ -16,7 +16,7 @@ Updated: 2026-11-18 15:00 ET · Mode: **LIVE** · Result: OK (3.1s)
 - `{"market": "aec-atp-caralc-danmed-2026-11-15", "opened": "2026-11-18 08:40 ET", "side": "short", "team": "Daniil Medvedev", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Podoroska@Gormaz", "market": "aec-wta-leygor-nadpod-2026-11-18", "side": "short", "team": "Nadia Podoroska", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
