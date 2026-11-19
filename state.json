@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "bets": 4,
- "bounce_bets": 2,
+ "bets": 5,
+ "bounce_bets": 3,
  "realized": -0.1,
  "paper_positions": [],
  "paper_history": [],
@@ -47,6 +47,15 @@
    "closed": "2026-11-19 15:30 ET",
    "pnl": -0.1,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alezve-artfil-2026-11-15",
+   "opened": "2026-11-19 16:20 ET",
+   "side": "short",
+   "team": "Arthur Fils",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -72,6 +81,12 @@
    [
     1795115145.4087534,
     0.1
+   ]
+  ],
+  "aec-atp-alezve-artfil-2026-11-15": [
+   [
+    1795123240.6289694,
+    0.07
    ]
   ]
  },
