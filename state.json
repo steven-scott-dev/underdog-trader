@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "bets": 1,
- "bounce_bets": 0,
+ "bets": 2,
+ "bounce_bets": 1,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -14,6 +14,15 @@
    "entry": 0.4,
    "qty": 1.25,
    "mode": "main"
+  },
+  {
+   "market": "aec-atp-benshe-rafjod-2026-11-15",
+   "opened": "2026-11-19 09:40 ET",
+   "side": "short",
+   "team": "Rafael Jodar",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -21,6 +30,12 @@
    [
     1795064438.9692805,
     0.4
+   ]
+  ],
+  "aec-atp-benshe-rafjod-2026-11-15": [
+   [
+    1795099240.2863152,
+    0.07
    ]
   ]
  }
