@@ -1,13 +1,12 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-19 00:10 ET · Mode: **LIVE** · Result: OK (1.9s)
+Updated: 2026-11-19 00:15 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 1 / 100 (main 1, bounce 0)
 - Realized P&L: +0.00
 
 ## Live positions
-- BOS Celtics vs. DEN Nuggets: 1.25 @ avg 0.4000
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
