@@ -1,71 +1,26 @@
 {
- "date": "2026-11-18",
- "bets": 4,
- "bounce_bets": 4,
+ "date": "2026-11-19",
+ "bets": 1,
+ "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
   {
-   "market": "aec-atp-caralc-danmed-2026-11-15",
-   "opened": "2026-11-18 08:40 ET",
-   "side": "short",
-   "team": "Daniil Medvedev",
-   "entry": 0.09,
-   "qty": 1.1111,
-   "mode": "bounce"
-  },
-  {
-   "market": "aec-wta-guimar-sofcos-2026-11-18",
-   "opened": "2026-11-18 11:15 ET",
-   "side": "short",
-   "team": "Sofia Costoulas",
-   "entry": 0.08,
+   "market": "aec-nba-bos-den-2026-11-18",
+   "opened": "2026-11-19 00:00 ET",
+   "side": "long",
+   "team": "Celtics",
+   "entry": 0.4,
    "qty": 1.25,
-   "mode": "bounce"
-  },
-  {
-   "market": "aec-wta-rebmas-polher-2026-11-18",
-   "opened": "2026-11-18 12:45 ET",
-   "side": "short",
-   "team": "Polona Hercog",
-   "entry": 0.08,
-   "qty": 1.25,
-   "mode": "bounce"
-  },
-  {
-   "market": "aec-wta-leygor-nadpod-2026-11-18",
-   "opened": "2026-11-18 15:00 ET",
-   "side": "short",
-   "team": "Nadia Podoroska",
-   "entry": 0.08,
-   "qty": 1.25,
-   "mode": "bounce"
+   "mode": "main"
   }
  ],
  "px_hist": {
-  "aec-atp-caralc-danmed-2026-11-15": [
+  "aec-nba-bos-den-2026-11-18": [
    [
-    1795009234.6272137,
-    0.09
-   ]
-  ],
-  "aec-wta-guimar-sofcos-2026-11-18": [
-   [
-    1795018541.1829875,
-    0.08
-   ]
-  ],
-  "aec-wta-rebmas-polher-2026-11-18": [
-   [
-    1795023936.649235,
-    0.08
-   ]
-  ],
-  "aec-wta-leygor-nadpod-2026-11-18": [
-   [
-    1795032042.2757835,
-    0.08
+    1795064438.9692805,
+    0.4
    ]
   ]
  }
