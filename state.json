@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 1,
  "realized": 0.0,
  "paper_positions": [],
@@ -23,6 +23,15 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-lucbro-carmon-2026-11-18",
+   "opened": "2026-11-19 11:25 ET",
+   "side": "long",
+   "team": "Lucia Bronzetti",
+   "entry": 0.19,
+   "qty": 2.6316,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -36,6 +45,12 @@
    [
     1795099240.2863152,
     0.07
+   ]
+  ],
+  "aec-wta-lucbro-carmon-2026-11-18": [
+   [
+    1795105538.694561,
+    0.19
    ]
   ]
  }
