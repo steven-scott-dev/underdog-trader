@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-19 11:45 ET · Mode: **LIVE** · Result: OK (1.7s)
+Updated: 2026-11-19 11:50 ET · Mode: **LIVE** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 3 / 100 (main 2, bounce 1)
@@ -8,7 +8,6 @@ Updated: 2026-11-19 11:45 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- Lucia Bronzetti vs. Carole Monnet: 2.63 @ avg 0.2050
 
 ## Recent live history
 - `{"market": "aec-wta-lucbro-carmon-2026-11-18", "opened": "2026-11-19 11:25 ET", "side": "long", "team": "Lucia Bronzetti", "entry": 0.19, "qty": 2.6316, "mode": "main"}`
