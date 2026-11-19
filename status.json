@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T15:30:45.913462-05:00",
+ "updated": "2026-11-19T15:35:40.607297-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 0.9,
  "daily": {
   "date": "2026-11-19",
   "bets": 4,
@@ -31,12 +31,6 @@
    "title": "Anastasia Zolotareva vs. Irene Burillo Escorihuela"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-anazol-ireesc-2026-11-18",
-   "pnl": -0.1
-  }
- ],
+ "actions": [],
  "errors": []
 }
