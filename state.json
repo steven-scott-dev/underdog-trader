@@ -1,7 +1,7 @@
 {
  "date": "2026-11-19",
- "bets": 3,
- "bounce_bets": 1,
+ "bets": 4,
+ "bounce_bets": 2,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -32,6 +32,15 @@
    "entry": 0.19,
    "qty": 2.6316,
    "mode": "main"
+  },
+  {
+   "market": "aec-wta-anazol-ireesc-2026-11-18",
+   "opened": "2026-11-19 14:05 ET",
+   "side": "long",
+   "team": "Anastasia Zolotareva",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -51,6 +60,12 @@
    [
     1795105538.694561,
     0.19
+   ]
+  ],
+  "aec-wta-anazol-ireesc-2026-11-18": [
+   [
+    1795115145.4087534,
+    0.1
    ]
   ]
  }
