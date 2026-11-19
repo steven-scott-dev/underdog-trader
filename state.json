@@ -2,7 +2,7 @@
  "date": "2026-11-19",
  "bets": 4,
  "bounce_bets": 2,
- "realized": 0.0,
+ "realized": -0.1,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -41,6 +41,12 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-anazol-ireesc-2026-11-18",
+   "closed": "2026-11-19 15:30 ET",
+   "pnl": -0.1,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -68,5 +74,8 @@
     0.1
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-anazol-ireesc-2026-11-18": 1795122045.365643
  }
 }
