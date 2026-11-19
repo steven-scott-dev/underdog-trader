@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T11:40:35.103381-05:00",
+ "updated": "2026-11-19T11:45:38.263660-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-19",
   "bets": 3,
@@ -25,7 +25,7 @@
   "aec-wta-lucbro-carmon-2026-11-18": {
    "qty": 2.63,
    "avg_px": 0.205,
-   "cash_value": 0.789,
+   "cash_value": 0.4997,
    "team_id": 3335,
    "outcome": "Lucia Bronzetti",
    "title": "Lucia Bronzetti vs. Carole Monnet"
