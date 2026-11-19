@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:00:39.773117-05:00",
+ "updated": "2026-11-19T00:05:42.287178-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.6,
@@ -14,6 +14,14 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nba-bos-den-2026-11-18": {
+   "qty": 1.25,
+   "avg_px": 0.4,
+   "cash_value": 0.6125,
+   "team_id": 17,
+   "outcome": "Celtics",
+   "title": "BOS Celtics vs. DEN Nuggets"
+  },
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
@@ -23,18 +31,6 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:BOS@DEN",
-   "market": "aec-nba-bos-den-2026-11-18",
-   "side": "long",
-   "team": "Celtics",
-   "ask": 0.4,
-   "qty": 1.25,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
