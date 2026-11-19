@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:10:40.258711-05:00",
+ "updated": "2026-11-19T15:15:42.316462-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.4,
@@ -25,7 +25,7 @@
   "aec-wta-anazol-ireesc-2026-11-18": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.13,
+   "cash_value": 0.07,
    "team_id": 5368,
    "outcome": "Anastasia Zolotareva",
    "title": "Anastasia Zolotareva vs. Irene Burillo Escorihuela"
