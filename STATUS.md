@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-19 16:20 ET · Mode: **LIVE** · Result: OK (3.0s)
+Updated: 2026-11-19 16:25 ET · Mode: **LIVE** · Result: OK (2.7s)
 
 ## Today
 - Bets placed: 5 / 100 (main 2, bounce 3)
@@ -18,7 +18,7 @@ Updated: 2026-11-19 16:20 ET · Mode: **LIVE** · Result: OK (3.0s)
 - `{"market": "aec-nba-bos-den-2026-11-18", "opened": "2026-11-19 00:00 ET", "side": "long", "team": "Celtics", "entry": 0.4, "qty": 1.25, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Fils@Zverev", "market": "aec-atp-alezve-artfil-2026-11-15", "side": "short", "team": "Arthur Fils", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
