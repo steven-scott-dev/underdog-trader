@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T11:25:38.919090-05:00",
+ "updated": "2026-11-19T11:30:37.217561-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-19",
   "bets": 3,
@@ -21,20 +21,16 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
+  },
+  "aec-wta-lucbro-carmon-2026-11-18": {
+   "qty": 2.63,
+   "avg_px": 0.205,
+   "cash_value": 0.6312,
+   "team_id": 3335,
+   "outcome": "Lucia Bronzetti",
+   "title": "Lucia Bronzetti vs. Carole Monnet"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Monnet@Bronzetti",
-   "market": "aec-wta-lucbro-carmon-2026-11-18",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "ask": 0.19,
-   "qty": 2.6316,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
