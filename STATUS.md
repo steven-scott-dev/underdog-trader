@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-19 15:35 ET · Mode: **LIVE** · Result: OK (0.9s)
+Updated: 2026-11-19 15:40 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 4 / 100 (main 2, bounce 2)
@@ -8,7 +8,6 @@ Updated: 2026-11-19 15:35 ET · Mode: **LIVE** · Result: OK (0.9s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- Anastasia Zolotareva vs. Irene Burillo Escorihuela: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-wta-anazol-ireesc-2026-11-18", "closed": "2026-11-19 15:30 ET", "pnl": -0.1, "reason": "stop-loss"}`
