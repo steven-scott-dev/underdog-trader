@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 1,
  "realized": -0.09,
  "paper_positions": [],
@@ -20,6 +20,15 @@
    "closed": "2026-11-20 00:10 ET",
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-dal-veg-2026-11-19",
+   "opened": "2026-11-20 00:15 ET",
+   "side": "long",
+   "team": "Stars",
+   "entry": 0.17,
+   "qty": 2.9412,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -27,6 +36,12 @@
    [
     1795150837.8313928,
     0.05
+   ]
+  ],
+  "aec-nhl-dal-veg-2026-11-19": [
+   [
+    1795151735.250852,
+    0.17
    ]
   ]
  },
