@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "bets": 3,
- "bounce_bets": 2,
+ "bets": 4,
+ "bounce_bets": 3,
  "realized": -0.09,
  "paper_positions": [],
  "paper_history": [],
@@ -38,6 +38,15 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-leygor-ireesc-2026-11-20",
+   "opened": "2026-11-20 11:30 ET",
+   "side": "short",
+   "team": "Irene Burillo Escorihuela",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -57,6 +66,12 @@
    [
     1795181136.6025503,
     0.1
+   ]
+  ],
+  "aec-wta-leygor-ireesc-2026-11-20": [
+   [
+    1795192241.0499024,
+    0.07
    ]
   ]
  },
