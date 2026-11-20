@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-20T00:25:39.019796-05:00",
+ "updated": "2026-11-20T00:30:45.760152-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-20",
   "bets": 2,
@@ -21,22 +21,6 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
-  },
-  "aec-nhl-dal-veg-2026-11-19": {
-   "qty": 2.94,
-   "avg_px": 0.184,
-   "cash_value": 0.3822,
-   "team_id": 1501,
-   "outcome": "Stars",
-   "title": "DAL Stars vs. VGK Golden Knights"
-  },
-  "aec-nhl-van-sea-2026-11-19": {
-   "qty": 2.0,
-   "avg_px": 0.055,
-   "cash_value": 0.02,
-   "team_id": 1511,
-   "outcome": "Canucks",
-   "title": "VAN Canucks vs. SEA Kraken"
   }
  },
  "actions": [],

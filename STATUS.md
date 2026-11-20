@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-20 00:25 ET · Mode: **LIVE** · Result: OK (1.7s)
+Updated: 2026-11-20 00:30 ET · Mode: **LIVE** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 2 / 100 (main 1, bounce 1)
@@ -8,8 +8,6 @@ Updated: 2026-11-20 00:25 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- DAL Stars vs. VGK Golden Knights: 2.94 @ avg 0.1840
-- VAN Canucks vs. SEA Kraken: 2.0 @ avg 0.0550
 
 ## Recent live history
 - `{"market": "aec-nhl-dal-veg-2026-11-19", "opened": "2026-11-20 00:15 ET", "side": "long", "team": "Stars", "entry": 0.17, "qty": 2.9412, "mode": "main"}`
