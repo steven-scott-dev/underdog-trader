@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "bets": 4,
- "bounce_bets": 3,
+ "bets": 5,
+ "bounce_bets": 4,
  "realized": -0.09,
  "paper_positions": [],
  "paper_history": [],
@@ -47,6 +47,15 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-lucbro-valstr-2026-11-20",
+   "opened": "2026-11-20 13:25 ET",
+   "side": "short",
+   "team": "Valeriya Strakhova",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -72,6 +81,12 @@
    [
     1795192241.0499024,
     0.07
+   ]
+  ],
+  "aec-wta-lucbro-valstr-2026-11-20": [
+   [
+    1795199141.266434,
+    0.09
    ]
   ]
  },
