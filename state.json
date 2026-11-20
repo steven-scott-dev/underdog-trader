@@ -1,7 +1,7 @@
 {
  "date": "2026-11-20",
- "bets": 2,
- "bounce_bets": 1,
+ "bets": 3,
+ "bounce_bets": 2,
  "realized": -0.09,
  "paper_positions": [],
  "paper_history": [],
@@ -29,6 +29,15 @@
    "entry": 0.17,
    "qty": 2.9412,
    "mode": "main"
+  },
+  {
+   "market": "aec-atp-caralc-flacob-2026-11-15",
+   "opened": "2026-11-20 08:25 ET",
+   "side": "short",
+   "team": "Flavio Cobolli",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -42,6 +51,12 @@
    [
     1795151735.250852,
     0.17
+   ]
+  ],
+  "aec-atp-caralc-flacob-2026-11-15": [
+   [
+    1795181136.6025503,
+    0.1
    ]
   ]
  },
