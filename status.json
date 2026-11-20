@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-20T00:05:34.797049-05:00",
+ "updated": "2026-11-20T00:10:36.770107-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-11-20",
   "bets": 1,
   "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": -0.09
  },
  "paper_positions": [],
  "paper_history": [],
@@ -25,12 +25,18 @@
   "aec-nhl-van-sea-2026-11-19": {
    "qty": 2.0,
    "avg_px": 0.055,
-   "cash_value": 0.08,
+   "cash_value": 0.02,
    "team_id": 1511,
    "outcome": "Canucks",
    "title": "VAN Canucks vs. SEA Kraken"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nhl-van-sea-2026-11-19",
+   "pnl": -0.09
+  }
+ ],
  "errors": []
 }

@@ -2,7 +2,7 @@
  "date": "2026-11-20",
  "bets": 1,
  "bounce_bets": 1,
- "realized": 0.0,
+ "realized": -0.09,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -14,6 +14,12 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-van-sea-2026-11-19",
+   "closed": "2026-11-20 00:10 ET",
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -23,5 +29,8 @@
     0.05
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-nhl-van-sea-2026-11-19": 1795153234.9982543
  }
 }
