@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-20T00:00:38.244282-05:00",
+ "updated": "2026-11-20T00:05:34.797049-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-20",
   "bets": 1,
@@ -21,20 +21,16 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
+  },
+  "aec-nhl-van-sea-2026-11-19": {
+   "qty": 2.0,
+   "avg_px": 0.055,
+   "cash_value": 0.08,
+   "team_id": 1511,
+   "outcome": "Canucks",
+   "title": "VAN Canucks vs. SEA Kraken"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:VAN@SEA",
-   "market": "aec-nhl-van-sea-2026-11-19",
-   "side": "long",
-   "team": "Canucks",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": []
 }
