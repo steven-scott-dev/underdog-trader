@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-20 11:30 ET · Mode: **LIVE** · Result: OK (2.2s)
+Updated: 2026-11-20 11:35 ET · Mode: **LIVE** · Result: OK (1.5s)
 
 ## Today
 - Bets placed: 4 / 100 (main 1, bounce 3)
@@ -17,7 +17,7 @@ Updated: 2026-11-20 11:30 ET · Mode: **LIVE** · Result: OK (2.2s)
 - `{"market": "aec-nhl-van-sea-2026-11-19", "opened": "2026-11-20 00:00 ET", "side": "long", "team": "Canucks", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Burillo@Gormaz", "market": "aec-wta-leygor-ireesc-2026-11-20", "side": "short", "team": "Irene Burillo Escorihuela", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
