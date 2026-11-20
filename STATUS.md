@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-20 13:25 ET · Mode: **LIVE** · Result: OK (4.3s)
+Updated: 2026-11-20 13:30 ET · Mode: **LIVE** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 5 / 100 (main 1, bounce 4)
@@ -18,7 +18,7 @@ Updated: 2026-11-20 13:25 ET · Mode: **LIVE** · Result: OK (4.3s)
 - `{"market": "aec-nhl-van-sea-2026-11-19", "opened": "2026-11-20 00:00 ET", "side": "long", "team": "Canucks", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Strakhova@Bronzetti", "market": "aec-wta-lucbro-valstr-2026-11-20", "side": "short", "team": "Valeriya Strakhova", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
