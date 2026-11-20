@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-20T00:20:36.156555-05:00",
+ "updated": "2026-11-20T00:25:39.019796-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-20",
   "bets": 2,
@@ -25,7 +25,7 @@
   "aec-nhl-dal-veg-2026-11-19": {
    "qty": 2.94,
    "avg_px": 0.184,
-   "cash_value": 0.588,
+   "cash_value": 0.3822,
    "team_id": 1501,
    "outcome": "Stars",
    "title": "DAL Stars vs. VGK Golden Knights"
