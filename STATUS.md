@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-20 08:25 ET · Mode: **LIVE** · Result: OK (2.5s)
+Updated: 2026-11-20 08:30 ET · Mode: **LIVE** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 3 / 100 (main 1, bounce 2)
@@ -16,7 +16,7 @@ Updated: 2026-11-20 08:25 ET · Mode: **LIVE** · Result: OK (2.5s)
 - `{"market": "aec-nhl-van-sea-2026-11-19", "opened": "2026-11-20 00:00 ET", "side": "long", "team": "Canucks", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Cobolli@Alcaraz", "market": "aec-atp-caralc-flacob-2026-11-15", "side": "short", "team": "Flavio Cobolli", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
