@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "bets": 4,
+ "bets": 5,
  "bounce_bets": 2,
  "realized": -0.0764,
  "paper_positions": [],
@@ -47,6 +47,15 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-leygor-lucbro-2026-11-21",
+   "opened": "2026-11-21 16:55 ET",
+   "side": "long",
+   "team": "Leyre Romero Gormaz",
+   "entry": 0.35,
+   "qty": 1.4286,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -72,6 +81,12 @@
    [
     1795294839.6186283,
     0.05
+   ]
+  ],
+  "aec-wta-leygor-lucbro-2026-11-21": [
+   [
+    1795298137.664494,
+    0.35
    ]
   ]
  },
