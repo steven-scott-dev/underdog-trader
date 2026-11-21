@@ -1,13 +1,12 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 15:20 ET · Mode: **LIVE** · Result: OK (4.0s)
+Updated: 2026-11-21 15:25 ET · Mode: **LIVE** · Result: OK (3.4s)
 
 ## Today
 - Bets placed: 3 / 100 (main 2, bounce 1)
 - Realized P&L: -0.08
 
 ## Live positions
-- MIL Bucks vs. PHI 76ers: 1.66 @ avg 0.0660
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
@@ -17,7 +16,7 @@ Updated: 2026-11-21 15:20 ET · Mode: **LIVE** · Result: OK (4.0s)
 - `{"market": "aec-nba-hou-den-2026-11-20", "opened": "2026-11-21 00:20 ET", "side": "short", "team": "Nuggets", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-mil-phi-2026-11-21", "pnl": -0.0764}`
+- _none_
 
 ## Order errors
 - _none_
