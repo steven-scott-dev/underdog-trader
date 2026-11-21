@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T15:10:36.405114-05:00",
+ "updated": "2026-11-21T15:15:40.125542-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-21",
   "bets": 3,
@@ -17,7 +17,7 @@
   "aec-nba-mil-phi-2026-11-21": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.1328,
+   "cash_value": 0.0664,
    "team_id": 41,
    "outcome": "Bucks",
    "title": "MIL Bucks vs. PHI 76ers"
