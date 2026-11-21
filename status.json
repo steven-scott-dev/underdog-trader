@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21T15:55:40.601609-05:00",
+ "updated": "2026-11-21T16:00:40.696549-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-11-21",
-  "bets": 3,
-  "bounce_bets": 1,
+  "bets": 4,
+  "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.0764
@@ -23,6 +23,18 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Medvedev@Zverev",
+   "market": "aec-atp-alezve-danmed-2026-11-21",
+   "side": "short",
+   "team": "Daniil Medvedev",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": []
 }
