@@ -2,7 +2,7 @@
  "date": "2026-11-21",
  "bets": 3,
  "bounce_bets": 1,
- "realized": 0.0,
+ "realized": -0.0764,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -32,6 +32,12 @@
    "entry": 0.06,
    "qty": 1.6667,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-mil-phi-2026-11-21",
+   "closed": "2026-11-21 15:20 ET",
+   "pnl": -0.0764,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -53,5 +59,8 @@
     0.06
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-nba-mil-phi-2026-11-21": 1795294238.3284583
  }
 }
