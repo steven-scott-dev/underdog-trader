@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -14,6 +14,15 @@
    "entry": 0.32,
    "qty": 1.5625,
    "mode": "main"
+  },
+  {
+   "market": "aec-atp-caralc-benshe-2026-11-21",
+   "opened": "2026-11-21 09:55 ET",
+   "side": "short",
+   "team": "Ben Shelton",
+   "entry": 0.31,
+   "qty": 1.6129,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -21,6 +30,12 @@
    [
     1795238441.3007882,
     0.32
+   ]
+  ],
+  "aec-atp-caralc-benshe-2026-11-21": [
+   [
+    1795272935.1841276,
+    0.31
    ]
   ]
  }

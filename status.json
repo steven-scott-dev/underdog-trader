@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T09:50:34.927365-05:00",
+ "updated": "2026-11-21T09:55:36.336252-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-11-21",
-  "bets": 1,
+  "bets": 2,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -23,6 +23,18 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "atp:Shelton@Alcaraz",
+   "market": "aec-atp-caralc-benshe-2026-11-21",
+   "side": "short",
+   "team": "Ben Shelton",
+   "ask": 0.31,
+   "qty": 1.6129,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
