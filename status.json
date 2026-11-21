@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T14:40:39.822547-05:00",
+ "updated": "2026-11-21T14:45:38.861749-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-21",
   "bets": 3,
@@ -14,6 +14,14 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nba-mil-phi-2026-11-21": {
+   "qty": 1.66,
+   "avg_px": 0.066,
+   "cash_value": 0.083,
+   "team_id": 41,
+   "outcome": "Bucks",
+   "title": "MIL Bucks vs. PHI 76ers"
+  },
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
@@ -23,18 +31,6 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:MIL@PHI",
-   "market": "aec-nba-mil-phi-2026-11-21",
-   "side": "long",
-   "team": "Bucks",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": []
 }
