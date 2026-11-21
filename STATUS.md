@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 16:00 ET · Mode: **LIVE** · Result: OK (3.2s)
+Updated: 2026-11-21 16:05 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 4 / 100 (main 2, bounce 2)
@@ -17,7 +17,7 @@ Updated: 2026-11-21 16:00 ET · Mode: **LIVE** · Result: OK (3.2s)
 - `{"market": "aec-nba-hou-den-2026-11-20", "opened": "2026-11-21 00:20 ET", "side": "short", "team": "Nuggets", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "atp:Medvedev@Zverev", "market": "aec-atp-alezve-danmed-2026-11-21", "side": "short", "team": "Daniil Medvedev", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
