@@ -1,9 +1,27 @@
 {
  "date": "2026-11-21",
- "bets": 0,
+ "bets": 1,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": []
+ "live_history": [
+  {
+   "market": "aec-nba-hou-den-2026-11-20",
+   "opened": "2026-11-21 00:20 ET",
+   "side": "short",
+   "team": "Nuggets",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "mode": "main"
+  }
+ ],
+ "px_hist": {
+  "aec-nba-hou-den-2026-11-20": [
+   [
+    1795238441.3007882,
+    0.32
+   ]
+  ]
+ }
 }
