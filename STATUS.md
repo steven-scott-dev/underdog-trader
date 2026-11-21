@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 16:55 ET · Mode: **LIVE** · Result: OK (2.5s)
+Updated: 2026-11-21 17:00 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 5 / 100 (main 3, bounce 2)
@@ -18,7 +18,7 @@ Updated: 2026-11-21 16:55 ET · Mode: **LIVE** · Result: OK (2.5s)
 - `{"market": "aec-nba-hou-den-2026-11-20", "opened": "2026-11-21 00:20 ET", "side": "short", "team": "Nuggets", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Bronzetti@Gormaz", "market": "aec-wta-leygor-lucbro-2026-11-21", "side": "long", "team": "Leyre Romero Gormaz", "ask": 0.35, "qty": 1.4286, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
