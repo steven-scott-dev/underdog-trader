@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-20T23:55:36.956014-05:00",
+ "updated": "2026-11-21T00:00:38.585027-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.9,
  "daily": {
-  "date": "2026-11-20",
-  "bets": 5,
-  "bounce_bets": 4,
+  "date": "2026-11-21",
+  "bets": 0,
+  "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.09
+  "realized": 0.0
  },
  "paper_positions": [],
  "paper_history": [],
