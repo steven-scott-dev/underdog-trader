@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 18,
- "bounce_bets": 13,
+ "bets": 19,
+ "bounce_bets": 14,
  "realized": -1.7336,
  "paper_positions": [],
  "paper_history": [],
@@ -263,6 +263,15 @@
    "entry": 0.04,
    "qty": 2.5,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-lv-den-2026-11-22",
+   "opened": "2026-11-22 17:45 ET",
+   "side": "long",
+   "team": "Raiders",
+   "entry": 0.085,
+   "qty": 1.1765,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -334,8 +343,8 @@
   ],
   "aec-nfl-lv-den-2026-11-22": [
    [
-    1795384542.550689,
-    0.0775
+    1795387540.8486962,
+    0.085
    ]
   ],
   "aec-wta-leygor-rebmas-2026-11-22": [
@@ -357,6 +366,6 @@
   "aec-nfl-bal-car-2026-11-22": 1795383936.8809056,
   "aec-nfl-lv-den-2026-11-22": 1795387532.436478
  },
- "balance": 10.5345,
- "balance_updated": "2026-11-22 17:40 ET"
+ "balance": 10.425,
+ "balance_updated": "2026-11-22 17:45 ET"
 }
