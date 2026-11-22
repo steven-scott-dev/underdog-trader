@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 23:16 ET · Mode: **LIVE** · Result: OK (24.7s)
+Updated: 2026-11-21 23:20 ET · Mode: **LIVE** · Result: OK (21.4s)
 
 ## Today
 - Bets placed: 14 / 100 (main 8, bounce 6)
@@ -8,6 +8,7 @@ Updated: 2026-11-21 23:16 ET · Mode: **LIVE** · Result: OK (24.7s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
+- ANA Ducks vs. UTA Mammoth: 2.77 @ avg 0.1810
 
 ## Recent live history
 - `{"market": "aec-nhl-ana-uta-2026-11-21", "opened": "2026-11-21 23:16 ET", "side": "long", "team": "Ducks", "entry": 0.18, "qty": 2.7778, "mode": "main"}`
@@ -20,7 +21,7 @@ Updated: 2026-11-21 23:16 ET · Mode: **LIVE** · Result: OK (24.7s)
 - `{"market": "aec-nhl-nyi-det-2026-11-21", "opened": "2026-11-21 21:16 ET", "side": "short", "team": "Red Wings", "entry": 0.15, "qty": 3.3333, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:ANA@UTA", "market": "aec-nhl-ana-uta-2026-11-21", "side": "long", "team": "Ducks", "ask": 0.18, "qty": 2.7778, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
