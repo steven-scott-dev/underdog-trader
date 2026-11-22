@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 17,
- "bounce_bets": 12,
+ "bets": 18,
+ "bounce_bets": 13,
  "realized": -1.7336,
  "paper_positions": [],
  "paper_history": [],
@@ -254,6 +254,15 @@
    "closed": "2026-11-22 17:15 ET",
    "pnl": -0.0824,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-leygor-rebmas-2026-11-22",
+   "opened": "2026-11-22 17:20 ET",
+   "side": "long",
+   "team": "Leyre Romero Gormaz",
+   "entry": 0.04,
+   "qty": 2.5,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -328,6 +337,12 @@
     1795384542.550689,
     0.0775
    ]
+  ],
+  "aec-wta-leygor-rebmas-2026-11-22": [
+   [
+    1795386038.05071,
+    0.04
+   ]
   ]
  },
  "cooldowns": {
@@ -342,6 +357,6 @@
   "aec-nfl-bal-car-2026-11-22": 1795383936.8809056,
   "aec-nfl-lv-den-2026-11-22": 1795387532.436478
  },
- "balance": 10.6445,
- "balance_updated": "2026-11-22 17:15 ET"
+ "balance": 10.5345,
+ "balance_updated": "2026-11-22 17:20 ET"
 }
