@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T13:56:06.712847-05:00",
+ "updated": "2026-11-22T14:00:53.149701-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 23.3,
+ "duration_s": 15.4,
  "daily": {
   "date": "2026-11-22",
   "bets": 10,
   "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.1535
+  "realized": -0.2272
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,15 +17,23 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.332,
+   "cash_value": 0.2822,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
   },
+  "aec-nfl-ari-kc-2026-11-22": {
+   "qty": 2.66,
+   "avg_px": 0.041,
+   "cash_value": 0.0966,
+   "team_id": 48,
+   "outcome": "Cardinals",
+   "title": "ARI Cardinals vs. KC Chiefs"
+  },
   "aec-nfl-no-chi-2026-11-22": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.0638,
+   "cash_value": 0.0363,
    "team_id": 70,
    "outcome": "Saints",
    "title": "NO Saints vs. CHI Bears"
@@ -33,7 +41,7 @@
   "aec-nfl-ten-dal-2026-11-22": {
    "qty": 1.29,
    "avg_px": 0.085,
-   "cash_value": 0.0823,
+   "cash_value": 0.063,
    "team_id": 78,
    "outcome": "Titans",
    "title": "TEN Titans vs. DAL Cowboys"
@@ -41,18 +49,12 @@
  },
  "actions": [
   {
-   "type": "buy",
-   "game": "nfl:ARI@KC",
-   "market": "aec-nfl-ari-kc-2026-11-22",
-   "side": "long",
-   "team": "Cardinals",
-   "ask": 0.0375,
-   "qty": 2.6667,
-   "stake": 0.1,
-   "mode": "bounce"
+   "type": "stop_loss",
+   "market": "aec-nfl-no-chi-2026-11-22",
+   "pnl": -0.0737
   }
  ],
  "errors": [],
- "balance": 11.8398,
- "balance_updated": "2026-11-22 13:56 ET"
+ "balance": 11.8748,
+ "balance_updated": "2026-11-22 14:00 ET"
 }
