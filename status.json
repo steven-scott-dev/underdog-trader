@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T20:26:22.034014-05:00",
+ "updated": "2026-11-21T20:30:59.825129-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 41.5,
+ "duration_s": 23.4,
  "daily": {
   "date": "2026-11-21",
   "bets": 7,
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.075,
+   "cash_value": 0.125,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
@@ -33,7 +33,7 @@
   "aec-nhl-pit-nas-2026-11-21": {
    "qty": 2.94,
    "avg_px": 0.18,
-   "cash_value": 0.4116,
+   "cash_value": 0.3528,
    "team_id": 1497,
    "outcome": "Penguins",
    "title": "PIT Penguins vs. NSH Predators"
