@@ -693,6 +693,44 @@ def run_pass():
                    if "closed" in h}
     open_bought = {h["market"] for h in state.get("live_history", [])
                    if "opened" in h} - closed_live
+    if not paper:
+        # A live position that settled never gets a close entry (the bot
+        # only records stop-losses), so it would clog the 5-open cap and
+        # the re-buy guard for the rest of the day. Check each held
+        # market: if it resolved, record the settlement and free the slot.
+        # An empty post-resolution book has no trustworthy price, so the
+        # slot is freed without recording rather than fabricating a pnl.
+        opened_by_market = {}
+        for h in state.get("live_history", []):
+            if "opened" in h:
+                opened_by_market[h["market"]] = h
+        still_open = set()
+        for slug in open_bought:
+            try:
+                q = quotes(client, slug)
+            except Exception as e:
+                log(f"  {slug}: quote error ({e}), keeping held")
+                still_open.add(slug)
+                continue
+            if not q.get("state") or q["state"] == "MARKET_STATE_OPEN":
+                still_open.add(slug)
+                continue
+            entry_h = opened_by_market.get(slug, {})
+            side, entry, qty = (entry_h.get("side"), entry_h.get("entry"),
+                                entry_h.get("qty"))
+            book_live = q.get("long_ask", 0) > 0 or q.get("long_bid", 0) > 0
+            if book_live and side and entry is not None and qty is not None:
+                exit_px = min(1.0, max(0.0, paper_bid(q, side)))
+                pnl = round((exit_px - entry) * qty, 4)
+                state["realized"] = round(state["realized"] + pnl, 4)
+                state["live_history"].append({"market": slug,
+                                              "closed": now_et_str(),
+                                              "pnl": pnl, "reason": "settled"})
+                actions.append({"type": "settled", "market": slug, "pnl": pnl})
+                log(f"  SETTLED {slug} exit {exit_px:.4f} pnl {pnl:+.4f}")
+            else:
+                log(f"  {slug} resolved, book empty; freeing slot, no pnl recorded")
+        open_bought = still_open
     held_slugs = (set(positions)
                   | {p["market"] for p in state["paper_positions"]}
                   | open_bought)
