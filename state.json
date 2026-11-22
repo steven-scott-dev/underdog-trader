@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "bets": 6,
+ "bets": 7,
  "bounce_bets": 3,
  "realized": -0.0764,
  "paper_positions": [],
@@ -65,6 +65,15 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-pit-nas-2026-11-21",
+   "opened": "2026-11-21 20:20 ET",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.17,
+   "qty": 2.9412,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -102,6 +111,12 @@
    [
     1795310156.0759063,
     0.08
+   ]
+  ],
+  "aec-nhl-pit-nas-2026-11-21": [
+   [
+    1795310455.1279714,
+    0.17
    ]
   ]
  },

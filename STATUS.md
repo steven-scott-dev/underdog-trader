@@ -1,15 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 20:16 ET · Mode: **LIVE** · Result: OK (33.3s)
+Updated: 2026-11-21 20:21 ET · Mode: **LIVE** · Result: OK (34.5s)
 
 ## Today
-- Bets placed: 6 / 100 (main 3, bounce 3)
+- Bets placed: 7 / 100 (main 4, bounce 3)
 - Realized P&L: -0.08
 
 ## Live positions
+- NO Pelicans vs. SA Spurs: 1.25 @ avg 0.0880
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
+- `{"market": "aec-nhl-pit-nas-2026-11-21", "opened": "2026-11-21 20:20 ET", "side": "long", "team": "Penguins", "entry": 0.17, "qty": 2.9412, "mode": "main"}`
 - `{"market": "aec-nba-no-sa-2026-11-21", "opened": "2026-11-21 20:15 ET", "side": "long", "team": "Pelicans", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 - `{"market": "aec-wta-leygor-lucbro-2026-11-21", "opened": "2026-11-21 16:55 ET", "side": "long", "team": "Leyre Romero Gormaz", "entry": 0.35, "qty": 1.4286, "mode": "main"}`
 - `{"market": "aec-atp-alezve-danmed-2026-11-21", "opened": "2026-11-21 16:00 ET", "side": "short", "team": "Daniil Medvedev", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
@@ -19,7 +21,7 @@ Updated: 2026-11-21 20:16 ET · Mode: **LIVE** · Result: OK (33.3s)
 - `{"market": "aec-nba-hou-den-2026-11-20", "opened": "2026-11-21 00:20 ET", "side": "short", "team": "Nuggets", "entry": 0.32, "qty": 1.5625, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:NO@SA", "market": "aec-nba-no-sa-2026-11-21", "side": "long", "team": "Pelicans", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "buy", "game": "nhl:PIT@NSH", "market": "aec-nhl-pit-nas-2026-11-21", "side": "long", "team": "Penguins", "ask": 0.17, "qty": 2.9412, "stake": 0.5, "mode": "main"}`
 
 ## Order errors
 - _none_
