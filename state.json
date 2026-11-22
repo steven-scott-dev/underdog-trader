@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 10,
  "bounce_bets": 7,
- "realized": -0.359,
+ "realized": -0.452,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -143,6 +143,12 @@
    "closed": "2026-11-22 14:10 ET",
    "pnl": -0.0661,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-atp-alezve-caralc-2026-11-22",
+   "closed": "2026-11-22 14:20 ET",
+   "pnl": -0.093,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -207,8 +213,9 @@
   "aec-nfl-mia-buf-2026-11-22": 1795374648.9337006,
   "aec-nfl-tb-det-2026-11-22": 1795374934.489401,
   "aec-nfl-no-chi-2026-11-22": 1795375838.635272,
-  "aec-nfl-ten-dal-2026-11-22": 1795376433.9235837
+  "aec-nfl-ten-dal-2026-11-22": 1795376433.9235837,
+  "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697
  },
  "balance": 11.9566,
- "balance_updated": "2026-11-22 14:15 ET"
+ "balance_updated": "2026-11-22 14:20 ET"
 }

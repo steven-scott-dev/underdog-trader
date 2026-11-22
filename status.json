@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T14:15:58.849088-05:00",
+ "updated": "2026-11-22T14:20:37.328090-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 18.0,
+ "duration_s": 3.4,
  "daily": {
   "date": "2026-11-22",
   "bets": 10,
   "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.359
+  "realized": -0.452
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,20 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.2158,
+   "cash_value": 0.0166,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-atp-alezve-caralc-2026-11-22",
+   "pnl": -0.093
+  }
+ ],
  "errors": [],
  "balance": 11.9566,
- "balance_updated": "2026-11-22 14:15 ET"
+ "balance_updated": "2026-11-22 14:20 ET"
 }
