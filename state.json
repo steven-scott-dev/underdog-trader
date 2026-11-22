@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 9,
- "bounce_bets": 6,
+ "bets": 10,
+ "bounce_bets": 7,
  "realized": -0.1535,
  "paper_positions": [],
  "paper_history": [],
@@ -116,6 +116,15 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-ari-kc-2026-11-22",
+   "opened": "2026-11-22 13:55 ET",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.0375,
+   "qty": 2.6667,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -151,8 +160,8 @@
   ],
   "aec-nfl-ari-kc-2026-11-22": [
    [
-    1795370746.0283134,
-    0.0775
+    1795373755.2099214,
+    0.0375
    ]
   ],
   "aec-atp-alezve-caralc-2026-11-22": [
@@ -180,6 +189,6 @@
   "aec-nfl-mia-buf-2026-11-22": 1795374648.9337006,
   "aec-nfl-tb-det-2026-11-22": 1795374934.489401
  },
- "balance": 11.9495,
- "balance_updated": "2026-11-22 13:51 ET"
+ "balance": 11.8398,
+ "balance_updated": "2026-11-22 13:56 ET"
 }
