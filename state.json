@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "bets": 1,
+ "bets": 3,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -14,6 +14,24 @@
    "entry": 0.36,
    "qty": 1.3889,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-min-van-2026-11-21",
+   "opened": "2026-11-22 00:25 ET",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.38,
+   "qty": 1.3158,
+   "mode": "main"
+  },
+  {
+   "market": "aec-nhl-sea-sj-2026-11-21",
+   "opened": "2026-11-22 00:25 ET",
+   "side": "long",
+   "team": "Kraken",
+   "entry": 0.19,
+   "qty": 2.6316,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -21,6 +39,18 @@
    [
     1795323936.708829,
     0.36
+   ]
+  ],
+  "aec-nhl-min-van-2026-11-21": [
+   [
+    1795325139.671145,
+    0.38
+   ]
+  ],
+  "aec-nhl-sea-sj-2026-11-21": [
+   [
+    1795325142.209342,
+    0.19
    ]
   ]
  }
