@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 3,
  "bounce_bets": 0,
- "realized": -0.5023,
+ "realized": 0.3003,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -38,6 +38,12 @@
    "closed": "2026-11-22 00:45 ET",
    "pnl": -0.5023,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-min-van-2026-11-21",
+   "closed": "2026-11-22 01:00 ET",
+   "pnl": 0.8026,
+   "reason": "settled"
   }
  ],
  "px_hist": {
