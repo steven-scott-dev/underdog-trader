@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 16:05 ET · Mode: **LIVE** · Result: OK (3.6s)
+Updated: 2026-11-22 16:10 ET · Mode: **LIVE** · Result: OK (3.1s)
 
 ## Today
 - Bets placed: 16 / 100 (main 5, bounce 11)
 - Realized P&L: -1.14
-- Account balance: $10.72 (as of 2026-11-22 16:05 ET)
+- Account balance: $10.72 (as of 2026-11-22 16:10 ET)
 
 ## Live positions
-- _none_
+- BAL Ravens vs. CAR Panthers: 1.34 @ avg 0.3870
 
 ## Recent live history
 - `{"market": "aec-nfl-bal-car-2026-11-22", "opened": "2026-11-22 16:05 ET", "side": "long", "team": "Ravens", "entry": 0.3725, "qty": 1.3423, "mode": "main"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-22 16:05 ET · Mode: **LIVE** · Result: OK (3.6s)
 - `{"market": "aec-nfl-mia-buf-2026-11-22", "opened": "2026-11-22 14:55 ET", "side": "long", "team": "Dolphins", "entry": 0.025, "qty": 4.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:BAL@CAR", "market": "aec-nfl-bal-car-2026-11-22", "side": "long", "team": "Ravens", "ask": 0.3725, "qty": 1.3423, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
