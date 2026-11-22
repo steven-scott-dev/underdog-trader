@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 14:20 ET · Mode: **LIVE** · Result: OK (3.4s)
+Updated: 2026-11-22 14:25 ET · Mode: **LIVE** · Result: OK (3.1s)
 
 ## Today
 - Bets placed: 10 / 100 (main 3, bounce 7)
 - Realized P&L: -0.45
-- Account balance: $11.96 (as of 2026-11-22 14:20 ET)
+- Account balance: $11.96 (as of 2026-11-22 14:25 ET)
 
 ## Live positions
 - Alexander Zverev vs. Carlos Alcaraz: 1.66 @ avg 0.0660
@@ -21,7 +21,7 @@ Updated: 2026-11-22 14:20 ET · Mode: **LIVE** · Result: OK (3.4s)
 - `{"market": "aec-nfl-ten-dal-2026-11-22", "opened": "2026-11-22 13:40 ET", "side": "long", "team": "Titans", "entry": 0.0775, "qty": 1.2903, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-atp-alezve-caralc-2026-11-22", "pnl": -0.093}`
+- _none_
 
 ## Order errors
 - _none_
