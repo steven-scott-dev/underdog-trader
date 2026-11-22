@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "bets": 14,
- "bounce_bets": 6,
+ "bets": 15,
+ "bounce_bets": 7,
  "realized": 1.1319,
  "paper_positions": [],
  "paper_history": [],
@@ -161,6 +161,15 @@
    "entry": 0.18,
    "qty": 2.7778,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-sea-sj-2026-11-21",
+   "opened": "2026-11-21 23:25 ET",
+   "side": "long",
+   "team": "Kraken",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -246,6 +255,12 @@
    [
     1795320964.4828665,
     0.18
+   ]
+  ],
+  "aec-nhl-sea-sj-2026-11-21": [
+   [
+    1795321556.398092,
+    0.07
    ]
   ]
  },
