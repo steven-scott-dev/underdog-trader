@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 16,
- "bounce_bets": 11,
+ "bets": 17,
+ "bounce_bets": 12,
  "realized": -1.6512,
  "paper_positions": [],
  "paper_history": [],
@@ -239,6 +239,15 @@
    "closed": "2026-11-22 16:15 ET",
    "pnl": -0.5068,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-lv-den-2026-11-22",
+   "opened": "2026-11-22 16:55 ET",
+   "side": "long",
+   "team": "Raiders",
+   "entry": 0.0775,
+   "qty": 1.2903,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -307,6 +316,12 @@
     1795381534.824168,
     0.3725
    ]
+  ],
+  "aec-nfl-lv-den-2026-11-22": [
+   [
+    1795384542.550689,
+    0.0775
+   ]
   ]
  },
  "cooldowns": {
@@ -320,6 +335,6 @@
   "aec-nfl-pit-phi-2026-11-22": 1795382435.1937096,
   "aec-nfl-bal-car-2026-11-22": 1795383936.8809056
  },
- "balance": 10.7287,
- "balance_updated": "2026-11-22 16:50 ET"
+ "balance": 10.6187,
+ "balance_updated": "2026-11-22 16:55 ET"
 }

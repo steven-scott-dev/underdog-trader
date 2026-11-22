@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T16:50:41.779036-05:00",
+ "updated": "2026-11-22T16:55:44.735993-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 3.6,
  "daily": {
   "date": "2026-11-22",
-  "bets": 16,
-  "bounce_bets": 11,
+  "bets": 17,
+  "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.6512
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:LV@DEN",
+   "market": "aec-nfl-lv-den-2026-11-22",
+   "side": "long",
+   "team": "Raiders",
+   "ask": 0.0775,
+   "qty": 1.2903,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 10.7287,
- "balance_updated": "2026-11-22 16:50 ET"
+ "balance": 10.6187,
+ "balance_updated": "2026-11-22 16:55 ET"
 }
