@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T13:10:53.414242-05:00",
+ "updated": "2026-11-22T13:15:58.966636-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 16.0,
+ "duration_s": 25.3,
  "daily": {
   "date": "2026-11-22",
   "bets": 6,
@@ -17,7 +17,7 @@
   "aec-nfl-ari-kc-2026-11-22": {
    "qty": 1.29,
    "avg_px": 0.085,
-   "cash_value": 0.0533,
+   "cash_value": 0.0596,
    "team_id": 48,
    "outcome": "Cardinals",
    "title": "ARI Cardinals vs. KC Chiefs"
@@ -25,7 +25,7 @@
   "aec-nfl-mia-buf-2026-11-22": {
    "qty": 1.21,
    "avg_px": 0.088,
-   "cash_value": 0.0984,
+   "cash_value": 0.0772,
    "team_id": 67,
    "outcome": "Dolphins",
    "title": "MIA Dolphins vs. BUF Bills"
@@ -33,7 +33,7 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3078,
+   "cash_value": 0.4328,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
@@ -42,5 +42,5 @@
  "actions": [],
  "errors": [],
  "balance": 12.0016,
- "balance_updated": "2026-11-22 13:10 ET"
+ "balance_updated": "2026-11-22 13:15 ET"
 }
