@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 23:35 ET · Mode: **LIVE** · Result: OK (12.9s)
+Updated: 2026-11-21 23:41 ET · Mode: **LIVE** · Result: OK (23.1s)
 
 ## Today
 - Bets placed: 15 / 100 (main 8, bounce 7)
@@ -22,7 +22,7 @@ Updated: 2026-11-21 23:35 ET · Mode: **LIVE** · Result: OK (12.9s)
 - `{"market": "aec-nhl-cbj-tor-2026-11-21", "opened": "2026-11-21 21:25 ET", "side": "long", "team": "Blue Jackets", "entry": 0.18, "qty": 2.7778, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-ana-uta-2026-11-21", "pnl": -0.4737}`
+- _none_
 
 ## Order errors
 - _none_
