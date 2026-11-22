@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 7,
  "bounce_bets": 4,
- "realized": 0.3003,
+ "realized": 0.2342,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -80,6 +80,12 @@
    "entry": 0.06,
    "qty": 1.6667,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-ari-kc-2026-11-22",
+   "closed": "2026-11-22 13:25 ET",
+   "pnl": -0.0661,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -127,8 +133,9 @@
   ]
  },
  "cooldowns": {
-  "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137
+  "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137,
+  "aec-nfl-ari-kc-2026-11-22": 1795373742.9345121
  },
- "balance": 11.892,
- "balance_updated": "2026-11-22 13:20 ET"
+ "balance": 11.9339,
+ "balance_updated": "2026-11-22 13:25 ET"
 }
