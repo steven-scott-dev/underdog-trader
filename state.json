@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 19,
- "bounce_bets": 14,
+ "bets": 20,
+ "bounce_bets": 15,
  "realized": -1.8186,
  "paper_positions": [],
  "paper_history": [],
@@ -278,6 +278,15 @@
    "closed": "2026-11-22 17:55 ET",
    "pnl": -0.085,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-buf-tb-2026-11-22",
+   "opened": "2026-11-22 18:45 ET",
+   "side": "short",
+   "team": "Lightning",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -358,6 +367,12 @@
     1795386038.05071,
     0.04
    ]
+  ],
+  "aec-nhl-buf-tb-2026-11-22": [
+   [
+    1795391140.6357806,
+    0.07
+   ]
   ]
  },
  "cooldowns": {
@@ -373,6 +388,6 @@
   "aec-nfl-lv-den-2026-11-22": 1795387532.436478,
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599
  },
- "balance": 10.425,
- "balance_updated": "2026-11-22 18:40 ET"
+ "balance": 11.7356,
+ "balance_updated": "2026-11-22 18:45 ET"
 }
