@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 23:25 ET · Mode: **LIVE** · Result: OK (23.3s)
+Updated: 2026-11-21 23:30 ET · Mode: **LIVE** · Result: OK (21.4s)
 
 ## Today
 - Bets placed: 15 / 100 (main 8, bounce 7)
@@ -9,6 +9,7 @@ Updated: 2026-11-21 23:25 ET · Mode: **LIVE** · Result: OK (23.3s)
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 - ANA Ducks vs. UTA Mammoth: 2.77 @ avg 0.1810
+- SEA Kraken vs. SJS Sharks: 1.42 @ avg 0.0700
 
 ## Recent live history
 - `{"market": "aec-nhl-sea-sj-2026-11-21", "opened": "2026-11-21 23:25 ET", "side": "long", "team": "Kraken", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
@@ -21,7 +22,7 @@ Updated: 2026-11-21 23:25 ET · Mode: **LIVE** · Result: OK (23.3s)
 - `{"market": "aec-nhl-was-bos-2026-11-21", "opened": "2026-11-21 21:20 ET", "side": "long", "team": "Capitals", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:SEA@SJ", "market": "aec-nhl-sea-sj-2026-11-21", "side": "long", "team": "Kraken", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
