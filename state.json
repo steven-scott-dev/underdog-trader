@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 3,
  "bounce_bets": 0,
- "realized": 0.0,
+ "realized": -0.5023,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -32,6 +32,12 @@
    "entry": 0.19,
    "qty": 2.6316,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-sea-sj-2026-11-21",
+   "closed": "2026-11-22 00:45 ET",
+   "pnl": -0.5023,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -53,5 +59,8 @@
     0.19
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137
  }
 }

@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T00:40:38.782241-05:00",
+ "updated": "2026-11-22T00:45:33.446887-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-22",
   "bets": 3,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": -0.5023
  },
  "paper_positions": [],
  "paper_history": [],
@@ -25,12 +25,18 @@
   "aec-nhl-sea-sj-2026-11-21": {
    "qty": 2.63,
    "avg_px": 0.201,
-   "cash_value": 0.2367,
+   "cash_value": 0.0263,
    "team_id": 1514,
    "outcome": "Kraken",
    "title": "SEA Kraken vs. SJS Sharks"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nhl-sea-sj-2026-11-21",
+   "pnl": -0.5023
+  }
+ ],
  "errors": []
 }
