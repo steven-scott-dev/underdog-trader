@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T20:51:56.592245-05:00",
+ "updated": "2026-11-21T20:55:56.852549-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 13.3,
+ "duration_s": 23.8,
  "daily": {
   "date": "2026-11-21",
   "bets": 8,
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.0625,
+   "cash_value": 0.075,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
@@ -25,7 +25,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.0994,
+   "cash_value": 0.2272,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
