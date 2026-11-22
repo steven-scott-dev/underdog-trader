@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 14:25 ET · Mode: **LIVE** · Result: OK (3.1s)
+Updated: 2026-11-22 14:30 ET · Mode: **LIVE** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 10 / 100 (main 3, bounce 7)
 - Realized P&L: -0.45
-- Account balance: $11.96 (as of 2026-11-22 14:25 ET)
+- Account balance: $11.96 (as of 2026-11-22 14:30 ET)
 
 ## Live positions
-- Alexander Zverev vs. Carlos Alcaraz: 1.66 @ avg 0.0660
+- _none_
 
 ## Recent live history
 - `{"market": "aec-atp-alezve-caralc-2026-11-22", "closed": "2026-11-22 14:20 ET", "pnl": -0.093, "reason": "stop-loss"}`
