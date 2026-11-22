@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T20:45:51.315902-05:00",
+ "updated": "2026-11-21T20:51:03.883278-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.4,
+ "duration_s": 21.9,
  "daily": {
   "date": "2026-11-21",
   "bets": 8,
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.075,
+   "cash_value": 0.05,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
