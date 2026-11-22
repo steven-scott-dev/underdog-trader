@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 23:41 ET · Mode: **LIVE** · Result: OK (23.1s)
+Updated: 2026-11-21 23:45 ET · Mode: **LIVE** · Result: OK (11.2s)
 
 ## Today
 - Bets placed: 15 / 100 (main 8, bounce 7)
@@ -8,7 +8,6 @@ Updated: 2026-11-21 23:41 ET · Mode: **LIVE** · Result: OK (23.1s)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- ANA Ducks vs. UTA Mammoth: 2.77 @ avg 0.1810
 - SEA Kraken vs. SJS Sharks: 1.42 @ avg 0.0700
 
 ## Recent live history
