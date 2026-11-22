@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T21:06:01.402850-05:00",
+ "updated": "2026-11-21T21:11:00.245895-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 22.7,
+ "duration_s": 24.4,
  "daily": {
   "date": "2026-11-21",
   "bets": 8,
@@ -25,7 +25,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.2414,
+   "cash_value": 0.2698,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
