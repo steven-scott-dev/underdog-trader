@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T13:35:50.131078-05:00",
+ "updated": "2026-11-22T13:41:02.224404-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 13.9,
  "daily": {
   "date": "2026-11-22",
-  "bets": 7,
-  "bounce_bets": 4,
+  "bets": 8,
+  "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.2342
+  "realized": 0.1686
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.0664,
+   "cash_value": 0.0498,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
@@ -25,7 +25,7 @@
   "aec-nfl-mia-buf-2026-11-22": {
    "qty": 1.21,
    "avg_px": 0.088,
-   "cash_value": 0.0559,
+   "cash_value": 0.0409,
    "team_id": 67,
    "outcome": "Dolphins",
    "title": "MIA Dolphins vs. BUF Bills"
@@ -33,14 +33,31 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3172,
+   "cash_value": 0.2454,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nfl-mia-buf-2026-11-22",
+   "pnl": -0.0656
+  },
+  {
+   "type": "buy",
+   "game": "nfl:TEN@DAL",
+   "market": "aec-nfl-ten-dal-2026-11-22",
+   "side": "long",
+   "team": "Titans",
+   "ask": 0.0775,
+   "qty": 1.2903,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 11.9339,
- "balance_updated": "2026-11-22 13:35 ET"
+ "balance": 11.8633,
+ "balance_updated": "2026-11-22 13:41 ET"
 }
