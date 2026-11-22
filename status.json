@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T17:05:40.397453-05:00",
+ "updated": "2026-11-22T17:10:47.392237-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 11.7,
  "daily": {
   "date": "2026-11-22",
   "bets": 17,
@@ -17,7 +17,7 @@
   "aec-nfl-lv-den-2026-11-22": {
    "qty": 1.29,
    "avg_px": 0.085,
-   "cash_value": 0.0888,
+   "cash_value": 0.0564,
    "team_id": 66,
    "outcome": "Raiders",
    "title": "LV Raiders vs. DEN Broncos"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 10.6187,
- "balance_updated": "2026-11-22 17:05 ET"
+ "balance_updated": "2026-11-22 17:10 ET"
 }
