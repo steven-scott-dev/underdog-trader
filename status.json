@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T20:21:07.416954-05:00",
+ "updated": "2026-11-21T20:26:22.034014-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 34.5,
+ "duration_s": 41.5,
  "daily": {
   "date": "2026-11-21",
   "bets": 7,
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.05,
+   "cash_value": 0.075,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
@@ -25,24 +25,20 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3984,
+   "cash_value": 0.4079,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
+  },
+  "aec-nhl-pit-nas-2026-11-21": {
+   "qty": 2.94,
+   "avg_px": 0.18,
+   "cash_value": 0.4116,
+   "team_id": 1497,
+   "outcome": "Penguins",
+   "title": "PIT Penguins vs. NSH Predators"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:PIT@NSH",
-   "market": "aec-nhl-pit-nas-2026-11-21",
-   "side": "long",
-   "team": "Penguins",
-   "ask": 0.17,
-   "qty": 2.9412,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
