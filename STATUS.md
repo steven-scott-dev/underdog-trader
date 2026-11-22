@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 21:35 ET · Mode: **LIVE** · Result: OK (15.9s)
+Updated: 2026-11-21 21:40 ET · Mode: **LIVE** · Result: OK (11.6s)
 
 ## Today
 - Bets placed: 12 / 100 (main 7, bounce 5)
@@ -9,8 +9,7 @@ Updated: 2026-11-21 21:35 ET · Mode: **LIVE** · Result: OK (15.9s)
 ## Live positions
 - POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- CBJ Blue Jackets vs. TOR Maple Leafs: 2.77 @ avg 0.1910
-- WSH Capitals vs. BOS Bruins: 1.11 @ avg 0.0990
+- VGK Golden Knights vs. WPG Jets: 2.38 @ avg 0.2230
 
 ## Recent live history
 - `{"market": "aec-nhl-veg-wpg-2026-11-21", "opened": "2026-11-21 21:35 ET", "side": "long", "team": "Golden Knights", "entry": 0.21, "qty": 2.381, "mode": "main"}`
@@ -23,8 +22,7 @@ Updated: 2026-11-21 21:35 ET · Mode: **LIVE** · Result: OK (15.9s)
 - `{"market": "aec-nba-por-ny-2026-11-21", "opened": "2026-11-21 20:36 ET", "side": "long", "team": "Trail Blazers", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-was-bos-2026-11-21", "pnl": -0.0766}`
-- `{"type": "buy", "game": "nhl:VGK@WPG", "market": "aec-nhl-veg-wpg-2026-11-21", "side": "long", "team": "Golden Knights", "ask": 0.21, "qty": 2.381, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

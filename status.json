@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T21:35:51.352095-05:00",
+ "updated": "2026-11-21T21:40:46.341435-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.9,
+ "duration_s": 11.6,
  "daily": {
   "date": "2026-11-21",
   "bets": 12,
@@ -17,7 +17,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.1136,
+   "cash_value": 0.355,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
@@ -30,40 +30,15 @@
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   },
-  "aec-nhl-cbj-tor-2026-11-21": {
-   "qty": 2.77,
-   "avg_px": 0.191,
-   "cash_value": 0.3878,
-   "team_id": 1499,
-   "outcome": "Blue Jackets",
-   "title": "CBJ Blue Jackets vs. TOR Maple Leafs"
-  },
-  "aec-nhl-was-bos-2026-11-21": {
-   "qty": 1.11,
-   "avg_px": 0.099,
-   "cash_value": 0.0333,
-   "team_id": 1498,
-   "outcome": "Capitals",
-   "title": "WSH Capitals vs. BOS Bruins"
+  "aec-nhl-veg-wpg-2026-11-21": {
+   "qty": 2.38,
+   "avg_px": 0.223,
+   "cash_value": 0.4046,
+   "team_id": 1513,
+   "outcome": "Golden Knights",
+   "title": "VGK Golden Knights vs. WPG Jets"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nhl-was-bos-2026-11-21",
-   "pnl": -0.0766
-  },
-  {
-   "type": "buy",
-   "game": "nhl:VGK@WPG",
-   "market": "aec-nhl-veg-wpg-2026-11-21",
-   "side": "long",
-   "team": "Golden Knights",
-   "ask": 0.21,
-   "qty": 2.381,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
