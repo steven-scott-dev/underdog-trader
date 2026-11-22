@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T15:05:41.896421-05:00",
+ "updated": "2026-11-22T15:10:47.525531-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 5.2,
+ "duration_s": 14.6,
  "daily": {
   "date": "2026-11-22",
   "bets": 13,
@@ -17,7 +17,7 @@
   "aec-nfl-mia-buf-2026-11-22": {
    "qty": 4.0,
    "avg_px": 0.028,
-   "cash_value": 0.1148,
+   "cash_value": 0.0952,
    "team_id": 67,
    "outcome": "Dolphins",
    "title": "MIA Dolphins vs. BUF Bills"
@@ -25,7 +25,7 @@
   "aec-nfl-no-chi-2026-11-22": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.0838,
+   "cash_value": 0.0513,
    "team_id": 70,
    "outcome": "Saints",
    "title": "NO Saints vs. CHI Bears"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 11.6685,
- "balance_updated": "2026-11-22 15:05 ET"
+ "balance_updated": "2026-11-22 15:10 ET"
 }
