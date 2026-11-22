@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T13:00:43.603266-05:00",
+ "updated": "2026-11-22T13:05:57.469147-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.2,
+ "duration_s": 22.5,
  "daily": {
   "date": "2026-11-22",
-  "bets": 4,
-  "bounce_bets": 1,
+  "bets": 6,
+  "bounce_bets": 3,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.3003
@@ -17,14 +17,37 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.4266,
+   "cash_value": 0.3704,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nfl:MIA@BUF",
+   "market": "aec-nfl-mia-buf-2026-11-22",
+   "side": "long",
+   "team": "Dolphins",
+   "ask": 0.0825,
+   "qty": 1.2121,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "nfl:ARI@KC",
+   "market": "aec-nfl-ari-kc-2026-11-22",
+   "side": "long",
+   "team": "Cardinals",
+   "ask": 0.0775,
+   "qty": 1.2903,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 14.2184,
- "balance_updated": "2026-11-22 13:00 ET"
+ "balance": 14.0016,
+ "balance_updated": "2026-11-22 13:05 ET"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 4,
- "bounce_bets": 1,
+ "bets": 6,
+ "bounce_bets": 3,
  "realized": 0.3003,
  "paper_positions": [],
  "paper_history": [],
@@ -53,6 +53,24 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-mia-buf-2026-11-22",
+   "opened": "2026-11-22 13:05 ET",
+   "side": "long",
+   "team": "Dolphins",
+   "entry": 0.0825,
+   "qty": 1.2121,
+   "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-ari-kc-2026-11-22",
+   "opened": "2026-11-22 13:05 ET",
+   "side": "long",
+   "team": "Cardinals",
+   "entry": 0.0775,
+   "qty": 1.2903,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -79,11 +97,23 @@
     1795365938.7604969,
     0.05
    ]
+  ],
+  "aec-nfl-mia-buf-2026-11-22": [
+   [
+    1795370736.0004728,
+    0.0825
+   ]
+  ],
+  "aec-nfl-ari-kc-2026-11-22": [
+   [
+    1795370746.0283134,
+    0.0775
+   ]
   ]
  },
  "cooldowns": {
   "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137
  },
- "balance": 14.2184,
- "balance_updated": "2026-11-22 13:00 ET"
+ "balance": 14.0016,
+ "balance_updated": "2026-11-22 13:05 ET"
 }
