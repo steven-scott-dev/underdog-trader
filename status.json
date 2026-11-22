@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T13:45:47.015422-05:00",
+ "updated": "2026-11-22T13:51:03.205698-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 13.0,
+ "duration_s": 23.6,
  "daily": {
   "date": "2026-11-22",
   "bets": 9,
@@ -17,47 +17,30 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.2988,
+   "cash_value": 0.4648,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
   },
-  "aec-nfl-tb-det-2026-11-22": {
-   "qty": 1.25,
-   "avg_px": 0.424,
-   "cash_value": 0.2079,
-   "team_id": 77,
-   "outcome": "Buccaneers",
-   "title": "TB Buccaneers vs. DET Lions"
+  "aec-nfl-no-chi-2026-11-22": {
+   "qty": 1.0,
+   "avg_px": 0.11,
+   "cash_value": 0.0737,
+   "team_id": 70,
+   "outcome": "Saints",
+   "title": "NO Saints vs. CHI Bears"
   },
   "aec-nfl-ten-dal-2026-11-22": {
    "qty": 1.29,
    "avg_px": 0.085,
-   "cash_value": 0.0855,
+   "cash_value": 0.0662,
    "team_id": 78,
    "outcome": "Titans",
    "title": "TEN Titans vs. DAL Cowboys"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-tb-det-2026-11-22",
-   "pnl": -0.3221
-  },
-  {
-   "type": "buy",
-   "game": "nfl:NO@CHI",
-   "market": "aec-nfl-no-chi-2026-11-22",
-   "side": "long",
-   "team": "Saints",
-   "ask": 0.1,
-   "qty": 1.0,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 11.9495,
- "balance_updated": "2026-11-22 13:45 ET"
+ "balance_updated": "2026-11-22 13:51 ET"
 }

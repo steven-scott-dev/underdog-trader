@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 13:45 ET · Mode: **LIVE** · Result: OK (13.0s)
+Updated: 2026-11-22 13:51 ET · Mode: **LIVE** · Result: OK (23.6s)
 
 ## Today
 - Bets placed: 9 / 100 (main 3, bounce 6)
 - Realized P&L: -0.15
-- Account balance: $11.95 (as of 2026-11-22 13:45 ET)
+- Account balance: $11.95 (as of 2026-11-22 13:51 ET)
 
 ## Live positions
 - Alexander Zverev vs. Carlos Alcaraz: 1.66 @ avg 0.0660
-- TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
+- NO Saints vs. CHI Bears: 1.0 @ avg 0.1100
 - TEN Titans vs. DAL Cowboys: 1.29 @ avg 0.0850
 
 ## Recent live history
@@ -23,8 +23,7 @@ Updated: 2026-11-22 13:45 ET · Mode: **LIVE** · Result: OK (13.0s)
 - `{"market": "aec-nfl-mia-buf-2026-11-22", "opened": "2026-11-22 13:05 ET", "side": "long", "team": "Dolphins", "entry": 0.0825, "qty": 1.2121, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nfl-tb-det-2026-11-22", "pnl": -0.3221}`
-- `{"type": "buy", "game": "nfl:NO@CHI", "market": "aec-nfl-no-chi-2026-11-22", "side": "long", "team": "Saints", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
