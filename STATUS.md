@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 23:05 ET · Mode: **LIVE** · Result: OK (12.1s)
+Updated: 2026-11-21 23:11 ET · Mode: **LIVE** · Result: OK (22.4s)
 
 ## Today
 - Bets placed: 13 / 100 (main 7, bounce 6)
@@ -20,7 +20,7 @@ Updated: 2026-11-21 23:05 ET · Mode: **LIVE** · Result: OK (12.1s)
 - `{"market": "aec-nba-no-sa-2026-11-21", "closed": "2026-11-21 21:15 ET", "pnl": -0.0725, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:BOS@SAC", "market": "aec-nba-bos-sac-2026-11-21", "side": "short", "team": "Kings", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
