@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T17:55:34.224076-05:00",
+ "updated": "2026-11-22T18:00:41.572663-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 1.1,
  "daily": {
   "date": "2026-11-22",
   "bets": 19,
@@ -17,7 +17,7 @@
   "aec-nfl-lv-den-2026-11-22": {
    "qty": 1.17,
    "avg_px": 0.094,
-   "cash_value": 0.1185,
+   "cash_value": 0.1213,
    "team_id": 66,
    "outcome": "Raiders",
    "title": "LV Raiders vs. DEN Broncos"
@@ -31,14 +31,8 @@
    "title": "Leyre Romero Gormaz vs. Rebeka Masarova"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-leygor-rebmas-2026-11-22",
-   "pnl": -0.085
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 10.425,
- "balance_updated": "2026-11-22 17:55 ET"
+ "balance_updated": "2026-11-22 18:00 ET"
 }
