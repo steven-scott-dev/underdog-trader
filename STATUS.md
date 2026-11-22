@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 17:20 ET · Mode: **LIVE** · Result: OK (2.4s)
+Updated: 2026-11-22 17:25 ET · Mode: **LIVE** · Result: OK (3.5s)
 
 ## Today
 - Bets placed: 18 / 100 (main 5, bounce 13)
 - Realized P&L: -1.73
-- Account balance: $10.53 (as of 2026-11-22 17:20 ET)
+- Account balance: $10.53 (as of 2026-11-22 17:25 ET)
 
 ## Live positions
-- _none_
+- Leyre Romero Gormaz vs. Rebeka Masarova: 2.5 @ avg 0.0440
 
 ## Recent live history
 - `{"market": "aec-wta-leygor-rebmas-2026-11-22", "opened": "2026-11-22 17:20 ET", "side": "long", "team": "Leyre Romero Gormaz", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-22 17:20 ET · Mode: **LIVE** · Result: OK (2.4s)
 - `{"market": "aec-nfl-no-chi-2026-11-22", "opened": "2026-11-22 15:45 ET", "side": "long", "team": "Saints", "entry": 0.0225, "qty": 4.4444, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Masarova@Gormaz", "market": "aec-wta-leygor-rebmas-2026-11-22", "side": "long", "team": "Leyre Romero Gormaz", "ask": 0.04, "qty": 2.5, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_

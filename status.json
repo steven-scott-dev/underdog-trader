@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T17:20:38.310644-05:00",
+ "updated": "2026-11-22T17:25:38.434426-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 3.5,
  "daily": {
   "date": "2026-11-22",
   "bets": 18,
@@ -13,21 +13,18 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Masarova@Gormaz",
-   "market": "aec-wta-leygor-rebmas-2026-11-22",
-   "side": "long",
-   "team": "Leyre Romero Gormaz",
-   "ask": 0.04,
+ "live_positions": {
+  "aec-wta-leygor-rebmas-2026-11-22": {
    "qty": 2.5,
-   "stake": 0.1,
-   "mode": "bounce"
+   "avg_px": 0.044,
+   "cash_value": 0.05,
+   "team_id": 3347,
+   "outcome": "Leyre Romero Gormaz",
+   "title": "Leyre Romero Gormaz vs. Rebeka Masarova"
   }
- ],
+ },
+ "actions": [],
  "errors": [],
  "balance": 10.5345,
- "balance_updated": "2026-11-22 17:20 ET"
+ "balance_updated": "2026-11-22 17:25 ET"
 }
