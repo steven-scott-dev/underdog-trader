@@ -2,7 +2,7 @@
  "date": "2026-11-21",
  "bets": 12,
  "bounce_bets": 5,
- "realized": -0.7253,
+ "realized": 1.1319,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -137,6 +137,12 @@
    "entry": 0.21,
    "qty": 2.381,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-veg-wpg-2026-11-21",
+   "closed": "2026-11-21 22:05 ET",
+   "pnl": 1.8572,
+   "reason": "settled"
   }
  ],
  "px_hist": {
