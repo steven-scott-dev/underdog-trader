@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 17:45 ET · Mode: **LIVE** · Result: OK (4.3s)
+Updated: 2026-11-22 17:50 ET · Mode: **LIVE** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 19 / 100 (main 5, bounce 14)
 - Realized P&L: -1.73
-- Account balance: $10.43 (as of 2026-11-22 17:45 ET)
+- Account balance: $10.43 (as of 2026-11-22 17:50 ET)
 
 ## Live positions
+- LV Raiders vs. DEN Broncos: 1.17 @ avg 0.0940
 - Leyre Romero Gormaz vs. Rebeka Masarova: 2.5 @ avg 0.0440
 
 ## Recent live history
@@ -21,7 +22,7 @@ Updated: 2026-11-22 17:45 ET · Mode: **LIVE** · Result: OK (4.3s)
 - `{"market": "aec-nfl-no-chi-2026-11-22", "closed": "2026-11-22 15:50 ET", "pnl": -0.0946, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:LV@DEN", "market": "aec-nfl-lv-den-2026-11-22", "side": "long", "team": "Raiders", "ask": 0.085, "qty": 1.1765, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
