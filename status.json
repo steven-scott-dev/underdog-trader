@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T15:10:47.525531-05:00",
+ "updated": "2026-11-22T15:15:36.113643-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.6,
+ "duration_s": 2.7,
  "daily": {
   "date": "2026-11-22",
   "bets": 13,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.5187
+  "realized": -0.6596
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-nfl-mia-buf-2026-11-22": {
    "qty": 4.0,
    "avg_px": 0.028,
-   "cash_value": 0.0952,
+   "cash_value": 0.0448,
    "team_id": 67,
    "outcome": "Dolphins",
    "title": "MIA Dolphins vs. BUF Bills"
@@ -25,14 +25,25 @@
   "aec-nfl-no-chi-2026-11-22": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.0513,
+   "cash_value": 0.0363,
    "team_id": 70,
    "outcome": "Saints",
    "title": "NO Saints vs. CHI Bears"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nfl-mia-buf-2026-11-22",
+   "pnl": -0.0672
+  },
+  {
+   "type": "stop_loss",
+   "market": "aec-nfl-no-chi-2026-11-22",
+   "pnl": -0.0737
+  }
+ ],
  "errors": [],
- "balance": 11.6685,
- "balance_updated": "2026-11-22 15:10 ET"
+ "balance": 11.7435,
+ "balance_updated": "2026-11-22 15:15 ET"
 }
