@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 18:45 ET · Mode: **LIVE** · Result: OK (3.4s)
+Updated: 2026-11-22 18:50 ET · Mode: **LIVE** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 20 / 100 (main 5, bounce 15)
 - Realized P&L: -1.82
-- Account balance: $11.74 (as of 2026-11-22 18:45 ET)
+- Account balance: $11.74 (as of 2026-11-22 18:50 ET)
 
 ## Live positions
 - LV Raiders vs. DEN Broncos: 1.17 @ avg 0.0940
@@ -21,7 +21,7 @@ Updated: 2026-11-22 18:45 ET · Mode: **LIVE** · Result: OK (3.4s)
 - `{"market": "aec-nfl-bal-car-2026-11-22", "opened": "2026-11-22 16:05 ET", "side": "long", "team": "Ravens", "entry": 0.3725, "qty": 1.3423, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:BUF@TB", "market": "aec-nhl-buf-tb-2026-11-22", "side": "short", "team": "Lightning", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
