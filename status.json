@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-21T21:11:00.245895-05:00",
+ "updated": "2026-11-21T21:16:04.434704-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 24.4,
+ "duration_s": 23.8,
  "daily": {
   "date": "2026-11-21",
-  "bets": 8,
+  "bets": 9,
   "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.5762
+  "realized": -0.6487
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.05,
+   "cash_value": 0.0375,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
@@ -25,7 +25,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.2698,
+   "cash_value": 0.284,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
@@ -39,6 +39,23 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nba-no-sa-2026-11-21",
+   "pnl": -0.0725
+  },
+  {
+   "type": "buy",
+   "game": "nhl:NYI@DET",
+   "market": "aec-nhl-nyi-det-2026-11-21",
+   "side": "short",
+   "team": "Red Wings",
+   "ask": 0.15,
+   "qty": 3.3333,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }

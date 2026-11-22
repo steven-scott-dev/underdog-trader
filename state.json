@@ -1,8 +1,8 @@
 {
  "date": "2026-11-21",
- "bets": 8,
+ "bets": 9,
  "bounce_bets": 4,
- "realized": -0.5762,
+ "realized": -0.6487,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -89,6 +89,21 @@
    "closed": "2026-11-21 20:40 ET",
    "pnl": -0.4998,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-no-sa-2026-11-21",
+   "closed": "2026-11-21 21:15 ET",
+   "pnl": -0.0725,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-nyi-det-2026-11-21",
+   "opened": "2026-11-21 21:16 ET",
+   "side": "short",
+   "team": "Red Wings",
+   "entry": 0.15,
+   "qty": 3.3333,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -139,10 +154,17 @@
     1795311363.0095992,
     0.07
    ]
+  ],
+  "aec-nhl-nyi-det-2026-11-21": [
+   [
+    1795313763.5290635,
+    0.15
+   ]
   ]
  },
  "cooldowns": {
   "aec-nba-mil-phi-2026-11-21": 1795294238.3284583,
-  "aec-nhl-pit-nas-2026-11-21": 1795313435.8899045
+  "aec-nhl-pit-nas-2026-11-21": 1795313435.8899045,
+  "aec-nba-no-sa-2026-11-21": 1795315541.5253806
  }
 }
