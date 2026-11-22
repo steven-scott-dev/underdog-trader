@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 17,
  "bounce_bets": 12,
- "realized": -1.6512,
+ "realized": -1.7336,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -248,6 +248,12 @@
    "entry": 0.0775,
    "qty": 1.2903,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-lv-den-2026-11-22",
+   "closed": "2026-11-22 17:15 ET",
+   "pnl": -0.0824,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -333,8 +339,9 @@
   "aec-nfl-ten-dal-2026-11-22": 1795379136.2802231,
   "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697,
   "aec-nfl-pit-phi-2026-11-22": 1795382435.1937096,
-  "aec-nfl-bal-car-2026-11-22": 1795383936.8809056
+  "aec-nfl-bal-car-2026-11-22": 1795383936.8809056,
+  "aec-nfl-lv-den-2026-11-22": 1795387532.436478
  },
- "balance": 10.6187,
- "balance_updated": "2026-11-22 17:10 ET"
+ "balance": 10.6445,
+ "balance_updated": "2026-11-22 17:15 ET"
 }
