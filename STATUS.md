@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 20:41 ET · Mode: **LIVE** · Result: OK (25.3s)
+Updated: 2026-11-21 20:45 ET · Mode: **LIVE** · Result: OK (14.4s)
 
 ## Today
 - Bets placed: 8 / 100 (main 4, bounce 4)
@@ -10,7 +10,6 @@ Updated: 2026-11-21 20:41 ET · Mode: **LIVE** · Result: OK (25.3s)
 - NO Pelicans vs. SA Spurs: 1.25 @ avg 0.0880
 - POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- PIT Penguins vs. NSH Predators: 2.94 @ avg 0.1800
 
 ## Recent live history
 - `{"market": "aec-nhl-pit-nas-2026-11-21", "closed": "2026-11-21 20:40 ET", "pnl": -0.4998, "reason": "stop-loss"}`
@@ -23,7 +22,7 @@ Updated: 2026-11-21 20:41 ET · Mode: **LIVE** · Result: OK (25.3s)
 - `{"market": "aec-nba-mil-phi-2026-11-21", "opened": "2026-11-21 14:40 ET", "side": "long", "team": "Bucks", "entry": 0.06, "qty": 1.6667, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-pit-nas-2026-11-21", "pnl": -0.4998}`
+- _none_
 
 ## Order errors
 - _none_
