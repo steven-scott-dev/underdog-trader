@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T17:30:36.290370-05:00",
+ "updated": "2026-11-22T17:35:40.061924-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-22",
   "bets": 18,
@@ -17,7 +17,7 @@
   "aec-wta-leygor-rebmas-2026-11-22": {
    "qty": 2.5,
    "avg_px": 0.044,
-   "cash_value": 0.1,
+   "cash_value": 0.2,
    "team_id": 3347,
    "outcome": "Leyre Romero Gormaz",
    "title": "Leyre Romero Gormaz vs. Rebeka Masarova"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 10.5345,
- "balance_updated": "2026-11-22 17:30 ET"
+ "balance_updated": "2026-11-22 17:35 ET"
 }
