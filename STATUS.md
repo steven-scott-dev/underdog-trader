@@ -1,15 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 14:55 ET · Mode: **LIVE** · Result: OK (16.0s)
+Updated: 2026-11-22 15:00 ET · Mode: **LIVE** · Result: OK (13.4s)
 
 ## Today
 - Bets placed: 13 / 100 (main 3, bounce 10)
 - Realized P&L: -0.52
-- Account balance: $11.67 (as of 2026-11-22 14:55 ET)
+- Account balance: $11.67 (as of 2026-11-22 15:00 ET)
 
 ## Live positions
+- MIA Dolphins vs. BUF Bills: 4.0 @ avg 0.0280
 - NO Saints vs. CHI Bears: 1.0 @ avg 0.1100
-- TEN Titans vs. DAL Cowboys: 1.66 @ avg 0.0640
 
 ## Recent live history
 - `{"market": "aec-nfl-mia-buf-2026-11-22", "opened": "2026-11-22 14:55 ET", "side": "long", "team": "Dolphins", "entry": 0.025, "qty": 4.0, "mode": "bounce"}`
@@ -22,8 +22,7 @@ Updated: 2026-11-22 14:55 ET · Mode: **LIVE** · Result: OK (16.0s)
 - `{"market": "aec-nfl-no-chi-2026-11-22", "closed": "2026-11-22 14:00 ET", "pnl": -0.0737, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nfl-ten-dal-2026-11-22", "pnl": -0.0667}`
-- `{"type": "buy", "game": "nfl:MIA@BUF", "market": "aec-nfl-mia-buf-2026-11-22", "side": "long", "team": "Dolphins", "ask": 0.025, "qty": 4.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
