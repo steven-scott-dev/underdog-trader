@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "bets": 13,
+ "bets": 14,
  "bounce_bets": 10,
  "realized": -0.6596,
  "paper_positions": [],
@@ -194,6 +194,15 @@
    "closed": "2026-11-22 15:15 ET",
    "pnl": -0.0737,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-pit-phi-2026-11-22",
+   "opened": "2026-11-22 15:40 ET",
+   "side": "long",
+   "team": "Steelers",
+   "entry": 0.165,
+   "qty": 3.0303,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -250,6 +259,12 @@
     1795377040.0297418,
     0.1
    ]
+  ],
+  "aec-nfl-pit-phi-2026-11-22": [
+   [
+    1795380045.5975928,
+    0.165
+   ]
   ]
  },
  "cooldowns": {
@@ -261,6 +276,6 @@
   "aec-nfl-ten-dal-2026-11-22": 1795379136.2802231,
   "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697
  },
- "balance": 11.7435,
- "balance_updated": "2026-11-22 15:35 ET"
+ "balance": 11.2136,
+ "balance_updated": "2026-11-22 15:40 ET"
 }
