@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 19,
  "bounce_bets": 14,
- "realized": -1.7336,
+ "realized": -1.8186,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -272,6 +272,12 @@
    "entry": 0.085,
    "qty": 1.1765,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-leygor-rebmas-2026-11-22",
+   "closed": "2026-11-22 17:55 ET",
+   "pnl": -0.085,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -364,8 +370,9 @@
   "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697,
   "aec-nfl-pit-phi-2026-11-22": 1795382435.1937096,
   "aec-nfl-bal-car-2026-11-22": 1795383936.8809056,
-  "aec-nfl-lv-den-2026-11-22": 1795387532.436478
+  "aec-nfl-lv-den-2026-11-22": 1795387532.436478,
+  "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599
  },
  "balance": 10.425,
- "balance_updated": "2026-11-22 17:50 ET"
+ "balance_updated": "2026-11-22 17:55 ET"
 }

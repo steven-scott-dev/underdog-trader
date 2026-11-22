@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T17:50:37.149373-05:00",
+ "updated": "2026-11-22T17:55:34.224076-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-22",
   "bets": 19,
   "bounce_bets": 14,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.7336
+  "realized": -1.8186
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-nfl-lv-den-2026-11-22": {
    "qty": 1.17,
    "avg_px": 0.094,
-   "cash_value": 0.1067,
+   "cash_value": 0.1185,
    "team_id": 66,
    "outcome": "Raiders",
    "title": "LV Raiders vs. DEN Broncos"
@@ -25,14 +25,20 @@
   "aec-wta-leygor-rebmas-2026-11-22": {
    "qty": 2.5,
    "avg_px": 0.044,
-   "cash_value": 0.175,
+   "cash_value": 0.025,
    "team_id": 3347,
    "outcome": "Leyre Romero Gormaz",
    "title": "Leyre Romero Gormaz vs. Rebeka Masarova"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-leygor-rebmas-2026-11-22",
+   "pnl": -0.085
+  }
+ ],
  "errors": [],
  "balance": 10.425,
- "balance_updated": "2026-11-22 17:50 ET"
+ "balance_updated": "2026-11-22 17:55 ET"
 }
