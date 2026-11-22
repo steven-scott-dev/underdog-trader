@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 14,
- "bounce_bets": 10,
+ "bets": 15,
+ "bounce_bets": 11,
  "realized": -0.6596,
  "paper_positions": [],
  "paper_history": [],
@@ -203,6 +203,15 @@
    "entry": 0.165,
    "qty": 3.0303,
    "mode": "main"
+  },
+  {
+   "market": "aec-nfl-no-chi-2026-11-22",
+   "opened": "2026-11-22 15:45 ET",
+   "side": "long",
+   "team": "Saints",
+   "entry": 0.0225,
+   "qty": 4.4444,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -256,8 +265,8 @@
   ],
   "aec-nfl-no-chi-2026-11-22": [
    [
-    1795377040.0297418,
-    0.1
+    1795380339.7325573,
+    0.0225
    ]
   ],
   "aec-nfl-pit-phi-2026-11-22": [
@@ -276,6 +285,6 @@
   "aec-nfl-ten-dal-2026-11-22": 1795379136.2802231,
   "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697
  },
- "balance": 11.2136,
- "balance_updated": "2026-11-22 15:40 ET"
+ "balance": 11.1037,
+ "balance_updated": "2026-11-22 15:45 ET"
 }

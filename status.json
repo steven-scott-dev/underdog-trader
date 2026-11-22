@@ -1,33 +1,42 @@
 {
- "updated": "2026-11-22T15:40:57.559776-05:00",
+ "updated": "2026-11-22T15:45:56.807031-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 17.0,
+ "duration_s": 19.9,
  "daily": {
   "date": "2026-11-22",
-  "bets": 14,
-  "bounce_bets": 10,
+  "bets": 15,
+  "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.6596
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
+ "live_positions": {
+  "aec-nfl-pit-phi-2026-11-22": {
+   "qty": 3.03,
+   "avg_px": 0.175,
+   "cash_value": 0.2612,
+   "team_id": 74,
+   "outcome": "Steelers",
+   "title": "PIT Steelers vs. PHI Eagles"
+  }
+ },
  "actions": [
   {
    "type": "buy",
-   "game": "nfl:PIT@PHI",
-   "market": "aec-nfl-pit-phi-2026-11-22",
+   "game": "nfl:NO@CHI",
+   "market": "aec-nfl-no-chi-2026-11-22",
    "side": "long",
-   "team": "Steelers",
-   "ask": 0.165,
-   "qty": 3.0303,
-   "stake": 0.5,
-   "mode": "main"
+   "team": "Saints",
+   "ask": 0.0225,
+   "qty": 4.4444,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ],
  "errors": [],
- "balance": 11.2136,
- "balance_updated": "2026-11-22 15:40 ET"
+ "balance": 11.1037,
+ "balance_updated": "2026-11-22 15:45 ET"
 }
