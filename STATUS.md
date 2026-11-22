@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 11:40 ET · Mode: **LIVE** · Result: OK (2.0s)
+Updated: 2026-11-22 11:45 ET · Mode: **LIVE** · Result: OK (3.2s)
 
 ## Today
-- Bets placed: 3 / 100 (main 3, bounce 0)
+- Bets placed: 4 / 100 (main 3, bounce 1)
 - Realized P&L: +0.30
-- Account balance: $12.33 (as of 2026-11-22 11:40 ET)
+- Account balance: $14.22 (as of 2026-11-22 11:45 ET)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
+- `{"market": "aec-wta-louaya-marbul-2026-11-22", "opened": "2026-11-22 11:45 ET", "side": "short", "team": "Marina Bulbarella", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 - `{"market": "aec-nhl-min-van-2026-11-21", "closed": "2026-11-22 01:00 ET", "pnl": 0.8026, "reason": "settled"}`
 - `{"market": "aec-nhl-sea-sj-2026-11-21", "closed": "2026-11-22 00:45 ET", "pnl": -0.5023, "reason": "stop-loss"}`
 - `{"market": "aec-nhl-sea-sj-2026-11-21", "opened": "2026-11-22 00:25 ET", "side": "long", "team": "Kraken", "entry": 0.19, "qty": 2.6316, "mode": "main"}`
@@ -18,7 +19,7 @@ Updated: 2026-11-22 11:40 ET · Mode: **LIVE** · Result: OK (2.0s)
 - `{"market": "aec-nba-bos-sac-2026-11-21", "opened": "2026-11-22 00:05 ET", "side": "short", "team": "Kings", "entry": 0.36, "qty": 1.3889, "mode": "main"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Bulbarella@Ayala", "market": "aec-wta-louaya-marbul-2026-11-22", "side": "short", "team": "Marina Bulbarella", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
 
 ## Order errors
 - _none_

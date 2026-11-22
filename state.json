@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 3,
- "bounce_bets": 0,
+ "bets": 4,
+ "bounce_bets": 1,
  "realized": 0.3003,
  "paper_positions": [],
  "paper_history": [],
@@ -44,6 +44,15 @@
    "closed": "2026-11-22 01:00 ET",
    "pnl": 0.8026,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-louaya-marbul-2026-11-22",
+   "opened": "2026-11-22 11:45 ET",
+   "side": "short",
+   "team": "Marina Bulbarella",
+   "entry": 0.05,
+   "qty": 2.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -64,11 +73,17 @@
     1795325142.209342,
     0.19
    ]
+  ],
+  "aec-wta-louaya-marbul-2026-11-22": [
+   [
+    1795365938.7604969,
+    0.05
+   ]
   ]
  },
  "cooldowns": {
   "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137
  },
- "balance": 12.3284,
- "balance_updated": "2026-11-22 11:40 ET"
+ "balance": 14.2184,
+ "balance_updated": "2026-11-22 11:45 ET"
 }

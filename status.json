@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T11:40:36.744307-05:00",
+ "updated": "2026-11-22T11:45:39.100128-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 3.2,
  "daily": {
   "date": "2026-11-22",
-  "bets": 3,
-  "bounce_bets": 0,
+  "bets": 4,
+  "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.3003
@@ -23,8 +23,20 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Bulbarella@Ayala",
+   "market": "aec-wta-louaya-marbul-2026-11-22",
+   "side": "short",
+   "team": "Marina Bulbarella",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 12.3284,
- "balance_updated": "2026-11-22 11:40 ET"
+ "balance": 14.2184,
+ "balance_updated": "2026-11-22 11:45 ET"
 }
