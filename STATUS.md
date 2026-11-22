@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 16:00 ET · Mode: **LIVE** · Result: OK (15.0s)
+Updated: 2026-11-22 16:05 ET · Mode: **LIVE** · Result: OK (3.6s)
 
 ## Today
-- Bets placed: 15 / 100 (main 4, bounce 11)
+- Bets placed: 16 / 100 (main 5, bounce 11)
 - Realized P&L: -1.14
-- Account balance: $11.24 (as of 2026-11-22 16:00 ET)
+- Account balance: $10.72 (as of 2026-11-22 16:05 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-nfl-bal-car-2026-11-22", "opened": "2026-11-22 16:05 ET", "side": "long", "team": "Ravens", "entry": 0.3725, "qty": 1.3423, "mode": "main"}`
 - `{"market": "aec-nfl-pit-phi-2026-11-22", "closed": "2026-11-22 15:50 ET", "pnl": -0.3902, "reason": "stop-loss"}`
 - `{"market": "aec-nfl-no-chi-2026-11-22", "closed": "2026-11-22 15:50 ET", "pnl": -0.0946, "reason": "stop-loss"}`
 - `{"market": "aec-nfl-no-chi-2026-11-22", "opened": "2026-11-22 15:45 ET", "side": "long", "team": "Saints", "entry": 0.0225, "qty": 4.4444, "mode": "bounce"}`
@@ -18,10 +19,9 @@ Updated: 2026-11-22 16:00 ET · Mode: **LIVE** · Result: OK (15.0s)
 - `{"market": "aec-nfl-no-chi-2026-11-22", "closed": "2026-11-22 15:15 ET", "pnl": -0.0737, "reason": "stop-loss"}`
 - `{"market": "aec-nfl-mia-buf-2026-11-22", "closed": "2026-11-22 15:15 ET", "pnl": -0.0672, "reason": "stop-loss"}`
 - `{"market": "aec-nfl-mia-buf-2026-11-22", "opened": "2026-11-22 14:55 ET", "side": "long", "team": "Dolphins", "entry": 0.025, "qty": 4.0, "mode": "bounce"}`
-- `{"market": "aec-nfl-ten-dal-2026-11-22", "closed": "2026-11-22 14:55 ET", "pnl": -0.0667, "reason": "stop-loss"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nfl:BAL@CAR", "market": "aec-nfl-bal-car-2026-11-22", "side": "long", "team": "Ravens", "ask": 0.3725, "qty": 1.3423, "stake": 0.5, "mode": "main"}`
 
 ## Order errors
 - _none_

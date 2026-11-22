@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "bets": 15,
+ "bets": 16,
  "bounce_bets": 11,
  "realized": -1.1444,
  "paper_positions": [],
@@ -224,6 +224,15 @@
    "closed": "2026-11-22 15:50 ET",
    "pnl": -0.3902,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-bal-car-2026-11-22",
+   "opened": "2026-11-22 16:05 ET",
+   "side": "long",
+   "team": "Ravens",
+   "entry": 0.3725,
+   "qty": 1.3423,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -286,6 +295,12 @@
     1795380045.5975928,
     0.165
    ]
+  ],
+  "aec-nfl-bal-car-2026-11-22": [
+   [
+    1795381534.824168,
+    0.3725
+   ]
   ]
  },
  "cooldowns": {
@@ -298,6 +313,6 @@
   "aec-atp-alezve-caralc-2026-11-22": 1795377034.267697,
   "aec-nfl-pit-phi-2026-11-22": 1795382435.1937096
  },
- "balance": 11.2411,
- "balance_updated": "2026-11-22 16:00 ET"
+ "balance": 10.722,
+ "balance_updated": "2026-11-22 16:05 ET"
 }
