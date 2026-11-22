@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "bets": 5,
- "bounce_bets": 2,
+ "bets": 6,
+ "bounce_bets": 3,
  "realized": -0.0764,
  "paper_positions": [],
  "paper_history": [],
@@ -56,6 +56,15 @@
    "entry": 0.35,
    "qty": 1.4286,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-no-sa-2026-11-21",
+   "opened": "2026-11-21 20:15 ET",
+   "side": "long",
+   "team": "Pelicans",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -87,6 +96,12 @@
    [
     1795298137.664494,
     0.35
+   ]
+  ],
+  "aec-nba-no-sa-2026-11-21": [
+   [
+    1795310156.0759063,
+    0.08
    ]
   ]
  },
