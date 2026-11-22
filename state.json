@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
- "bets": 7,
- "bounce_bets": 3,
+ "bets": 8,
+ "bounce_bets": 4,
  "realized": -0.0764,
  "paper_positions": [],
  "paper_history": [],
@@ -74,6 +74,15 @@
    "entry": 0.17,
    "qty": 2.9412,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-por-ny-2026-11-21",
+   "opened": "2026-11-21 20:36 ET",
+   "side": "long",
+   "team": "Trail Blazers",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -117,6 +126,12 @@
    [
     1795310455.1279714,
     0.17
+   ]
+  ],
+  "aec-nba-por-ny-2026-11-21": [
+   [
+    1795311363.0095992,
+    0.07
    ]
   ]
  },

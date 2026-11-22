@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21T20:30:59.825129-05:00",
+ "updated": "2026-11-21T20:36:16.843187-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 23.4,
+ "duration_s": 36.4,
  "daily": {
   "date": "2026-11-21",
-  "bets": 7,
-  "bounce_bets": 3,
+  "bets": 8,
+  "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
   "realized": -0.0764
@@ -17,7 +17,7 @@
   "aec-nba-no-sa-2026-11-21": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.125,
+   "cash_value": 0.1125,
    "team_id": 42,
    "outcome": "Pelicans",
    "title": "NO Pelicans vs. SA Spurs"
@@ -25,7 +25,7 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.4079,
+   "cash_value": 0.4109,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
@@ -33,12 +33,24 @@
   "aec-nhl-pit-nas-2026-11-21": {
    "qty": 2.94,
    "avg_px": 0.18,
-   "cash_value": 0.3528,
+   "cash_value": 0.2646,
    "team_id": 1497,
    "outcome": "Penguins",
    "title": "PIT Penguins vs. NSH Predators"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:POR@NY",
+   "market": "aec-nba-por-ny-2026-11-21",
+   "side": "long",
+   "team": "Trail Blazers",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": []
 }
