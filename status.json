@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T21:40:46.341435-05:00",
+ "updated": "2026-11-21T21:45:59.195528-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 11.6,
+ "duration_s": 22.5,
  "daily": {
   "date": "2026-11-21",
   "bets": 12,
@@ -17,7 +17,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.355,
+   "cash_value": 0.2982,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
@@ -29,14 +29,6 @@
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
-  },
-  "aec-nhl-veg-wpg-2026-11-21": {
-   "qty": 2.38,
-   "avg_px": 0.223,
-   "cash_value": 0.4046,
-   "team_id": 1513,
-   "outcome": "Golden Knights",
-   "title": "VGK Golden Knights vs. WPG Jets"
   }
  },
  "actions": [],

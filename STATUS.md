@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 21:40 ET · Mode: **LIVE** · Result: OK (11.6s)
+Updated: 2026-11-21 21:45 ET · Mode: **LIVE** · Result: OK (22.5s)
 
 ## Today
 - Bets placed: 12 / 100 (main 7, bounce 5)
@@ -9,7 +9,6 @@ Updated: 2026-11-21 21:40 ET · Mode: **LIVE** · Result: OK (11.6s)
 ## Live positions
 - POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
-- VGK Golden Knights vs. WPG Jets: 2.38 @ avg 0.2230
 
 ## Recent live history
 - `{"market": "aec-nhl-veg-wpg-2026-11-21", "opened": "2026-11-21 21:35 ET", "side": "long", "team": "Golden Knights", "entry": 0.21, "qty": 2.381, "mode": "main"}`
