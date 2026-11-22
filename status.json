@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:10:37.082684-05:00",
+ "updated": "2026-11-22T16:15:39.332593-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 3.1,
@@ -9,7 +9,7 @@
   "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.1444
+  "realized": -1.6512
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,20 @@
   "aec-nfl-bal-car-2026-11-22": {
    "qty": 1.34,
    "avg_px": 0.387,
-   "cash_value": 0.6884,
+   "cash_value": 0.0118,
    "team_id": 50,
    "outcome": "Ravens",
    "title": "BAL Ravens vs. CAR Panthers"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nfl-bal-car-2026-11-22",
+   "pnl": -0.5068
+  }
+ ],
  "errors": [],
- "balance": 10.722,
- "balance_updated": "2026-11-22 16:10 ET"
+ "balance": 10.7287,
+ "balance_updated": "2026-11-22 16:15 ET"
 }
