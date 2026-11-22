@@ -1,15 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 18:15 ET · Mode: **LIVE** · Result: OK (3.2s)
+Updated: 2026-11-22 18:20 ET · Mode: **LIVE** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 19 / 100 (main 5, bounce 14)
 - Realized P&L: -1.82
-- Account balance: $10.43 (as of 2026-11-22 18:15 ET)
+- Account balance: $10.43 (as of 2026-11-22 18:20 ET)
 
 ## Live positions
 - LV Raiders vs. DEN Broncos: 1.17 @ avg 0.0940
-- Leyre Romero Gormaz vs. Rebeka Masarova: 2.5 @ avg 0.0440
 
 ## Recent live history
 - `{"market": "aec-wta-leygor-rebmas-2026-11-22", "closed": "2026-11-22 17:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
