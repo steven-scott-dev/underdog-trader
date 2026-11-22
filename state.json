@@ -1,8 +1,8 @@
 {
  "date": "2026-11-22",
- "bets": 8,
- "bounce_bets": 5,
- "realized": 0.1686,
+ "bets": 9,
+ "bounce_bets": 6,
+ "realized": -0.1535,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -101,6 +101,21 @@
    "entry": 0.0775,
    "qty": 1.2903,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nfl-tb-det-2026-11-22",
+   "closed": "2026-11-22 13:45 ET",
+   "pnl": -0.3221,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-no-chi-2026-11-22",
+   "opened": "2026-11-22 13:45 ET",
+   "side": "long",
+   "team": "Saints",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -151,13 +166,20 @@
     1795372850.0566373,
     0.0775
    ]
+  ],
+  "aec-nfl-no-chi-2026-11-22": [
+   [
+    1795373135.3200526,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
   "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137,
   "aec-nfl-ari-kc-2026-11-22": 1795373742.9345121,
-  "aec-nfl-mia-buf-2026-11-22": 1795374648.9337006
+  "aec-nfl-mia-buf-2026-11-22": 1795374648.9337006,
+  "aec-nfl-tb-det-2026-11-22": 1795374934.489401
  },
- "balance": 11.8633,
- "balance_updated": "2026-11-22 13:41 ET"
+ "balance": 11.9495,
+ "balance_updated": "2026-11-22 13:45 ET"
 }
