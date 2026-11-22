@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T23:11:00.827110-05:00",
+ "updated": "2026-11-21T23:16:06.613774-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 22.4,
+ "duration_s": 24.7,
  "daily": {
   "date": "2026-11-21",
-  "bets": 13,
+  "bets": 14,
   "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
@@ -23,6 +23,18 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:ANA@UTA",
+   "market": "aec-nhl-ana-uta-2026-11-21",
+   "side": "long",
+   "team": "Ducks",
+   "ask": 0.18,
+   "qty": 2.7778,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
