@@ -2,7 +2,7 @@
  "date": "2026-11-21",
  "bets": 8,
  "bounce_bets": 4,
- "realized": -0.0764,
+ "realized": -0.5762,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -83,6 +83,12 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-pit-nas-2026-11-21",
+   "closed": "2026-11-21 20:40 ET",
+   "pnl": -0.4998,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -136,6 +142,7 @@
   ]
  },
  "cooldowns": {
-  "aec-nba-mil-phi-2026-11-21": 1795294238.3284583
+  "aec-nba-mil-phi-2026-11-21": 1795294238.3284583,
+  "aec-nhl-pit-nas-2026-11-21": 1795313435.8899045
  }
 }
