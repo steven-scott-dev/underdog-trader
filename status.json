@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T14:10:48.883789-05:00",
+ "updated": "2026-11-22T14:15:58.849088-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.6,
+ "duration_s": 18.0,
  "daily": {
   "date": "2026-11-22",
   "bets": 10,
@@ -17,28 +17,14 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.4482,
+   "cash_value": 0.2158,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
-  },
-  "aec-nfl-ten-dal-2026-11-22": {
-   "qty": 1.29,
-   "avg_px": 0.085,
-   "cash_value": 0.0436,
-   "team_id": 78,
-   "outcome": "Titans",
-   "title": "TEN Titans vs. DAL Cowboys"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-ten-dal-2026-11-22",
-   "pnl": -0.0661
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 11.9566,
- "balance_updated": "2026-11-22 14:10 ET"
+ "balance_updated": "2026-11-22 14:15 ET"
 }
