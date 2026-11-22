@@ -1,9 +1,27 @@
 {
  "date": "2026-11-22",
- "bets": 0,
+ "bets": 1,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": []
+ "live_history": [
+  {
+   "market": "aec-nba-bos-sac-2026-11-21",
+   "opened": "2026-11-22 00:05 ET",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.36,
+   "qty": 1.3889,
+   "mode": "main"
+  }
+ ],
+ "px_hist": {
+  "aec-nba-bos-sac-2026-11-21": [
+   [
+    1795323936.708829,
+    0.36
+   ]
+  ]
+ }
 }

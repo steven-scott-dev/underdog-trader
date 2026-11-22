@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T00:00:36.361711-05:00",
+ "updated": "2026-11-22T00:05:37.773357-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.1,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-22",
-  "bets": 0,
+  "bets": 1,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -17,20 +17,24 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.4109,
+   "cash_value": 0.4156,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
-  },
-  "aec-nhl-sea-sj-2026-11-21": {
-   "qty": 1.42,
-   "avg_px": 0.07,
-   "cash_value": 0.3692,
-   "team_id": 1514,
-   "outcome": "Kraken",
-   "title": "SEA Kraken vs. SJS Sharks"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:BOS@SAC",
+   "market": "aec-nba-bos-sac-2026-11-21",
+   "side": "short",
+   "team": "Kings",
+   "ask": 0.36,
+   "qty": 1.3889,
+   "stake": 0.5,
+   "mode": "main"
+  }
+ ],
  "errors": []
 }
