@@ -1,8 +1,8 @@
 {
  "date": "2026-11-21",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 5,
- "realized": -0.6487,
+ "realized": -0.7253,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -122,6 +122,21 @@
    "entry": 0.18,
    "qty": 2.7778,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-was-bos-2026-11-21",
+   "closed": "2026-11-21 21:35 ET",
+   "pnl": -0.0766,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-veg-wpg-2026-11-21",
+   "opened": "2026-11-21 21:35 ET",
+   "side": "long",
+   "team": "Golden Knights",
+   "entry": 0.21,
+   "qty": 2.381,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -190,11 +205,18 @@
     1795314351.421088,
     0.18
    ]
+  ],
+  "aec-nhl-veg-wpg-2026-11-21": [
+   [
+    1795314950.56392,
+    0.21
+   ]
   ]
  },
  "cooldowns": {
   "aec-nba-mil-phi-2026-11-21": 1795294238.3284583,
   "aec-nhl-pit-nas-2026-11-21": 1795313435.8899045,
-  "aec-nba-no-sa-2026-11-21": 1795315541.5253806
+  "aec-nba-no-sa-2026-11-21": 1795315541.5253806,
+  "aec-nhl-was-bos-2026-11-21": 1795316736.4900758
  }
 }

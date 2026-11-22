@@ -1,10 +1,10 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 21:30 ET · Mode: **LIVE** · Result: OK (11.1s)
+Updated: 2026-11-21 21:35 ET · Mode: **LIVE** · Result: OK (15.9s)
 
 ## Today
-- Bets placed: 11 / 100 (main 6, bounce 5)
-- Realized P&L: -0.65
+- Bets placed: 12 / 100 (main 7, bounce 5)
+- Realized P&L: -0.73
 
 ## Live positions
 - POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
@@ -13,17 +13,18 @@ Updated: 2026-11-21 21:30 ET · Mode: **LIVE** · Result: OK (11.1s)
 - WSH Capitals vs. BOS Bruins: 1.11 @ avg 0.0990
 
 ## Recent live history
+- `{"market": "aec-nhl-veg-wpg-2026-11-21", "opened": "2026-11-21 21:35 ET", "side": "long", "team": "Golden Knights", "entry": 0.21, "qty": 2.381, "mode": "main"}`
+- `{"market": "aec-nhl-was-bos-2026-11-21", "closed": "2026-11-21 21:35 ET", "pnl": -0.0766, "reason": "stop-loss"}`
 - `{"market": "aec-nhl-cbj-tor-2026-11-21", "opened": "2026-11-21 21:25 ET", "side": "long", "team": "Blue Jackets", "entry": 0.18, "qty": 2.7778, "mode": "main"}`
 - `{"market": "aec-nhl-was-bos-2026-11-21", "opened": "2026-11-21 21:20 ET", "side": "long", "team": "Capitals", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 - `{"market": "aec-nhl-nyi-det-2026-11-21", "opened": "2026-11-21 21:16 ET", "side": "short", "team": "Red Wings", "entry": 0.15, "qty": 3.3333, "mode": "main"}`
 - `{"market": "aec-nba-no-sa-2026-11-21", "closed": "2026-11-21 21:15 ET", "pnl": -0.0725, "reason": "stop-loss"}`
 - `{"market": "aec-nhl-pit-nas-2026-11-21", "closed": "2026-11-21 20:40 ET", "pnl": -0.4998, "reason": "stop-loss"}`
 - `{"market": "aec-nba-por-ny-2026-11-21", "opened": "2026-11-21 20:36 ET", "side": "long", "team": "Trail Blazers", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
-- `{"market": "aec-nhl-pit-nas-2026-11-21", "opened": "2026-11-21 20:20 ET", "side": "long", "team": "Penguins", "entry": 0.17, "qty": 2.9412, "mode": "main"}`
-- `{"market": "aec-nba-no-sa-2026-11-21", "opened": "2026-11-21 20:15 ET", "side": "long", "team": "Pelicans", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "stop_loss", "market": "aec-nhl-was-bos-2026-11-21", "pnl": -0.0766}`
+- `{"type": "buy", "game": "nhl:VGK@WPG", "market": "aec-nhl-veg-wpg-2026-11-21", "side": "long", "team": "Golden Knights", "ask": 0.21, "qty": 2.381, "stake": 0.5, "mode": "main"}`
 
 ## Order errors
 - _none_
