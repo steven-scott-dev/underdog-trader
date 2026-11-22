@@ -449,6 +449,24 @@ def get_positions(client):
     return out
 
 
+def get_balance(client):
+    """Account cash balance (USD) via the account API, or None if it
+    cannot be read. Informational only -- a failed read never blocks
+    the pass; the last known value stays in state."""
+    try:
+        resp = client.account.balances()
+    except Exception as e:
+        log(f"  balance read failed: {e}")
+        return None
+    for b in resp.get("balances") or []:
+        if (b.get("currency") or "").upper() in ("USD", "USDC"):
+            try:
+                return round(float(b.get("currentBalance")), 4)
+            except (TypeError, ValueError):
+                return None
+    return None
+
+
 def open_sell_exists(client, market_slug):
     try:
         try:
@@ -871,12 +889,21 @@ def run_pass():
                     else:
                         log("  bounce rides: no take-profit placed (stop-loss only)")
 
+    # account balance (live only): informational, never blocks the pass;
+    # a failed read keeps the last known value and its timestamp
+    if not paper:
+        fresh = get_balance(client)
+        if fresh is not None:
+            state["balance"] = fresh
+            state["balance_updated"] = now_et_str()
     dt = round(time.time() - t0, 1)
     log(f"pass done in {dt}s, {len(actions)} action(s)")
     save_state(state)
     return {"ok": True, "mode": "paper" if paper else "live",
             "duration_s": dt, "actions": actions, "errors": errors,
             "log": _log_lines,
+            "balance": state.get("balance"),
+            "balance_updated": state.get("balance_updated"),
             "paper_positions": state["paper_positions"],
             "paper_history": state["paper_history"][-10:],
             "live_positions": positions,

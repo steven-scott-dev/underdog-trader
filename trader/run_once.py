@@ -33,6 +33,9 @@ def build_status_md(res):
     a(f"- Bets placed: {daily.get('bets', 0)} / {daily.get('max_total', 100)} "
       f"(main {daily.get('bets', 0) - bb}, bounce {bb})")
     a(f"- Realized P&L: {daily.get('realized', 0):+.2f}")
+    bal = res.get("balance")
+    if bal is not None:
+        a(f"- Account balance: ${bal:.2f} (as of {res.get('balance_updated', '?')})")
     a("")
     if mode == "PAPER":
         a("## Open paper positions")
@@ -100,6 +103,8 @@ def main():
         "live_positions": res.get("live_positions"),
         "actions": res.get("actions"),
         "errors": res.get("errors") or [],
+        "balance": res.get("balance"),
+        "balance_updated": res.get("balance_updated"),
     }, indent=1, default=str))
     summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary_path:
