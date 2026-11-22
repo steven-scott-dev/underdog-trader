@@ -1,13 +1,12 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 21:50 ET · Mode: **LIVE** · Result: OK (13.4s)
+Updated: 2026-11-21 21:56 ET · Mode: **LIVE** · Result: OK (23.1s)
 
 ## Today
 - Bets placed: 12 / 100 (main 7, bounce 5)
 - Realized P&L: -0.73
 
 ## Live positions
-- POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
 ## Recent live history
