@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T13:25:56.587597-05:00",
+ "updated": "2026-11-22T13:30:48.776860-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.4,
+ "duration_s": 14.9,
  "daily": {
   "date": "2026-11-22",
   "bets": 7,
@@ -17,23 +17,15 @@
   "aec-atp-alezve-caralc-2026-11-22": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.0498,
+   "cash_value": 0.083,
    "team_id": 3115,
    "outcome": "Alexander Zverev",
    "title": "Alexander Zverev vs. Carlos Alcaraz"
   },
-  "aec-nfl-ari-kc-2026-11-22": {
-   "qty": 1.29,
-   "avg_px": 0.085,
-   "cash_value": 0.0436,
-   "team_id": 48,
-   "outcome": "Cardinals",
-   "title": "ARI Cardinals vs. KC Chiefs"
-  },
   "aec-nfl-mia-buf-2026-11-22": {
    "qty": 1.21,
    "avg_px": 0.088,
-   "cash_value": 0.065,
+   "cash_value": 0.0559,
    "team_id": 67,
    "outcome": "Dolphins",
    "title": "MIA Dolphins vs. BUF Bills"
@@ -41,20 +33,14 @@
   "aec-nfl-tb-det-2026-11-22": {
    "qty": 1.25,
    "avg_px": 0.424,
-   "cash_value": 0.3921,
+   "cash_value": 0.3766,
    "team_id": 77,
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-ari-kc-2026-11-22",
-   "pnl": -0.0661
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 11.9339,
- "balance_updated": "2026-11-22 13:25 ET"
+ "balance_updated": "2026-11-22 13:30 ET"
 }

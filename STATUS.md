@@ -1,15 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 13:25 ET · Mode: **LIVE** · Result: OK (14.4s)
+Updated: 2026-11-22 13:30 ET · Mode: **LIVE** · Result: OK (14.9s)
 
 ## Today
 - Bets placed: 7 / 100 (main 3, bounce 4)
 - Realized P&L: +0.23
-- Account balance: $11.93 (as of 2026-11-22 13:25 ET)
+- Account balance: $11.93 (as of 2026-11-22 13:30 ET)
 
 ## Live positions
 - Alexander Zverev vs. Carlos Alcaraz: 1.66 @ avg 0.0660
-- ARI Cardinals vs. KC Chiefs: 1.29 @ avg 0.0850
 - MIA Dolphins vs. BUF Bills: 1.21 @ avg 0.0880
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
 
@@ -24,7 +23,7 @@ Updated: 2026-11-22 13:25 ET · Mode: **LIVE** · Result: OK (14.4s)
 - `{"market": "aec-nhl-sea-sj-2026-11-21", "opened": "2026-11-22 00:25 ET", "side": "long", "team": "Kraken", "entry": 0.19, "qty": 2.6316, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nfl-ari-kc-2026-11-22", "pnl": -0.0661}`
+- _none_
 
 ## Order errors
 - _none_
