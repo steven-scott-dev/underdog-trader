@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 21:25 ET · Mode: **LIVE** · Result: OK (14.5s)
+Updated: 2026-11-21 21:30 ET · Mode: **LIVE** · Result: OK (11.1s)
 
 ## Today
 - Bets placed: 11 / 100 (main 6, bounce 5)
@@ -9,6 +9,7 @@ Updated: 2026-11-21 21:25 ET · Mode: **LIVE** · Result: OK (14.5s)
 ## Live positions
 - POR Trail Blazers vs. NY Knicks: 1.42 @ avg 0.0770
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
+- CBJ Blue Jackets vs. TOR Maple Leafs: 2.77 @ avg 0.1910
 - WSH Capitals vs. BOS Bruins: 1.11 @ avg 0.0990
 
 ## Recent live history
@@ -22,7 +23,7 @@ Updated: 2026-11-21 21:25 ET · Mode: **LIVE** · Result: OK (14.5s)
 - `{"market": "aec-nba-no-sa-2026-11-21", "opened": "2026-11-21 20:15 ET", "side": "long", "team": "Pelicans", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CBJ@TOR", "market": "aec-nhl-cbj-tor-2026-11-21", "side": "long", "team": "Blue Jackets", "ask": 0.18, "qty": 2.7778, "stake": 0.5, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

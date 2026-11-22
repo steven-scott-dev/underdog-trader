@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T21:25:52.362475-05:00",
+ "updated": "2026-11-21T21:30:47.012985-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.5,
+ "duration_s": 11.1,
  "daily": {
   "date": "2026-11-21",
   "bets": 11,
@@ -17,7 +17,7 @@
   "aec-nba-por-ny-2026-11-21": {
    "qty": 1.42,
    "avg_px": 0.077,
-   "cash_value": 0.2272,
+   "cash_value": 0.142,
    "team_id": 31,
    "outcome": "Trail Blazers",
    "title": "POR Trail Blazers vs. NY Knicks"
@@ -30,27 +30,23 @@
    "outcome": "Buccaneers",
    "title": "TB Buccaneers vs. DET Lions"
   },
+  "aec-nhl-cbj-tor-2026-11-21": {
+   "qty": 2.77,
+   "avg_px": 0.191,
+   "cash_value": 0.4432,
+   "team_id": 1499,
+   "outcome": "Blue Jackets",
+   "title": "CBJ Blue Jackets vs. TOR Maple Leafs"
+  },
   "aec-nhl-was-bos-2026-11-21": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0777,
+   "cash_value": 0.0555,
    "team_id": 1498,
    "outcome": "Capitals",
    "title": "WSH Capitals vs. BOS Bruins"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:CBJ@TOR",
-   "market": "aec-nhl-cbj-tor-2026-11-21",
-   "side": "long",
-   "team": "Blue Jackets",
-   "ask": 0.18,
-   "qty": 2.7778,
-   "stake": 0.5,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": []
 }
