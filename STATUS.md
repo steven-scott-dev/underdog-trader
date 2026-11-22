@@ -1,6 +1,6 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-21 22:06 ET · Mode: **LIVE** · Result: OK (25.1s)
+Updated: 2026-11-21 22:11 ET · Mode: **LIVE** · Result: OK (33.0s)
 
 ## Today
 - Bets placed: 12 / 100 (main 7, bounce 5)
@@ -20,7 +20,7 @@ Updated: 2026-11-21 22:06 ET · Mode: **LIVE** · Result: OK (25.1s)
 - `{"market": "aec-nhl-pit-nas-2026-11-21", "closed": "2026-11-21 20:40 ET", "pnl": -0.4998, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-nhl-veg-wpg-2026-11-21", "pnl": 1.8572}`
+- _none_
 
 ## Order errors
 - _none_

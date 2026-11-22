@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T22:06:00.784462-05:00",
+ "updated": "2026-11-21T22:11:05.464866-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 25.1,
+ "duration_s": 33.0,
  "daily": {
   "date": "2026-11-21",
   "bets": 12,
@@ -23,12 +23,6 @@
    "title": "TB Buccaneers vs. DET Lions"
   }
  },
- "actions": [
-  {
-   "type": "settled",
-   "market": "aec-nhl-veg-wpg-2026-11-21",
-   "pnl": 1.8572
-  }
- ],
+ "actions": [],
  "errors": []
 }
