@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:50:48.649206-05:00",
+ "updated": "2026-11-22T15:55:50.652250-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 14.1,
@@ -13,37 +13,9 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nfl-no-chi-2026-11-22": {
-   "qty": 4.44,
-   "avg_px": 0.025,
-   "cash_value": 0.0164,
-   "team_id": 70,
-   "outcome": "Saints",
-   "title": "NO Saints vs. CHI Bears"
-  },
-  "aec-nfl-pit-phi-2026-11-22": {
-   "qty": 3.03,
-   "avg_px": 0.175,
-   "cash_value": 0.14,
-   "team_id": 74,
-   "outcome": "Steelers",
-   "title": "PIT Steelers vs. PHI Eagles"
-  }
- },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-no-chi-2026-11-22",
-   "pnl": -0.0946
-  },
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-pit-phi-2026-11-22",
-   "pnl": -0.3902
-  }
- ],
+ "live_positions": {},
+ "actions": [],
  "errors": [],
  "balance": 11.2411,
- "balance_updated": "2026-11-22 15:50 ET"
+ "balance_updated": "2026-11-22 15:55 ET"
 }
