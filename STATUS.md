@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 11:45 ET · Mode: **LIVE** · Result: OK (3.2s)
+Updated: 2026-11-22 11:50 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 4 / 100 (main 3, bounce 1)
 - Realized P&L: +0.30
-- Account balance: $14.22 (as of 2026-11-22 11:45 ET)
+- Account balance: $14.22 (as of 2026-11-22 11:50 ET)
 
 ## Live positions
 - TB Buccaneers vs. DET Lions: 1.25 @ avg 0.4240
@@ -19,7 +19,7 @@ Updated: 2026-11-22 11:45 ET · Mode: **LIVE** · Result: OK (3.2s)
 - `{"market": "aec-nba-bos-sac-2026-11-21", "opened": "2026-11-22 00:05 ET", "side": "short", "team": "Kings", "entry": 0.36, "qty": 1.3889, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Bulbarella@Ayala", "market": "aec-wta-louaya-marbul-2026-11-22", "side": "short", "team": "Marina Bulbarella", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
