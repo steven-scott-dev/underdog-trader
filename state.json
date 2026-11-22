@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 6,
- "bounce_bets": 3,
+ "bets": 7,
+ "bounce_bets": 4,
  "realized": 0.3003,
  "paper_positions": [],
  "paper_history": [],
@@ -71,6 +71,15 @@
    "entry": 0.0775,
    "qty": 1.2903,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-atp-alezve-caralc-2026-11-22",
+   "opened": "2026-11-22 13:20 ET",
+   "side": "long",
+   "team": "Alexander Zverev",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -109,11 +118,17 @@
     1795370746.0283134,
     0.0775
    ]
+  ],
+  "aec-atp-alezve-caralc-2026-11-22": [
+   [
+    1795371653.0279026,
+    0.06
+   ]
   ]
  },
  "cooldowns": {
   "aec-nhl-sea-sj-2026-11-21": 1795328132.5568137
  },
- "balance": 12.0016,
- "balance_updated": "2026-11-22 13:15 ET"
+ "balance": 11.892,
+ "balance_updated": "2026-11-22 13:20 ET"
 }
