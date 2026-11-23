@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 21:35 ET · Mode: **LIVE** · Result: OK (11.4s)
+Updated: 2026-11-22 21:40 ET · Mode: **LIVE** · Result: OK (11.1s)
 
 ## Today
 - Bets placed: 26 / 100 (main 6, bounce 20)
 - Realized P&L: -2.41
-- Account balance: $12.81 (as of 2026-11-22 21:35 ET)
+- Account balance: $12.71 (as of 2026-11-22 21:40 ET)
 
 ## Live positions
-- _none_
+- MIN Vikings vs. SF 49ers: 1.81 @ avg 0.0550
 
 ## Recent live history
 - `{"market": "aec-nfl-min-sf-2026-11-22", "opened": "2026-11-22 21:35 ET", "side": "long", "team": "Vikings", "entry": 0.055, "qty": 1.8182, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-22 21:35 ET · Mode: **LIVE** · Result: OK (11.4s)
 - `{"market": "aec-nba-okc-mia-2026-11-22", "opened": "2026-11-22 19:35 ET", "side": "long", "team": "Thunder", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nfl:MIN@SF", "market": "aec-nfl-min-sf-2026-11-22", "side": "long", "team": "Vikings", "ask": 0.055, "qty": 1.8182, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
