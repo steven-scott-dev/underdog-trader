@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 12:20 ET · Mode: **LIVE** · Result: OK (1.0s)
+Updated: 2026-11-23 12:25 ET · Mode: **LIVE** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: +0.67
-- Account balance: $12.33 (as of 2026-11-23 12:20 ET)
+- Account balance: $12.33 (as of 2026-11-23 12:25 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-23 12:20 ET · Mode: **LIVE** · Result: OK (1.0s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "closed": "2026-11-23 09:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Rencheli@Lepchenko", "market": "aec-wta-varlep-abiren-2026-11-23", "side": "short", "team": "Abigail Rencheli", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
