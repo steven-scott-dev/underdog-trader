@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 2,
  "bounce_bets": 2,
- "realized": -0.085,
+ "realized": 0.805,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -29,10 +29,16 @@
    "closed": "2026-11-23 09:55 ET",
    "pnl": -0.085,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-martre-ayaakl-2026-11-23",
+   "closed": "2026-11-23 10:20 ET",
+   "pnl": 0.89,
+   "reason": "settled"
   }
  ],
- "balance": 11.1891,
- "balance_updated": "2026-11-23 10:15 ET",
+ "balance": 10.1891,
+ "balance_updated": "2026-11-23 10:20 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
