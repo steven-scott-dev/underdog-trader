@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-23T13:40:36.079189-05:00",
+ "updated": "2026-11-23T13:45:37.006587-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-23",
   "bets": 6,
   "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.6686
+  "realized": 2.9829
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-wta-varlep-abiren-2026-11-23",
+   "pnl": 1.3143
+  }
+ ],
  "errors": [],
- "balance": 11.2168,
- "balance_updated": "2026-11-23 13:40 ET"
+ "balance": 9.7968,
+ "balance_updated": "2026-11-23 13:45 ET"
 }
