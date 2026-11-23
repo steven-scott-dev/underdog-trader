@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 22:50 ET · Mode: **LIVE** · Result: OK (12.3s)
+Updated: 2026-11-22 22:55 ET · Mode: **LIVE** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 27 / 100 (main 7, bounce 20)
 - Realized P&L: -0.60
-- Account balance: $11.41 (as of 2026-11-22 22:50 ET)
+- Account balance: $10.41 (as of 2026-11-22 22:55 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-22 22:50 ET · Mode: **LIVE** · Result: OK (12.3s)
 - `{"market": "aec-nhl-edm-stl-2026-11-22", "opened": "2026-11-22 21:05 ET", "side": "short", "team": "Blues", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-nhl-chi-van-2026-11-22", "pnl": 0.9}`
+- _none_
 
 ## Order errors
 - _none_
