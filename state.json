@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 25,
  "bounce_bets": 19,
- "realized": -1.9711,
+ "realized": -2.4115,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -344,6 +344,12 @@
    "entry": 0.11,
    "qty": 4.5455,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-pit-dal-2026-11-22",
+   "closed": "2026-11-22 21:30 ET",
+   "pnl": -0.4404,
+   "reason": "stop-loss"
   }
  ],
  "px_hist": {
@@ -474,8 +480,9 @@
   "aec-nfl-bal-car-2026-11-22": 1795383936.8809056,
   "aec-nfl-lv-den-2026-11-22": 1795393840.4921193,
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599,
-  "aec-nba-okc-mia-2026-11-22": 1795397134.926499
+  "aec-nba-okc-mia-2026-11-22": 1795397134.926499,
+  "aec-nhl-pit-dal-2026-11-22": 1795402847.3324478
  },
- "balance": 12.7598,
- "balance_updated": "2026-11-22 21:20 ET"
+ "balance": 12.8052,
+ "balance_updated": "2026-11-22 21:30 ET"
 }
