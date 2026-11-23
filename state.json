@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 7,
  "bounce_bets": 7,
- "realized": 2.9829,
+ "realized": 2.8929,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -104,10 +104,16 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-despap-julrie-2026-11-23",
+   "closed": "2026-11-23 15:55 ET",
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "balance": 9.6968,
- "balance_updated": "2026-11-23 15:50 ET",
+ "balance_updated": "2026-11-23 15:55 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -156,6 +162,7 @@
  "cooldowns": {
   "aec-wta-berbon-carmon-2026-11-23": 1795447544.9728322,
   "aec-wta-josest-arigee-2026-11-23": 1795452344.4792929,
-  "aec-wta-aleosb-ipeoz-2026-11-23": 1795452939.3341687
+  "aec-wta-aleosb-ipeoz-2026-11-23": 1795452939.3341687,
+  "aec-wta-despap-julrie-2026-11-23": 1795469134.5889335
  }
 }
