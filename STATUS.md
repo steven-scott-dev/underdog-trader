@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 11:55 ET · Mode: **LIVE** · Result: OK (0.9s)
+Updated: 2026-11-23 12:00 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 5 / 100 (main 0, bounce 5)
 - Realized P&L: +0.67
-- Account balance: $11.02 (as of 2026-11-23 11:55 ET)
+- Account balance: $11.02 (as of 2026-11-23 12:00 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-23 11:55 ET · Mode: **LIVE** · Result: OK (0.9s)
 - `{"market": "aec-wta-martre-ayaakl-2026-11-23", "opened": "2026-11-23 09:30 ET", "side": "short", "team": "Ayana Akli", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Zolotareva@Brancaccio", "market": "aec-wta-nurbra-anazol-2026-11-23", "side": "short", "team": "Anastasia Zolotareva", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
