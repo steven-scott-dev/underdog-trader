@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 26,
  "bounce_bets": 20,
- "realized": -2.4115,
+ "realized": -1.4115,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -359,6 +359,12 @@
    "entry": 0.055,
    "qty": 1.8182,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-edm-stl-2026-11-22",
+   "closed": "2026-11-22 22:05 ET",
+   "pnl": 1.0,
+   "reason": "settled"
   }
  ],
  "px_hist": {
@@ -499,5 +505,5 @@
   "aec-nhl-pit-dal-2026-11-22": 1795402847.3324478
  },
  "balance": 11.4556,
- "balance_updated": "2026-11-22 22:00 ET"
+ "balance_updated": "2026-11-22 22:05 ET"
 }

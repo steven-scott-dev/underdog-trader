@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T22:00:48.721080-05:00",
+ "updated": "2026-11-22T22:05:47.914836-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 11.5,
+ "duration_s": 12.6,
  "daily": {
   "date": "2026-11-22",
   "bets": 26,
   "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
-  "realized": -2.4115
+  "realized": -1.4115
  },
  "paper_positions": [],
  "paper_history": [],
@@ -23,8 +23,14 @@
    "title": "MIN Vikings vs. SF 49ers"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-nhl-edm-stl-2026-11-22",
+   "pnl": 1.0
+  }
+ ],
  "errors": [],
  "balance": 11.4556,
- "balance_updated": "2026-11-22 22:00 ET"
+ "balance_updated": "2026-11-22 22:05 ET"
 }
