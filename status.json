@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T15:20:46.484358-05:00",
+ "updated": "2026-11-23T15:25:35.492419-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-23",
   "bets": 7,
@@ -17,7 +17,7 @@
   "aec-wta-despap-julrie-2026-11-23": {
    "qty": 1.0,
    "avg_px": 0.1,
-   "cash_value": 0.05,
+   "cash_value": 0.17,
    "team_id": 4714,
    "outcome": "Despina Papamichail",
    "title": "Despina Papamichail vs. Julia Riera"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.6968,
- "balance_updated": "2026-11-23 15:20 ET"
+ "balance_updated": "2026-11-23 15:25 ET"
 }
