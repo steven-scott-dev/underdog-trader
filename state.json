@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 25,
- "bounce_bets": 19,
+ "bets": 26,
+ "bounce_bets": 20,
  "realized": -2.4115,
  "paper_positions": [],
  "paper_history": [],
@@ -350,6 +350,15 @@
    "closed": "2026-11-22 21:30 ET",
    "pnl": -0.4404,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-min-sf-2026-11-22",
+   "opened": "2026-11-22 21:35 ET",
+   "side": "long",
+   "team": "Vikings",
+   "entry": 0.055,
+   "qty": 1.8182,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -466,6 +475,12 @@
     1795400447.4544625,
     0.11
    ]
+  ],
+  "aec-nfl-min-sf-2026-11-22": [
+   [
+    1795401357.0675867,
+    0.055
+   ]
   ]
  },
  "cooldowns": {
@@ -484,5 +499,5 @@
   "aec-nhl-pit-dal-2026-11-22": 1795402847.3324478
  },
  "balance": 12.8052,
- "balance_updated": "2026-11-22 21:30 ET"
+ "balance_updated": "2026-11-22 21:35 ET"
 }

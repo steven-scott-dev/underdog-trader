@@ -1,36 +1,33 @@
 {
- "updated": "2026-11-22T21:30:59.724982-05:00",
+ "updated": "2026-11-22T21:35:57.650887-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 13.5,
+ "duration_s": 11.4,
  "daily": {
   "date": "2026-11-22",
-  "bets": 25,
-  "bounce_bets": 19,
+  "bets": 26,
+  "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
   "realized": -2.4115
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nhl-pit-dal-2026-11-22": {
-   "qty": 4.54,
-   "avg_px": 0.117,
-   "cash_value": 0.0908,
-   "team_id": 1497,
-   "outcome": "Penguins",
-   "title": "PIT Penguins vs. DAL Stars"
-  }
- },
+ "live_positions": {},
  "actions": [
   {
-   "type": "stop_loss",
-   "market": "aec-nhl-pit-dal-2026-11-22",
-   "pnl": -0.4404
+   "type": "buy",
+   "game": "nfl:MIN@SF",
+   "market": "aec-nfl-min-sf-2026-11-22",
+   "side": "long",
+   "team": "Vikings",
+   "ask": 0.055,
+   "qty": 1.8182,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ],
  "errors": [],
  "balance": 12.8052,
- "balance_updated": "2026-11-22 21:30 ET"
+ "balance_updated": "2026-11-22 21:35 ET"
 }
