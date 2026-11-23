@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:00:40.059667-05:00",
+ "updated": "2026-11-23T13:05:52.529374-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.8,
@@ -9,13 +9,19 @@
   "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.6686
+  "realized": 1.6686
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-wta-nurbra-anazol-2026-11-23",
+   "pnl": 1.0
+  }
+ ],
  "errors": [],
  "balance": 11.2168,
- "balance_updated": "2026-11-23 13:00 ET"
+ "balance_updated": "2026-11-23 13:05 ET"
 }
