@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 1,
- "bounce_bets": 1,
+ "bets": 2,
+ "bounce_bets": 2,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
@@ -14,15 +14,30 @@
    "entry": 0.04,
    "qty": 2.5,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-martre-ayaakl-2026-11-23",
+   "opened": "2026-11-23 09:30 ET",
+   "side": "short",
+   "team": "Ayana Akli",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
- "balance": 10.2991,
- "balance_updated": "2026-11-23 09:25 ET",
+ "balance": 11.1891,
+ "balance_updated": "2026-11-23 09:30 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
     1795443040.955105,
     0.04
+   ]
+  ],
+  "aec-wta-martre-ayaakl-2026-11-23": [
+   [
+    1795444241.7439628,
+    0.1
    ]
   ]
  },
