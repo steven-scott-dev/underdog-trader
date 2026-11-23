@@ -1,21 +1,14 @@
 {
- "updated": "2026-11-23T07:50:38.011520-05:00",
- "mode": "live",
- "ok": true,
- "duration_s": 1.6,
- "daily": {
-  "date": "2026-11-23",
-  "bets": 0,
-  "bounce_bets": 0,
-  "max_total": 100,
-  "max_open": 5,
-  "realized": 0.0
- },
- "paper_positions": [],
- "paper_history": [],
- "live_positions": {},
- "actions": [],
+ "updated": "2026-11-23T07:55:33.891966-05:00",
+ "mode": null,
+ "ok": false,
+ "duration_s": null,
+ "daily": null,
+ "paper_positions": null,
+ "paper_history": null,
+ "live_positions": null,
+ "actions": null,
  "errors": [],
- "balance": 10.4091,
- "balance_updated": "2026-11-23 07:50 ET"
+ "balance": null,
+ "balance_updated": null
 }
