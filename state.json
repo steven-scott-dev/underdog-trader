@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 5,
- "bounce_bets": 5,
+ "bets": 6,
+ "bounce_bets": 6,
  "realized": 0.6686,
  "paper_positions": [],
  "paper_history": [],
@@ -74,10 +74,19 @@
    "entry": 0.09,
    "qty": 1.1111,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-varlep-abiren-2026-11-23",
+   "opened": "2026-11-23 12:20 ET",
+   "side": "short",
+   "team": "Abigail Rencheli",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
- "balance": 11.0162,
- "balance_updated": "2026-11-23 12:15 ET",
+ "balance": 12.3268,
+ "balance_updated": "2026-11-23 12:20 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -107,6 +116,12 @@
    [
     1795452935.879501,
     0.09
+   ]
+  ],
+  "aec-wta-varlep-abiren-2026-11-23": [
+   [
+    1795454439.4066432,
+    0.07
    ]
   ]
  },
