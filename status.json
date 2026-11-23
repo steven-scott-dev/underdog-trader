@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T19:00:43.365497-05:00",
+ "updated": "2026-11-22T19:05:34.998773-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.5,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-22",
   "bets": 20,
@@ -13,24 +13,9 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nfl-lv-den-2026-11-22": {
-   "qty": 1.17,
-   "avg_px": 0.094,
-   "cash_value": 0.0425,
-   "team_id": 66,
-   "outcome": "Raiders",
-   "title": "LV Raiders vs. DEN Broncos"
-  }
- },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nfl-lv-den-2026-11-22",
-   "pnl": -0.0675
-  }
- ],
+ "live_positions": {},
+ "actions": [],
  "errors": [],
  "balance": 11.7766,
- "balance_updated": "2026-11-22 19:00 ET"
+ "balance_updated": "2026-11-22 19:05 ET"
 }
