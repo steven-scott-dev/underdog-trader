@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T21:50:49.304199-05:00",
+ "updated": "2026-11-22T21:55:46.282825-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 11.9,
+ "duration_s": 12.1,
  "daily": {
   "date": "2026-11-22",
   "bets": 26,
@@ -17,7 +17,7 @@
   "aec-nfl-min-sf-2026-11-22": {
    "qty": 1.81,
    "avg_px": 0.055,
-   "cash_value": 0.0748,
+   "cash_value": 0.0836,
    "team_id": 68,
    "outcome": "Vikings",
    "title": "MIN Vikings vs. SF 49ers"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 11.4556,
- "balance_updated": "2026-11-22 21:50 ET"
+ "balance_updated": "2026-11-22 21:55 ET"
 }
