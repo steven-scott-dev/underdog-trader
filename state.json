@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "bets": 24,
+ "bets": 25,
  "bounce_bets": 19,
  "realized": -1.9711,
  "paper_positions": [],
@@ -335,6 +335,15 @@
    "entry": 0.09,
    "qty": 1.1111,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-pit-dal-2026-11-22",
+   "opened": "2026-11-22 21:20 ET",
+   "side": "long",
+   "team": "Penguins",
+   "entry": 0.11,
+   "qty": 4.5455,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -445,6 +454,12 @@
     1795399551.1345036,
     0.09
    ]
+  ],
+  "aec-nhl-pit-dal-2026-11-22": [
+   [
+    1795400447.4544625,
+    0.11
+   ]
   ]
  },
  "cooldowns": {
@@ -461,6 +476,6 @@
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599,
   "aec-nba-okc-mia-2026-11-22": 1795397134.926499
  },
- "balance": 13.2892,
- "balance_updated": "2026-11-22 21:15 ET"
+ "balance": 12.7598,
+ "balance_updated": "2026-11-22 21:20 ET"
 }
