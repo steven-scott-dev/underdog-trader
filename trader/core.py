@@ -134,7 +134,7 @@ def now_et_str():
 def load_state():
     blank = {"date": today_et(), "bets": 0, "bounce_bets": 0, "realized": 0.0,
              "paper_positions": [], "paper_history": [],
-             "live_history": []}
+             "live_history": [], "settled_pending": {}}
     p = state_path()
     if p.exists():
         try:
@@ -175,7 +175,21 @@ def manage_paper_positions(client, cfg, state, actions):
         bid = paper_bid(q, pos["side"])
         closed_px, reason = None, None
         if q.get("state") and q["state"] != "MARKET_STATE_OPEN":
-            closed_px, reason = q.get("current_px") or bid, "settled"
+            closed_px = q.get("current_px") or None
+            if closed_px is None:
+                # Empty book (no current price, no bid): settle from the
+                # game result instead of the bid -- an empty book makes a
+                # short read as a win (1 - 0) and a long as a total loss.
+                # Fail-soft: fall back to the bid if the result is unknown.
+                book_live = (q.get("long_ask", 0) > 0
+                             or q.get("long_bid", 0) > 0)
+                if not book_live:
+                    closed_px = settle_from_result(cfg, pos["market"],
+                                                   pos.get("team"),
+                                                   pos["side"])
+                if closed_px is None:
+                    closed_px = bid
+            reason = "settled"
         elif bid >= pos["tp"]:
             closed_px, reason = pos["tp"], "take-profit"
         elif bid <= pos["sl"]:
@@ -229,8 +243,10 @@ def _parse_clock(display_clock, clock_kind):
     return (None, None)
 
 
-def espn_games(sport_key, rules):
+def espn_games(sport_key, rules, dates=None):
     url = f"https://site.api.espn.com/apis/site/v2/sports/{rules['espn']}/scoreboard"
+    if dates:
+        url += f"?dates={dates}"
     try:
         r = httpx.get(url, timeout=15)
         r.raise_for_status()
@@ -247,6 +263,7 @@ def espn_games(sport_key, rules):
             teams[t["homeAway"]] = {
                 "abbr": t["team"].get("abbreviation", ""),
                 "name": t["team"].get("displayName", ""),
+                "short": t["team"].get("shortDisplayName", ""),
                 "score": int(t.get("score") or 0),
             }
         kind, clock = _parse_clock(comp["status"].get("displayClock", ""),
@@ -264,7 +281,7 @@ def espn_games(sport_key, rules):
     return games
 
 
-def espn_tennis_games(sport_key, rules):
+def espn_tennis_games(sport_key, rules, dates=None):
     """Tennis scoreboard adapter (ATP/WTA, singles only).
 
     ESPN tennis nests matches one level deeper than team sports:
@@ -274,6 +291,8 @@ def espn_tennis_games(sport_key, rules):
     period = current set number, diff = games difference in the current set.
     """
     url = f"https://site.api.espn.com/apis/site/v2/sports/{rules['espn']}/scoreboard"
+    if dates:
+        url += f"?dates={dates}"
     try:
         r = httpx.get(url, timeout=15)
         r.raise_for_status()
@@ -334,6 +353,112 @@ def espn_tennis_games(sport_key, rules):
                     "diff": abs(away.get("_games", 0) - home.get("_games", 0)),
                 })
     return games
+
+
+# ---------------------------------------------------------------- game-result settlement lookup
+
+def _norm_name(s):
+    return " ".join((s or "").lower().split())
+
+
+def _slug_parts(slug):
+    """(sport_key, yyyymmdd, matchup fragments) for an aec- market slug,
+    or None if it does not parse. Slugs look like
+    aec-nhl-edm-stl-2026-11-22 (team abbrs) or
+    aec-wta-leygor-rebmas-2026-11-22 (first3+last3 name fragments)."""
+    parts = (slug or "").split("-")
+    if len(parts) < 6 or parts[0] != "aec":
+        return None
+    try:
+        y, m, d = (int(x) for x in parts[-3:])
+    except ValueError:
+        return None
+    return parts[1], f"{y:04d}{m:02d}{d:02d}", parts[2:-3]
+
+
+def _game_matches_slug(g, frags, tennis):
+    """Do the two competitors of game g match the slug's matchup fragments?
+    Used to disambiguate when a player/team appears in more than one
+    completed game on the same day."""
+    sides = [g.get("away") or {}, g.get("home") or {}]
+    if tennis:
+        def frag_ok(frag, name):
+            words = (name or "").split()
+            if len(frag) != 6 or len(words) < 2:
+                return False
+            return (_norm_name(words[0]).startswith(frag[:3])
+                    and _norm_name(words[-1]).startswith(frag[3:]))
+        return all(any(frag_ok(f, t.get("name", "")) for t in sides)
+                   for f in frags)
+    abbrs = {_norm_name(t.get("abbr")) for t in sides}
+    return abbrs == {_norm_name(f) for f in frags}
+
+
+def espn_game_won(sport_key, rules, yyyymmdd, team_desc, slug=None):
+    """Did the team/player named team_desc win its game on yyyymmdd?
+    Returns True (won), False (lost), or None (unknown: not found, not
+    final, tied, or ambiguous). Never raises."""
+    try:
+        games = (espn_tennis_games(sport_key, rules, dates=yyyymmdd)
+                 if rules.get("tennis")
+                 else espn_games(sport_key, rules, dates=yyyymmdd))
+    except Exception as e:
+        log(f"  result lookup failed ({sport_key} {yyyymmdd}): {e}")
+        return None
+    want = _norm_name(team_desc)
+    if not want:
+        return None
+    parsed = _slug_parts(slug) if slug else None
+    frags = parsed[2] if parsed else None
+    tennis = bool(rules.get("tennis"))
+    cands = []
+    for g in games:
+        if not g.get("over"):
+            continue
+        for key in ("away", "home"):
+            t = g.get(key) or {}
+            names = {_norm_name(t.get("name")), _norm_name(t.get("short")),
+                     _norm_name(t.get("abbr"))}
+            if want not in names:
+                continue
+            other = g.get("home" if key == "away" else "away") or {}
+            if t.get("score") == other.get("score"):
+                continue  # draw: cannot determine the winner
+            cands.append((g, t.get("score", 0) > other.get("score", 0)))
+    if len(cands) == 1:
+        return cands[0][1]
+    if len(cands) > 1 and frags and len(frags) == 2:
+        narrowed = [c for c in cands if _game_matches_slug(c[0], frags, tennis)]
+        if len(narrowed) == 1:
+            return narrowed[0][1]
+    return None
+
+
+def espn_game_won_from_slug(cfg, slug, team_desc):
+    """Resolve a settled market from the game result. Returns True (the
+    named team/player won), False (lost), or None (unknown). Never raises."""
+    if not team_desc:
+        return None
+    parsed = _slug_parts(slug)
+    if not parsed:
+        return None
+    sport, yyyymmdd, _frags = parsed
+    rules = (cfg.get("sports") or {}).get(sport)
+    if not rules:
+        return None
+    return espn_game_won(sport, rules, yyyymmdd, team_desc, slug=slug)
+
+
+def settle_from_result(cfg, slug, team_desc, side):
+    """Exit price for a resolved market with an empty book, from the game
+    result. The bot's side wins when it backed the winner (long) or
+    opposed the loser (short): 0.99 if won, 0.01 if lost, None if the
+    result is unknown. Never raises."""
+    won_team = espn_game_won_from_slug(cfg, slug, team_desc)
+    if won_team is None or side not in ("long", "short"):
+        return None
+    won = won_team if side == "long" else not won_team
+    return 0.99 if won else 0.01
 
 
 def is_trigger(game, rules):
@@ -717,7 +842,9 @@ def run_pass():
         # the re-buy guard for the rest of the day. Check each held
         # market: if it resolved, record the settlement and free the slot.
         # An empty post-resolution book has no trustworthy price, so the
-        # slot is freed without recording rather than fabricating a pnl.
+        # settlement is taken from the game result instead; if the result
+        # is not known yet (ESPN lag / fetch failure) the slot is held
+        # for up to 2h and retried, then freed unrecorded.
         opened_by_market = {}
         for h in state.get("live_history", []):
             if "opened" in h:
@@ -746,6 +873,37 @@ def run_pass():
                                               "pnl": pnl, "reason": "settled"})
                 actions.append({"type": "settled", "market": slug, "pnl": pnl})
                 log(f"  SETTLED {slug} exit {exit_px:.4f} pnl {pnl:+.4f}")
+            elif side and entry is not None and qty is not None:
+                exit_px = settle_from_result(cfg, slug, entry_h.get("team"),
+                                             side)
+                if exit_px is not None:
+                    pnl = round((exit_px - entry) * qty, 4)
+                    state["realized"] = round(state["realized"] + pnl, 4)
+                    state["live_history"].append({"market": slug,
+                                                  "closed": now_et_str(),
+                                                  "pnl": pnl,
+                                                  "reason": "settled"})
+                    actions.append({"type": "settled", "market": slug,
+                                    "pnl": pnl})
+                    state.setdefault("settled_pending", {}).pop(slug, None)
+                    log(f"  SETTLED {slug} via game result exit {exit_px:.2f} "
+                        f"pnl {pnl:+.4f}")
+                else:
+                    pending = state.setdefault("settled_pending", {})
+                    first = pending.get(slug)
+                    if first is None:
+                        pending[slug] = time.time()
+                        still_open.add(slug)
+                        log(f"  {slug} resolved, book empty; result unknown, "
+                            "retrying next pass")
+                    elif time.time() - first > 7200:
+                        pending.pop(slug, None)
+                        log(f"  {slug} resolved, book empty; result still "
+                            "unknown after 2h, freeing slot, no pnl recorded")
+                    else:
+                        still_open.add(slug)
+                        log(f"  {slug} resolved, book empty; result unknown, "
+                            "retrying next pass")
             else:
                 log(f"  {slug} resolved, book empty; freeing slot, no pnl recorded")
         open_bought = still_open
