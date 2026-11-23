@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T11:00:43.266771-05:00",
+ "updated": "2026-11-23T11:05:46.935210-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.6,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-11-23",
   "bets": 4,
@@ -17,7 +17,7 @@
   "aec-wta-aleosb-ipeoz-2026-11-23": {
    "qty": 2.0,
    "avg_px": 0.055,
-   "cash_value": 0.32,
+   "cash_value": 0.28,
    "team_id": 42631,
    "outcome": "Alexandra Osborne",
    "title": "Alexandra Osborne vs. Ipek Oz"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.9795,
- "balance_updated": "2026-11-23 11:00 ET"
+ "balance_updated": "2026-11-23 11:05 ET"
 }
