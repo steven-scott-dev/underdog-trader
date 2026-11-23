@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 4,
+ "bounce_bets": 4,
  "realized": 0.805,
  "paper_positions": [],
  "paper_history": [],
@@ -35,10 +35,28 @@
    "closed": "2026-11-23 10:20 ET",
    "pnl": 0.89,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-josest-arigee-2026-11-23",
+   "opened": "2026-11-23 10:25 ET",
+   "side": "long",
+   "team": "Josefina Estevez",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-aleosb-ipeoz-2026-11-23",
+   "opened": "2026-11-23 10:25 ET",
+   "side": "long",
+   "team": "Alexandra Osborne",
+   "entry": 0.05,
+   "qty": 2.0,
+   "mode": "bounce"
   }
  ],
- "balance": 10.1891,
- "balance_updated": "2026-11-23 10:20 ET",
+ "balance": 10.0791,
+ "balance_updated": "2026-11-23 10:25 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -50,6 +68,18 @@
    [
     1795444241.7439628,
     0.1
+   ]
+  ],
+  "aec-wta-josest-arigee-2026-11-23": [
+   [
+    1795447539.6520576,
+    0.06
+   ]
+  ],
+  "aec-wta-aleosb-ipeoz-2026-11-23": [
+   [
+    1795447540.1722693,
+    0.05
    ]
   ]
  },

@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23T10:20:41.948618-05:00",
+ "updated": "2026-11-23T10:25:40.453325-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.4,
+ "duration_s": 2.5,
  "daily": {
   "date": "2026-11-23",
-  "bets": 2,
-  "bounce_bets": 2,
+  "bets": 4,
+  "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.805
@@ -16,12 +16,29 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "settled",
-   "market": "aec-wta-martre-ayaakl-2026-11-23",
-   "pnl": 0.89
+   "type": "buy",
+   "game": "wta:Geerlings@Estevez",
+   "market": "aec-wta-josest-arigee-2026-11-23",
+   "side": "long",
+   "team": "Josefina Estevez",
+   "ask": 0.06,
+   "qty": 1.6667,
+   "stake": 0.1,
+   "mode": "bounce"
+  },
+  {
+   "type": "buy",
+   "game": "wta:Oz@Osborne",
+   "market": "aec-wta-aleosb-ipeoz-2026-11-23",
+   "side": "long",
+   "team": "Alexandra Osborne",
+   "ask": 0.05,
+   "qty": 2.0,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ],
  "errors": [],
- "balance": 10.1891,
- "balance_updated": "2026-11-23 10:20 ET"
+ "balance": 10.0791,
+ "balance_updated": "2026-11-23 10:25 ET"
 }
