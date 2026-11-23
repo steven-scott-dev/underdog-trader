@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 09:55 ET · Mode: **LIVE** · Result: OK (2.2s)
+Updated: 2026-11-23 10:00 ET · Mode: **LIVE** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
 - Realized P&L: -0.09
-- Account balance: $11.19 (as of 2026-11-23 09:55 ET)
+- Account balance: $11.19 (as of 2026-11-23 10:00 ET)
 
 ## Live positions
 - Berta Bonardi vs. Carole Monnet: 2.5 @ avg 0.0440
@@ -16,7 +16,7 @@ Updated: 2026-11-23 09:55 ET · Mode: **LIVE** · Result: OK (2.2s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "opened": "2026-11-23 09:10 ET", "side": "long", "team": "Berta Bonardi", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-berbon-carmon-2026-11-23", "pnl": -0.085}`
+- _none_
 
 ## Order errors
 - _none_
