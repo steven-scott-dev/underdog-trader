@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 10:25 ET · Mode: **LIVE** · Result: OK (2.5s)
+Updated: 2026-11-23 10:30 ET · Mode: **LIVE** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
 - Realized P&L: +0.81
-- Account balance: $10.08 (as of 2026-11-23 10:25 ET)
+- Account balance: $9.98 (as of 2026-11-23 10:30 ET)
 
 ## Live positions
-- _none_
+- Alexandra Osborne vs. Ipek Oz: 2.0 @ avg 0.0550
+- Josefina Estevez vs. Ariana Geerlings Martinez: 1.66 @ avg 0.0600
 
 ## Recent live history
 - `{"market": "aec-wta-aleosb-ipeoz-2026-11-23", "opened": "2026-11-23 10:25 ET", "side": "long", "team": "Alexandra Osborne", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
@@ -19,8 +20,7 @@ Updated: 2026-11-23 10:25 ET · Mode: **LIVE** · Result: OK (2.5s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "opened": "2026-11-23 09:10 ET", "side": "long", "team": "Berta Bonardi", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Geerlings@Estevez", "market": "aec-wta-josest-arigee-2026-11-23", "side": "long", "team": "Josefina Estevez", "ask": 0.06, "qty": 1.6667, "stake": 0.1, "mode": "bounce"}`
-- `{"type": "buy", "game": "wta:Oz@Osborne", "market": "aec-wta-aleosb-ipeoz-2026-11-23", "side": "long", "team": "Alexandra Osborne", "ask": 0.05, "qty": 2.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
