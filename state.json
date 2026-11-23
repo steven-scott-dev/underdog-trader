@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 23,
- "bounce_bets": 18,
+ "bets": 24,
+ "bounce_bets": 19,
  "realized": -1.9711,
  "paper_positions": [],
  "paper_history": [],
@@ -326,6 +326,15 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-edm-stl-2026-11-22",
+   "opened": "2026-11-22 21:05 ET",
+   "side": "short",
+   "team": "Blues",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -430,6 +439,12 @@
     1795398363.0568688,
     0.1
    ]
+  ],
+  "aec-nhl-edm-stl-2026-11-22": [
+   [
+    1795399551.1345036,
+    0.09
+   ]
   ]
  },
  "cooldowns": {
@@ -446,6 +461,6 @@
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599,
   "aec-nba-okc-mia-2026-11-22": 1795397134.926499
  },
- "balance": 12.2891,
- "balance_updated": "2026-11-22 21:00 ET"
+ "balance": 13.2892,
+ "balance_updated": "2026-11-22 21:05 ET"
 }
