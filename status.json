@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T19:30:50.636130-05:00",
+ "updated": "2026-11-22T19:35:49.361445-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 12.9,
+ "duration_s": 12.7,
  "daily": {
   "date": "2026-11-22",
-  "bets": 20,
-  "bounce_bets": 15,
+  "bets": 21,
+  "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.8861
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:OKC@MIA",
+   "market": "aec-nba-okc-mia-2026-11-22",
+   "side": "long",
+   "team": "Thunder",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 11.7766,
- "balance_updated": "2026-11-22 19:30 ET"
+ "balance": 11.6666,
+ "balance_updated": "2026-11-22 19:35 ET"
 }

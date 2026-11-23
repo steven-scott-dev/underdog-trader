@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 20,
- "bounce_bets": 15,
+ "bets": 21,
+ "bounce_bets": 16,
  "realized": -1.8861,
  "paper_positions": [],
  "paper_history": [],
@@ -293,6 +293,15 @@
    "closed": "2026-11-22 19:00 ET",
    "pnl": -0.0675,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-okc-mia-2026-11-22",
+   "opened": "2026-11-22 19:35 ET",
+   "side": "long",
+   "team": "Thunder",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -379,6 +388,12 @@
     1795391140.6357806,
     0.07
    ]
+  ],
+  "aec-nba-okc-mia-2026-11-22": [
+   [
+    1795394137.5082686,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -394,6 +409,6 @@
   "aec-nfl-lv-den-2026-11-22": 1795393840.4921193,
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599
  },
- "balance": 11.7766,
- "balance_updated": "2026-11-22 19:30 ET"
+ "balance": 11.6666,
+ "balance_updated": "2026-11-22 19:35 ET"
 }
