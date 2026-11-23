@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 13:05 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-23 13:10 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: +1.67
-- Account balance: $11.22 (as of 2026-11-23 13:05 ET)
+- Account balance: $11.22 (as of 2026-11-23 13:10 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-23 13:05 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-wta-martre-ayaakl-2026-11-23", "closed": "2026-11-23 10:20 ET", "pnl": 0.89, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-wta-nurbra-anazol-2026-11-23", "pnl": 1.0}`
+- _none_
 
 ## Order errors
 - _none_
