@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T20:35:49.172998-05:00",
+ "updated": "2026-11-22T20:40:50.039647-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.3,
+ "duration_s": 12.4,
  "daily": {
   "date": "2026-11-22",
-  "bets": 21,
-  "bounce_bets": 16,
+  "bets": 22,
+  "bounce_bets": 17,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.9711
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:DEN@CHI",
+   "market": "aec-nba-den-chi-2026-11-22",
+   "side": "short",
+   "team": "Bulls",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 10.2591,
- "balance_updated": "2026-11-22 20:35 ET"
+ "balance": 11.3991,
+ "balance_updated": "2026-11-22 20:40 ET"
 }

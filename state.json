@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 21,
- "bounce_bets": 16,
+ "bets": 22,
+ "bounce_bets": 17,
  "realized": -1.9711,
  "paper_positions": [],
  "paper_history": [],
@@ -308,6 +308,15 @@
    "closed": "2026-11-22 19:55 ET",
    "pnl": -0.085,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-den-chi-2026-11-22",
+   "opened": "2026-11-22 20:40 ET",
+   "side": "short",
+   "team": "Bulls",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -400,6 +409,12 @@
     1795394137.5082686,
     0.08
    ]
+  ],
+  "aec-nba-den-chi-2026-11-22": [
+   [
+    1795398038.679773,
+    0.08
+   ]
   ]
  },
  "cooldowns": {
@@ -416,6 +431,6 @@
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599,
   "aec-nba-okc-mia-2026-11-22": 1795397134.926499
  },
- "balance": 10.2591,
- "balance_updated": "2026-11-22 20:35 ET"
+ "balance": 11.3991,
+ "balance_updated": "2026-11-22 20:40 ET"
 }

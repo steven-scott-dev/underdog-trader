@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 20:35 ET · Mode: **LIVE** · Result: OK (14.3s)
+Updated: 2026-11-22 20:40 ET · Mode: **LIVE** · Result: OK (12.4s)
 
 ## Today
-- Bets placed: 21 / 100 (main 5, bounce 16)
+- Bets placed: 22 / 100 (main 5, bounce 17)
 - Realized P&L: -1.97
-- Account balance: $10.26 (as of 2026-11-22 20:35 ET)
+- Account balance: $11.40 (as of 2026-11-22 20:40 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-nba-den-chi-2026-11-22", "opened": "2026-11-22 20:40 ET", "side": "short", "team": "Bulls", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 - `{"market": "aec-nba-okc-mia-2026-11-22", "closed": "2026-11-22 19:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
 - `{"market": "aec-nba-okc-mia-2026-11-22", "opened": "2026-11-22 19:35 ET", "side": "long", "team": "Thunder", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 - `{"market": "aec-nfl-lv-den-2026-11-22", "closed": "2026-11-22 19:00 ET", "pnl": -0.0675, "reason": "stop-loss"}`
@@ -18,10 +19,9 @@ Updated: 2026-11-22 20:35 ET · Mode: **LIVE** · Result: OK (14.3s)
 - `{"market": "aec-wta-leygor-rebmas-2026-11-22", "closed": "2026-11-22 17:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
 - `{"market": "aec-nfl-lv-den-2026-11-22", "opened": "2026-11-22 17:45 ET", "side": "long", "team": "Raiders", "entry": 0.085, "qty": 1.1765, "mode": "bounce"}`
 - `{"market": "aec-wta-leygor-rebmas-2026-11-22", "opened": "2026-11-22 17:20 ET", "side": "long", "team": "Leyre Romero Gormaz", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
-- `{"market": "aec-nfl-lv-den-2026-11-22", "closed": "2026-11-22 17:15 ET", "pnl": -0.0824, "reason": "stop-loss"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "nba:DEN@CHI", "market": "aec-nba-den-chi-2026-11-22", "side": "short", "team": "Bulls", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
 
 ## Order errors
 - _none_
