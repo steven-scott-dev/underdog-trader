@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 19:55 ET · Mode: **LIVE** · Result: OK (3.2s)
+Updated: 2026-11-22 20:00 ET · Mode: **LIVE** · Result: OK (13.6s)
 
 ## Today
 - Bets placed: 21 / 100 (main 5, bounce 16)
 - Realized P&L: -1.97
-- Account balance: $10.26 (as of 2026-11-22 19:55 ET)
+- Account balance: $10.26 (as of 2026-11-22 20:00 ET)
 
 ## Live positions
-- OKC Thunder vs. MIA Heat: 1.25 @ avg 0.0880
+- _none_
 
 ## Recent live history
 - `{"market": "aec-nba-okc-mia-2026-11-22", "closed": "2026-11-22 19:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-22 19:55 ET · Mode: **LIVE** · Result: OK (3.2s)
 - `{"market": "aec-nfl-lv-den-2026-11-22", "closed": "2026-11-22 17:15 ET", "pnl": -0.0824, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-okc-mia-2026-11-22", "pnl": -0.085}`
+- _none_
 
 ## Order errors
 - _none_

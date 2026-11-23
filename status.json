@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-22T19:55:37.552605-05:00",
+ "updated": "2026-11-22T20:00:47.568019-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.2,
+ "duration_s": 13.6,
  "daily": {
   "date": "2026-11-22",
   "bets": 21,
@@ -13,24 +13,9 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nba-okc-mia-2026-11-22": {
-   "qty": 1.25,
-   "avg_px": 0.088,
-   "cash_value": 0.025,
-   "team_id": 27,
-   "outcome": "Thunder",
-   "title": "OKC Thunder vs. MIA Heat"
-  }
- },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nba-okc-mia-2026-11-22",
-   "pnl": -0.085
-  }
- ],
+ "live_positions": {},
+ "actions": [],
  "errors": [],
  "balance": 10.2591,
- "balance_updated": "2026-11-22 19:55 ET"
+ "balance_updated": "2026-11-22 20:00 ET"
 }
