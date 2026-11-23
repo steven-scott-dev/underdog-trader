@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 4,
- "bounce_bets": 4,
+ "bets": 5,
+ "bounce_bets": 5,
  "realized": 0.6686,
  "paper_positions": [],
  "paper_history": [],
@@ -65,10 +65,19 @@
    "closed": "2026-11-23 11:25 ET",
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-nurbra-anazol-2026-11-23",
+   "opened": "2026-11-23 11:55 ET",
+   "side": "short",
+   "team": "Anastasia Zolotareva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
- "balance": 10.0161,
- "balance_updated": "2026-11-23 11:50 ET",
+ "balance": 11.0162,
+ "balance_updated": "2026-11-23 11:55 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -92,6 +101,12 @@
    [
     1795447540.1722693,
     0.05
+   ]
+  ],
+  "aec-wta-nurbra-anazol-2026-11-23": [
+   [
+    1795452935.879501,
+    0.09
    ]
   ]
  },
