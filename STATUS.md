@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 11:20 ET · Mode: **LIVE** · Result: OK (2.3s)
+Updated: 2026-11-23 11:25 ET · Mode: **LIVE** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
-- Realized P&L: +0.74
-- Account balance: $10.00 (as of 2026-11-23 11:20 ET)
+- Realized P&L: +0.67
+- Account balance: $10.02 (as of 2026-11-23 11:25 ET)
 
 ## Live positions
 - Alexandra Osborne vs. Ipek Oz: 2.0 @ avg 0.0550
 
 ## Recent live history
+- `{"market": "aec-wta-aleosb-ipeoz-2026-11-23", "closed": "2026-11-23 11:25 ET", "pnl": -0.07, "reason": "stop-loss"}`
 - `{"market": "aec-wta-josest-arigee-2026-11-23", "closed": "2026-11-23 11:15 ET", "pnl": -0.0664, "reason": "stop-loss"}`
 - `{"market": "aec-wta-aleosb-ipeoz-2026-11-23", "opened": "2026-11-23 10:25 ET", "side": "long", "team": "Alexandra Osborne", "entry": 0.05, "qty": 2.0, "mode": "bounce"}`
 - `{"market": "aec-wta-josest-arigee-2026-11-23", "opened": "2026-11-23 10:25 ET", "side": "long", "team": "Josefina Estevez", "entry": 0.06, "qty": 1.6667, "mode": "bounce"}`
@@ -20,7 +21,7 @@ Updated: 2026-11-23 11:20 ET · Mode: **LIVE** · Result: OK (2.3s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "opened": "2026-11-23 09:10 ET", "side": "long", "team": "Berta Bonardi", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "stop_loss", "market": "aec-wta-aleosb-ipeoz-2026-11-23", "pnl": -0.07}`
 
 ## Order errors
 - _none_
