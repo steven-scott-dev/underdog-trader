@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-23T11:10:46.822473-05:00",
+ "updated": "2026-11-23T11:15:45.888594-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-23",
   "bets": 4,
   "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.805
+  "realized": 0.7386
  },
  "paper_positions": [],
  "paper_history": [],
@@ -25,14 +25,20 @@
   "aec-wta-josest-arigee-2026-11-23": {
    "qty": 1.66,
    "avg_px": 0.06,
-   "cash_value": 0.083,
+   "cash_value": 0.0332,
    "team_id": 48130,
    "outcome": "Josefina Estevez",
    "title": "Josefina Estevez vs. Ariana Geerlings Martinez"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-josest-arigee-2026-11-23",
+   "pnl": -0.0664
+  }
+ ],
  "errors": [],
- "balance": 9.9795,
- "balance_updated": "2026-11-23 11:10 ET"
+ "balance": 9.9961,
+ "balance_updated": "2026-11-23 11:15 ET"
 }

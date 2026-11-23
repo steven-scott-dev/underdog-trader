@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 4,
  "bounce_bets": 4,
- "realized": 0.805,
+ "realized": 0.7386,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -53,10 +53,16 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-josest-arigee-2026-11-23",
+   "closed": "2026-11-23 11:15 ET",
+   "pnl": -0.0664,
+   "reason": "stop-loss"
   }
  ],
- "balance": 9.9795,
- "balance_updated": "2026-11-23 11:10 ET",
+ "balance": 9.9961,
+ "balance_updated": "2026-11-23 11:15 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -85,6 +91,7 @@
  },
  "settled_pending": {},
  "cooldowns": {
-  "aec-wta-berbon-carmon-2026-11-23": 1795447544.9728322
+  "aec-wta-berbon-carmon-2026-11-23": 1795447544.9728322,
+  "aec-wta-josest-arigee-2026-11-23": 1795452344.4792929
  }
 }
