@@ -1,15 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 11:15 ET · Mode: **LIVE** · Result: OK (2.9s)
+Updated: 2026-11-23 11:20 ET · Mode: **LIVE** · Result: OK (2.3s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
 - Realized P&L: +0.74
-- Account balance: $10.00 (as of 2026-11-23 11:15 ET)
+- Account balance: $10.00 (as of 2026-11-23 11:20 ET)
 
 ## Live positions
 - Alexandra Osborne vs. Ipek Oz: 2.0 @ avg 0.0550
-- Josefina Estevez vs. Ariana Geerlings Martinez: 1.66 @ avg 0.0600
 
 ## Recent live history
 - `{"market": "aec-wta-josest-arigee-2026-11-23", "closed": "2026-11-23 11:15 ET", "pnl": -0.0664, "reason": "stop-loss"}`
@@ -21,7 +20,7 @@ Updated: 2026-11-23 11:15 ET · Mode: **LIVE** · Result: OK (2.9s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "opened": "2026-11-23 09:10 ET", "side": "long", "team": "Berta Bonardi", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-josest-arigee-2026-11-23", "pnl": -0.0664}`
+- _none_
 
 ## Order errors
 - _none_
