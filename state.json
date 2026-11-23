@@ -2,7 +2,7 @@
  "date": "2026-11-22",
  "bets": 27,
  "bounce_bets": 20,
- "realized": -1.4997,
+ "realized": -0.5997,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -380,6 +380,12 @@
    "closed": "2026-11-22 22:45 ET",
    "pnl": -0.0882,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-chi-van-2026-11-22",
+   "closed": "2026-11-22 22:50 ET",
+   "pnl": 0.9,
+   "reason": "settled"
   }
  ],
  "px_hist": {
@@ -527,5 +533,5 @@
   "aec-nfl-min-sf-2026-11-22": 1795407340.7763934
  },
  "balance": 11.4091,
- "balance_updated": "2026-11-22 22:45 ET"
+ "balance_updated": "2026-11-22 22:50 ET"
 }

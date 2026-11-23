@@ -1,36 +1,27 @@
 {
- "updated": "2026-11-22T22:45:51.680179-05:00",
+ "updated": "2026-11-22T22:50:45.438817-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 11.2,
+ "duration_s": 12.3,
  "daily": {
   "date": "2026-11-22",
   "bets": 27,
   "bounce_bets": 20,
   "max_total": 100,
   "max_open": 5,
-  "realized": -1.4997
+  "realized": -0.5997
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nfl-min-sf-2026-11-22": {
-   "qty": 1.81,
-   "avg_px": 0.055,
-   "cash_value": 0.0114,
-   "team_id": 68,
-   "outcome": "Vikings",
-   "title": "MIN Vikings vs. SF 49ers"
-  }
- },
+ "live_positions": {},
  "actions": [
   {
-   "type": "stop_loss",
-   "market": "aec-nfl-min-sf-2026-11-22",
-   "pnl": -0.0882
+   "type": "settled",
+   "market": "aec-nhl-chi-van-2026-11-22",
+   "pnl": 0.9
   }
  ],
  "errors": [],
  "balance": 11.4091,
- "balance_updated": "2026-11-22 22:45 ET"
+ "balance_updated": "2026-11-22 22:50 ET"
 }
