@@ -1,11 +1,29 @@
 {
  "date": "2026-11-23",
- "bets": 0,
- "bounce_bets": 0,
+ "bets": 1,
+ "bounce_bets": 1,
  "realized": 0.0,
  "paper_positions": [],
  "paper_history": [],
- "live_history": [],
- "balance": 10.4091,
- "balance_updated": "2026-11-23 09:05 ET"
+ "live_history": [
+  {
+   "market": "aec-wta-berbon-carmon-2026-11-23",
+   "opened": "2026-11-23 09:10 ET",
+   "side": "long",
+   "team": "Berta Bonardi",
+   "entry": 0.04,
+   "qty": 2.5,
+   "mode": "bounce"
+  }
+ ],
+ "balance": 10.2991,
+ "balance_updated": "2026-11-23 09:10 ET",
+ "px_hist": {
+  "aec-wta-berbon-carmon-2026-11-23": [
+   [
+    1795443040.955105,
+    0.04
+   ]
+  ]
+ }
 }
