@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 13:45 ET · Mode: **LIVE** · Result: OK (1.9s)
+Updated: 2026-11-23 13:50 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 6 / 100 (main 0, bounce 6)
 - Realized P&L: +2.98
-- Account balance: $9.80 (as of 2026-11-23 13:45 ET)
+- Account balance: $9.80 (as of 2026-11-23 13:50 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-23 13:45 ET · Mode: **LIVE** · Result: OK (1.9s)
 - `{"market": "aec-wta-josest-arigee-2026-11-23", "opened": "2026-11-23 10:25 ET", "side": "long", "team": "Josefina Estevez", "entry": 0.06, "qty": 1.6667, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-wta-varlep-abiren-2026-11-23", "pnl": 1.3143}`
+- _none_
 
 ## Order errors
 - _none_
