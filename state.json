@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "bets": 26,
+ "bets": 27,
  "bounce_bets": 20,
  "realized": -1.4115,
  "paper_positions": [],
@@ -365,6 +365,15 @@
    "closed": "2026-11-22 22:05 ET",
    "pnl": 1.0,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nba-bos-gs-2026-11-22",
+   "opened": "2026-11-22 22:40 ET",
+   "side": "short",
+   "team": "Warriors",
+   "entry": 0.32,
+   "qty": 1.5625,
+   "mode": "main"
   }
  ],
  "px_hist": {
@@ -487,6 +496,12 @@
     1795401357.0675867,
     0.055
    ]
+  ],
+  "aec-nba-bos-gs-2026-11-22": [
+   [
+    1795405247.3972535,
+    0.32
+   ]
   ]
  },
  "cooldowns": {
@@ -504,6 +519,6 @@
   "aec-nba-okc-mia-2026-11-22": 1795397134.926499,
   "aec-nhl-pit-dal-2026-11-22": 1795402847.3324478
  },
- "balance": 11.4556,
- "balance_updated": "2026-11-22 22:35 ET"
+ "balance": 11.4,
+ "balance_updated": "2026-11-22 22:40 ET"
 }
