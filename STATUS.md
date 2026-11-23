@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 15:55 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-23 16:00 ET · Mode: **LIVE** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 7 / 100 (main 0, bounce 7)
 - Realized P&L: +2.89
-- Account balance: $9.70 (as of 2026-11-23 15:55 ET)
+- Account balance: $9.70 (as of 2026-11-23 16:00 ET)
 
 ## Live positions
-- Despina Papamichail vs. Julia Riera: 1.0 @ avg 0.1000
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-despap-julrie-2026-11-23", "closed": "2026-11-23 15:55 ET", "pnl": -0.09, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-23 15:55 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-wta-josest-arigee-2026-11-23", "closed": "2026-11-23 11:15 ET", "pnl": -0.0664, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-despap-julrie-2026-11-23", "pnl": -0.09}`
+- _none_
 
 ## Order errors
 - _none_
