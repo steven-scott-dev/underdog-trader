@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 20:46 ET · Mode: **LIVE** · Result: OK (23.2s)
+Updated: 2026-11-22 20:50 ET · Mode: **LIVE** · Result: OK (13.6s)
 
 ## Today
 - Bets placed: 23 / 100 (main 5, bounce 18)
 - Realized P&L: -1.97
-- Account balance: $12.29 (as of 2026-11-22 20:46 ET)
+- Account balance: $12.29 (as of 2026-11-22 20:50 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-22 20:46 ET · Mode: **LIVE** · Result: OK (23.2s)
 - `{"market": "aec-nfl-lv-den-2026-11-22", "opened": "2026-11-22 17:45 ET", "side": "long", "team": "Raiders", "entry": 0.085, "qty": 1.1765, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CHI@VAN", "market": "aec-nhl-chi-van-2026-11-22", "side": "short", "team": "Canucks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
