@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 11:25 ET · Mode: **LIVE** · Result: OK (2.1s)
+Updated: 2026-11-23 11:30 ET · Mode: **LIVE** · Result: OK (1.1s)
 
 ## Today
 - Bets placed: 4 / 100 (main 0, bounce 4)
 - Realized P&L: +0.67
-- Account balance: $10.02 (as of 2026-11-23 11:25 ET)
+- Account balance: $10.02 (as of 2026-11-23 11:30 ET)
 
 ## Live positions
-- Alexandra Osborne vs. Ipek Oz: 2.0 @ avg 0.0550
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-aleosb-ipeoz-2026-11-23", "closed": "2026-11-23 11:25 ET", "pnl": -0.07, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-23 11:25 ET · Mode: **LIVE** · Result: OK (2.1s)
 - `{"market": "aec-wta-berbon-carmon-2026-11-23", "opened": "2026-11-23 09:10 ET", "side": "long", "team": "Berta Bonardi", "entry": 0.04, "qty": 2.5, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-aleosb-ipeoz-2026-11-23", "pnl": -0.07}`
+- _none_
 
 ## Order errors
 - _none_
