@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 6,
- "bounce_bets": 6,
+ "bets": 7,
+ "bounce_bets": 7,
  "realized": 2.9829,
  "paper_positions": [],
  "paper_history": [],
@@ -95,10 +95,19 @@
    "closed": "2026-11-23 13:45 ET",
    "pnl": 1.3143,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-despap-julrie-2026-11-23",
+   "opened": "2026-11-23 14:50 ET",
+   "side": "long",
+   "team": "Despina Papamichail",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "balance": 9.7968,
- "balance_updated": "2026-11-23 14:45 ET",
+ "balance_updated": "2026-11-23 14:50 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -134,6 +143,12 @@
    [
     1795454439.4066432,
     0.07
+   ]
+  ],
+  "aec-wta-despap-julrie-2026-11-23": [
+   [
+    1795463437.9378972,
+    0.1
    ]
   ]
  },

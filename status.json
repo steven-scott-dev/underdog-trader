@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23T14:45:35.714007-05:00",
+ "updated": "2026-11-23T14:50:38.137330-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-23",
-  "bets": 6,
-  "bounce_bets": 6,
+  "bets": 7,
+  "bounce_bets": 7,
   "max_total": 100,
   "max_open": 5,
   "realized": 2.9829
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Riera@Papamichail",
+   "market": "aec-wta-despap-julrie-2026-11-23",
+   "side": "long",
+   "team": "Despina Papamichail",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
  "balance": 9.7968,
- "balance_updated": "2026-11-23 14:45 ET"
+ "balance_updated": "2026-11-23 14:50 ET"
 }
