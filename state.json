@@ -1,7 +1,7 @@
 {
  "date": "2026-11-22",
- "bets": 22,
- "bounce_bets": 17,
+ "bets": 23,
+ "bounce_bets": 18,
  "realized": -1.9711,
  "paper_positions": [],
  "paper_history": [],
@@ -317,6 +317,15 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-chi-van-2026-11-22",
+   "opened": "2026-11-22 20:46 ET",
+   "side": "short",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "px_hist": {
@@ -415,6 +424,12 @@
     1795398038.679773,
     0.08
    ]
+  ],
+  "aec-nhl-chi-van-2026-11-22": [
+   [
+    1795398363.0568688,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -431,6 +446,6 @@
   "aec-wta-leygor-rebmas-2026-11-22": 1795389932.84599,
   "aec-nba-okc-mia-2026-11-22": 1795397134.926499
  },
- "balance": 11.3991,
- "balance_updated": "2026-11-22 20:40 ET"
+ "balance": 12.2891,
+ "balance_updated": "2026-11-22 20:46 ET"
 }

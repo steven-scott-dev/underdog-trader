@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-22T20:40:50.039647-05:00",
+ "updated": "2026-11-22T20:46:03.706513-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 12.4,
+ "duration_s": 23.2,
  "daily": {
   "date": "2026-11-22",
-  "bets": 22,
-  "bounce_bets": 17,
+  "bets": 23,
+  "bounce_bets": 18,
   "max_total": 100,
   "max_open": 5,
   "realized": -1.9711
@@ -17,17 +17,17 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nba:DEN@CHI",
-   "market": "aec-nba-den-chi-2026-11-22",
+   "game": "nhl:CHI@VAN",
+   "market": "aec-nhl-chi-van-2026-11-22",
    "side": "short",
-   "team": "Bulls",
-   "ask": 0.08,
-   "qty": 1.25,
+   "team": "Canucks",
+   "ask": 0.1,
+   "qty": 1.0,
    "stake": 0.1,
    "mode": "bounce"
   }
  ],
  "errors": [],
- "balance": 11.3991,
- "balance_updated": "2026-11-22 20:40 ET"
+ "balance": 12.2891,
+ "balance_updated": "2026-11-22 20:46 ET"
 }
