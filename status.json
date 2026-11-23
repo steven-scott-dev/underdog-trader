@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T11:05:46.935210-05:00",
+ "updated": "2026-11-23T11:10:46.822473-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-23",
   "bets": 4,
@@ -17,7 +17,7 @@
   "aec-wta-aleosb-ipeoz-2026-11-23": {
    "qty": 2.0,
    "avg_px": 0.055,
-   "cash_value": 0.28,
+   "cash_value": 0.12,
    "team_id": 42631,
    "outcome": "Alexandra Osborne",
    "title": "Alexandra Osborne vs. Ipek Oz"
@@ -25,7 +25,7 @@
   "aec-wta-josest-arigee-2026-11-23": {
    "qty": 1.66,
    "avg_px": 0.06,
-   "cash_value": 0.0664,
+   "cash_value": 0.083,
    "team_id": 48130,
    "outcome": "Josefina Estevez",
    "title": "Josefina Estevez vs. Ariana Geerlings Martinez"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.9795,
- "balance_updated": "2026-11-23 11:05 ET"
+ "balance_updated": "2026-11-23 11:10 ET"
 }
