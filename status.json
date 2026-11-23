@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T10:35:40.571684-05:00",
+ "updated": "2026-11-23T10:40:39.950807-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.1,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-23",
   "bets": 4,
@@ -25,7 +25,7 @@
   "aec-wta-josest-arigee-2026-11-23": {
    "qty": 1.66,
    "avg_px": 0.06,
-   "cash_value": 0.083,
+   "cash_value": 0.0664,
    "team_id": 48130,
    "outcome": "Josefina Estevez",
    "title": "Josefina Estevez vs. Ariana Geerlings Martinez"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.9795,
- "balance_updated": "2026-11-23 10:35 ET"
+ "balance_updated": "2026-11-23 10:40 ET"
 }
