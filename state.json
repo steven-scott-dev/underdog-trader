@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 2,
  "bounce_bets": 2,
- "realized": 0.0,
+ "realized": -0.085,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -23,10 +23,16 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-berbon-carmon-2026-11-23",
+   "closed": "2026-11-23 09:55 ET",
+   "pnl": -0.085,
+   "reason": "stop-loss"
   }
  ],
  "balance": 11.1891,
- "balance_updated": "2026-11-23 09:50 ET",
+ "balance_updated": "2026-11-23 09:55 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -41,5 +47,8 @@
    ]
   ]
  },
- "settled_pending": {}
+ "settled_pending": {},
+ "cooldowns": {
+  "aec-wta-berbon-carmon-2026-11-23": 1795447544.9728322
+ }
 }

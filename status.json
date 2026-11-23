@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-23T09:50:40.314563-05:00",
+ "updated": "2026-11-23T09:55:46.126688-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.0,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-23",
   "bets": 2,
   "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": -0.085
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,20 @@
   "aec-wta-berbon-carmon-2026-11-23": {
    "qty": 2.5,
    "avg_px": 0.044,
-   "cash_value": 0.05,
+   "cash_value": 0.025,
    "team_id": 42623,
    "outcome": "Berta Bonardi",
    "title": "Berta Bonardi vs. Carole Monnet"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-berbon-carmon-2026-11-23",
+   "pnl": -0.085
+  }
+ ],
  "errors": [],
  "balance": 11.1891,
- "balance_updated": "2026-11-23 09:50 ET"
+ "balance_updated": "2026-11-23 09:55 ET"
 }
