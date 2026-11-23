@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-22 21:05 ET · Mode: **LIVE** · Result: OK (14.9s)
+Updated: 2026-11-22 21:11 ET · Mode: **LIVE** · Result: OK (23.6s)
 
 ## Today
 - Bets placed: 24 / 100 (main 5, bounce 19)
 - Realized P&L: -1.97
-- Account balance: $13.29 (as of 2026-11-22 21:05 ET)
+- Account balance: $13.29 (as of 2026-11-22 21:11 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-22 21:05 ET · Mode: **LIVE** · Result: OK (14.9s)
 - `{"market": "aec-wta-leygor-rebmas-2026-11-22", "closed": "2026-11-22 17:55 ET", "pnl": -0.085, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:EDM@STL", "market": "aec-nhl-edm-stl-2026-11-22", "side": "short", "team": "Blues", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
