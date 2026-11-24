@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-23T22:10:39.754589-05:00",
+ "updated": "2026-11-23T22:15:45.232153-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.5,
+ "duration_s": 4.6,
  "daily": {
   "date": "2026-11-23",
   "bets": 15,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": 5.8931
+  "realized": 6.8217
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-nhl-tor-nyi-2026-11-23",
+   "pnl": 0.9286
+  }
+ ],
  "errors": [],
- "balance": 10.1142,
- "balance_updated": "2026-11-23 22:10 ET"
+ "balance": 8.9242,
+ "balance_updated": "2026-11-23 22:15 ET"
 }

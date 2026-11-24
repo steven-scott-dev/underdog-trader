@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 15,
  "bounce_bets": 10,
- "realized": 5.8931,
+ "realized": 6.8217,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -224,10 +224,16 @@
    "closed": "2026-11-23 22:05 ET",
    "pnl": 0.634,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-tor-nyi-2026-11-23",
+   "closed": "2026-11-23 22:15 ET",
+   "pnl": 0.9286,
+   "reason": "settled"
   }
  ],
- "balance": 10.1142,
- "balance_updated": "2026-11-23 22:10 ET",
+ "balance": 8.9242,
+ "balance_updated": "2026-11-23 22:15 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
