@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T21:45:50.094198-05:00",
+ "updated": "2026-11-23T21:50:50.449157-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.1,
+ "duration_s": 13.1,
  "daily": {
   "date": "2026-11-23",
-  "bets": 13,
+  "bets": 14,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
@@ -14,18 +14,10 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nba-mil-tor-2026-11-23": {
-   "qty": 0.89,
-   "avg_px": 0.291,
-   "cash_value": 0.4272,
-   "team_id": 41,
-   "outcome": "Bucks",
-   "title": "MIL Bucks vs. TOR Raptors"
-  },
   "aec-nba-okc-ind-2026-11-23": {
    "qty": 0.8,
    "avg_px": 0.31,
-   "cash_value": 0.312,
+   "cash_value": 0.136,
    "team_id": 27,
    "outcome": "Thunder",
    "title": "OKC Thunder vs. IND Pacers"
@@ -39,8 +31,20 @@
    "title": "CGY Flames vs. OTT Senators"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:UTA@WPG",
+   "market": "aec-nhl-uta-wpg-2026-11-23",
+   "side": "long",
+   "team": "Mammoth",
+   "ask": 0.18,
+   "qty": 1.3889,
+   "stake": 0.25,
+   "mode": "main"
+  }
+ ],
  "errors": [],
- "balance": 8.7283,
- "balance_updated": "2026-11-23 21:45 ET"
+ "balance": 9.0929,
+ "balance_updated": "2026-11-23 21:50 ET"
 }

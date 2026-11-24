@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "bets": 13,
+ "bets": 14,
  "bounce_bets": 10,
  "realized": 5.7529,
  "paper_positions": [],
@@ -182,10 +182,19 @@
    "entry": 0.31,
    "qty": 0.8065,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-uta-wpg-2026-11-23",
+   "opened": "2026-11-23 21:50 ET",
+   "side": "long",
+   "team": "Mammoth",
+   "entry": 0.18,
+   "qty": 1.3889,
+   "mode": "main"
   }
  ],
- "balance": 8.7283,
- "balance_updated": "2026-11-23 21:45 ET",
+ "balance": 9.0929,
+ "balance_updated": "2026-11-23 21:50 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -263,6 +272,12 @@
    [
     1795488036.085955,
     0.31
+   ]
+  ],
+  "aec-nhl-uta-wpg-2026-11-23": [
+   [
+    1795488649.4708915,
+    0.18
    ]
   ]
  },
