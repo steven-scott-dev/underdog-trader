@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "bets": 8,
+ "bets": 9,
  "bounce_bets": 5,
  "realized": 3.6709,
  "paper_positions": [],
@@ -119,6 +119,17 @@
    "closed": "2026-11-24 14:35 ET",
    "pnl": -0.085,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-solsie-vickas-2026-11-23",
+   "opened": "2026-11-24 15:00 ET",
+   "side": "short",
+   "team": "Victoria Jimenez Kasintseva",
+   "entry": 0.14,
+   "qty": 1.7857,
+   "mode": "main",
+   "tp_order_id": "DXZXZPJ015P1",
+   "tp_target": 0.35
   }
  ],
  "settled_pending": {
@@ -172,10 +183,16 @@
     1795544136.2753205,
     0.04
    ]
+  ],
+  "aec-wta-solsie-vickas-2026-11-23": [
+   [
+    1795550442.7609465,
+    0.14
+   ]
   ]
  },
- "balance": 5.1484,
- "balance_updated": "2026-11-24 14:50 ET",
+ "balance": 6.7048,
+ "balance_updated": "2026-11-24 15:00 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,

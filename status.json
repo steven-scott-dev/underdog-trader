@@ -1,14 +1,33 @@
 {
- "updated": "2026-11-24T14:55:36.176218-05:00",
- "mode": null,
- "ok": false,
- "duration_s": null,
- "daily": null,
- "paper_positions": null,
- "paper_history": null,
- "live_positions": null,
- "actions": null,
+ "updated": "2026-11-24T15:00:43.957314-05:00",
+ "mode": "live",
+ "ok": true,
+ "duration_s": 2.6,
+ "daily": {
+  "date": "2026-11-24",
+  "bets": 9,
+  "bounce_bets": 5,
+  "max_total": 100,
+  "max_open": 5,
+  "realized": 3.6709
+ },
+ "paper_positions": [],
+ "paper_history": [],
+ "live_positions": {},
+ "actions": [
+  {
+   "type": "buy",
+   "game": "wta:Kasintseva@Sierra",
+   "market": "aec-wta-solsie-vickas-2026-11-23",
+   "side": "short",
+   "team": "Victoria Jimenez Kasintseva",
+   "ask": 0.14,
+   "qty": 1.7857,
+   "stake": 0.25,
+   "mode": "main"
+  }
+ ],
  "errors": [],
- "balance": null,
- "balance_updated": null
+ "balance": 6.7048,
+ "balance_updated": "2026-11-24 15:00 ET"
 }
