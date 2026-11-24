@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 7,
- "bounce_bets": 4,
+ "bets": 8,
+ "bounce_bets": 5,
  "realized": 3.7559,
  "paper_positions": [],
  "paper_history": [],
@@ -104,6 +104,15 @@
    "closed": "2026-11-24 12:05 ET",
    "pnl": -0.0725,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-louaya-ireesc-2026-11-23",
+   "opened": "2026-11-24 13:15 ET",
+   "side": "long",
+   "team": "Lourdes Ayala",
+   "entry": 0.04,
+   "qty": 2.5,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {
@@ -151,10 +160,16 @@
     1795539645.4149191,
     0.08
    ]
+  ],
+  "aec-wta-louaya-ireesc-2026-11-23": [
+   [
+    1795544136.2753205,
+    0.04
+   ]
   ]
  },
- "balance": 5.2584,
- "balance_updated": "2026-11-24 13:10 ET",
+ "balance": 5.1484,
+ "balance_updated": "2026-11-24 13:15 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
