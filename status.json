@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T21:40:47.525869-05:00",
+ "updated": "2026-11-23T21:45:50.094198-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 12.3,
+ "duration_s": 15.1,
  "daily": {
   "date": "2026-11-23",
   "bets": 13,
@@ -17,34 +17,30 @@
   "aec-nba-mil-tor-2026-11-23": {
    "qty": 0.89,
    "avg_px": 0.291,
-   "cash_value": 0.4806,
+   "cash_value": 0.4272,
    "team_id": 41,
    "outcome": "Bucks",
    "title": "MIL Bucks vs. TOR Raptors"
   },
+  "aec-nba-okc-ind-2026-11-23": {
+   "qty": 0.8,
+   "avg_px": 0.31,
+   "cash_value": 0.312,
+   "team_id": 27,
+   "outcome": "Thunder",
+   "title": "OKC Thunder vs. IND Pacers"
+  },
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0555,
+   "cash_value": 0.0444,
    "team_id": 1507,
    "outcome": "Flames",
    "title": "CGY Flames vs. OTT Senators"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:OKC@IND",
-   "market": "aec-nba-okc-ind-2026-11-23",
-   "side": "long",
-   "team": "Thunder",
-   "ask": 0.31,
-   "qty": 0.8065,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
- "balance": 8.9763,
- "balance_updated": "2026-11-23 21:40 ET"
+ "balance": 8.7283,
+ "balance_updated": "2026-11-23 21:45 ET"
 }
