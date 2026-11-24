@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 4,
- "bounce_bets": 1,
+ "bets": 5,
+ "bounce_bets": 2,
  "realized": 3.9938,
  "paper_positions": [],
  "paper_history": [],
@@ -59,6 +59,15 @@
    "entry": 0.09,
    "qty": 1.1111,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-zhikul-vererj-2026-11-23",
+   "opened": "2026-11-24 09:50 ET",
+   "side": "long",
+   "team": "Zhibek Kulambayeva",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
@@ -86,8 +95,14 @@
     1795531540.858875,
     0.09
    ]
+  ],
+  "aec-wta-zhikul-vererj-2026-11-23": [
+   [
+    1795531849.1540365,
+    0.09
+   ]
   ]
  },
  "balance": 7.5411,
- "balance_updated": "2026-11-24 09:45 ET"
+ "balance_updated": "2026-11-24 09:50 ET"
 }
