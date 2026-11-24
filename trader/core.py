@@ -685,18 +685,35 @@ def place_buy(client, cfg, market_slug, side, ask, errors=None):
     return {"id": order.get("id"), "qty": qty, "price": ask}
 
 
-def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty):
+def tp_target_for(cfg, entry):
+    """Resting take-profit price for a main entry (2-decimal markets)."""
+    return min(round(entry * cfg["take_profit_mult"], 2), 0.99)
+
+
+def note_tp_order(state, slug, order_id, target):
+    """Record the resting take-profit order on the position's open entry
+    so a later pass can check whether it filled. Without this, a filled
+    TP is invisible: the position leaves the portfolio, the manage loop
+    never sees it, and the settled branch later records a phantom
+    settlement for a position that already exited at a profit."""
+    for h in reversed(state.get("live_history", [])):
+        if h.get("market") == slug and "opened" in h:
+            h["tp_order_id"] = order_id
+            h["tp_target"] = target
+            return
+
+
+def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty,
+                       state=None):
     # markets allow 2-decimal prices only (0.975 was rejected); round the
     # target to cents so the TP order is accepted.
-    target = round(entry_px * cfg["take_profit_mult"], 2)
-    if target >= 1.0:
-        target = 0.99
+    target = tp_target_for(cfg, entry_px)
     exists = open_sell_exists(client, market_slug)
     if exists is None:
         log("  cannot verify open orders; skipping TP placement this run")
-        return
+        return None
     if exists:
-        return
+        return None
     intent = "ORDER_INTENT_SELL_LONG" if side == "long" else "ORDER_INTENT_SELL_SHORT"
     order = client.orders.create({
         "marketSlug": market_slug, "intent": intent,
@@ -704,6 +721,66 @@ def ensure_take_profit(client, cfg, market_slug, side, entry_px, qty):
         "price": {"value": f"{target:.4f}", "currency": "USD"},
         "quantity": qty, "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL"})
     log(f"  take-profit resting: sell {qty} @ {target:.4f} id={order.get('id')}")
+    if state is not None and order.get("id"):
+        note_tp_order(state, market_slug, order.get("id"), target)
+    return order.get("id")
+
+
+def check_tp_fills(client, cfg, state, actions):
+    """Record take-profit closes for main positions whose resting TP
+    order filled. Runs after the manage loop (which only sees positions
+    still in the portfolio) and before the settled branch, so a filled
+    TP is banked before the market resolves and the settled branch can
+    no longer mis-record it as a settlement. Bounce has no TP order, so
+    it is skipped. A failed order read is fail-soft: no close, no crash,
+    and the settled branch keeps its existing behaviour."""
+    opened = {}
+    for h in state.get("live_history", []):
+        if "opened" in h and h.get("mode") != "bounce":
+            opened[h["market"]] = h
+    for slug, entry_h in opened.items():
+        # latest entry must be an open buy (a market bought, closed, then
+        # re-bought after the cooldown is open again, not closed)
+        if live_is_open(state, slug) is not True:
+            continue
+        tp_id = entry_h.get("tp_order_id")
+        if not tp_id:
+            continue
+        side = entry_h.get("side")
+        entry = entry_h.get("entry")
+        qty = entry_h.get("qty")
+        if side is None or entry is None or qty is None:
+            continue
+        target = entry_h.get("tp_target")
+        if target is None:
+            target = tp_target_for(cfg, entry)
+        try:
+            resp = client.orders.retrieve(tp_id)
+            order = (resp or {}).get("order", {}) if isinstance(resp, dict) else {}
+        except Exception as e:
+            log(f"  TP order check failed for {slug}: {e}")
+            continue
+        st = order.get("state")
+        filled = st == "ORDER_STATE_FILLED" or (
+            st == "ORDER_STATE_PARTIALLY_FILLED"
+            and not order.get("leavesQuantity"))
+        if not filled:
+            continue
+        exit_px = None
+        avg = order.get("avgPx") or {}
+        try:
+            exit_px = float(avg.get("value") or 0) or None
+        except (TypeError, ValueError):
+            exit_px = None
+        if not exit_px:
+            exit_px = target
+        pnl = round((exit_px - entry) * qty, 4)
+        state["realized"] = round(state["realized"] + pnl, 4)
+        state["live_history"].append({"market": slug,
+                                      "closed": now_et_str(),
+                                      "pnl": pnl, "reason": "take-profit"})
+        actions.append({"type": "take_profit", "market": slug, "pnl": pnl})
+        log(f"  TAKE-PROFIT {slug} exit {exit_px:.4f} pnl {pnl:+.4f}")
 
 
 def live_is_open(state, slug):
@@ -793,9 +870,16 @@ def run_pass():
             # to settlement and exits only on the stop-loss, so no TP order)
             if side and live_mode_of(state, slug) != "bounce":
                 try:
-                    ensure_take_profit(client, cfg, slug, side, entry, pos["qty"])
+                    ensure_take_profit(client, cfg, slug, side, entry,
+                                       pos["qty"], state)
                 except Exception as e:
                     log(f"  TP ensure failed for {slug}: {e}")
+
+    # take-profit fills: a filled TP leaves the portfolio, so the manage
+    # loop above never sees it. Bank it here, before the settled branch
+    # below can mis-record it as a settlement (Ducks, Nov 24).
+    if not paper:
+        check_tp_fills(client, cfg, state, actions)
 
     # reserve: worst-case additional loss if every open position exits
     # at its stop. The loss cap is checked against realized MINUS this
@@ -1041,7 +1125,8 @@ def run_pass():
                     if mode == "main":
                         try:
                             ensure_take_profit(client, bcfg, meta["market_slug"],
-                                               dog, buy["price"], buy["qty"])
+                                               dog, buy["price"], buy["qty"],
+                                               state)
                         except Exception as e:
                             log(f"  TP placement failed: {e} (will retry next run)")
                     else:
