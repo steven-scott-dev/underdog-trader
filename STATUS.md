@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 00:25 ET · Mode: **LIVE** · Result: OK (1.9s)
+Updated: 2026-11-24 00:30 ET · Mode: **LIVE** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 3 / 100 (main 3, bounce 0)
 - Realized P&L: +2.59
-- Account balance: $10.31 (as of 2026-11-24 00:25 ET)
+- Account balance: $10.31 (as of 2026-11-24 00:30 ET)
 
 ## Live positions
 - _none_
@@ -18,8 +18,7 @@ Updated: 2026-11-24 00:25 ET · Mode: **LIVE** · Result: OK (1.9s)
 - `{"market": "aec-nhl-ana-sea-2026-11-23", "opened": "2026-11-24 00:00 ET", "side": "long", "team": "Ducks", "entry": 0.2, "qty": 1.25, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-nba-sa-sac-2026-11-23", "pnl": 2.8438}`
-- `{"type": "settled", "market": "aec-nhl-ana-sea-2026-11-23", "pnl": -0.25}`
+- _none_
 
 ## Order errors
 - _none_
