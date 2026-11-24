@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 10:50 ET · Mode: **LIVE** · Result: OK (1.7s)
+Updated: 2026-11-24 10:55 ET · Mode: **LIVE** · Result: OK (1.7s)
 
 ## Today
 - Bets placed: 6 / 100 (main 3, bounce 3)
 - Realized P&L: +3.83
-- Account balance: $8.34 (as of 2026-11-24 10:50 ET)
+- Account balance: $6.34 (as of 2026-11-24 10:55 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-24 10:50 ET · Mode: **LIVE** · Result: OK (1.7s)
 - `{"market": "aec-nba-sa-sac-2026-11-23", "closed": "2026-11-24 00:25 ET", "pnl": 2.8438, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Cinalli@Reales", "market": "aec-wta-guimar-luncin-2026-11-23", "side": "short", "team": "Luna Cinalli", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
