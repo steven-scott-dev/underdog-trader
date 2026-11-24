@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 12:05 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-24 12:10 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 7 / 100 (main 3, bounce 4)
 - Realized P&L: +3.76
-- Account balance: $6.26 (as of 2026-11-24 12:05 ET)
+- Account balance: $5.26 (as of 2026-11-24 12:10 ET)
 
 ## Live positions
-- Lucia Bronzetti vs. Alicia Herrero Linana: 1.25 @ avg 0.0880
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-lucbro-alilin-2026-11-23", "closed": "2026-11-24 12:05 ET", "pnl": -0.0725, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-24 12:05 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-nhl-min-sj-2026-11-23", "closed": "2026-11-24 00:40 ET", "pnl": 1.4, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-lucbro-alilin-2026-11-23", "pnl": -0.0725}`
+- _none_
 
 ## Order errors
 - _none_

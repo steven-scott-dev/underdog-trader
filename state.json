@@ -106,7 +106,9 @@
    "reason": "stop-loss"
   }
  ],
- "settled_pending": {},
+ "settled_pending": {
+  "aec-wta-guimar-luncin-2026-11-23": 1795540251.7529376
+ },
  "px_hist": {
   "aec-nhl-ana-sea-2026-11-23": [
    [
@@ -151,8 +153,8 @@
    ]
   ]
  },
- "balance": 6.2584,
- "balance_updated": "2026-11-24 12:05 ET",
+ "balance": 5.2584,
+ "balance_updated": "2026-11-24 12:10 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
