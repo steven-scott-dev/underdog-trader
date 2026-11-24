@@ -1,50 +1,60 @@
 {
- "updated": "2026-11-23T21:50:50.449157-05:00",
+ "updated": "2026-11-23T21:55:49.113337-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 13.1,
+ "duration_s": 14.9,
  "daily": {
   "date": "2026-11-23",
-  "bets": 14,
+  "bets": 15,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": 5.7529
+  "realized": 5.4344
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nba-okc-ind-2026-11-23": {
-   "qty": 0.8,
-   "avg_px": 0.31,
-   "cash_value": 0.136,
-   "team_id": 27,
-   "outcome": "Thunder",
-   "title": "OKC Thunder vs. IND Pacers"
-  },
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0444,
+   "cash_value": 0.0333,
    "team_id": 1507,
    "outcome": "Flames",
    "title": "CGY Flames vs. OTT Senators"
+  },
+  "aec-nhl-uta-wpg-2026-11-23": {
+   "qty": 1.38,
+   "avg_px": 0.187,
+   "cash_value": 0.1932,
+   "team_id": 1515,
+   "outcome": "Mammoth",
+   "title": "UTA Mammoth vs. WPG Jets"
   }
  },
  "actions": [
   {
+   "type": "stop_loss",
+   "market": "aec-nhl-cgy-ott-2026-11-23",
+   "pnl": -0.0766
+  },
+  {
+   "type": "settled",
+   "market": "aec-nba-okc-ind-2026-11-23",
+   "pnl": -0.2419
+  },
+  {
    "type": "buy",
-   "game": "nhl:UTA@WPG",
-   "market": "aec-nhl-uta-wpg-2026-11-23",
-   "side": "long",
-   "team": "Mammoth",
-   "ask": 0.18,
-   "qty": 1.3889,
+   "game": "nhl:TOR@NYI",
+   "market": "aec-nhl-tor-nyi-2026-11-23",
+   "side": "short",
+   "team": "Islanders",
+   "ask": 0.21,
+   "qty": 1.1905,
    "stake": 0.25,
    "mode": "main"
   }
  ],
  "errors": [],
- "balance": 9.0929,
- "balance_updated": "2026-11-23 21:50 ET"
+ "balance": 10.0452,
+ "balance_updated": "2026-11-23 21:55 ET"
 }
