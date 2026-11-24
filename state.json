@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 9,
- "bounce_bets": 9,
+ "bets": 10,
+ "bounce_bets": 10,
  "realized": 2.8929,
  "paper_positions": [],
  "paper_history": [],
@@ -128,10 +128,19 @@
    "entry": 0.09,
    "qty": 1.1111,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-por-phi-2026-11-23",
+   "opened": "2026-11-23 21:00 ET",
+   "side": "short",
+   "team": "76ers",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
- "balance": 9.4769,
- "balance_updated": "2026-11-23 20:55 ET",
+ "balance": 10.6519,
+ "balance_updated": "2026-11-23 21:01 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -185,6 +194,12 @@
    [
     1795482942.6050527,
     0.09
+   ]
+  ],
+  "aec-nba-por-phi-2026-11-23": [
+   [
+    1795485642.7056046,
+    0.08
    ]
   ]
  },
