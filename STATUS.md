@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 15:55 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-24 16:00 ET · Mode: **LIVE** · Result: OK (2.5s)
 
 ## Today
 - Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: +3.67
-- Account balance: $4.85 (as of 2026-11-24 15:55 ET)
+- Account balance: $4.85 (as of 2026-11-24 16:00 ET)
 
 ## Live positions
-- _none_
+- Polona Hercog vs. Sofia Costoulas: 1.25 @ avg 0.0600
 
 ## Recent live history
 - `{"market": "aec-wta-polher-sofcos-2026-11-24", "opened": "2026-11-24 15:55 ET", "side": "long", "team": "Polona Hercog", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-24 15:55 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-wta-zhikul-vererj-2026-11-23", "closed": "2026-11-24 10:40 ET", "pnl": -0.0888, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Costoulas@Hercog", "market": "aec-wta-polher-sofcos-2026-11-24", "side": "long", "team": "Polona Hercog", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
