@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 16:05 ET · Mode: **LIVE** · Result: OK (2.0s)
+Updated: 2026-11-24 16:10 ET · Mode: **LIVE** · Result: OK (2.4s)
 
 ## Today
 - Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: +3.61
-- Account balance: $4.85 (as of 2026-11-24 16:05 ET)
+- Account balance: $4.85 (as of 2026-11-24 16:10 ET)
 
 ## Live positions
 - Polona Hercog vs. Sofia Costoulas: 1.25 @ avg 0.0600
@@ -21,7 +21,7 @@ Updated: 2026-11-24 16:05 ET · Mode: **LIVE** · Result: OK (2.0s)
 - `{"market": "aec-wta-guimar-luncin-2026-11-23", "opened": "2026-11-24 10:50 ET", "side": "short", "team": "Luna Cinalli", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-polher-sofcos-2026-11-24", "pnl": -0.0625}`
+- _none_
 
 ## Order errors
 - _none_
