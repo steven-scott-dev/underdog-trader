@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 10:35 ET · Mode: **LIVE** · Result: OK (0.8s)
+Updated: 2026-11-24 10:40 ET · Mode: **LIVE** · Result: OK (1.8s)
 
 ## Today
 - Bets placed: 5 / 100 (main 3, bounce 2)
-- Realized P&L: +3.92
-- Account balance: $7.46 (as of 2026-11-24 10:35 ET)
+- Realized P&L: +3.83
+- Account balance: $7.46 (as of 2026-11-24 10:40 ET)
 
 ## Live positions
 - Zhibek Kulambayeva vs. Veronika Erjavec: 1.11 @ avg 0.0900
 
 ## Recent live history
+- `{"market": "aec-wta-zhikul-vererj-2026-11-23", "closed": "2026-11-24 10:40 ET", "pnl": -0.0888, "reason": "stop-loss"}`
 - `{"market": "aec-wta-vicbos-lausam-2026-11-23", "closed": "2026-11-24 10:10 ET", "pnl": -0.0766, "reason": "stop-loss"}`
 - `{"market": "aec-wta-zhikul-vererj-2026-11-23", "opened": "2026-11-24 09:50 ET", "side": "long", "team": "Zhibek Kulambayeva", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 - `{"market": "aec-wta-vicbos-lausam-2026-11-23", "opened": "2026-11-24 09:45 ET", "side": "long", "team": "Victoria Bosio", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
@@ -18,10 +19,9 @@ Updated: 2026-11-24 10:35 ET · Mode: **LIVE** · Result: OK (0.8s)
 - `{"market": "aec-nhl-ana-sea-2026-11-23", "closed": "2026-11-24 00:25 ET", "pnl": -0.25, "reason": "settled"}`
 - `{"market": "aec-nba-sa-sac-2026-11-23", "closed": "2026-11-24 00:25 ET", "pnl": 2.8438, "reason": "settled"}`
 - `{"market": "aec-nhl-min-sj-2026-11-23", "opened": "2026-11-24 00:20 ET", "side": "short", "team": "Sharks", "entry": 0.15, "qty": 1.6667, "mode": "main"}`
-- `{"market": "aec-nba-sa-sac-2026-11-23", "opened": "2026-11-24 00:05 ET", "side": "short", "team": "Kings", "entry": 0.08, "qty": 3.125, "mode": "main"}`
 
 ## Last run actions
-- _none_
+- `{"type": "stop_loss", "market": "aec-wta-zhikul-vererj-2026-11-23", "pnl": -0.0888}`
 
 ## Order errors
 - _none_

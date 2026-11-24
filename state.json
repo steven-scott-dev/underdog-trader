@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 5,
  "bounce_bets": 2,
- "realized": 3.9172,
+ "realized": 3.8284,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -74,6 +74,12 @@
    "closed": "2026-11-24 10:10 ET",
    "pnl": -0.0766,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-zhikul-vererj-2026-11-23",
+   "closed": "2026-11-24 10:40 ET",
+   "pnl": -0.0888,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
@@ -110,8 +116,9 @@
   ]
  },
  "balance": 7.4634,
- "balance_updated": "2026-11-24 10:35 ET",
+ "balance_updated": "2026-11-24 10:40 ET",
  "cooldowns": {
-  "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478
+  "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
+  "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049
  }
 }
