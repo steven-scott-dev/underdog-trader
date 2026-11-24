@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-24T10:05:55.587959-05:00",
+ "updated": "2026-11-24T10:10:42.276228-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.2,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-24",
   "bets": 5,
   "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.9938
+  "realized": 3.9172
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-wta-vicbos-lausam-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0555,
+   "cash_value": 0.0333,
    "team_id": 5375,
    "outcome": "Victoria Bosio",
    "title": "Victoria Bosio vs. Laura Samson"
@@ -31,8 +31,14 @@
    "title": "Zhibek Kulambayeva vs. Veronika Erjavec"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-vicbos-lausam-2026-11-23",
+   "pnl": -0.0766
+  }
+ ],
  "errors": [],
- "balance": 7.4412,
- "balance_updated": "2026-11-24 10:05 ET"
+ "balance": 7.4634,
+ "balance_updated": "2026-11-24 10:10 ET"
 }
