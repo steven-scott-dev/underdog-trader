@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 14:45 ET · Mode: **LIVE** · Result: OK (1.1s)
+Updated: 2026-11-24 14:50 ET · Mode: **LIVE** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 8 / 100 (main 3, bounce 5)
 - Realized P&L: +3.67
-- Account balance: $5.15 (as of 2026-11-24 14:45 ET)
+- Account balance: $5.15 (as of 2026-11-24 14:50 ET)
 
 ## Live positions
-- Lourdes Ayala vs. Irene Burillo Escorihuela: 2.5 @ avg 0.0440
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-louaya-ireesc-2026-11-23", "closed": "2026-11-24 14:35 ET", "pnl": -0.085, "reason": "stop-loss"}`
