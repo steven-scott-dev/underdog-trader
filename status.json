@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T14:10:43.273365-05:00",
+ "updated": "2026-11-24T14:15:39.098313-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-24",
   "bets": 8,
@@ -17,7 +17,7 @@
   "aec-wta-louaya-ireesc-2026-11-23": {
    "qty": 2.5,
    "avg_px": 0.044,
-   "cash_value": 0.125,
+   "cash_value": 0.1,
    "team_id": 42620,
    "outcome": "Lourdes Ayala",
    "title": "Lourdes Ayala vs. Irene Burillo Escorihuela"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 5.1484,
- "balance_updated": "2026-11-24 14:10 ET"
+ "balance_updated": "2026-11-24 14:15 ET"
 }
