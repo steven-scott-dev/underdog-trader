@@ -1,14 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 10:10 ET · Mode: **LIVE** · Result: OK (2.4s)
+Updated: 2026-11-24 10:15 ET · Mode: **LIVE** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 5 / 100 (main 3, bounce 2)
 - Realized P&L: +3.92
-- Account balance: $7.46 (as of 2026-11-24 10:10 ET)
+- Account balance: $7.46 (as of 2026-11-24 10:15 ET)
 
 ## Live positions
-- Victoria Bosio vs. Laura Samson: 1.11 @ avg 0.0990
 - Zhibek Kulambayeva vs. Veronika Erjavec: 1.11 @ avg 0.0900
 
 ## Recent live history
@@ -22,7 +21,7 @@ Updated: 2026-11-24 10:10 ET · Mode: **LIVE** · Result: OK (2.4s)
 - `{"market": "aec-nba-sa-sac-2026-11-23", "opened": "2026-11-24 00:05 ET", "side": "short", "team": "Kings", "entry": 0.08, "qty": 3.125, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-vicbos-lausam-2026-11-23", "pnl": -0.0766}`
+- _none_
 
 ## Order errors
 - _none_
