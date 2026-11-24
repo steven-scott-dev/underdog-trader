@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 5,
- "bounce_bets": 2,
+ "bets": 6,
+ "bounce_bets": 3,
  "realized": 3.8284,
  "paper_positions": [],
  "paper_history": [],
@@ -80,6 +80,15 @@
    "closed": "2026-11-24 10:40 ET",
    "pnl": -0.0888,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-guimar-luncin-2026-11-23",
+   "opened": "2026-11-24 10:50 ET",
+   "side": "short",
+   "team": "Luna Cinalli",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
@@ -113,10 +122,16 @@
     1795531849.1540365,
     0.09
    ]
+  ],
+  "aec-wta-guimar-luncin-2026-11-23": [
+   [
+    1795535444.6597815,
+    0.1
+   ]
   ]
  },
- "balance": 7.4634,
- "balance_updated": "2026-11-24 10:45 ET",
+ "balance": 8.3434,
+ "balance_updated": "2026-11-24 10:50 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049
