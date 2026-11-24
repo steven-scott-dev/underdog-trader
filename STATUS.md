@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 15:00 ET · Mode: **LIVE** · Result: OK (2.6s)
+Updated: 2026-11-24 15:05 ET · Mode: **LIVE** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 9 / 100 (main 4, bounce 5)
 - Realized P&L: +3.67
-- Account balance: $6.70 (as of 2026-11-24 15:00 ET)
+- Account balance: $6.70 (as of 2026-11-24 15:05 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-24 15:00 ET · Mode: **LIVE** · Result: OK (2.6s)
 - `{"market": "aec-wta-vicbos-lausam-2026-11-23", "closed": "2026-11-24 10:10 ET", "pnl": -0.0766, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Kasintseva@Sierra", "market": "aec-wta-solsie-vickas-2026-11-23", "side": "short", "team": "Victoria Jimenez Kasintseva", "ask": 0.14, "qty": 1.7857, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
