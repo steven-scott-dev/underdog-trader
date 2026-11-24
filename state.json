@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 3,
  "bounce_bets": 0,
- "realized": 0.0,
+ "realized": 2.5938,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -32,6 +32,18 @@
    "entry": 0.15,
    "qty": 1.6667,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-sa-sac-2026-11-23",
+   "closed": "2026-11-24 00:25 ET",
+   "pnl": 2.8438,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-ana-sea-2026-11-23",
+   "closed": "2026-11-24 00:25 ET",
+   "pnl": -0.25,
+   "reason": "settled"
   }
  ],
  "settled_pending": {},
@@ -55,6 +67,6 @@
    ]
   ]
  },
- "balance": 15.091,
- "balance_updated": "2026-11-24 00:20 ET"
+ "balance": 10.311,
+ "balance_updated": "2026-11-24 00:25 ET"
 }

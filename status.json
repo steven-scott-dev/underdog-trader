@@ -1,33 +1,32 @@
 {
- "updated": "2026-11-24T00:20:38.410951-05:00",
+ "updated": "2026-11-24T00:25:35.389522-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 1.9,
  "daily": {
   "date": "2026-11-24",
   "bets": 3,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": 2.5938
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:MIN@SJ",
-   "market": "aec-nhl-min-sj-2026-11-23",
-   "side": "short",
-   "team": "Sharks",
-   "ask": 0.15,
-   "qty": 1.6667,
-   "stake": 0.25,
-   "mode": "main"
+   "type": "settled",
+   "market": "aec-nba-sa-sac-2026-11-23",
+   "pnl": 2.8438
+  },
+  {
+   "type": "settled",
+   "market": "aec-nhl-ana-sea-2026-11-23",
+   "pnl": -0.25
   }
  ],
  "errors": [],
- "balance": 15.091,
- "balance_updated": "2026-11-24 00:20 ET"
+ "balance": 10.311,
+ "balance_updated": "2026-11-24 00:25 ET"
 }
