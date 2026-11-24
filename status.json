@@ -1,33 +1,36 @@
 {
- "updated": "2026-11-24T12:00:45.672871-05:00",
+ "updated": "2026-11-24T12:05:40.293979-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.5,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-24",
   "bets": 7,
   "bounce_bets": 4,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.8284
+  "realized": 3.7559
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
+ "live_positions": {
+  "aec-wta-lucbro-alilin-2026-11-23": {
+   "qty": 1.25,
+   "avg_px": 0.088,
+   "cash_value": 0.0375,
+   "team_id": 3335,
+   "outcome": "Lucia Bronzetti",
+   "title": "Lucia Bronzetti vs. Alicia Herrero Linana"
+  }
+ },
  "actions": [
   {
-   "type": "buy",
-   "game": "wta:Linana@Bronzetti",
+   "type": "stop_loss",
    "market": "aec-wta-lucbro-alilin-2026-11-23",
-   "side": "long",
-   "team": "Lucia Bronzetti",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "pnl": -0.0725
   }
  ],
  "errors": [],
- "balance": 6.2334,
- "balance_updated": "2026-11-24 12:00 ET"
+ "balance": 6.2584,
+ "balance_updated": "2026-11-24 12:05 ET"
 }

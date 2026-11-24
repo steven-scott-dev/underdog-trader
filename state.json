@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 7,
  "bounce_bets": 4,
- "realized": 3.8284,
+ "realized": 3.7559,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -98,6 +98,12 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-lucbro-alilin-2026-11-23",
+   "closed": "2026-11-24 12:05 ET",
+   "pnl": -0.0725,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
@@ -145,10 +151,11 @@
    ]
   ]
  },
- "balance": 6.2334,
- "balance_updated": "2026-11-24 12:00 ET",
+ "balance": 6.2584,
+ "balance_updated": "2026-11-24 12:05 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
-  "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049
+  "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
+  "aec-wta-lucbro-alilin-2026-11-23": 1795541739.0390527
  }
 }
