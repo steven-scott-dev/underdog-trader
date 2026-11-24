@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 21:20 ET · Mode: **LIVE** · Result: OK (3.4s)
+Updated: 2026-11-23 21:25 ET · Mode: **LIVE** · Result: OK (4.2s)
 
 ## Today
 - Bets placed: 11 / 100 (main 1, bounce 10)
 - Realized P&L: +2.80
-- Account balance: $12.57 (as of 2026-11-23 21:20 ET)
+- Account balance: $11.32 (as of 2026-11-23 21:25 ET)
 
 ## Live positions
 - CGY Flames vs. OTT Senators: 1.11 @ avg 0.0990
