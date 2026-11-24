@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 10,
  "realized": 5.7529,
  "paper_positions": [],
@@ -173,10 +173,19 @@
    "entry": 0.28,
    "qty": 0.8929,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-okc-ind-2026-11-23",
+   "opened": "2026-11-23 21:40 ET",
+   "side": "long",
+   "team": "Thunder",
+   "entry": 0.31,
+   "qty": 0.8065,
+   "mode": "main"
   }
  ],
  "balance": 8.9763,
- "balance_updated": "2026-11-23 21:35 ET",
+ "balance_updated": "2026-11-23 21:40 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -248,6 +257,12 @@
    [
     1795487437.9408736,
     0.28
+   ]
+  ],
+  "aec-nba-okc-ind-2026-11-23": [
+   [
+    1795488036.085955,
+    0.31
    ]
   ]
  },
