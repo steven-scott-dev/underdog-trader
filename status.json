@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T14:35:43.174020-05:00",
+ "updated": "2026-11-24T14:40:36.725549-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-24",
   "bets": 8,
@@ -23,14 +23,8 @@
    "title": "Lourdes Ayala vs. Irene Burillo Escorihuela"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-louaya-ireesc-2026-11-23",
-   "pnl": -0.085
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 5.1484,
- "balance_updated": "2026-11-24 14:35 ET"
+ "balance_updated": "2026-11-24 14:40 ET"
 }
