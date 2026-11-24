@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 7,
- "bounce_bets": 7,
+ "bets": 8,
+ "bounce_bets": 8,
  "realized": 2.8929,
  "paper_positions": [],
  "paper_history": [],
@@ -110,10 +110,19 @@
    "closed": "2026-11-23 15:55 ET",
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-bkn-min-2026-11-23",
+   "opened": "2026-11-23 20:05 ET",
+   "side": "long",
+   "team": "Nets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
- "balance": 9.6968,
- "balance_updated": "2026-11-23 20:01 ET",
+ "balance": 9.5868,
+ "balance_updated": "2026-11-23 20:06 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -154,6 +163,12 @@
   "aec-wta-despap-julrie-2026-11-23": [
    [
     1795463437.9378972,
+    0.1
+   ]
+  ],
+  "aec-nba-bkn-min-2026-11-23": [
+   [
+    1795482341.2021592,
     0.1
    ]
   ]
