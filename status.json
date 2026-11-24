@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-24T00:35:35.815307-05:00",
+ "updated": "2026-11-24T00:40:35.460526-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.7,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-24",
   "bets": 3,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.5938
+  "realized": 3.9938
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-nhl-min-sj-2026-11-23",
+   "pnl": 1.4
+  }
+ ],
  "errors": [],
- "balance": 10.311,
- "balance_updated": "2026-11-24 00:35 ET"
+ "balance": 8.651,
+ "balance_updated": "2026-11-24 00:40 ET"
 }

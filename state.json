@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 3,
  "bounce_bets": 0,
- "realized": 2.5938,
+ "realized": 3.9938,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -44,6 +44,12 @@
    "closed": "2026-11-24 00:25 ET",
    "pnl": -0.25,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-min-sj-2026-11-23",
+   "closed": "2026-11-24 00:40 ET",
+   "pnl": 1.4,
+   "reason": "settled"
   }
  ],
  "settled_pending": {},
@@ -67,6 +73,6 @@
    ]
   ]
  },
- "balance": 10.311,
- "balance_updated": "2026-11-24 00:35 ET"
+ "balance": 8.651,
+ "balance_updated": "2026-11-24 00:40 ET"
 }
