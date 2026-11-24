@@ -1,21 +1,33 @@
 {
- "updated": "2026-11-23T23:55:43.744845-05:00",
+ "updated": "2026-11-24T00:00:40.145248-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.9,
  "daily": {
-  "date": "2026-11-23",
-  "bets": 16,
-  "bounce_bets": 11,
+  "date": "2026-11-24",
+  "bets": 1,
+  "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.8217
+  "realized": 0.0
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:ANA@SEA",
+   "market": "aec-nhl-ana-sea-2026-11-23",
+   "side": "long",
+   "team": "Ducks",
+   "ask": 0.2,
+   "qty": 1.25,
+   "stake": 0.25,
+   "mode": "main"
+  }
+ ],
  "errors": [],
- "balance": 10.4746,
- "balance_updated": "2026-11-23 23:55 ET"
+ "balance": 10.2146,
+ "balance_updated": "2026-11-24 00:00 ET"
 }
