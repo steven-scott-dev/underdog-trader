@@ -2,7 +2,7 @@
  "date": "2026-11-23",
  "bets": 15,
  "bounce_bets": 10,
- "realized": 5.4344,
+ "realized": 5.8931,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -212,10 +212,22 @@
    "entry": 0.21,
    "qty": 1.1905,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-uta-wpg-2026-11-23",
+   "closed": "2026-11-23 22:05 ET",
+   "pnl": -0.1753,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-mil-tor-2026-11-23",
+   "closed": "2026-11-23 22:05 ET",
+   "pnl": 0.634,
+   "reason": "settled"
   }
  ],
- "balance": 10.0452,
- "balance_updated": "2026-11-23 22:00 ET",
+ "balance": 10.1142,
+ "balance_updated": "2026-11-23 22:05 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -315,6 +327,7 @@
   "aec-wta-aleosb-ipeoz-2026-11-23": 1795452939.3341687,
   "aec-wta-despap-julrie-2026-11-23": 1795469134.5889335,
   "aec-nba-bkn-min-2026-11-23": 1795488336.6802158,
-  "aec-nhl-cgy-ott-2026-11-23": 1795490734.7256994
+  "aec-nhl-cgy-ott-2026-11-23": 1795490734.7256994,
+  "aec-nhl-uta-wpg-2026-11-23": 1795491336.2311997
  }
 }

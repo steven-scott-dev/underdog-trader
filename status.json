@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-23T22:00:44.131902-05:00",
+ "updated": "2026-11-23T22:05:38.086057-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 4.4,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-23",
   "bets": 15,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
-  "realized": 5.4344
+  "realized": 5.8931
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,25 @@
   "aec-nhl-uta-wpg-2026-11-23": {
    "qty": 1.38,
    "avg_px": 0.187,
-   "cash_value": 0.1518,
+   "cash_value": 0.0828,
    "team_id": 1515,
    "outcome": "Mammoth",
    "title": "UTA Mammoth vs. WPG Jets"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-nhl-uta-wpg-2026-11-23",
+   "pnl": -0.1753
+  },
+  {
+   "type": "settled",
+   "market": "aec-nba-mil-tor-2026-11-23",
+   "pnl": 0.634
+  }
+ ],
  "errors": [],
- "balance": 10.0452,
- "balance_updated": "2026-11-23 22:00 ET"
+ "balance": 10.1142,
+ "balance_updated": "2026-11-23 22:05 ET"
 }
