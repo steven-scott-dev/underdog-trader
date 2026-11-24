@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T21:55:49.113337-05:00",
+ "updated": "2026-11-23T22:00:44.131902-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.9,
+ "duration_s": 4.4,
  "daily": {
   "date": "2026-11-23",
   "bets": 15,
@@ -14,47 +14,17 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nhl-cgy-ott-2026-11-23": {
-   "qty": 1.11,
-   "avg_px": 0.099,
-   "cash_value": 0.0333,
-   "team_id": 1507,
-   "outcome": "Flames",
-   "title": "CGY Flames vs. OTT Senators"
-  },
   "aec-nhl-uta-wpg-2026-11-23": {
    "qty": 1.38,
    "avg_px": 0.187,
-   "cash_value": 0.1932,
+   "cash_value": 0.1518,
    "team_id": 1515,
    "outcome": "Mammoth",
    "title": "UTA Mammoth vs. WPG Jets"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nhl-cgy-ott-2026-11-23",
-   "pnl": -0.0766
-  },
-  {
-   "type": "settled",
-   "market": "aec-nba-okc-ind-2026-11-23",
-   "pnl": -0.2419
-  },
-  {
-   "type": "buy",
-   "game": "nhl:TOR@NYI",
-   "market": "aec-nhl-tor-nyi-2026-11-23",
-   "side": "short",
-   "team": "Islanders",
-   "ask": 0.21,
-   "qty": 1.1905,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 10.0452,
- "balance_updated": "2026-11-23 21:55 ET"
+ "balance_updated": "2026-11-23 22:00 ET"
 }
