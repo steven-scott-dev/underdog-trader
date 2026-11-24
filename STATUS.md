@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 21:30 ET · Mode: **LIVE** · Result: OK (14.0s)
+Updated: 2026-11-23 21:35 ET · Mode: **LIVE** · Result: OK (14.8s)
 
 ## Today
 - Bets placed: 12 / 100 (main 2, bounce 10)
 - Realized P&L: +5.75
-- Account balance: $8.98 (as of 2026-11-23 21:30 ET)
+- Account balance: $8.98 (as of 2026-11-23 21:35 ET)
 
 ## Live positions
+- MIL Bucks vs. TOR Raptors: 0.89 @ avg 0.2910
 - CGY Flames vs. OTT Senators: 1.11 @ avg 0.0990
 
 ## Recent live history
@@ -21,9 +22,7 @@ Updated: 2026-11-23 21:30 ET · Mode: **LIVE** · Result: OK (14.0s)
 - `{"market": "aec-nba-bkn-min-2026-11-23", "opened": "2026-11-23 20:05 ET", "side": "long", "team": "Nets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-nba-por-phi-2026-11-23", "pnl": 1.1375}`
-- `{"type": "settled", "market": "aec-nba-mem-cha-2026-11-23", "pnl": 1.8125}`
-- `{"type": "buy", "game": "nba:MIL@TOR", "market": "aec-nba-mil-tor-2026-11-23", "side": "long", "team": "Bucks", "ask": 0.28, "qty": 0.8929, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

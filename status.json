@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T21:30:50.112473-05:00",
+ "updated": "2026-11-23T21:35:49.986359-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.0,
+ "duration_s": 14.8,
  "daily": {
   "date": "2026-11-23",
   "bets": 12,
@@ -14,6 +14,14 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nba-mil-tor-2026-11-23": {
+   "qty": 0.89,
+   "avg_px": 0.291,
+   "cash_value": 0.3293,
+   "team_id": 41,
+   "outcome": "Bucks",
+   "title": "MIL Bucks vs. TOR Raptors"
+  },
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
@@ -23,30 +31,8 @@
    "title": "CGY Flames vs. OTT Senators"
   }
  },
- "actions": [
-  {
-   "type": "settled",
-   "market": "aec-nba-por-phi-2026-11-23",
-   "pnl": 1.1375
-  },
-  {
-   "type": "settled",
-   "market": "aec-nba-mem-cha-2026-11-23",
-   "pnl": 1.8125
-  },
-  {
-   "type": "buy",
-   "game": "nba:MIL@TOR",
-   "market": "aec-nba-mil-tor-2026-11-23",
-   "side": "long",
-   "team": "Bucks",
-   "ask": 0.28,
-   "qty": 0.8929,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 8.9763,
- "balance_updated": "2026-11-23 21:30 ET"
+ "balance_updated": "2026-11-23 21:35 ET"
 }
