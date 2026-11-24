@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 3,
- "bounce_bets": 0,
+ "bets": 4,
+ "bounce_bets": 1,
  "realized": 3.9938,
  "paper_positions": [],
  "paper_history": [],
@@ -50,6 +50,15 @@
    "closed": "2026-11-24 00:40 ET",
    "pnl": 1.4,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-vicbos-lausam-2026-11-23",
+   "opened": "2026-11-24 09:45 ET",
+   "side": "long",
+   "team": "Victoria Bosio",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
@@ -71,8 +80,14 @@
     1795497637.596983,
     0.15
    ]
+  ],
+  "aec-wta-vicbos-lausam-2026-11-23": [
+   [
+    1795531540.858875,
+    0.09
+   ]
   ]
  },
- "balance": 7.651,
- "balance_updated": "2026-11-24 09:40 ET"
+ "balance": 7.5411,
+ "balance_updated": "2026-11-24 09:45 ET"
 }

@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 09:40 ET · Mode: **LIVE** · Result: OK (1.6s)
+Updated: 2026-11-24 09:45 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
-- Bets placed: 3 / 100 (main 3, bounce 0)
+- Bets placed: 4 / 100 (main 3, bounce 1)
 - Realized P&L: +3.99
-- Account balance: $7.65 (as of 2026-11-24 09:40 ET)
+- Account balance: $7.54 (as of 2026-11-24 09:45 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-wta-vicbos-lausam-2026-11-23", "opened": "2026-11-24 09:45 ET", "side": "long", "team": "Victoria Bosio", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 - `{"market": "aec-nhl-min-sj-2026-11-23", "closed": "2026-11-24 00:40 ET", "pnl": 1.4, "reason": "settled"}`
 - `{"market": "aec-nhl-ana-sea-2026-11-23", "closed": "2026-11-24 00:25 ET", "pnl": -0.25, "reason": "settled"}`
 - `{"market": "aec-nba-sa-sac-2026-11-23", "closed": "2026-11-24 00:25 ET", "pnl": 2.8438, "reason": "settled"}`
@@ -19,7 +20,7 @@ Updated: 2026-11-24 09:40 ET · Mode: **LIVE** · Result: OK (1.6s)
 - `{"market": "aec-nhl-ana-sea-2026-11-23", "opened": "2026-11-24 00:00 ET", "side": "long", "team": "Ducks", "entry": 0.2, "qty": 1.25, "mode": "main"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Samson@Bosio", "market": "aec-wta-vicbos-lausam-2026-11-23", "side": "long", "team": "Victoria Bosio", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
 
 ## Order errors
 - _none_
