@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "bets": 10,
+ "bets": 11,
  "bounce_bets": 10,
  "realized": 2.8929,
  "paper_positions": [],
@@ -137,10 +137,19 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-mem-cha-2026-11-23",
+   "opened": "2026-11-23 21:05 ET",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.12,
+   "qty": 2.0833,
+   "mode": "main"
   }
  ],
- "balance": 10.6519,
- "balance_updated": "2026-11-23 21:01 ET",
+ "balance": 12.5555,
+ "balance_updated": "2026-11-23 21:06 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -200,6 +209,12 @@
    [
     1795485642.7056046,
     0.08
+   ]
+  ],
+  "aec-nba-mem-cha-2026-11-23": [
+   [
+    1795485941.4728358,
+    0.12
    ]
   ]
  },

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T21:01:05.647886-05:00",
+ "updated": "2026-11-23T21:06:06.704800-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 24.1,
+ "duration_s": 27.2,
  "daily": {
   "date": "2026-11-23",
-  "bets": 10,
+  "bets": 11,
   "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
@@ -17,7 +17,7 @@
   "aec-nba-bkn-min-2026-11-23": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.13,
+   "cash_value": 0.09,
    "team_id": 22,
    "outcome": "Nets",
    "title": "BKN Nets vs. MIN Timberwolves"
@@ -25,7 +25,7 @@
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0777,
+   "cash_value": 0.0666,
    "team_id": 1507,
    "outcome": "Flames",
    "title": "CGY Flames vs. OTT Senators"
@@ -34,17 +34,17 @@
  "actions": [
   {
    "type": "buy",
-   "game": "nba:POR@PHI",
-   "market": "aec-nba-por-phi-2026-11-23",
+   "game": "nba:MEM@CHA",
+   "market": "aec-nba-mem-cha-2026-11-23",
    "side": "short",
-   "team": "76ers",
-   "ask": 0.08,
-   "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "team": "Hornets",
+   "ask": 0.12,
+   "qty": 2.0833,
+   "stake": 0.25,
+   "mode": "main"
   }
  ],
  "errors": [],
- "balance": 10.6519,
- "balance_updated": "2026-11-23 21:01 ET"
+ "balance": 12.5555,
+ "balance_updated": "2026-11-23 21:06 ET"
 }
