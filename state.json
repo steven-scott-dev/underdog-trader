@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 8,
  "bounce_bets": 5,
- "realized": 3.7559,
+ "realized": 3.6709,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -113,6 +113,12 @@
    "entry": 0.04,
    "qty": 2.5,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-louaya-ireesc-2026-11-23",
+   "closed": "2026-11-24 14:35 ET",
+   "pnl": -0.085,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {
@@ -169,10 +175,11 @@
   ]
  },
  "balance": 5.1484,
- "balance_updated": "2026-11-24 14:30 ET",
+ "balance_updated": "2026-11-24 14:35 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
-  "aec-wta-lucbro-alilin-2026-11-23": 1795541739.0390527
+  "aec-wta-lucbro-alilin-2026-11-23": 1795541739.0390527,
+  "aec-wta-louaya-ireesc-2026-11-23": 1795550741.7158213
  }
 }

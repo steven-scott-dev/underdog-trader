@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-24T14:30:37.296658-05:00",
+ "updated": "2026-11-24T14:35:43.174020-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-24",
   "bets": 8,
   "bounce_bets": 5,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.7559
+  "realized": 3.6709
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,20 @@
   "aec-wta-louaya-ireesc-2026-11-23": {
    "qty": 2.5,
    "avg_px": 0.044,
-   "cash_value": 0.05,
+   "cash_value": 0.025,
    "team_id": 42620,
    "outcome": "Lourdes Ayala",
    "title": "Lourdes Ayala vs. Irene Burillo Escorihuela"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-louaya-ireesc-2026-11-23",
+   "pnl": -0.085
+  }
+ ],
  "errors": [],
  "balance": 5.1484,
- "balance_updated": "2026-11-24 14:30 ET"
+ "balance_updated": "2026-11-24 14:35 ET"
 }
