@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 22:05 ET · Mode: **LIVE** · Result: OK (2.2s)
+Updated: 2026-11-23 22:10 ET · Mode: **LIVE** · Result: OK (3.5s)
 
 ## Today
 - Bets placed: 15 / 100 (main 5, bounce 10)
 - Realized P&L: +5.89
-- Account balance: $10.11 (as of 2026-11-23 22:05 ET)
+- Account balance: $10.11 (as of 2026-11-23 22:10 ET)
 
 ## Live positions
-- UTA Mammoth vs. WPG Jets: 1.38 @ avg 0.1870
+- _none_
 
 ## Recent live history
 - `{"market": "aec-nba-mil-tor-2026-11-23", "closed": "2026-11-23 22:05 ET", "pnl": 0.634, "reason": "settled"}`
@@ -21,8 +21,7 @@ Updated: 2026-11-23 22:05 ET · Mode: **LIVE** · Result: OK (2.2s)
 - `{"market": "aec-nba-mil-tor-2026-11-23", "opened": "2026-11-23 21:30 ET", "side": "long", "team": "Bucks", "entry": 0.28, "qty": 0.8929, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-uta-wpg-2026-11-23", "pnl": -0.1753}`
-- `{"type": "settled", "market": "aec-nba-mil-tor-2026-11-23", "pnl": 0.634}`
+- _none_
 
 ## Order errors
 - _none_
