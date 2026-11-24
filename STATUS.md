@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 10:40 ET · Mode: **LIVE** · Result: OK (1.8s)
+Updated: 2026-11-24 10:45 ET · Mode: **LIVE** · Result: OK (0.8s)
 
 ## Today
 - Bets placed: 5 / 100 (main 3, bounce 2)
 - Realized P&L: +3.83
-- Account balance: $7.46 (as of 2026-11-24 10:40 ET)
+- Account balance: $7.46 (as of 2026-11-24 10:45 ET)
 
 ## Live positions
-- Zhibek Kulambayeva vs. Veronika Erjavec: 1.11 @ avg 0.0900
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-zhikul-vererj-2026-11-23", "closed": "2026-11-24 10:40 ET", "pnl": -0.0888, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-24 10:40 ET · Mode: **LIVE** · Result: OK (1.8s)
 - `{"market": "aec-nhl-min-sj-2026-11-23", "opened": "2026-11-24 00:20 ET", "side": "short", "team": "Sharks", "entry": 0.15, "qty": 1.6667, "mode": "main"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-zhikul-vererj-2026-11-23", "pnl": -0.0888}`
+- _none_
 
 ## Order errors
 - _none_
