@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T20:31:01.096213-05:00",
+ "updated": "2026-11-23T20:35:52.344262-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 12.7,
+ "duration_s": 13.9,
  "daily": {
   "date": "2026-11-23",
   "bets": 9,
@@ -17,7 +17,7 @@
   "aec-nba-bkn-min-2026-11-23": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.17,
+   "cash_value": 0.11,
    "team_id": 22,
    "outcome": "Nets",
    "title": "BKN Nets vs. MIN Timberwolves"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.4769,
- "balance_updated": "2026-11-23 20:31 ET"
+ "balance_updated": "2026-11-23 20:35 ET"
 }
