@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 6,
- "bounce_bets": 3,
+ "bets": 7,
+ "bounce_bets": 4,
  "realized": 3.8284,
  "paper_positions": [],
  "paper_history": [],
@@ -89,6 +89,15 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-lucbro-alilin-2026-11-23",
+   "opened": "2026-11-24 12:00 ET",
+   "side": "long",
+   "team": "Lucia Bronzetti",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
@@ -128,10 +137,16 @@
     1795535444.6597815,
     0.1
    ]
+  ],
+  "aec-wta-lucbro-alilin-2026-11-23": [
+   [
+    1795539645.4149191,
+    0.08
+   ]
   ]
  },
- "balance": 6.3434,
- "balance_updated": "2026-11-24 11:55 ET",
+ "balance": 6.2334,
+ "balance_updated": "2026-11-24 12:00 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049
