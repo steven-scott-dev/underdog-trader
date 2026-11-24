@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T20:46:02.529774-05:00",
+ "updated": "2026-11-23T20:50:58.587179-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 22.1,
+ "duration_s": 14.5,
  "daily": {
   "date": "2026-11-23",
   "bets": 9,
@@ -25,7 +25,7 @@
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0888,
+   "cash_value": 0.0777,
    "team_id": 1507,
    "outcome": "Flames",
    "title": "CGY Flames vs. OTT Senators"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 9.4769,
- "balance_updated": "2026-11-23 20:46 ET"
+ "balance_updated": "2026-11-23 20:50 ET"
 }
