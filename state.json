@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "bets": 8,
- "bounce_bets": 8,
+ "bets": 9,
+ "bounce_bets": 9,
  "realized": 2.8929,
  "paper_positions": [],
  "paper_history": [],
@@ -119,10 +119,19 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-cgy-ott-2026-11-23",
+   "opened": "2026-11-23 20:15 ET",
+   "side": "long",
+   "team": "Flames",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
- "balance": 9.5868,
- "balance_updated": "2026-11-23 20:10 ET",
+ "balance": 9.4769,
+ "balance_updated": "2026-11-23 20:15 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -170,6 +179,12 @@
    [
     1795482341.2021592,
     0.1
+   ]
+  ],
+  "aec-nhl-cgy-ott-2026-11-23": [
+   [
+    1795482942.6050527,
+    0.09
    ]
   ]
  },
