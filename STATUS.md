@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 20:06 ET · Mode: **LIVE** · Result: OK (21.8s)
+Updated: 2026-11-23 20:10 ET · Mode: **LIVE** · Result: OK (15.1s)
 
 ## Today
 - Bets placed: 8 / 100 (main 0, bounce 8)
 - Realized P&L: +2.89
-- Account balance: $9.59 (as of 2026-11-23 20:06 ET)
+- Account balance: $9.59 (as of 2026-11-23 20:10 ET)
 
 ## Live positions
-- _none_
+- BKN Nets vs. MIN Timberwolves: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-nba-bkn-min-2026-11-23", "opened": "2026-11-23 20:05 ET", "side": "long", "team": "Nets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-23 20:06 ET · Mode: **LIVE** · Result: OK (21.8s)
 - `{"market": "aec-wta-aleosb-ipeoz-2026-11-23", "closed": "2026-11-23 11:25 ET", "pnl": -0.07, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:BKN@MIN", "market": "aec-nba-bkn-min-2026-11-23", "side": "long", "team": "Nets", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
