@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T10:20:45.128624-05:00",
+ "updated": "2026-11-24T10:25:38.624170-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.2,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-24",
   "bets": 5,
@@ -17,7 +17,7 @@
   "aec-wta-zhikul-vererj-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.09,
-   "cash_value": 0.2109,
+   "cash_value": 0.0999,
    "team_id": 5367,
    "outcome": "Zhibek Kulambayeva",
    "title": "Zhibek Kulambayeva vs. Veronika Erjavec"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 7.4634,
- "balance_updated": "2026-11-24 10:20 ET"
+ "balance_updated": "2026-11-24 10:25 ET"
 }
