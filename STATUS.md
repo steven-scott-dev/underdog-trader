@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 21:06 ET · Mode: **LIVE** · Result: OK (27.2s)
+Updated: 2026-11-23 21:10 ET · Mode: **LIVE** · Result: OK (15.6s)
 
 ## Today
 - Bets placed: 11 / 100 (main 1, bounce 10)
 - Realized P&L: +2.89
-- Account balance: $12.56 (as of 2026-11-23 21:06 ET)
+- Account balance: $12.56 (as of 2026-11-23 21:10 ET)
 
 ## Live positions
 - BKN Nets vs. MIN Timberwolves: 1.0 @ avg 0.1100
@@ -22,7 +22,7 @@ Updated: 2026-11-23 21:06 ET · Mode: **LIVE** · Result: OK (27.2s)
 - `{"market": "aec-wta-nurbra-anazol-2026-11-23", "closed": "2026-11-23 13:05 ET", "pnl": 1.0, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MEM@CHA", "market": "aec-nba-mem-cha-2026-11-23", "side": "short", "team": "Hornets", "ask": 0.12, "qty": 2.0833, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
