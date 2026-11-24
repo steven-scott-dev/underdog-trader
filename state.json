@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "bets": 9,
- "bounce_bets": 5,
+ "bets": 10,
+ "bounce_bets": 6,
  "realized": 3.6709,
  "paper_positions": [],
  "paper_history": [],
@@ -130,6 +130,15 @@
    "mode": "main",
    "tp_order_id": "DXZXZPJ015P1",
    "tp_target": 0.35
+  },
+  {
+   "market": "aec-wta-polher-sofcos-2026-11-24",
+   "opened": "2026-11-24 15:55 ET",
+   "side": "long",
+   "team": "Polona Hercog",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {
@@ -190,10 +199,16 @@
     1795550442.7609465,
     0.14
    ]
+  ],
+  "aec-wta-polher-sofcos-2026-11-24": [
+   [
+    1795553734.9761918,
+    0.08
+   ]
   ]
  },
- "balance": 4.9248,
- "balance_updated": "2026-11-24 15:50 ET",
+ "balance": 4.8498,
+ "balance_updated": "2026-11-24 15:55 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
