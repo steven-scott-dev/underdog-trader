@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23T21:15:51.334609-05:00",
+ "updated": "2026-11-23T21:20:43.214191-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.2,
+ "duration_s": 3.4,
  "daily": {
   "date": "2026-11-23",
   "bets": 11,
@@ -14,31 +14,17 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nba-bkn-min-2026-11-23": {
-   "qty": 1.0,
-   "avg_px": 0.11,
-   "cash_value": 0.02,
-   "team_id": 22,
-   "outcome": "Nets",
-   "title": "BKN Nets vs. MIN Timberwolves"
-  },
   "aec-nhl-cgy-ott-2026-11-23": {
    "qty": 1.11,
    "avg_px": 0.099,
-   "cash_value": 0.0666,
+   "cash_value": 0.0555,
    "team_id": 1507,
    "outcome": "Flames",
    "title": "CGY Flames vs. OTT Senators"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nba-bkn-min-2026-11-23",
-   "pnl": -0.09
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 12.5655,
- "balance_updated": "2026-11-23 21:15 ET"
+ "balance_updated": "2026-11-23 21:20 ET"
 }

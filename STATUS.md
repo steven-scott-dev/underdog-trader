@@ -1,14 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 21:15 ET · Mode: **LIVE** · Result: OK (15.2s)
+Updated: 2026-11-23 21:20 ET · Mode: **LIVE** · Result: OK (3.4s)
 
 ## Today
 - Bets placed: 11 / 100 (main 1, bounce 10)
 - Realized P&L: +2.80
-- Account balance: $12.57 (as of 2026-11-23 21:15 ET)
+- Account balance: $12.57 (as of 2026-11-23 21:20 ET)
 
 ## Live positions
-- BKN Nets vs. MIN Timberwolves: 1.0 @ avg 0.1100
 - CGY Flames vs. OTT Senators: 1.11 @ avg 0.0990
 
 ## Recent live history
@@ -22,7 +21,7 @@ Updated: 2026-11-23 21:15 ET · Mode: **LIVE** · Result: OK (15.2s)
 - `{"market": "aec-wta-varlep-abiren-2026-11-23", "closed": "2026-11-23 13:45 ET", "pnl": 1.3143, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-bkn-min-2026-11-23", "pnl": -0.09}`
+- _none_
 
 ## Order errors
 - _none_
