@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -14,6 +14,15 @@
    "entry": 0.2,
    "qty": 1.25,
    "mode": "main"
+  },
+  {
+   "market": "aec-nba-sa-sac-2026-11-23",
+   "opened": "2026-11-24 00:05 ET",
+   "side": "short",
+   "team": "Kings",
+   "entry": 0.08,
+   "qty": 3.125,
+   "mode": "main"
   }
  ],
  "settled_pending": {},
@@ -23,8 +32,14 @@
     1795496439.6482346,
     0.2
    ]
+  ],
+  "aec-nba-sa-sac-2026-11-23": [
+   [
+    1795496737.0522106,
+    0.08
+   ]
   ]
  },
- "balance": 10.2146,
- "balance_updated": "2026-11-24 00:00 ET"
+ "balance": 13.065,
+ "balance_updated": "2026-11-24 00:05 ET"
 }

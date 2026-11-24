@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T00:00:40.145248-05:00",
+ "updated": "2026-11-24T00:05:38.666663-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.9,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-24",
-  "bets": 1,
+  "bets": 2,
   "bounce_bets": 0,
   "max_total": 100,
   "max_open": 5,
@@ -13,21 +13,30 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
+ "live_positions": {
+  "aec-nhl-ana-sea-2026-11-23": {
+   "qty": 1.25,
+   "avg_px": 0.208,
+   "cash_value": 0.2375,
+   "team_id": 1512,
+   "outcome": "Ducks",
+   "title": "ANA Ducks vs. SEA Kraken"
+  }
+ },
  "actions": [
   {
    "type": "buy",
-   "game": "nhl:ANA@SEA",
-   "market": "aec-nhl-ana-sea-2026-11-23",
-   "side": "long",
-   "team": "Ducks",
-   "ask": 0.2,
-   "qty": 1.25,
+   "game": "nba:SA@SAC",
+   "market": "aec-nba-sa-sac-2026-11-23",
+   "side": "short",
+   "team": "Kings",
+   "ask": 0.08,
+   "qty": 3.125,
    "stake": 0.25,
    "mode": "main"
   }
  ],
  "errors": [],
- "balance": 10.2146,
- "balance_updated": "2026-11-24 00:00 ET"
+ "balance": 13.065,
+ "balance_updated": "2026-11-24 00:05 ET"
 }
