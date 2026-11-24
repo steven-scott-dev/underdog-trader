@@ -1,14 +1,15 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-23 20:15 ET · Mode: **LIVE** · Result: OK (15.2s)
+Updated: 2026-11-23 20:20 ET · Mode: **LIVE** · Result: OK (15.2s)
 
 ## Today
 - Bets placed: 9 / 100 (main 0, bounce 9)
 - Realized P&L: +2.89
-- Account balance: $9.48 (as of 2026-11-23 20:15 ET)
+- Account balance: $9.48 (as of 2026-11-23 20:20 ET)
 
 ## Live positions
 - BKN Nets vs. MIN Timberwolves: 1.0 @ avg 0.1100
+- CGY Flames vs. OTT Senators: 1.11 @ avg 0.0990
 
 ## Recent live history
 - `{"market": "aec-nhl-cgy-ott-2026-11-23", "opened": "2026-11-23 20:15 ET", "side": "long", "team": "Flames", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
@@ -21,7 +22,7 @@ Updated: 2026-11-23 20:15 ET · Mode: **LIVE** · Result: OK (15.2s)
 - `{"market": "aec-wta-nurbra-anazol-2026-11-23", "opened": "2026-11-23 11:55 ET", "side": "short", "team": "Anastasia Zolotareva", "entry": 0.09, "qty": 1.1111, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:CGY@OTT", "market": "aec-nhl-cgy-ott-2026-11-23", "side": "long", "team": "Flames", "ask": 0.09, "qty": 1.1111, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
