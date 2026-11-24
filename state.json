@@ -1,8 +1,8 @@
 {
  "date": "2026-11-23",
- "bets": 11,
+ "bets": 12,
  "bounce_bets": 10,
- "realized": 2.8029,
+ "realized": 5.7529,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -152,10 +152,31 @@
    "closed": "2026-11-23 21:15 ET",
    "pnl": -0.09,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-por-phi-2026-11-23",
+   "closed": "2026-11-23 21:30 ET",
+   "pnl": 1.1375,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-mem-cha-2026-11-23",
+   "closed": "2026-11-23 21:30 ET",
+   "pnl": 1.8125,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-mil-tor-2026-11-23",
+   "opened": "2026-11-23 21:30 ET",
+   "side": "long",
+   "team": "Bucks",
+   "entry": 0.28,
+   "qty": 0.8929,
+   "mode": "main"
   }
  ],
- "balance": 11.3155,
- "balance_updated": "2026-11-23 21:25 ET",
+ "balance": 8.9763,
+ "balance_updated": "2026-11-23 21:30 ET",
  "px_hist": {
   "aec-wta-berbon-carmon-2026-11-23": [
    [
@@ -221,6 +242,12 @@
    [
     1795485941.4728358,
     0.12
+   ]
+  ],
+  "aec-nba-mil-tor-2026-11-23": [
+   [
+    1795487437.9408736,
+    0.28
    ]
   ]
  },
