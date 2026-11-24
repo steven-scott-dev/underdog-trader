@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 10,
  "bounce_bets": 6,
- "realized": 3.6709,
+ "realized": 3.6084,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -139,6 +139,12 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-polher-sofcos-2026-11-24",
+   "closed": "2026-11-24 16:05 ET",
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {
@@ -208,11 +214,12 @@
   ]
  },
  "balance": 4.8498,
- "balance_updated": "2026-11-24 16:00 ET",
+ "balance_updated": "2026-11-24 16:05 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
   "aec-wta-lucbro-alilin-2026-11-23": 1795541739.0390527,
-  "aec-wta-louaya-ireesc-2026-11-23": 1795550741.7158213
+  "aec-wta-louaya-ireesc-2026-11-23": 1795550741.7158213,
+  "aec-wta-polher-sofcos-2026-11-24": 1795556137.998887
  }
 }
