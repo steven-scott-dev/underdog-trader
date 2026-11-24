@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 0,
  "realized": 0.0,
  "paper_positions": [],
@@ -23,6 +23,15 @@
    "entry": 0.08,
    "qty": 3.125,
    "mode": "main"
+  },
+  {
+   "market": "aec-nhl-min-sj-2026-11-23",
+   "opened": "2026-11-24 00:20 ET",
+   "side": "short",
+   "team": "Sharks",
+   "entry": 0.15,
+   "qty": 1.6667,
+   "mode": "main"
   }
  ],
  "settled_pending": {},
@@ -38,8 +47,14 @@
     1795496737.0522106,
     0.08
    ]
+  ],
+  "aec-nhl-min-sj-2026-11-23": [
+   [
+    1795497637.596983,
+    0.15
+   ]
   ]
  },
- "balance": 13.69,
- "balance_updated": "2026-11-24 00:15 ET"
+ "balance": 15.091,
+ "balance_updated": "2026-11-24 00:20 ET"
 }
