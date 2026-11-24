@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 16:15 ET · Mode: **LIVE** · Result: OK (2.6s)
+Updated: 2026-11-24 16:20 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 10 / 100 (main 4, bounce 6)
 - Realized P&L: +3.61
-- Account balance: $4.85 (as of 2026-11-24 16:15 ET)
+- Account balance: $4.85 (as of 2026-11-24 16:20 ET)
 
 ## Live positions
-- Polona Hercog vs. Sofia Costoulas: 1.25 @ avg 0.0600
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-polher-sofcos-2026-11-24", "closed": "2026-11-24 16:05 ET", "pnl": -0.0625, "reason": "stop-loss"}`

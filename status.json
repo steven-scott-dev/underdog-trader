@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T16:15:44.721791-05:00",
+ "updated": "2026-11-24T16:20:39.241583-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-24",
   "bets": 10,
@@ -13,18 +13,9 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-wta-polher-sofcos-2026-11-24": {
-   "qty": 1.25,
-   "avg_px": 0.06,
-   "cash_value": 0.0125,
-   "team_id": 3340,
-   "outcome": "Polona Hercog",
-   "title": "Polona Hercog vs. Sofia Costoulas"
-  }
- },
+ "live_positions": {},
  "actions": [],
  "errors": [],
  "balance": 4.8498,
- "balance_updated": "2026-11-24 16:15 ET"
+ "balance_updated": "2026-11-24 16:20 ET"
 }
