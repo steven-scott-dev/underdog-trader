@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 13:55 ET · Mode: **LIVE** · Result: OK (1.3s)
+Updated: 2026-11-25 14:00 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
 - Realized P&L: +0.71
-- Account balance: $4.29 (as of 2026-11-25 13:55 ET)
+- Account balance: $4.29 (as of 2026-11-25 14:00 ET)
 
 ## Live positions
-- Martina Trevisan vs. Veronika Erjavec: 1.25 @ avg 0.0880
+- _none_
 
 ## Recent live history
 - `{"market": "aec-wta-martre-vererj-2026-11-25", "closed": "2026-11-25 13:50 ET", "pnl": -0.0975, "reason": "stop-loss"}`

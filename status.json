@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T13:55:52.268191-05:00",
+ "updated": "2026-11-25T14:00:34.297365-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-25",
   "bets": 3,
@@ -13,18 +13,9 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-wta-martre-vererj-2026-11-25": {
-   "qty": 1.25,
-   "avg_px": 0.088,
-   "cash_value": 0.0125,
-   "team_id": 5296,
-   "outcome": "Martina Trevisan",
-   "title": "Martina Trevisan vs. Veronika Erjavec"
-  }
- },
+ "live_positions": {},
  "actions": [],
  "errors": [],
  "balance": 4.2898,
- "balance_updated": "2026-11-25 13:55 ET"
+ "balance_updated": "2026-11-25 14:00 ET"
 }
