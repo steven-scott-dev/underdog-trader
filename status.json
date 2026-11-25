@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T13:20:44.770226-05:00",
+ "updated": "2026-11-25T13:25:38.053927-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 2.0,
  "daily": {
   "date": "2026-11-25",
   "bets": 2,
@@ -17,7 +17,7 @@
   "aec-wta-solgui-marcar-2026-11-23": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.17,
+   "cash_value": 0.12,
    "team_id": 7830,
    "outcome": "Sol Larraya Guidi",
    "title": "Sol Ailin Larraya Guidi vs. Maria Carle"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 4.3798,
- "balance_updated": "2026-11-25 13:20 ET"
+ "balance_updated": "2026-11-25 13:25 ET"
 }
