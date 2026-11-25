@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T23:50:36.776621-05:00",
+ "updated": "2026-11-24T23:55:47.514375-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.8,
  "daily": {
   "date": "2026-11-24",
   "bets": 11,
@@ -17,5 +17,5 @@
  "actions": [],
  "errors": [],
  "balance": 4.5898,
- "balance_updated": "2026-11-24 23:50 ET"
+ "balance_updated": "2026-11-24 23:55 ET"
 }
