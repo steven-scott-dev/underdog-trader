@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "bets": 10,
+ "bets": 11,
  "bounce_bets": 6,
  "realized": 3.6084,
  "paper_positions": [],
@@ -145,6 +145,17 @@
    "closed": "2026-11-24 16:05 ET",
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-veg-edm-2026-11-24",
+   "opened": "2026-11-24 22:20 ET",
+   "side": "short",
+   "team": "Oilers",
+   "entry": 0.2,
+   "qty": 1.25,
+   "mode": "main",
+   "tp_order_id": "DY67DXMG35PA",
+   "tp_target": 0.5
   }
  ],
  "settled_pending": {
@@ -211,10 +222,16 @@
     1795553734.9761918,
     0.08
    ]
+  ],
+  "aec-nhl-veg-edm-2026-11-24": [
+   [
+    1795576846.5456343,
+    0.2
+   ]
   ]
  },
- "balance": 4.8498,
- "balance_updated": "2026-11-24 22:15 ET",
+ "balance": 5.8398,
+ "balance_updated": "2026-11-24 22:20 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
