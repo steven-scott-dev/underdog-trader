@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T00:05:47.463848-05:00",
+ "updated": "2026-11-25T00:10:36.540993-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.8,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-25",
-  "bets": 0,
-  "bounce_bets": 0,
+  "bets": 1,
+  "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.0
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nba:DAL@DEN",
+   "market": "aec-nba-dal-den-2026-11-24",
+   "side": "short",
+   "team": "Nuggets",
+   "ask": 0.1,
+   "qty": 1.0,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 4.5898,
- "balance_updated": "2026-11-25 00:05 ET"
+ "balance": 5.4898,
+ "balance_updated": "2026-11-25 00:10 ET"
 }
