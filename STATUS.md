@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 18:10 ET · Mode: **LIVE** · Result: OK (2.9s)
+Updated: 2026-11-25 18:15 ET · Mode: **LIVE** · Result: OK (1.2s)
 
 ## Today
 - Bets placed: 5 / 100 (main 1, bounce 4)
 - Realized P&L: +0.56
-- Account balance: $4.12 (as of 2026-11-25 18:10 ET)
+- Account balance: $4.02 (as of 2026-11-25 18:15 ET)
 
 ## Live positions
-- _none_
+- Solana Sierra vs. Carole Monnet: 1.42 @ avg 0.0700
 
 ## Recent live history
 - `{"market": "aec-wta-solsie-carmon-2026-11-25", "opened": "2026-11-25 18:10 ET", "side": "long", "team": "Solana Sierra", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-25 18:10 ET · Mode: **LIVE** · Result: OK (2.9s)
 - `{"market": "aec-nba-dal-den-2026-11-24", "closed": "2026-11-25 00:40 ET", "pnl": 0.89, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Monnet@Sierra", "market": "aec-wta-solsie-carmon-2026-11-25", "side": "long", "team": "Solana Sierra", "ask": 0.07, "qty": 1.4286, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
