@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 13:10 ET · Mode: **LIVE** · Result: OK (2.2s)
+Updated: 2026-11-25 13:15 ET · Mode: **LIVE** · Result: OK (2.1s)
 
 ## Today
 - Bets placed: 2 / 100 (main 0, bounce 2)
 - Realized P&L: +0.89
-- Account balance: $4.38 (as of 2026-11-25 13:10 ET)
+- Account balance: $4.38 (as of 2026-11-25 13:15 ET)
 
 ## Live positions
-- _none_
+- Sol Ailin Larraya Guidi vs. Maria Carle: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-wta-solgui-marcar-2026-11-23", "opened": "2026-11-25 13:10 ET", "side": "long", "team": "Sol Larraya Guidi", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -16,7 +16,7 @@ Updated: 2026-11-25 13:10 ET · Mode: **LIVE** · Result: OK (2.2s)
 - `{"market": "aec-nba-dal-den-2026-11-24", "opened": "2026-11-25 00:10 ET", "side": "short", "team": "Nuggets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Carle@Guidi", "market": "aec-wta-solgui-marcar-2026-11-23", "side": "long", "team": "Sol Larraya Guidi", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
