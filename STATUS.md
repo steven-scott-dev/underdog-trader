@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 16:25 ET · Mode: **LIVE** · Result: OK (2.6s)
+Updated: 2026-11-25 16:30 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 4 / 100 (main 1, bounce 3)
 - Realized P&L: +0.71
-- Account balance: $4.29 (as of 2026-11-25 16:25 ET)
+- Account balance: $4.04 (as of 2026-11-25 16:30 ET)
 
 ## Live positions
-- _none_
+- Ipek Oz vs. Julia Riera: 1.08 @ avg 0.2300
 
 ## Recent live history
 - `{"market": "aec-wta-ipeoz-julrie-2026-11-25", "opened": "2026-11-25 16:25 ET", "side": "long", "team": "Ipek Oz", "entry": 0.23, "qty": 1.087, "mode": "main", "tp_order_id": "DYNR18Q015P1", "tp_target": 0.58}`
@@ -20,7 +20,7 @@ Updated: 2026-11-25 16:25 ET · Mode: **LIVE** · Result: OK (2.6s)
 - `{"market": "aec-nba-dal-den-2026-11-24", "opened": "2026-11-25 00:10 ET", "side": "short", "team": "Nuggets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Riera@Oz", "market": "aec-wta-ipeoz-julrie-2026-11-25", "side": "long", "team": "Ipek Oz", "ask": 0.23, "qty": 1.087, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

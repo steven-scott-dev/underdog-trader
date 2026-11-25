@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T16:25:38.111282-05:00",
+ "updated": "2026-11-25T16:30:46.086990-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.6,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-25",
   "bets": 4,
@@ -13,21 +13,18 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Riera@Oz",
-   "market": "aec-wta-ipeoz-julrie-2026-11-25",
-   "side": "long",
-   "team": "Ipek Oz",
-   "ask": 0.23,
-   "qty": 1.087,
-   "stake": 0.25,
-   "mode": "main"
+ "live_positions": {
+  "aec-wta-ipeoz-julrie-2026-11-25": {
+   "qty": 1.08,
+   "avg_px": 0.23,
+   "cash_value": 0.108,
+   "team_id": 16235,
+   "outcome": "Ipek Oz",
+   "title": "Ipek Oz vs. Julia Riera"
   }
- ],
+ },
+ "actions": [],
  "errors": [],
- "balance": 4.2898,
- "balance_updated": "2026-11-25 16:25 ET"
+ "balance": 4.0414,
+ "balance_updated": "2026-11-25 16:30 ET"
 }
