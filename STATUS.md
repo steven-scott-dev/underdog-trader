@@ -1,20 +1,21 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 00:35 ET · Mode: **LIVE** · Result: OK (0.9s)
+Updated: 2026-11-25 00:40 ET · Mode: **LIVE** · Result: OK (1.6s)
 
 ## Today
 - Bets placed: 1 / 100 (main 0, bounce 1)
-- Realized P&L: +0.00
-- Account balance: $5.49 (as of 2026-11-25 00:35 ET)
+- Realized P&L: +0.89
+- Account balance: $4.49 (as of 2026-11-25 00:40 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-nba-dal-den-2026-11-24", "closed": "2026-11-25 00:40 ET", "pnl": 0.89, "reason": "settled"}`
 - `{"market": "aec-nba-dal-den-2026-11-24", "opened": "2026-11-25 00:10 ET", "side": "short", "team": "Nuggets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "settled", "market": "aec-nba-dal-den-2026-11-24", "pnl": 0.89}`
 
 ## Order errors
 - _none_

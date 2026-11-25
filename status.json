@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-25T00:35:38.218588-05:00",
+ "updated": "2026-11-25T00:40:38.073331-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 0.9,
+ "duration_s": 1.6,
  "daily": {
   "date": "2026-11-25",
   "bets": 1,
   "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
-  "realized": 0.0
+  "realized": 0.89
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-nba-dal-den-2026-11-24",
+   "pnl": 0.89
+  }
+ ],
  "errors": [],
- "balance": 5.4898,
- "balance_updated": "2026-11-25 00:35 ET"
+ "balance": 4.4898,
+ "balance_updated": "2026-11-25 00:40 ET"
 }

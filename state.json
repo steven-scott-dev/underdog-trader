@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 1,
  "bounce_bets": 1,
- "realized": 0.0,
+ "realized": 0.89,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -14,11 +14,17 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-dal-den-2026-11-24",
+   "closed": "2026-11-25 00:40 ET",
+   "pnl": 0.89,
+   "reason": "settled"
   }
  ],
  "settled_pending": {},
- "balance": 5.4898,
- "balance_updated": "2026-11-25 00:35 ET",
+ "balance": 4.4898,
+ "balance_updated": "2026-11-25 00:40 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
