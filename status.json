@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T18:40:42.159166-05:00",
+ "updated": "2026-11-25T18:45:35.667518-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-25",
   "bets": 5,
@@ -23,14 +23,8 @@
    "title": "Solana Sierra vs. Carole Monnet"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-solsie-carmon-2026-11-25",
-   "pnl": -0.0852
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 4.0184,
- "balance_updated": "2026-11-25 18:40 ET"
+ "balance_updated": "2026-11-25 18:45 ET"
 }
