@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 22:40 ET · Mode: **LIVE** · Result: OK (2.0s)
+Updated: 2026-11-24 22:45 ET · Mode: **LIVE** · Result: OK (1.0s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
 - Realized P&L: +4.61
-- Account balance: $5.84 (as of 2026-11-24 22:40 ET)
+- Account balance: $4.59 (as of 2026-11-24 22:45 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-24 22:40 ET · Mode: **LIVE** · Result: OK (2.0s)
 - `{"market": "aec-wta-lucbro-alilin-2026-11-23", "closed": "2026-11-24 12:05 ET", "pnl": -0.0725, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "settled", "market": "aec-nhl-veg-edm-2026-11-24", "pnl": 1.0}`
+- _none_
 
 ## Order errors
 - _none_

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T22:40:34.902786-05:00",
+ "updated": "2026-11-24T22:45:37.917374-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.0,
  "daily": {
   "date": "2026-11-24",
   "bets": 11,
@@ -14,14 +14,8 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [
-  {
-   "type": "settled",
-   "market": "aec-nhl-veg-edm-2026-11-24",
-   "pnl": 1.0
-  }
- ],
+ "actions": [],
  "errors": [],
- "balance": 5.8398,
- "balance_updated": "2026-11-24 22:40 ET"
+ "balance": 4.5898,
+ "balance_updated": "2026-11-24 22:45 ET"
 }
