@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 1,
- "bounce_bets": 1,
+ "bets": 2,
+ "bounce_bets": 2,
  "realized": 0.89,
  "paper_positions": [],
  "paper_history": [],
@@ -20,15 +20,30 @@
    "closed": "2026-11-25 00:40 ET",
    "pnl": 0.89,
    "reason": "settled"
+  },
+  {
+   "market": "aec-wta-solgui-marcar-2026-11-23",
+   "opened": "2026-11-25 13:10 ET",
+   "side": "long",
+   "team": "Sol Larraya Guidi",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 4.4898,
- "balance_updated": "2026-11-25 13:05 ET",
+ "balance": 4.3798,
+ "balance_updated": "2026-11-25 13:10 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
     1795583436.0204613,
+    0.1
+   ]
+  ],
+  "aec-wta-solgui-marcar-2026-11-23": [
+   [
+    1795630236.162861,
     0.1
    ]
   ]
