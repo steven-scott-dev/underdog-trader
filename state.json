@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 2,
  "bounce_bets": 2,
- "realized": 0.89,
+ "realized": 0.81,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -29,11 +29,17 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-solgui-marcar-2026-11-23",
+   "closed": "2026-11-25 13:40 ET",
+   "pnl": -0.08,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
- "balance": 4.3798,
- "balance_updated": "2026-11-25 13:35 ET",
+ "balance": 4.3998,
+ "balance_updated": "2026-11-25 13:40 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -47,5 +53,8 @@
     0.1
    ]
   ]
+ },
+ "cooldowns": {
+  "aec-wta-solgui-marcar-2026-11-23": 1795633835.0126176
  }
 }
