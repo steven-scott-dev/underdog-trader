@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 13:45 ET · Mode: **LIVE** · Result: OK (2.8s)
+Updated: 2026-11-25 13:50 ET · Mode: **LIVE** · Result: OK (2.0s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
-- Realized P&L: +0.81
-- Account balance: $4.29 (as of 2026-11-25 13:45 ET)
+- Realized P&L: +0.71
+- Account balance: $4.29 (as of 2026-11-25 13:50 ET)
 
 ## Live positions
-- _none_
+- Martina Trevisan vs. Veronika Erjavec: 1.25 @ avg 0.0880
 
 ## Recent live history
+- `{"market": "aec-wta-martre-vererj-2026-11-25", "closed": "2026-11-25 13:50 ET", "pnl": -0.0975, "reason": "stop-loss"}`
 - `{"market": "aec-wta-martre-vererj-2026-11-25", "opened": "2026-11-25 13:45 ET", "side": "long", "team": "Martina Trevisan", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 - `{"market": "aec-wta-solgui-marcar-2026-11-23", "closed": "2026-11-25 13:40 ET", "pnl": -0.08, "reason": "stop-loss"}`
 - `{"market": "aec-wta-solgui-marcar-2026-11-23", "opened": "2026-11-25 13:10 ET", "side": "long", "team": "Sol Larraya Guidi", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -18,7 +19,7 @@ Updated: 2026-11-25 13:45 ET · Mode: **LIVE** · Result: OK (2.8s)
 - `{"market": "aec-nba-dal-den-2026-11-24", "opened": "2026-11-25 00:10 ET", "side": "short", "team": "Nuggets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Erjavec@Trevisan", "market": "aec-wta-martre-vererj-2026-11-25", "side": "long", "team": "Martina Trevisan", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- `{"type": "stop_loss", "market": "aec-wta-martre-vererj-2026-11-25", "pnl": -0.0975}`
 
 ## Order errors
 - _none_

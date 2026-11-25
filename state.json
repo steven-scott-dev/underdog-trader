@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 3,
  "bounce_bets": 3,
- "realized": 0.81,
+ "realized": 0.7125,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -44,11 +44,17 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-wta-martre-vererj-2026-11-25",
+   "closed": "2026-11-25 13:50 ET",
+   "pnl": -0.0975,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
  "balance": 4.2898,
- "balance_updated": "2026-11-25 13:45 ET",
+ "balance_updated": "2026-11-25 13:50 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -70,6 +76,7 @@
   ]
  },
  "cooldowns": {
-  "aec-wta-solgui-marcar-2026-11-23": 1795633835.0126176
+  "aec-wta-solgui-marcar-2026-11-23": 1795633835.0126176,
+  "aec-wta-martre-vererj-2026-11-25": 1795634444.9779265
  }
 }
