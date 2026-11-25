@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "bets": 3,
+ "bets": 4,
  "bounce_bets": 3,
  "realized": 0.7125,
  "paper_positions": [],
@@ -50,11 +50,22 @@
    "closed": "2026-11-25 13:50 ET",
    "pnl": -0.0975,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-ipeoz-julrie-2026-11-25",
+   "opened": "2026-11-25 16:25 ET",
+   "side": "long",
+   "team": "Ipek Oz",
+   "entry": 0.23,
+   "qty": 1.087,
+   "mode": "main",
+   "tp_order_id": "DYNR18Q015P1",
+   "tp_target": 0.58
   }
  ],
  "settled_pending": {},
  "balance": 4.2898,
- "balance_updated": "2026-11-25 16:20 ET",
+ "balance_updated": "2026-11-25 16:25 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -72,6 +83,12 @@
    [
     1795632345.0457332,
     0.08
+   ]
+  ],
+  "aec-wta-ipeoz-julrie-2026-11-25": [
+   [
+    1795641937.775049,
+    0.23
    ]
   ]
  },
