@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-24 22:20 ET · Mode: **LIVE** · Result: OK (3.1s)
+Updated: 2026-11-24 22:25 ET · Mode: **LIVE** · Result: OK (2.6s)
 
 ## Today
 - Bets placed: 11 / 100 (main 5, bounce 6)
 - Realized P&L: +3.61
-- Account balance: $5.84 (as of 2026-11-24 22:20 ET)
+- Account balance: $5.84 (as of 2026-11-24 22:25 ET)
 
 ## Live positions
 - _none_
@@ -21,7 +21,7 @@ Updated: 2026-11-24 22:20 ET · Mode: **LIVE** · Result: OK (3.1s)
 - `{"market": "aec-wta-lucbro-alilin-2026-11-23", "opened": "2026-11-24 12:00 ET", "side": "long", "team": "Lucia Bronzetti", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:VGK@EDM", "market": "aec-nhl-veg-edm-2026-11-24", "side": "short", "team": "Oilers", "ask": 0.2, "qty": 1.25, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

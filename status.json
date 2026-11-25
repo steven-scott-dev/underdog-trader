@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24T22:20:47.440766-05:00",
+ "updated": "2026-11-24T22:25:37.633857-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.1,
+ "duration_s": 2.6,
  "daily": {
   "date": "2026-11-24",
   "bets": 11,
@@ -14,20 +14,8 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nhl:VGK@EDM",
-   "market": "aec-nhl-veg-edm-2026-11-24",
-   "side": "short",
-   "team": "Oilers",
-   "ask": 0.2,
-   "qty": 1.25,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 5.8398,
- "balance_updated": "2026-11-24 22:20 ET"
+ "balance_updated": "2026-11-24 22:25 ET"
 }
