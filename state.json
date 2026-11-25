@@ -2,7 +2,7 @@
  "date": "2026-11-24",
  "bets": 11,
  "bounce_bets": 6,
- "realized": 3.6084,
+ "realized": 4.6084,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -156,6 +156,12 @@
    "mode": "main",
    "tp_order_id": "DY67DXMG35PA",
    "tp_target": 0.5
+  },
+  {
+   "market": "aec-nhl-veg-edm-2026-11-24",
+   "closed": "2026-11-24 22:40 ET",
+   "pnl": 1.0,
+   "reason": "settled"
   }
  ],
  "settled_pending": {
@@ -231,7 +237,7 @@
   ]
  },
  "balance": 5.8398,
- "balance_updated": "2026-11-24 22:38 ET",
+ "balance_updated": "2026-11-24 22:40 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
