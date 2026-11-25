@@ -148,7 +148,6 @@
   }
  ],
  "settled_pending": {
-  "aec-wta-guimar-luncin-2026-11-23": 1795563336.3095334,
   "aec-wta-solsie-vickas-2026-11-23": 1795566947.9131982
  },
  "px_hist": {
@@ -214,7 +213,7 @@
   ]
  },
  "balance": 4.8498,
- "balance_updated": "2026-11-24 20:30 ET",
+ "balance_updated": "2026-11-24 20:35 ET",
  "cooldowns": {
   "aec-wta-vicbos-lausam-2026-11-23": 1795534840.3788478,
   "aec-wta-zhikul-vererj-2026-11-23": 1795536649.0229049,
