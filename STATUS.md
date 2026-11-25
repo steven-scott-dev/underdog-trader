@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 13:50 ET · Mode: **LIVE** · Result: OK (2.0s)
+Updated: 2026-11-25 13:55 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 3 / 100 (main 0, bounce 3)
 - Realized P&L: +0.71
-- Account balance: $4.29 (as of 2026-11-25 13:50 ET)
+- Account balance: $4.29 (as of 2026-11-25 13:55 ET)
 
 ## Live positions
 - Martina Trevisan vs. Veronika Erjavec: 1.25 @ avg 0.0880
@@ -19,7 +19,7 @@ Updated: 2026-11-25 13:50 ET · Mode: **LIVE** · Result: OK (2.0s)
 - `{"market": "aec-nba-dal-den-2026-11-24", "opened": "2026-11-25 00:10 ET", "side": "short", "team": "Nuggets", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-wta-martre-vererj-2026-11-25", "pnl": -0.0975}`
+- _none_
 
 ## Order errors
 - _none_

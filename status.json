@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T13:50:45.632662-05:00",
+ "updated": "2026-11-25T13:55:52.268191-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.0,
+ "duration_s": 1.3,
  "daily": {
   "date": "2026-11-25",
   "bets": 3,
@@ -23,14 +23,8 @@
    "title": "Martina Trevisan vs. Veronika Erjavec"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-wta-martre-vererj-2026-11-25",
-   "pnl": -0.0975
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 4.2898,
- "balance_updated": "2026-11-25 13:50 ET"
+ "balance_updated": "2026-11-25 13:55 ET"
 }
