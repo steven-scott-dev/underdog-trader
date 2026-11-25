@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 4,
- "bounce_bets": 3,
+ "bets": 5,
+ "bounce_bets": 4,
  "realized": 0.5613,
  "paper_positions": [],
  "paper_history": [],
@@ -67,11 +67,20 @@
    "closed": "2026-11-25 16:35 ET",
    "pnl": -0.1512,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-solsie-carmon-2026-11-25",
+   "opened": "2026-11-25 18:10 ET",
+   "side": "long",
+   "team": "Solana Sierra",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
  "balance": 4.1178,
- "balance_updated": "2026-11-25 18:05 ET",
+ "balance_updated": "2026-11-25 18:10 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -95,6 +104,12 @@
    [
     1795641937.775049,
     0.23
+   ]
+  ],
+  "aec-wta-solsie-carmon-2026-11-25": [
+   [
+    1795648248.2334979,
+    0.07
    ]
   ]
  },
