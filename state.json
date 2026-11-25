@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 2,
- "bounce_bets": 2,
+ "bets": 3,
+ "bounce_bets": 3,
  "realized": 0.81,
  "paper_positions": [],
  "paper_history": [],
@@ -35,11 +35,20 @@
    "closed": "2026-11-25 13:40 ET",
    "pnl": -0.08,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-martre-vererj-2026-11-25",
+   "opened": "2026-11-25 13:45 ET",
+   "side": "long",
+   "team": "Martina Trevisan",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 4.3998,
- "balance_updated": "2026-11-25 13:40 ET",
+ "balance": 4.2898,
+ "balance_updated": "2026-11-25 13:45 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -51,6 +60,12 @@
    [
     1795630236.162861,
     0.1
+   ]
+  ],
+  "aec-wta-martre-vererj-2026-11-25": [
+   [
+    1795632345.0457332,
+    0.08
    ]
   ]
  },
