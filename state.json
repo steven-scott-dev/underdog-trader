@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 8,
- "bounce_bets": 7,
- "realized": 0.3436,
+ "bets": 10,
+ "bounce_bets": 8,
+ "realized": 0.2461,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -121,11 +121,37 @@
    "closed": "2026-11-25 20:25 ET",
    "pnl": -0.07,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-nyr-buf-2026-11-25",
+   "closed": "2026-11-25 21:20 ET",
+   "pnl": -0.0975,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-chi-cha-2026-11-25",
+   "opened": "2026-11-25 21:20 ET",
+   "side": "short",
+   "team": "Hornets",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-wpg-bos-2026-11-25",
+   "opened": "2026-11-25 21:20 ET",
+   "side": "short",
+   "team": "Bruins",
+   "entry": 0.22,
+   "qty": 1.1364,
+   "mode": "main",
+   "tp_order_id": "DYSZ2DN015P1",
+   "tp_target": 0.55
   }
  ],
  "settled_pending": {},
- "balance": 3.7534,
- "balance_updated": "2026-11-25 21:15 ET",
+ "balance": 5.5148,
+ "balance_updated": "2026-11-25 21:21 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -174,6 +200,18 @@
     1795656059.9230194,
     0.1
    ]
+  ],
+  "aec-nba-chi-cha-2026-11-25": [
+   [
+    1795659635.4698439,
+    0.1
+   ]
+  ],
+  "aec-nhl-wpg-bos-2026-11-25": [
+   [
+    1795659637.1843543,
+    0.22
+   ]
   ]
  },
  "cooldowns": {
@@ -182,6 +220,7 @@
   "aec-wta-ipeoz-julrie-2026-11-25": 1795644335.6002522,
   "aec-wta-solsie-carmon-2026-11-25": 1795651840.741211,
   "aec-nba-mia-phi-2026-11-25": 1795654235.3252814,
-  "aec-nhl-van-det-2026-11-25": 1795658144.1302404
+  "aec-nhl-van-det-2026-11-25": 1795658144.1302404,
+  "aec-nhl-nyr-buf-2026-11-25": 1795661434.5866046
  }
 }
