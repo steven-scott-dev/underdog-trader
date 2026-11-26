@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 14:25 ET · Mode: **LIVE** · Result: OK (3.1s)
+Updated: 2026-11-26 14:30 ET · Mode: **LIVE** · Result: OK (2.2s)
 
 ## Today
 - Bets placed: 3 / 100 (main 2, bounce 1)
 - Realized P&L: +0.99
-- Account balance: $3.00 (as of 2026-11-26 14:25 ET)
+- Account balance: $3.00 (as of 2026-11-26 14:30 ET)
 
 ## Live positions
 - _none_
@@ -19,7 +19,7 @@ Updated: 2026-11-26 14:25 ET · Mode: **LIVE** · Result: OK (3.1s)
 - `{"market": "aec-nhl-chi-sea-2026-11-25", "opened": "2026-11-26 00:00 ET", "side": "short", "team": "Kraken", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Brancaccio@Reales", "market": "aec-wta-guimar-nurbra-2026-11-25", "side": "short", "team": "Nuria Brancaccio", "ask": 0.17, "qty": 1.4706, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

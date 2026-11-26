@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T14:25:41.817955-05:00",
+ "updated": "2026-11-26T14:30:43.375698-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.1,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-26",
   "bets": 3,
@@ -14,20 +14,8 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "wta:Brancaccio@Reales",
-   "market": "aec-wta-guimar-nurbra-2026-11-25",
-   "side": "short",
-   "team": "Nuria Brancaccio",
-   "ask": 0.17,
-   "qty": 1.4706,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 2.9998,
- "balance_updated": "2026-11-26 14:25 ET"
+ "balance_updated": "2026-11-26 14:30 ET"
 }
