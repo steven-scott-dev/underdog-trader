@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 13,
- "bounce_bets": 10,
- "realized": 1.1361,
+ "bets": 14,
+ "bounce_bets": 11,
+ "realized": 2.3907,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -182,11 +182,32 @@
    "mode": "main",
    "tp_order_id": "DYT3W2AG35P4",
    "tp_target": 0.68
+  },
+  {
+   "market": "aec-nhl-stl-nyi-2026-11-25",
+   "closed": "2026-11-25 21:40 ET",
+   "pnl": 0.3796,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nhl-wpg-bos-2026-11-25",
+   "closed": "2026-11-25 21:40 ET",
+   "pnl": 0.875,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-cle-ny-2026-11-25",
+   "opened": "2026-11-25 21:40 ET",
+   "side": "long",
+   "team": "Cavaliers",
+   "entry": 0.05,
+   "qty": 2.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 6.4142,
- "balance_updated": "2026-11-25 21:35 ET",
+ "balance": 4.5486,
+ "balance_updated": "2026-11-25 21:41 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -264,6 +285,12 @@
    [
     1795660264.6556897,
     0.27
+   ]
+  ],
+  "aec-nba-cle-ny-2026-11-25": [
+   [
+    1795660840.1140656,
+    0.05
    ]
   ]
  },
