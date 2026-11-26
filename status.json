@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T21:21:00.275812-05:00",
+ "updated": "2026-11-25T21:25:57.178383-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 26.1,
+ "duration_s": 20.0,
  "daily": {
   "date": "2026-11-25",
-  "bets": 10,
-  "bounce_bets": 8,
+  "bets": 12,
+  "bounce_bets": 10,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.2461
@@ -25,34 +25,29 @@
  },
  "actions": [
   {
-   "type": "stop_loss",
-   "market": "aec-nhl-nyr-buf-2026-11-25",
-   "pnl": -0.0975
-  },
-  {
    "type": "buy",
-   "game": "nba:CHI@CHA",
-   "market": "aec-nba-chi-cha-2026-11-25",
-   "side": "short",
-   "team": "Hornets",
-   "ask": 0.1,
-   "qty": 1.0,
+   "game": "nhl:OTT@FLA",
+   "market": "aec-nhl-ott-fla-2026-11-25",
+   "side": "long",
+   "team": "Senators",
+   "ask": 0.06,
+   "qty": 1.6667,
    "stake": 0.1,
    "mode": "bounce"
   },
   {
    "type": "buy",
-   "game": "nhl:WPG@BOS",
-   "market": "aec-nhl-wpg-bos-2026-11-25",
+   "game": "nhl:CGY@PIT",
+   "market": "aec-nhl-cgy-pit-2026-11-25",
    "side": "short",
-   "team": "Bruins",
-   "ask": 0.22,
-   "qty": 1.1364,
-   "stake": 0.25,
-   "mode": "main"
+   "team": "Penguins",
+   "ask": 0.07,
+   "qty": 1.4286,
+   "stake": 0.1,
+   "mode": "bounce"
   }
  ],
  "errors": [],
- "balance": 5.5148,
- "balance_updated": "2026-11-25 21:21 ET"
+ "balance": 6.7158,
+ "balance_updated": "2026-11-25 21:25 ET"
 }

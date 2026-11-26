@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 10,
- "bounce_bets": 8,
+ "bets": 12,
+ "bounce_bets": 10,
  "realized": 0.2461,
  "paper_positions": [],
  "paper_history": [],
@@ -147,11 +147,29 @@
    "mode": "main",
    "tp_order_id": "DYSZ2DN015P1",
    "tp_target": 0.55
+  },
+  {
+   "market": "aec-nhl-ott-fla-2026-11-25",
+   "opened": "2026-11-25 21:25 ET",
+   "side": "long",
+   "team": "Senators",
+   "entry": 0.06,
+   "qty": 1.6667,
+   "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-cgy-pit-2026-11-25",
+   "opened": "2026-11-25 21:25 ET",
+   "side": "short",
+   "team": "Penguins",
+   "entry": 0.07,
+   "qty": 1.4286,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 5.5148,
- "balance_updated": "2026-11-25 21:21 ET",
+ "balance": 6.7158,
+ "balance_updated": "2026-11-25 21:25 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -211,6 +229,18 @@
    [
     1795659637.1843543,
     0.22
+   ]
+  ],
+  "aec-nhl-ott-fla-2026-11-25": [
+   [
+    1795659950.9611156,
+    0.06
+   ]
+  ],
+  "aec-nhl-cgy-pit-2026-11-25": [
+   [
+    1795659956.1628242,
+    0.07
    ]
   ]
  },
