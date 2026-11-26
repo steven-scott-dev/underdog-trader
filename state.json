@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "bets": 3,
+ "bets": 4,
  "bounce_bets": 1,
  "realized": 0.9868,
  "paper_positions": [],
@@ -54,6 +54,17 @@
    "mode": "main",
    "tp_order_id": "DZ8M9SK015P7",
    "tp_target": 0.43
+  },
+  {
+   "market": "aec-wta-sofcos-varlep-2026-11-26",
+   "opened": "2026-11-26 15:20 ET",
+   "side": "short",
+   "team": "Varvara Lepchenko",
+   "entry": 0.4,
+   "qty": 0.625,
+   "mode": "main",
+   "tp_order_id": "DZ9DEJQ015PA",
+   "tp_target": 0.99
   }
  ],
  "settled_pending": {
@@ -77,10 +88,16 @@
     1795721140.0502555,
     0.17
    ]
+  ],
+  "aec-wta-sofcos-varlep-2026-11-26": [
+   [
+    1795724436.172461,
+    0.4
+   ]
   ]
  },
- "balance": 1.5298,
- "balance_updated": "2026-11-26 15:15 ET",
+ "balance": 1.5036,
+ "balance_updated": "2026-11-26 15:20 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008

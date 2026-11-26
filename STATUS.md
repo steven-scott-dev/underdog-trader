@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 15:15 ET · Mode: **LIVE** · Result: OK (2.4s)
+Updated: 2026-11-26 15:20 ET · Mode: **LIVE** · Result: OK (2.9s)
 
 ## Today
-- Bets placed: 3 / 100 (main 2, bounce 1)
+- Bets placed: 4 / 100 (main 3, bounce 1)
 - Realized P&L: +0.99
-- Account balance: $1.53 (as of 2026-11-26 15:15 ET)
+- Account balance: $1.50 (as of 2026-11-26 15:20 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-wta-sofcos-varlep-2026-11-26", "opened": "2026-11-26 15:20 ET", "side": "short", "team": "Varvara Lepchenko", "entry": 0.4, "qty": 0.625, "mode": "main", "tp_order_id": "DZ9DEJQ015PA", "tp_target": 0.99}`
 - `{"market": "aec-wta-guimar-nurbra-2026-11-25", "opened": "2026-11-26 14:25 ET", "side": "short", "team": "Nuria Brancaccio", "entry": 0.17, "qty": 1.4706, "mode": "main", "tp_order_id": "DZ8M9SK015P7", "tp_target": 0.43}`
 - `{"market": "aec-nba-sa-por-2026-11-25", "closed": "2026-11-26 00:35 ET", "pnl": -0.2511, "reason": "stop-loss"}`
 - `{"market": "aec-nhl-chi-sea-2026-11-25", "closed": "2026-11-26 00:25 ET", "pnl": 1.3143, "reason": "settled"}`
@@ -19,7 +20,7 @@ Updated: 2026-11-26 15:15 ET · Mode: **LIVE** · Result: OK (2.4s)
 - `{"market": "aec-nhl-chi-sea-2026-11-25", "opened": "2026-11-26 00:00 ET", "side": "short", "team": "Kraken", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
 
 ## Last run actions
-- _none_
+- `{"type": "buy", "game": "wta:Lepchenko@Costoulas", "market": "aec-wta-sofcos-varlep-2026-11-26", "side": "short", "team": "Varvara Lepchenko", "ask": 0.4, "qty": 0.625, "stake": 0.25, "mode": "main"}`
 
 ## Order errors
 - _none_
