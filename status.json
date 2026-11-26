@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:35:35.987458-05:00",
+ "updated": "2026-11-26T00:40:35.368109-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 1.3,
@@ -23,14 +23,8 @@
    "title": "SA Spurs vs. POR Trail Blazers"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nba-sa-por-2026-11-25",
-   "pnl": -0.2511
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 1.7897,
- "balance_updated": "2026-11-26 00:35 ET"
+ "balance_updated": "2026-11-26 00:40 ET"
 }

@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 00:35 ET · Mode: **LIVE** · Result: OK (1.3s)
+Updated: 2026-11-26 00:40 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 2 / 100 (main 1, bounce 1)
 - Realized P&L: +0.99
-- Account balance: $1.79 (as of 2026-11-26 00:35 ET)
+- Account balance: $1.79 (as of 2026-11-26 00:40 ET)
 
 ## Live positions
 - SA Spurs vs. POR Trail Blazers: 0.86 @ avg 0.3020
@@ -18,7 +18,7 @@ Updated: 2026-11-26 00:35 ET · Mode: **LIVE** · Result: OK (1.3s)
 - `{"market": "aec-nhl-chi-sea-2026-11-25", "opened": "2026-11-26 00:00 ET", "side": "short", "team": "Kraken", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-sa-por-2026-11-25", "pnl": -0.2511}`
+- _none_
 
 ## Order errors
 - _none_
