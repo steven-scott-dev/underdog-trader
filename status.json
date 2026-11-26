@@ -1,19 +1,27 @@
 {
- "updated": "2026-11-25T23:05:39.739864-05:00",
+ "updated": "2026-11-25T23:10:39.362902-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 3.9,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-25",
   "bets": 23,
   "bounce_bets": 16,
   "max_total": 100,
   "max_open": 5,
-  "realized": 6.2306
+  "realized": 6.154
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nhl-mon-col-2026-11-25": {
+   "qty": 1.11,
+   "avg_px": 0.099,
+   "cash_value": 0.0333,
+   "team_id": 1487,
+   "outcome": "Canadiens",
+   "title": "MTL Canadiens vs. COL Avalanche"
+  },
   "aec-nhl-sj-ana-2026-11-25": {
    "qty": 1.0,
    "avg_px": 0.11,
@@ -25,18 +33,12 @@
  },
  "actions": [
   {
-   "type": "buy",
-   "game": "nhl:MTL@COL",
+   "type": "stop_loss",
    "market": "aec-nhl-mon-col-2026-11-25",
-   "side": "long",
-   "team": "Canadiens",
-   "ask": 0.09,
-   "qty": 1.1111,
-   "stake": 0.1,
-   "mode": "bounce"
+   "pnl": -0.0766
   }
  ],
  "errors": [],
- "balance": 2.2335,
- "balance_updated": "2026-11-25 23:05 ET"
+ "balance": 2.2557,
+ "balance_updated": "2026-11-25 23:10 ET"
 }
