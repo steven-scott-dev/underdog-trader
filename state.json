@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "bets": 2,
+ "bets": 3,
  "bounce_bets": 1,
  "realized": 0.9868,
  "paper_positions": [],
@@ -43,6 +43,17 @@
    "closed": "2026-11-26 00:35 ET",
    "pnl": -0.2511,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-wta-guimar-nurbra-2026-11-25",
+   "opened": "2026-11-26 14:25 ET",
+   "side": "short",
+   "team": "Nuria Brancaccio",
+   "entry": 0.17,
+   "qty": 1.4706,
+   "mode": "main",
+   "tp_order_id": "DZ8M9SK015P7",
+   "tp_target": 0.43
   }
  ],
  "settled_pending": {},
@@ -58,10 +69,16 @@
     1795669549.6082597,
     0.29
    ]
+  ],
+  "aec-wta-guimar-nurbra-2026-11-25": [
+   [
+    1795721140.0502555,
+    0.17
+   ]
   ]
  },
- "balance": 1.7897,
- "balance_updated": "2026-11-26 14:20 ET",
+ "balance": 2.9998,
+ "balance_updated": "2026-11-26 14:25 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008
