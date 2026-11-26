@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T16:20:38.374849-05:00",
+ "updated": "2026-11-26T16:25:37.249407-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 2.4,
  "daily": {
   "date": "2026-11-26",
   "bets": 6,
@@ -17,7 +17,7 @@
   "aec-wta-ireesc-lausam-2026-11-26": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.15,
+   "cash_value": 0.1,
    "team_id": 4609,
    "outcome": "Irene Burillo Escorihuela",
    "title": "Irene Burillo Escorihuela vs. Laura Samson"
@@ -25,7 +25,7 @@
   "aec-wta-sofcos-varlep-2026-11-26": {
    "qty": 0.62,
    "avg_px": 0.406,
-   "cash_value": 0.4402,
+   "cash_value": 0.2356,
    "team_id": 4662,
    "outcome": "Sofia Costoulas",
    "title": "Sofia Costoulas vs. Varvara Lepchenko"
@@ -34,5 +34,5 @@
  "actions": [],
  "errors": [],
  "balance": 1.1418,
- "balance_updated": "2026-11-26 16:20 ET"
+ "balance_updated": "2026-11-26 16:25 ET"
 }
