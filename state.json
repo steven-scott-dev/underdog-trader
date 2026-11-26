@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 19,
- "bounce_bets": 12,
- "realized": 4.4106,
+ "bets": 20,
+ "bounce_bets": 13,
+ "realized": 5.3006,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -292,11 +292,26 @@
    "closed": "2026-11-25 22:20 ET",
    "pnl": 0.3629,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-bkn-mil-2026-11-25",
+   "closed": "2026-11-25 22:25 ET",
+   "pnl": 0.89,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-uta-min-2026-11-25",
+   "opened": "2026-11-25 22:25 ET",
+   "side": "short",
+   "team": "Wild",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.6433,
- "balance_updated": "2026-11-25 22:20 ET",
+ "balance": 3.6434,
+ "balance_updated": "2026-11-25 22:25 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -406,6 +421,12 @@
    [
     1795663239.7312052,
     0.15
+   ]
+  ],
+  "aec-nhl-uta-min-2026-11-25": [
+   [
+    1795663548.1762142,
+    0.09
    ]
   ]
  },
