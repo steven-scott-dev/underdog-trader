@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 16,
- "bounce_bets": 11,
+ "bets": 18,
+ "bounce_bets": 12,
  "realized": 4.0477,
  "paper_positions": [],
  "paper_history": [],
@@ -255,11 +255,31 @@
    "closed": "2026-11-25 21:55 ET",
    "pnl": 0.3417,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-min-okc-2026-11-25",
+   "opened": "2026-11-25 22:00 ET",
+   "side": "short",
+   "team": "Thunder",
+   "entry": 0.23,
+   "qty": 1.087,
+   "mode": "main",
+   "tp_order_id": "DYTHD12G15PA",
+   "tp_target": 0.58
+  },
+  {
+   "market": "aec-nba-bkn-mil-2026-11-25",
+   "opened": "2026-11-25 22:00 ET",
+   "side": "short",
+   "team": "Bucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.1105,
- "balance_updated": "2026-11-25 21:56 ET",
+ "balance": 4.8221,
+ "balance_updated": "2026-11-25 22:00 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -347,12 +367,18 @@
   ],
   "aec-nba-min-okc-2026-11-25": [
    [
-    1795661135.8076892,
-    0.39
-   ],
-   [
     1795661440.2618887,
     0.3
+   ],
+   [
+    1795662039.8693588,
+    0.23
+   ]
+  ],
+  "aec-nba-bkn-mil-2026-11-25": [
+   [
+    1795662040.5132601,
+    0.1
    ]
   ]
  },
