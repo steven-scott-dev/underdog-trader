@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-26T00:20:38.412935-05:00",
+ "updated": "2026-11-26T00:25:36.035255-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 1.5,
  "daily": {
   "date": "2026-11-26",
   "bets": 2,
   "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
-  "realized": -0.0764
+  "realized": 1.2379
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,14 +17,20 @@
   "aec-nba-sa-por-2026-11-25": {
    "qty": 0.86,
    "avg_px": 0.302,
-   "cash_value": 0.4128,
+   "cash_value": 0.3612,
    "team_id": 33,
    "outcome": "Spurs",
    "title": "SA Spurs vs. POR Trail Blazers"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "settled",
+   "market": "aec-nhl-chi-sea-2026-11-25",
+   "pnl": 1.3143
+  }
+ ],
  "errors": [],
- "balance": 3.2097,
- "balance_updated": "2026-11-26 00:20 ET"
+ "balance": 1.7897,
+ "balance_updated": "2026-11-26 00:25 ET"
 }
