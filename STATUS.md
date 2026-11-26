@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 19:20 ET · Mode: **LIVE** · Result: OK (14.5s)
+Updated: 2026-11-25 19:26 ET · Mode: **LIVE** · Result: OK (15.5s)
 
 ## Today
 - Bets placed: 6 / 100 (main 1, bounce 5)
 - Realized P&L: +0.41
-- Account balance: $3.94 (as of 2026-11-25 19:20 ET)
+- Account balance: $3.94 (as of 2026-11-25 19:26 ET)
 
 ## Live positions
-- MIA Heat vs. PHI 76ers: 1.25 @ avg 0.0800
+- _none_
 
 ## Recent live history
 - `{"market": "aec-nba-mia-phi-2026-11-25", "closed": "2026-11-25 19:20 ET", "pnl": -0.0625, "reason": "stop-loss"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-25 19:20 ET · Mode: **LIVE** · Result: OK (14.5s)
 - `{"market": "aec-wta-martre-vererj-2026-11-25", "opened": "2026-11-25 13:45 ET", "side": "long", "team": "Martina Trevisan", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-mia-phi-2026-11-25", "pnl": -0.0625}`
+- _none_
 
 ## Order errors
 - _none_
