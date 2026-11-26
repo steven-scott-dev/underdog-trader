@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 20:11 ET · Mode: **LIVE** · Result: OK (26.2s)
+Updated: 2026-11-25 20:16 ET · Mode: **LIVE** · Result: OK (29.1s)
 
 ## Today
 - Bets placed: 7 / 100 (main 1, bounce 6)
 - Realized P&L: +0.41
-- Account balance: $3.83 (as of 2026-11-25 20:11 ET)
+- Account balance: $3.83 (as of 2026-11-25 20:16 ET)
 
 ## Live positions
-- _none_
+- NYR Rangers vs. BUF Sabres: 1.25 @ avg 0.0880
 
 ## Recent live history
 - `{"market": "aec-nhl-nyr-buf-2026-11-25", "opened": "2026-11-25 20:10 ET", "side": "long", "team": "Rangers", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-25 20:11 ET · Mode: **LIVE** · Result: OK (26.2s)
 - `{"market": "aec-wta-martre-vererj-2026-11-25", "closed": "2026-11-25 13:50 ET", "pnl": -0.0975, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nhl:NYR@BUF", "market": "aec-nhl-nyr-buf-2026-11-25", "side": "long", "team": "Rangers", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
