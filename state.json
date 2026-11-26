@@ -1,7 +1,7 @@
 {
  "date": "2026-11-26",
- "bets": 5,
- "bounce_bets": 1,
+ "bets": 6,
+ "bounce_bets": 2,
  "realized": 1.168,
  "paper_positions": [],
  "paper_history": [],
@@ -82,6 +82,15 @@
    "mode": "main",
    "tp_order_id": "DZ9J0V1G15P2",
    "tp_target": 0.99
+  },
+  {
+   "market": "aec-wta-ireesc-lausam-2026-11-26",
+   "opened": "2026-11-26 16:00 ET",
+   "side": "long",
+   "team": "Irene Burillo Escorihuela",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {
@@ -115,10 +124,16 @@
     1795725035.433808,
     0.4
    ]
+  ],
+  "aec-wta-ireesc-lausam-2026-11-26": [
+   [
+    1795726838.756889,
+    0.08
+   ]
   ]
  },
- "balance": 1.2518,
- "balance_updated": "2026-11-26 15:55 ET",
+ "balance": 1.1418,
+ "balance_updated": "2026-11-26 16:00 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008
