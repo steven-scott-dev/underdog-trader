@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 20,
- "bounce_bets": 13,
+ "bets": 21,
+ "bounce_bets": 14,
  "realized": 5.3006,
  "paper_positions": [],
  "paper_history": [],
@@ -307,11 +307,20 @@
    "entry": 0.09,
    "qty": 1.1111,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-sac-gs-2026-11-25",
+   "opened": "2026-11-25 22:30 ET",
+   "side": "long",
+   "team": "Kings",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.6434,
- "balance_updated": "2026-11-25 22:25 ET",
+ "balance": 3.5334,
+ "balance_updated": "2026-11-25 22:30 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -427,6 +436,12 @@
    [
     1795663548.1762142,
     0.09
+   ]
+  ],
+  "aec-nba-sac-gs-2026-11-25": [
+   [
+    1795663836.891999,
+    0.1
    ]
   ]
  },
