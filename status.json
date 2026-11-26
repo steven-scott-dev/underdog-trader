@@ -1,52 +1,27 @@
 {
- "updated": "2026-11-25T21:50:54.241321-05:00",
+ "updated": "2026-11-25T21:56:02.292454-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.6,
+ "duration_s": 15.4,
  "daily": {
   "date": "2026-11-25",
   "bets": 16,
   "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": 3.706
+  "realized": 4.0477
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {
-  "aec-nba-cle-ny-2026-11-25": {
-   "qty": 2.0,
-   "avg_px": 0.055,
-   "cash_value": 0.04,
-   "team_id": 38,
-   "outcome": "Cavaliers",
-   "title": "CLE Cavaliers vs. NY Knicks"
-  }
- },
+ "live_positions": {},
  "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nba-cle-ny-2026-11-25",
-   "pnl": -0.07
-  },
   {
    "type": "take_profit",
    "market": "aec-nba-min-okc-2026-11-25",
-   "pnl": 0.1474
-  },
-  {
-   "type": "buy",
-   "game": "nba:MIN@OKC",
-   "market": "aec-nba-min-okc-2026-11-25",
-   "side": "short",
-   "team": "Thunder",
-   "ask": 0.3,
-   "qty": 0.8333,
-   "stake": 0.25,
-   "mode": "main"
+   "pnl": 0.3417
   }
  ],
  "errors": [],
  "balance": 3.1105,
- "balance_updated": "2026-11-25 21:50 ET"
+ "balance_updated": "2026-11-25 21:56 ET"
 }

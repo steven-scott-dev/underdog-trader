@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 16,
  "bounce_bets": 11,
- "realized": 3.706,
+ "realized": 4.0477,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -249,11 +249,17 @@
    "mode": "main",
    "tp_order_id": "DYTCTNE015P7",
    "tp_target": 0.75
+  },
+  {
+   "market": "aec-nba-min-okc-2026-11-25",
+   "closed": "2026-11-25 21:55 ET",
+   "pnl": 0.3417,
+   "reason": "take-profit"
   }
  ],
  "settled_pending": {},
  "balance": 3.1105,
- "balance_updated": "2026-11-25 21:50 ET",
+ "balance_updated": "2026-11-25 21:56 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
