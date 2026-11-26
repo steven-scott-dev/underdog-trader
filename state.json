@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "bets": 18,
+ "bets": 19,
  "bounce_bets": 12,
  "realized": 4.0477,
  "paper_positions": [],
@@ -275,11 +275,22 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-nas-dal-2026-11-25",
+   "opened": "2026-11-25 22:15 ET",
+   "side": "short",
+   "team": "Stars",
+   "entry": 0.31,
+   "qty": 0.8065,
+   "mode": "main",
+   "tp_order_id": "DYTRB9HG15PB",
+   "tp_target": 0.78
   }
  ],
  "settled_pending": {},
- "balance": 3.7421,
- "balance_updated": "2026-11-25 22:10 ET",
+ "balance": 3.6433,
+ "balance_updated": "2026-11-25 22:16 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -379,6 +390,12 @@
    [
     1795662040.5132601,
     0.1
+   ]
+  ],
+  "aec-nhl-nas-dal-2026-11-25": [
+   [
+    1795662950.3477223,
+    0.31
    ]
   ]
  },

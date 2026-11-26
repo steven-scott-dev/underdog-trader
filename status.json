@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-25T22:10:49.580776-05:00",
+ "updated": "2026-11-25T22:16:01.261236-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.4,
+ "duration_s": 12.8,
  "daily": {
   "date": "2026-11-25",
-  "bets": 18,
+  "bets": 19,
   "bounce_bets": 12,
   "max_total": 100,
   "max_open": 5,
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:NSH@DAL",
+   "market": "aec-nhl-nas-dal-2026-11-25",
+   "side": "short",
+   "team": "Stars",
+   "ask": 0.31,
+   "qty": 0.8065,
+   "stake": 0.25,
+   "mode": "main"
+  }
+ ],
  "errors": [],
- "balance": 3.7421,
- "balance_updated": "2026-11-25 22:10 ET"
+ "balance": 3.6433,
+ "balance_updated": "2026-11-25 22:16 ET"
 }
