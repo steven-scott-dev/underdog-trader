@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 24,
  "bounce_bets": 17,
- "realized": 6.154,
+ "realized": 6.064,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -361,11 +361,17 @@
    "entry": 0.06,
    "qty": 1.6667,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-sj-ana-2026-11-25",
+   "closed": "2026-11-25 23:30 ET",
+   "pnl": -0.09,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
- "balance": 2.1461,
- "balance_updated": "2026-11-25 23:26 ET",
+ "balance": 2.1561,
+ "balance_updated": "2026-11-25 23:30 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -513,6 +519,7 @@
   "aec-nhl-ott-fla-2026-11-25": 1795662934.4133265,
   "aec-nba-cle-ny-2026-11-25": 1795663239.1122665,
   "aec-nba-sac-gs-2026-11-25": 1795666236.9084132,
-  "aec-nhl-mon-col-2026-11-25": 1795668036.937478
+  "aec-nhl-mon-col-2026-11-25": 1795668036.937478,
+  "aec-nhl-sj-ana-2026-11-25": 1795669236.0892012
  }
 }
