@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T19:10:53.902418-05:00",
+ "updated": "2026-11-25T19:16:01.317573-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 14.9,
+ "duration_s": 20.7,
  "daily": {
   "date": "2026-11-25",
   "bets": 6,
@@ -17,7 +17,7 @@
   "aec-nba-mia-phi-2026-11-25": {
    "qty": 1.25,
    "avg_px": 0.08,
-   "cash_value": 0.05,
+   "cash_value": 0.0625,
    "team_id": 14,
    "outcome": "Heat",
    "title": "MIA Heat vs. PHI 76ers"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 3.9184,
- "balance_updated": "2026-11-25 19:10 ET"
+ "balance_updated": "2026-11-25 19:16 ET"
 }
