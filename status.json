@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T21:31:07.480877-05:00",
+ "updated": "2026-11-25T21:35:40.036668-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 27.4,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-25",
   "bets": 13,
@@ -25,31 +25,14 @@
   "aec-nhl-ott-fla-2026-11-25": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.0664,
+   "cash_value": 0.0498,
    "team_id": 1488,
    "outcome": "Senators",
    "title": "OTT Senators vs. FLA Panthers"
   }
  },
- "actions": [
-  {
-   "type": "settled",
-   "market": "aec-nba-chi-cha-2026-11-25",
-   "pnl": 0.89
-  },
-  {
-   "type": "buy",
-   "game": "nhl:STL@NYI",
-   "market": "aec-nhl-stl-nyi-2026-11-25",
-   "side": "short",
-   "team": "Islanders",
-   "ask": 0.27,
-   "qty": 0.9259,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 6.4142,
- "balance_updated": "2026-11-25 21:31 ET"
+ "balance_updated": "2026-11-25 21:35 ET"
 }
