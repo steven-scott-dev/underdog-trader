@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T23:25:38.971560-05:00",
+ "updated": "2026-11-25T23:26:43.398277-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 2.1,
  "daily": {
   "date": "2026-11-25",
   "bets": 24,
@@ -14,6 +14,14 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nba-sac-gs-2026-11-25": {
+   "qty": 1.66,
+   "avg_px": 0.066,
+   "cash_value": 0.1162,
+   "team_id": 32,
+   "outcome": "Kings",
+   "title": "SAC Kings vs. GS Warriors"
+  },
   "aec-nhl-sj-ana-2026-11-25": {
    "qty": 1.0,
    "avg_px": 0.11,
@@ -23,20 +31,8 @@
    "title": "SJS Sharks vs. ANA Ducks"
   }
  },
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:SAC@GS",
-   "market": "aec-nba-sac-gs-2026-11-25",
-   "side": "long",
-   "team": "Kings",
-   "ask": 0.06,
-   "qty": 1.6667,
-   "stake": 0.1,
-   "mode": "bounce"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 2.1461,
- "balance_updated": "2026-11-25 23:25 ET"
+ "balance_updated": "2026-11-25 23:26 ET"
 }
