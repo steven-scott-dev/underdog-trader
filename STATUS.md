@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 22:30 ET · Mode: **LIVE** · Result: OK (4.3s)
+Updated: 2026-11-25 22:35 ET · Mode: **LIVE** · Result: OK (3.7s)
 
 ## Today
 - Bets placed: 21 / 100 (main 7, bounce 14)
 - Realized P&L: +5.30
-- Account balance: $3.53 (as of 2026-11-25 22:30 ET)
+- Account balance: $3.53 (as of 2026-11-25 22:35 ET)
 
 ## Live positions
-- _none_
+- SAC Kings vs. GS Warriors: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-nba-sac-gs-2026-11-25", "opened": "2026-11-25 22:30 ET", "side": "long", "team": "Kings", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-25 22:30 ET · Mode: **LIVE** · Result: OK (4.3s)
 - `{"market": "aec-nba-min-okc-2026-11-25", "closed": "2026-11-25 21:55 ET", "pnl": 0.3417, "reason": "take-profit"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:SAC@GS", "market": "aec-nba-sac-gs-2026-11-25", "side": "long", "team": "Kings", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
