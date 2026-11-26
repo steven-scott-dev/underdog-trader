@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T00:15:40.156673-05:00",
+ "updated": "2026-11-26T00:20:38.412935-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.5,
+ "duration_s": 2.9,
  "daily": {
   "date": "2026-11-26",
   "bets": 2,
@@ -17,7 +17,7 @@
   "aec-nba-sa-por-2026-11-25": {
    "qty": 0.86,
    "avg_px": 0.302,
-   "cash_value": 0.3096,
+   "cash_value": 0.4128,
    "team_id": 33,
    "outcome": "Spurs",
    "title": "SA Spurs vs. POR Trail Blazers"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 3.2097,
- "balance_updated": "2026-11-26 00:15 ET"
+ "balance_updated": "2026-11-26 00:20 ET"
 }
