@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:55:45.560510-05:00",
+ "updated": "2026-11-25T23:00:44.887084-05:00",
  "mode": "live",
  "ok": true,
  "duration_s": 3.5,
@@ -23,14 +23,8 @@
    "title": "SJS Sharks vs. ANA Ducks"
   }
  },
- "actions": [
-  {
-   "type": "settled",
-   "market": "aec-nhl-uta-min-2026-11-25",
-   "pnl": 1.0
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 2.3434,
- "balance_updated": "2026-11-25 22:55 ET"
+ "balance_updated": "2026-11-25 23:00 ET"
 }
