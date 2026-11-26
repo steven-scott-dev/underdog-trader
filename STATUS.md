@@ -1,15 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 20:26 ET · Mode: **LIVE** · Result: OK (28.8s)
+Updated: 2026-11-25 20:31 ET · Mode: **LIVE** · Result: OK (24.1s)
 
 ## Today
 - Bets placed: 8 / 100 (main 1, bounce 7)
 - Realized P&L: +0.34
-- Account balance: $3.75 (as of 2026-11-25 20:26 ET)
+- Account balance: $3.75 (as of 2026-11-25 20:31 ET)
 
 ## Live positions
 - NYR Rangers vs. BUF Sabres: 1.25 @ avg 0.0880
-- VAN Canucks vs. DET Red Wings: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-nhl-van-det-2026-11-25", "closed": "2026-11-25 20:25 ET", "pnl": -0.07, "reason": "stop-loss"}`
@@ -22,7 +21,7 @@ Updated: 2026-11-25 20:26 ET · Mode: **LIVE** · Result: OK (28.8s)
 - `{"market": "aec-wta-ipeoz-julrie-2026-11-25", "closed": "2026-11-25 16:35 ET", "pnl": -0.1512, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-van-det-2026-11-25", "pnl": -0.07}`
+- _none_
 
 ## Order errors
 - _none_

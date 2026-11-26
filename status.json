@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T20:26:12.083100-05:00",
+ "updated": "2026-11-25T20:31:00.251691-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 28.8,
+ "duration_s": 24.1,
  "daily": {
   "date": "2026-11-25",
   "bets": 8,
@@ -21,24 +21,10 @@
    "team_id": 1495,
    "outcome": "Rangers",
    "title": "NYR Rangers vs. BUF Sabres"
-  },
-  "aec-nhl-van-det-2026-11-25": {
-   "qty": 1.0,
-   "avg_px": 0.11,
-   "cash_value": 0.04,
-   "team_id": 1511,
-   "outcome": "Canucks",
-   "title": "VAN Canucks vs. DET Red Wings"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nhl-van-det-2026-11-25",
-   "pnl": -0.07
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 3.7534,
- "balance_updated": "2026-11-25 20:26 ET"
+ "balance_updated": "2026-11-25 20:31 ET"
 }
