@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 22:40 ET · Mode: **LIVE** · Result: OK (3.8s)
+Updated: 2026-11-25 22:45 ET · Mode: **LIVE** · Result: OK (2.9s)
 
 ## Today
 - Bets placed: 22 / 100 (main 7, bounce 15)
 - Realized P&L: +5.23
-- Account balance: $3.45 (as of 2026-11-25 22:40 ET)
+- Account balance: $3.45 (as of 2026-11-25 22:45 ET)
 
 ## Live positions
-- SAC Kings vs. GS Warriors: 1.0 @ avg 0.1100
+- SJS Sharks vs. ANA Ducks: 1.0 @ avg 0.1100
 
 ## Recent live history
 - `{"market": "aec-nhl-sj-ana-2026-11-25", "opened": "2026-11-25 22:40 ET", "side": "long", "team": "Sharks", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
@@ -21,8 +21,7 @@ Updated: 2026-11-25 22:40 ET · Mode: **LIVE** · Result: OK (3.8s)
 - `{"market": "aec-nba-bkn-mil-2026-11-25", "opened": "2026-11-25 22:00 ET", "side": "short", "team": "Bucks", "entry": 0.1, "qty": 1.0, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nba-sac-gs-2026-11-25", "pnl": -0.07}`
-- `{"type": "buy", "game": "nhl:SJ@ANA", "market": "aec-nhl-sj-ana-2026-11-25", "side": "long", "team": "Sharks", "ask": 0.1, "qty": 1.0, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
