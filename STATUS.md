@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 15:30 ET · Mode: **LIVE** · Result: OK (2.2s)
+Updated: 2026-11-26 15:35 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 5 / 100 (main 4, bounce 1)
 - Realized P&L: +1.17
-- Account balance: $1.25 (as of 2026-11-26 15:30 ET)
+- Account balance: $1.25 (as of 2026-11-26 15:35 ET)
 
 ## Live positions
-- _none_
+- Sofia Costoulas vs. Varvara Lepchenko: 0.62 @ avg 0.4060
 
 ## Recent live history
 - `{"market": "aec-wta-sofcos-varlep-2026-11-26", "opened": "2026-11-26 15:30 ET", "side": "long", "team": "Sofia Costoulas", "entry": 0.4, "qty": 0.625, "mode": "main", "tp_order_id": "DZ9J0V1G15P2", "tp_target": 0.99}`
@@ -21,7 +21,7 @@ Updated: 2026-11-26 15:30 ET · Mode: **LIVE** · Result: OK (2.2s)
 - `{"market": "aec-nba-sac-gs-2026-11-25", "closed": "2026-11-26 00:05 ET", "pnl": -0.0764, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Lepchenko@Costoulas", "market": "aec-wta-sofcos-varlep-2026-11-26", "side": "long", "team": "Sofia Costoulas", "ask": 0.4, "qty": 0.625, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_
