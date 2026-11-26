@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T20:41:03.217496-05:00",
+ "updated": "2026-11-25T20:46:03.074441-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 24.9,
+ "duration_s": 23.2,
  "daily": {
   "date": "2026-11-25",
   "bets": 8,
@@ -17,7 +17,7 @@
   "aec-nhl-nyr-buf-2026-11-25": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.0875,
+   "cash_value": 0.1125,
    "team_id": 1495,
    "outcome": "Rangers",
    "title": "NYR Rangers vs. BUF Sabres"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 3.7534,
- "balance_updated": "2026-11-25 20:41 ET"
+ "balance_updated": "2026-11-25 20:46 ET"
 }
