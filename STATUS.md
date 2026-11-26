@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 19:05 ET · Mode: **LIVE** · Result: OK (1.3s)
+Updated: 2026-11-25 19:10 ET · Mode: **LIVE** · Result: OK (14.9s)
 
 ## Today
 - Bets placed: 6 / 100 (main 1, bounce 5)
 - Realized P&L: +0.48
-- Account balance: $4.02 (as of 2026-11-25 19:05 ET)
+- Account balance: $3.92 (as of 2026-11-25 19:10 ET)
 
 ## Live positions
-- _none_
+- MIA Heat vs. PHI 76ers: 1.25 @ avg 0.0800
 
 ## Recent live history
 - `{"market": "aec-nba-mia-phi-2026-11-25", "opened": "2026-11-25 19:05 ET", "side": "long", "team": "Heat", "entry": 0.08, "qty": 1.25, "mode": "bounce"}`
@@ -21,7 +21,7 @@ Updated: 2026-11-25 19:05 ET · Mode: **LIVE** · Result: OK (1.3s)
 - `{"market": "aec-wta-solgui-marcar-2026-11-23", "closed": "2026-11-25 13:40 ET", "pnl": -0.08, "reason": "stop-loss"}`
 
 ## Last run actions
-- `{"type": "buy", "game": "nba:MIA@PHI", "market": "aec-nba-mia-phi-2026-11-25", "side": "long", "team": "Heat", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_

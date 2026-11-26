@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T19:05:44.965843-05:00",
+ "updated": "2026-11-25T19:10:53.902418-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 1.3,
+ "duration_s": 14.9,
  "daily": {
   "date": "2026-11-25",
   "bets": 6,
@@ -13,21 +13,18 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
- "actions": [
-  {
-   "type": "buy",
-   "game": "nba:MIA@PHI",
-   "market": "aec-nba-mia-phi-2026-11-25",
-   "side": "long",
-   "team": "Heat",
-   "ask": 0.08,
+ "live_positions": {
+  "aec-nba-mia-phi-2026-11-25": {
    "qty": 1.25,
-   "stake": 0.1,
-   "mode": "bounce"
+   "avg_px": 0.08,
+   "cash_value": 0.05,
+   "team_id": 14,
+   "outcome": "Heat",
+   "title": "MIA Heat vs. PHI 76ers"
   }
- ],
+ },
+ "actions": [],
  "errors": [],
- "balance": 4.0184,
- "balance_updated": "2026-11-25 19:05 ET"
+ "balance": 3.9184,
+ "balance_updated": "2026-11-25 19:10 ET"
 }
