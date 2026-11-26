@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 21,
- "bounce_bets": 14,
- "realized": 5.3006,
+ "bets": 22,
+ "bounce_bets": 15,
+ "realized": 5.2306,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -316,11 +316,26 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-sac-gs-2026-11-25",
+   "closed": "2026-11-25 22:40 ET",
+   "pnl": -0.07,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-sj-ana-2026-11-25",
+   "opened": "2026-11-25 22:40 ET",
+   "side": "long",
+   "team": "Sharks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.5334,
- "balance_updated": "2026-11-25 22:35 ET",
+ "balance": 3.4534,
+ "balance_updated": "2026-11-25 22:40 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -443,6 +458,12 @@
     1795663836.891999,
     0.1
    ]
+  ],
+  "aec-nhl-sj-ana-2026-11-25": [
+   [
+    1795664439.6450758,
+    0.1
+   ]
   ]
  },
  "cooldowns": {
@@ -454,6 +475,7 @@
   "aec-nhl-van-det-2026-11-25": 1795658144.1302404,
   "aec-nhl-nyr-buf-2026-11-25": 1795661434.5866046,
   "aec-nhl-ott-fla-2026-11-25": 1795662934.4133265,
-  "aec-nba-cle-ny-2026-11-25": 1795663239.1122665
+  "aec-nba-cle-ny-2026-11-25": 1795663239.1122665,
+  "aec-nba-sac-gs-2026-11-25": 1795666236.9084132
  }
 }
