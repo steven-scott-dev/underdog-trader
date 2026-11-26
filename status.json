@@ -1,23 +1,31 @@
 {
- "updated": "2026-11-25T21:41:02.594832-05:00",
+ "updated": "2026-11-25T21:45:49.729383-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 23.6,
+ "duration_s": 15.9,
  "daily": {
   "date": "2026-11-25",
-  "bets": 14,
+  "bets": 15,
   "bounce_bets": 11,
   "max_total": 100,
   "max_open": 5,
-  "realized": 2.3907
+  "realized": 3.6286
  },
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
+  "aec-nba-cle-ny-2026-11-25": {
+   "qty": 2.0,
+   "avg_px": 0.055,
+   "cash_value": 0.08,
+   "team_id": 38,
+   "outcome": "Cavaliers",
+   "title": "CLE Cavaliers vs. NY Knicks"
+  },
   "aec-nhl-ott-fla-2026-11-25": {
    "qty": 1.66,
    "avg_px": 0.066,
-   "cash_value": 0.0498,
+   "cash_value": 0.0332,
    "team_id": 1488,
    "outcome": "Senators",
    "title": "OTT Senators vs. FLA Panthers"
@@ -25,28 +33,28 @@
  },
  "actions": [
   {
-   "type": "take_profit",
-   "market": "aec-nhl-stl-nyi-2026-11-25",
-   "pnl": 0.3796
+   "type": "stop_loss",
+   "market": "aec-nhl-ott-fla-2026-11-25",
+   "pnl": -0.0764
   },
   {
    "type": "settled",
-   "market": "aec-nhl-wpg-bos-2026-11-25",
-   "pnl": 0.875
+   "market": "aec-nhl-cgy-pit-2026-11-25",
+   "pnl": 1.3143
   },
   {
    "type": "buy",
-   "game": "nba:CLE@NY",
-   "market": "aec-nba-cle-ny-2026-11-25",
-   "side": "long",
-   "team": "Cavaliers",
-   "ask": 0.05,
-   "qty": 2.0,
-   "stake": 0.1,
-   "mode": "bounce"
+   "game": "nba:MIN@OKC",
+   "market": "aec-nba-min-okc-2026-11-25",
+   "side": "short",
+   "team": "Thunder",
+   "ask": 0.39,
+   "qty": 0.641,
+   "stake": 0.25,
+   "mode": "main"
   }
  ],
  "errors": [],
- "balance": 4.5486,
- "balance_updated": "2026-11-25 21:41 ET"
+ "balance": 3.1188,
+ "balance_updated": "2026-11-25 21:45 ET"
 }

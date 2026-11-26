@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 14,
+ "bets": 15,
  "bounce_bets": 11,
- "realized": 2.3907,
+ "realized": 3.6286,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -203,11 +203,34 @@
    "entry": 0.05,
    "qty": 2.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-ott-fla-2026-11-25",
+   "closed": "2026-11-25 21:45 ET",
+   "pnl": -0.0764,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-cgy-pit-2026-11-25",
+   "closed": "2026-11-25 21:45 ET",
+   "pnl": 1.3143,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nba-min-okc-2026-11-25",
+   "opened": "2026-11-25 21:45 ET",
+   "side": "short",
+   "team": "Thunder",
+   "entry": 0.39,
+   "qty": 0.641,
+   "mode": "main",
+   "tp_order_id": "DYTAGASG55P6",
+   "tp_target": 0.98
   }
  ],
  "settled_pending": {},
- "balance": 4.5486,
- "balance_updated": "2026-11-25 21:41 ET",
+ "balance": 3.1188,
+ "balance_updated": "2026-11-25 21:45 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -292,6 +315,12 @@
     1795660840.1140656,
     0.05
    ]
+  ],
+  "aec-nba-min-okc-2026-11-25": [
+   [
+    1795661135.8076892,
+    0.39
+   ]
   ]
  },
  "cooldowns": {
@@ -301,6 +330,7 @@
   "aec-wta-solsie-carmon-2026-11-25": 1795651840.741211,
   "aec-nba-mia-phi-2026-11-25": 1795654235.3252814,
   "aec-nhl-van-det-2026-11-25": 1795658144.1302404,
-  "aec-nhl-nyr-buf-2026-11-25": 1795661434.5866046
+  "aec-nhl-nyr-buf-2026-11-25": 1795661434.5866046,
+  "aec-nhl-ott-fla-2026-11-25": 1795662934.4133265
  }
 }
