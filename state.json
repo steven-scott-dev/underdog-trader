@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "bets": 4,
+ "bets": 5,
  "bounce_bets": 1,
  "realized": 1.168,
  "paper_positions": [],
@@ -71,6 +71,17 @@
    "closed": "2026-11-26 15:25 ET",
    "pnl": 0.1812,
    "reason": "take-profit"
+  },
+  {
+   "market": "aec-wta-sofcos-varlep-2026-11-26",
+   "opened": "2026-11-26 15:30 ET",
+   "side": "long",
+   "team": "Sofia Costoulas",
+   "entry": 0.4,
+   "qty": 0.625,
+   "mode": "main",
+   "tp_order_id": "DZ9J0V1G15P2",
+   "tp_target": 0.99
   }
  ],
  "settled_pending": {
@@ -99,11 +110,15 @@
    [
     1795724436.172461,
     0.4
+   ],
+   [
+    1795725035.433808,
+    0.4
    ]
   ]
  },
- "balance": 1.5036,
- "balance_updated": "2026-11-26 15:25 ET",
+ "balance": 1.2518,
+ "balance_updated": "2026-11-26 15:30 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008

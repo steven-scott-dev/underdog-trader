@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T15:25:42.058369-05:00",
+ "updated": "2026-11-26T15:30:36.055196-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.7,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-26",
-  "bets": 4,
+  "bets": 5,
   "bounce_bets": 1,
   "max_total": 100,
   "max_open": 5,
@@ -16,12 +16,18 @@
  "live_positions": {},
  "actions": [
   {
-   "type": "take_profit",
+   "type": "buy",
+   "game": "wta:Lepchenko@Costoulas",
    "market": "aec-wta-sofcos-varlep-2026-11-26",
-   "pnl": 0.1812
+   "side": "long",
+   "team": "Sofia Costoulas",
+   "ask": 0.4,
+   "qty": 0.625,
+   "stake": 0.25,
+   "mode": "main"
   }
  ],
  "errors": [],
- "balance": 1.5036,
- "balance_updated": "2026-11-26 15:25 ET"
+ "balance": 1.2518,
+ "balance_updated": "2026-11-26 15:30 ET"
 }

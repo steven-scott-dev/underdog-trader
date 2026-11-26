@@ -1,16 +1,17 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 15:25 ET · Mode: **LIVE** · Result: OK (2.7s)
+Updated: 2026-11-26 15:30 ET · Mode: **LIVE** · Result: OK (2.2s)
 
 ## Today
-- Bets placed: 4 / 100 (main 3, bounce 1)
+- Bets placed: 5 / 100 (main 4, bounce 1)
 - Realized P&L: +1.17
-- Account balance: $1.50 (as of 2026-11-26 15:25 ET)
+- Account balance: $1.25 (as of 2026-11-26 15:30 ET)
 
 ## Live positions
 - _none_
 
 ## Recent live history
+- `{"market": "aec-wta-sofcos-varlep-2026-11-26", "opened": "2026-11-26 15:30 ET", "side": "long", "team": "Sofia Costoulas", "entry": 0.4, "qty": 0.625, "mode": "main", "tp_order_id": "DZ9J0V1G15P2", "tp_target": 0.99}`
 - `{"market": "aec-wta-sofcos-varlep-2026-11-26", "closed": "2026-11-26 15:25 ET", "pnl": 0.1812, "reason": "take-profit"}`
 - `{"market": "aec-wta-sofcos-varlep-2026-11-26", "opened": "2026-11-26 15:20 ET", "side": "short", "team": "Varvara Lepchenko", "entry": 0.4, "qty": 0.625, "mode": "main", "tp_order_id": "DZ9DEJQ015PA", "tp_target": 0.99}`
 - `{"market": "aec-wta-guimar-nurbra-2026-11-25", "opened": "2026-11-26 14:25 ET", "side": "short", "team": "Nuria Brancaccio", "entry": 0.17, "qty": 1.4706, "mode": "main", "tp_order_id": "DZ8M9SK015P7", "tp_target": 0.43}`
@@ -18,10 +19,9 @@ Updated: 2026-11-26 15:25 ET · Mode: **LIVE** · Result: OK (2.7s)
 - `{"market": "aec-nhl-chi-sea-2026-11-25", "closed": "2026-11-26 00:25 ET", "pnl": 1.3143, "reason": "settled"}`
 - `{"market": "aec-nba-sa-por-2026-11-25", "opened": "2026-11-26 00:05 ET", "side": "long", "team": "Spurs", "entry": 0.29, "qty": 0.8621, "mode": "main", "tp_order_id": "DYWAPFH015PA", "tp_target": 0.72}`
 - `{"market": "aec-nba-sac-gs-2026-11-25", "closed": "2026-11-26 00:05 ET", "pnl": -0.0764, "reason": "stop-loss"}`
-- `{"market": "aec-nhl-chi-sea-2026-11-25", "opened": "2026-11-26 00:00 ET", "side": "short", "team": "Kraken", "entry": 0.07, "qty": 1.4286, "mode": "bounce"}`
 
 ## Last run actions
-- `{"type": "take_profit", "market": "aec-wta-sofcos-varlep-2026-11-26", "pnl": 0.1812}`
+- `{"type": "buy", "game": "wta:Lepchenko@Costoulas", "market": "aec-wta-sofcos-varlep-2026-11-26", "side": "long", "team": "Sofia Costoulas", "ask": 0.4, "qty": 0.625, "stake": 0.25, "mode": "main"}`
 
 ## Order errors
 - _none_
