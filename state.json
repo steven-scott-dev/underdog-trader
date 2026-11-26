@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 15,
+ "bets": 16,
  "bounce_bets": 11,
- "realized": 3.6286,
+ "realized": 3.706,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -226,11 +226,34 @@
    "mode": "main",
    "tp_order_id": "DYTAGASG55P6",
    "tp_target": 0.98
+  },
+  {
+   "market": "aec-nba-cle-ny-2026-11-25",
+   "closed": "2026-11-25 21:50 ET",
+   "pnl": -0.07,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-min-okc-2026-11-25",
+   "closed": "2026-11-25 21:50 ET",
+   "pnl": 0.1474,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nba-min-okc-2026-11-25",
+   "opened": "2026-11-25 21:50 ET",
+   "side": "short",
+   "team": "Thunder",
+   "entry": 0.3,
+   "qty": 0.8333,
+   "mode": "main",
+   "tp_order_id": "DYTCTNE015P7",
+   "tp_target": 0.75
   }
  ],
  "settled_pending": {},
- "balance": 3.1188,
- "balance_updated": "2026-11-25 21:45 ET",
+ "balance": 3.1105,
+ "balance_updated": "2026-11-25 21:50 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -320,6 +343,10 @@
    [
     1795661135.8076892,
     0.39
+   ],
+   [
+    1795661440.2618887,
+    0.3
    ]
   ]
  },
@@ -331,6 +358,7 @@
   "aec-nba-mia-phi-2026-11-25": 1795654235.3252814,
   "aec-nhl-van-det-2026-11-25": 1795658144.1302404,
   "aec-nhl-nyr-buf-2026-11-25": 1795661434.5866046,
-  "aec-nhl-ott-fla-2026-11-25": 1795662934.4133265
+  "aec-nhl-ott-fla-2026-11-25": 1795662934.4133265,
+  "aec-nba-cle-ny-2026-11-25": 1795663239.1122665
  }
 }
