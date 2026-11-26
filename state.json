@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 22,
  "bounce_bets": 15,
- "realized": 5.2306,
+ "realized": 6.2306,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -331,11 +331,17 @@
    "entry": 0.1,
    "qty": 1.0,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-uta-min-2026-11-25",
+   "closed": "2026-11-25 22:55 ET",
+   "pnl": 1.0,
+   "reason": "settled"
   }
  ],
  "settled_pending": {},
- "balance": 3.4534,
- "balance_updated": "2026-11-25 22:50 ET",
+ "balance": 2.3434,
+ "balance_updated": "2026-11-25 22:55 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
