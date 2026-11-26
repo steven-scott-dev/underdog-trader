@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 00:40 ET · Mode: **LIVE** · Result: OK (1.3s)
+Updated: 2026-11-26 00:45 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 2 / 100 (main 1, bounce 1)
 - Realized P&L: +0.99
-- Account balance: $1.79 (as of 2026-11-26 00:40 ET)
+- Account balance: $1.79 (as of 2026-11-26 00:45 ET)
 
 ## Live positions
-- SA Spurs vs. POR Trail Blazers: 0.86 @ avg 0.3020
+- _none_
 
 ## Recent live history
 - `{"market": "aec-nba-sa-por-2026-11-25", "closed": "2026-11-26 00:35 ET", "pnl": -0.2511, "reason": "stop-loss"}`
