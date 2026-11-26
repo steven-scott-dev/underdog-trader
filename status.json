@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T22:45:40.421332-05:00",
+ "updated": "2026-11-25T22:50:50.715615-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.9,
+ "duration_s": 3.9,
  "daily": {
   "date": "2026-11-25",
   "bets": 22,
@@ -17,7 +17,7 @@
   "aec-nhl-sj-ana-2026-11-25": {
    "qty": 1.0,
    "avg_px": 0.11,
-   "cash_value": 0.09,
+   "cash_value": 0.08,
    "team_id": 1510,
    "outcome": "Sharks",
    "title": "SJS Sharks vs. ANA Ducks"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 3.4534,
- "balance_updated": "2026-11-25 22:45 ET"
+ "balance_updated": "2026-11-25 22:50 ET"
 }
