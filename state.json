@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 7,
- "bounce_bets": 6,
+ "bets": 8,
+ "bounce_bets": 7,
  "realized": 0.4136,
  "paper_positions": [],
  "paper_history": [],
@@ -106,11 +106,20 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nhl-van-det-2026-11-25",
+   "opened": "2026-11-25 20:21 ET",
+   "side": "long",
+   "team": "Canucks",
+   "entry": 0.1,
+   "qty": 1.0,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.8334,
- "balance_updated": "2026-11-25 20:16 ET",
+ "balance": 3.7234,
+ "balance_updated": "2026-11-25 20:21 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -152,6 +161,12 @@
    [
     1795655443.419087,
     0.08
+   ]
+  ],
+  "aec-nhl-van-det-2026-11-25": [
+   [
+    1795656059.9230194,
+    0.1
    ]
   ]
  },
