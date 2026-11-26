@@ -1,13 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 16:00 ET · Mode: **LIVE** · Result: OK (3.0s)
+Updated: 2026-11-26 16:05 ET · Mode: **LIVE** · Result: OK (3.8s)
 
 ## Today
 - Bets placed: 6 / 100 (main 4, bounce 2)
 - Realized P&L: +1.17
-- Account balance: $1.14 (as of 2026-11-26 16:00 ET)
+- Account balance: $1.14 (as of 2026-11-26 16:05 ET)
 
 ## Live positions
+- Irene Burillo Escorihuela vs. Laura Samson: 1.25 @ avg 0.0880
 - Sofia Costoulas vs. Varvara Lepchenko: 0.62 @ avg 0.4060
 
 ## Recent live history
@@ -21,7 +22,7 @@ Updated: 2026-11-26 16:00 ET · Mode: **LIVE** · Result: OK (3.0s)
 - `{"market": "aec-nba-sa-por-2026-11-25", "opened": "2026-11-26 00:05 ET", "side": "long", "team": "Spurs", "entry": 0.29, "qty": 0.8621, "mode": "main", "tp_order_id": "DYWAPFH015PA", "tp_target": 0.72}`
 
 ## Last run actions
-- `{"type": "buy", "game": "wta:Samson@Burillo", "market": "aec-wta-ireesc-lausam-2026-11-26", "side": "long", "team": "Irene Burillo Escorihuela", "ask": 0.08, "qty": 1.25, "stake": 0.1, "mode": "bounce"}`
+- _none_
 
 ## Order errors
 - _none_
