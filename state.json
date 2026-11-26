@@ -1,8 +1,8 @@
 {
  "date": "2026-11-25",
- "bets": 12,
+ "bets": 13,
  "bounce_bets": 10,
- "realized": 0.2461,
+ "realized": 1.1361,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -165,11 +165,28 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-chi-cha-2026-11-25",
+   "closed": "2026-11-25 21:30 ET",
+   "pnl": 0.89,
+   "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-stl-nyi-2026-11-25",
+   "opened": "2026-11-25 21:31 ET",
+   "side": "short",
+   "team": "Islanders",
+   "entry": 0.27,
+   "qty": 0.9259,
+   "mode": "main",
+   "tp_order_id": "DYT3W2AG35P4",
+   "tp_target": 0.68
   }
  ],
  "settled_pending": {},
- "balance": 6.7158,
- "balance_updated": "2026-11-25 21:25 ET",
+ "balance": 6.4142,
+ "balance_updated": "2026-11-25 21:31 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -241,6 +258,12 @@
    [
     1795659956.1628242,
     0.07
+   ]
+  ],
+  "aec-nhl-stl-nyi-2026-11-25": [
+   [
+    1795660264.6556897,
+    0.27
    ]
   ]
  },
