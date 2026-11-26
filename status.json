@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T20:05:50.644066-05:00",
+ "updated": "2026-11-25T20:11:07.244410-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 15.3,
+ "duration_s": 26.2,
  "daily": {
   "date": "2026-11-25",
-  "bets": 6,
-  "bounce_bets": 5,
+  "bets": 7,
+  "bounce_bets": 6,
   "max_total": 100,
   "max_open": 5,
   "realized": 0.4136
@@ -14,8 +14,20 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {},
- "actions": [],
+ "actions": [
+  {
+   "type": "buy",
+   "game": "nhl:NYR@BUF",
+   "market": "aec-nhl-nyr-buf-2026-11-25",
+   "side": "long",
+   "team": "Rangers",
+   "ask": 0.08,
+   "qty": 1.25,
+   "stake": 0.1,
+   "mode": "bounce"
+  }
+ ],
  "errors": [],
- "balance": 3.9434,
- "balance_updated": "2026-11-25 20:05 ET"
+ "balance": 3.8334,
+ "balance_updated": "2026-11-25 20:11 ET"
 }

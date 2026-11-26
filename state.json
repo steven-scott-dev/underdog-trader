@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 6,
- "bounce_bets": 5,
+ "bets": 7,
+ "bounce_bets": 6,
  "realized": 0.4136,
  "paper_positions": [],
  "paper_history": [],
@@ -97,11 +97,20 @@
    "closed": "2026-11-25 19:20 ET",
    "pnl": -0.0625,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nhl-nyr-buf-2026-11-25",
+   "opened": "2026-11-25 20:10 ET",
+   "side": "long",
+   "team": "Rangers",
+   "entry": 0.08,
+   "qty": 1.25,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 3.9434,
- "balance_updated": "2026-11-25 20:05 ET",
+ "balance": 3.8334,
+ "balance_updated": "2026-11-25 20:11 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -136,6 +145,12 @@
   "aec-nba-mia-phi-2026-11-25": [
    [
     1795651544.270286,
+    0.08
+   ]
+  ],
+  "aec-nhl-nyr-buf-2026-11-25": [
+   [
+    1795655443.419087,
     0.08
    ]
   ]
