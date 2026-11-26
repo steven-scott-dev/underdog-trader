@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-26T16:30:36.069872-05:00",
+ "updated": "2026-11-26T16:35:41.812840-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.8,
+ "duration_s": 2.2,
  "daily": {
   "date": "2026-11-26",
   "bets": 6,
   "bounce_bets": 2,
   "max_total": 100,
   "max_open": 5,
-  "realized": 1.168
+  "realized": 0.85
  },
  "paper_positions": [],
  "paper_history": [],
@@ -17,7 +17,7 @@
   "aec-wta-ireesc-lausam-2026-11-26": {
    "qty": 1.25,
    "avg_px": 0.088,
-   "cash_value": 0.0625,
+   "cash_value": 0.0375,
    "team_id": 4609,
    "outcome": "Irene Burillo Escorihuela",
    "title": "Irene Burillo Escorihuela vs. Laura Samson"
@@ -25,14 +25,25 @@
   "aec-wta-sofcos-varlep-2026-11-26": {
    "qty": 0.62,
    "avg_px": 0.406,
-   "cash_value": 0.1302,
+   "cash_value": 0.0062,
    "team_id": 4662,
    "outcome": "Sofia Costoulas",
    "title": "Sofia Costoulas vs. Varvara Lepchenko"
   }
  },
- "actions": [],
+ "actions": [
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-ireesc-lausam-2026-11-26",
+   "pnl": -0.0725
+  },
+  {
+   "type": "stop_loss",
+   "market": "aec-wta-sofcos-varlep-2026-11-26",
+   "pnl": -0.2455
+  }
+ ],
  "errors": [],
- "balance": 1.1418,
- "balance_updated": "2026-11-26 16:30 ET"
+ "balance": 1.1593,
+ "balance_updated": "2026-11-26 16:35 ET"
 }
