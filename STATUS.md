@@ -1,11 +1,11 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 22:05 ET · Mode: **LIVE** · Result: OK (3.1s)
+Updated: 2026-11-25 22:10 ET · Mode: **LIVE** · Result: OK (14.4s)
 
 ## Today
 - Bets placed: 18 / 100 (main 6, bounce 12)
 - Realized P&L: +4.05
-- Account balance: $4.82 (as of 2026-11-25 22:05 ET)
+- Account balance: $3.74 (as of 2026-11-25 22:10 ET)
 
 ## Live positions
 - _none_
