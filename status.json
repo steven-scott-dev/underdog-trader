@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T00:05:51.604720-05:00",
+ "updated": "2026-11-26T00:10:37.912257-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 4.0,
+ "duration_s": 1.7,
  "daily": {
   "date": "2026-11-26",
   "bets": 2,
@@ -14,34 +14,17 @@
  "paper_positions": [],
  "paper_history": [],
  "live_positions": {
-  "aec-nba-sac-gs-2026-11-25": {
-   "qty": 1.66,
-   "avg_px": 0.066,
-   "cash_value": 0.0332,
-   "team_id": 32,
-   "outcome": "Kings",
-   "title": "SAC Kings vs. GS Warriors"
+  "aec-nba-sa-por-2026-11-25": {
+   "qty": 0.86,
+   "avg_px": 0.302,
+   "cash_value": 0.2752,
+   "team_id": 33,
+   "outcome": "Spurs",
+   "title": "SA Spurs vs. POR Trail Blazers"
   }
  },
- "actions": [
-  {
-   "type": "stop_loss",
-   "market": "aec-nba-sac-gs-2026-11-25",
-   "pnl": -0.0764
-  },
-  {
-   "type": "buy",
-   "game": "nba:SA@POR",
-   "market": "aec-nba-sa-por-2026-11-25",
-   "side": "long",
-   "team": "Spurs",
-   "ask": 0.29,
-   "qty": 0.8621,
-   "stake": 0.25,
-   "mode": "main"
-  }
- ],
+ "actions": [],
  "errors": [],
  "balance": 3.2097,
- "balance_updated": "2026-11-26 00:05 ET"
+ "balance_updated": "2026-11-26 00:10 ET"
 }
