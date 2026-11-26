@@ -1,8 +1,8 @@
 {
  "date": "2026-11-26",
- "bets": 1,
+ "bets": 2,
  "bounce_bets": 1,
- "realized": 0.0,
+ "realized": -0.0764,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -14,6 +14,23 @@
    "entry": 0.07,
    "qty": 1.4286,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-sac-gs-2026-11-25",
+   "closed": "2026-11-26 00:05 ET",
+   "pnl": -0.0764,
+   "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nba-sa-por-2026-11-25",
+   "opened": "2026-11-26 00:05 ET",
+   "side": "long",
+   "team": "Spurs",
+   "entry": 0.29,
+   "qty": 0.8621,
+   "mode": "main",
+   "tp_order_id": "DYWAPFH015PA",
+   "tp_target": 0.72
   }
  ],
  "settled_pending": {},
@@ -23,8 +40,17 @@
     1795669239.6036146,
     0.07
    ]
+  ],
+  "aec-nba-sa-por-2026-11-25": [
+   [
+    1795669549.6082597,
+    0.29
+   ]
   ]
  },
- "balance": 3.4525,
- "balance_updated": "2026-11-26 00:00 ET"
+ "balance": 3.2097,
+ "balance_updated": "2026-11-26 00:05 ET",
+ "cooldowns": {
+  "aec-nba-sac-gs-2026-11-25": 1795671348.3937287
+ }
 }
