@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "bets": 22,
- "bounce_bets": 15,
+ "bets": 23,
+ "bounce_bets": 16,
  "realized": 6.2306,
  "paper_positions": [],
  "paper_history": [],
@@ -337,11 +337,20 @@
    "closed": "2026-11-25 22:55 ET",
    "pnl": 1.0,
    "reason": "settled"
+  },
+  {
+   "market": "aec-nhl-mon-col-2026-11-25",
+   "opened": "2026-11-25 23:05 ET",
+   "side": "long",
+   "team": "Canadiens",
+   "entry": 0.09,
+   "qty": 1.1111,
+   "mode": "bounce"
   }
  ],
  "settled_pending": {},
- "balance": 2.3434,
- "balance_updated": "2026-11-25 23:00 ET",
+ "balance": 2.2335,
+ "balance_updated": "2026-11-25 23:05 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -469,6 +478,12 @@
    [
     1795664439.6450758,
     0.1
+   ]
+  ],
+  "aec-nhl-mon-col-2026-11-25": [
+   [
+    1795665938.369208,
+    0.09
    ]
   ]
  },
