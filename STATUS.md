@@ -1,14 +1,13 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-25 23:10 ET · Mode: **LIVE** · Result: OK (2.9s)
+Updated: 2026-11-25 23:15 ET · Mode: **LIVE** · Result: OK (1.3s)
 
 ## Today
 - Bets placed: 23 / 100 (main 7, bounce 16)
 - Realized P&L: +6.15
-- Account balance: $2.26 (as of 2026-11-25 23:10 ET)
+- Account balance: $2.26 (as of 2026-11-25 23:15 ET)
 
 ## Live positions
-- MTL Canadiens vs. COL Avalanche: 1.11 @ avg 0.0990
 - SJS Sharks vs. ANA Ducks: 1.0 @ avg 0.1100
 
 ## Recent live history
@@ -22,7 +21,7 @@ Updated: 2026-11-25 23:10 ET · Mode: **LIVE** · Result: OK (2.9s)
 - `{"market": "aec-nba-bkn-mil-2026-11-25", "closed": "2026-11-25 22:25 ET", "pnl": 0.89, "reason": "settled"}`
 
 ## Last run actions
-- `{"type": "stop_loss", "market": "aec-nhl-mon-col-2026-11-25", "pnl": -0.0766}`
+- _none_
 
 ## Order errors
 - _none_
