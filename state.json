@@ -2,7 +2,7 @@
  "date": "2026-11-25",
  "bets": 6,
  "bounce_bets": 5,
- "realized": 0.4761,
+ "realized": 0.4136,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -91,11 +91,17 @@
    "entry": 0.08,
    "qty": 1.25,
    "mode": "bounce"
+  },
+  {
+   "market": "aec-nba-mia-phi-2026-11-25",
+   "closed": "2026-11-25 19:20 ET",
+   "pnl": -0.0625,
+   "reason": "stop-loss"
   }
  ],
  "settled_pending": {},
- "balance": 3.9184,
- "balance_updated": "2026-11-25 19:16 ET",
+ "balance": 3.9434,
+ "balance_updated": "2026-11-25 19:20 ET",
  "px_hist": {
   "aec-nba-dal-den-2026-11-24": [
    [
@@ -138,6 +144,7 @@
   "aec-wta-solgui-marcar-2026-11-23": 1795633835.0126176,
   "aec-wta-martre-vererj-2026-11-25": 1795634444.9779265,
   "aec-wta-ipeoz-julrie-2026-11-25": 1795644335.6002522,
-  "aec-wta-solsie-carmon-2026-11-25": 1795651840.741211
+  "aec-wta-solsie-carmon-2026-11-25": 1795651840.741211,
+  "aec-nba-mia-phi-2026-11-25": 1795654235.3252814
  }
 }
