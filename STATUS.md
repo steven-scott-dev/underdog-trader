@@ -1,14 +1,14 @@
 # Underdog Trader — Status
 
-Updated: 2026-11-26 23:00 ET · Mode: **LIVE** · Result: OK (2.4s)
+Updated: 2026-11-26 23:05 ET · Mode: **LIVE** · Result: OK (1.4s)
 
 ## Today
 - Bets placed: 8 / 100 (main 6, bounce 2)
 - Realized P&L: +1.05
-- Account balance: $0.88 (as of 2026-11-26 23:00 ET)
+- Account balance: $0.88 (as of 2026-11-26 23:05 ET)
 
 ## Live positions
-- _none_
+- KC Chiefs vs. BUF Bills: 0.7 @ avg 0.3690
 
 ## Recent live history
 - `{"market": "aec-nfl-kc-buf-2026-11-26", "opened": "2026-11-26 23:00 ET", "side": "long", "team": "Chiefs", "entry": 0.355, "qty": 0.7042, "mode": "main", "tp_order_id": "DZG00YHG15PA", "tp_target": 0.89}`
@@ -21,8 +21,7 @@ Updated: 2026-11-26 23:00 ET · Mode: **LIVE** · Result: OK (2.4s)
 - `{"market": "aec-wta-sofcos-varlep-2026-11-26", "closed": "2026-11-26 15:25 ET", "pnl": 0.1812, "reason": "take-profit"}`
 
 ## Last run actions
-- `{"type": "take_profit", "market": "aec-nfl-kc-buf-2026-11-26", "pnl": 0.1968}`
-- `{"type": "buy", "game": "nfl:KC@BUF", "market": "aec-nfl-kc-buf-2026-11-26", "side": "long", "team": "Chiefs", "ask": 0.355, "qty": 0.7042, "stake": 0.25, "mode": "main"}`
+- _none_
 
 ## Order errors
 - _none_

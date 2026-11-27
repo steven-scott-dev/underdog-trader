@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T23:00:38.090134-05:00",
+ "updated": "2026-11-26T23:05:41.663936-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.4,
+ "duration_s": 1.4,
  "daily": {
   "date": "2026-11-26",
   "bets": 8,
@@ -13,26 +13,18 @@
  },
  "paper_positions": [],
  "paper_history": [],
- "live_positions": {},
- "actions": [
-  {
-   "type": "take_profit",
-   "market": "aec-nfl-kc-buf-2026-11-26",
-   "pnl": 0.1968
-  },
-  {
-   "type": "buy",
-   "game": "nfl:KC@BUF",
-   "market": "aec-nfl-kc-buf-2026-11-26",
-   "side": "long",
-   "team": "Chiefs",
-   "ask": 0.355,
-   "qty": 0.7042,
-   "stake": 0.25,
-   "mode": "main"
+ "live_positions": {
+  "aec-nfl-kc-buf-2026-11-26": {
+   "qty": 0.7,
+   "avg_px": 0.369,
+   "cash_value": 0.2862,
+   "team_id": 63,
+   "outcome": "Chiefs",
+   "title": "KC Chiefs vs. BUF Bills"
   }
- ],
+ },
+ "actions": [],
  "errors": [],
  "balance": 0.879,
- "balance_updated": "2026-11-26 23:00 ET"
+ "balance_updated": "2026-11-26 23:05 ET"
 }
