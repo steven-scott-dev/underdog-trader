@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-26T23:20:37.897201-05:00",
+ "updated": "2026-11-26T23:25:38.042325-05:00",
  "mode": "live",
  "ok": true,
- "duration_s": 2.3,
+ "duration_s": 1.2,
  "daily": {
   "date": "2026-11-26",
   "bets": 8,
@@ -17,7 +17,7 @@
   "aec-nfl-kc-buf-2026-11-26": {
    "qty": 0.7,
    "avg_px": 0.369,
-   "cash_value": 0.3298,
+   "cash_value": 0.1592,
    "team_id": 63,
    "outcome": "Chiefs",
    "title": "KC Chiefs vs. BUF Bills"
@@ -26,5 +26,5 @@
  "actions": [],
  "errors": [],
  "balance": 0.879,
- "balance_updated": "2026-11-26 23:20 ET"
+ "balance_updated": "2026-11-26 23:25 ET"
 }
