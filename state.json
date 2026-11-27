@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "bets": 6,
+ "bets": 7,
  "bounce_bets": 2,
  "realized": 0.85,
  "paper_positions": [],
@@ -103,6 +103,17 @@
    "closed": "2026-11-26 16:35 ET",
    "pnl": -0.2455,
    "reason": "stop-loss"
+  },
+  {
+   "market": "aec-nfl-kc-buf-2026-11-26",
+   "opened": "2026-11-26 22:55 ET",
+   "side": "short",
+   "team": "Bills",
+   "entry": 0.3525,
+   "qty": 0.7092,
+   "mode": "main",
+   "tp_order_id": "DZFXRJR035P8",
+   "tp_target": 0.88
   }
  ],
  "settled_pending": {
@@ -142,10 +153,16 @@
     1795726838.756889,
     0.08
    ]
+  ],
+  "aec-nfl-kc-buf-2026-11-26": [
+   [
+    1795751740.5319226,
+    0.3525
+   ]
   ]
  },
- "balance": 1.1593,
- "balance_updated": "2026-11-26 22:50 ET",
+ "balance": 1.1375,
+ "balance_updated": "2026-11-26 22:55 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008,
