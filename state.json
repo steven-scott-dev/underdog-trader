@@ -133,7 +133,9 @@
    "tp_target": 0.89
   }
  ],
- "settled_pending": {},
+ "settled_pending": {
+  "aec-wta-guimar-nurbra-2026-11-25": 1795753836.5992007
+ },
  "px_hist": {
   "aec-nhl-chi-sea-2026-11-25": [
    [
@@ -181,7 +183,7 @@
   ]
  },
  "balance": 0.879,
- "balance_updated": "2026-11-26 23:25 ET",
+ "balance_updated": "2026-11-26 23:30 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008,
