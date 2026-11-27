@@ -1,8 +1,8 @@
 {
  "date": "2026-11-26",
- "bets": 7,
+ "bets": 8,
  "bounce_bets": 2,
- "realized": 0.85,
+ "realized": 1.0468,
  "paper_positions": [],
  "paper_history": [],
  "live_history": [
@@ -114,6 +114,23 @@
    "mode": "main",
    "tp_order_id": "DZFXRJR035P8",
    "tp_target": 0.88
+  },
+  {
+   "market": "aec-nfl-kc-buf-2026-11-26",
+   "closed": "2026-11-26 23:00 ET",
+   "pnl": 0.1968,
+   "reason": "take-profit"
+  },
+  {
+   "market": "aec-nfl-kc-buf-2026-11-26",
+   "opened": "2026-11-26 23:00 ET",
+   "side": "long",
+   "team": "Chiefs",
+   "entry": 0.355,
+   "qty": 0.7042,
+   "mode": "main",
+   "tp_order_id": "DZG00YHG15PA",
+   "tp_target": 0.89
   }
  ],
  "settled_pending": {
@@ -158,11 +175,15 @@
    [
     1795751740.5319226,
     0.3525
+   ],
+   [
+    1795752036.8901727,
+    0.355
    ]
   ]
  },
- "balance": 1.1375,
- "balance_updated": "2026-11-26 22:55 ET",
+ "balance": 0.879,
+ "balance_updated": "2026-11-26 23:00 ET",
  "cooldowns": {
   "aec-nba-sac-gs-2026-11-25": 1795671348.3937287,
   "aec-nba-sa-por-2026-11-25": 1795673134.8259008,
